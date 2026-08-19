@@ -56,10 +56,10 @@ today's date, like `see news/2026-08-20.md`.
 ## macOS certificate error?
 
 If you see `SSL: CERTIFICATE_VERIFY_FAILED`, your Python install doesn't trust
-any certificates yet. Fix it in two commands:
+any certificates yet (common with the python.org installer on macOS).
+`certifi` is already in `requirements.txt` - just point Python at it:
 
 ```bash
-uv pip install certifi
 export SSL_CERT_FILE="$(python -c 'import certifi; print(certifi.where())')"
 ```
 

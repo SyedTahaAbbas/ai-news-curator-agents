@@ -1,189 +1,187 @@
 # AI News Update - Wednesday, 19 August 2026
 
-*35 stories from the last 48 hours. Generated 2026-08-19 22:23 UTC.*
-
-## Labs & Releases
-
-### [Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
-`OpenAI` · 19 Aug 18:00 UTC · score 7.052
-
-OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.
-
-### [5 new ways to level up your learning with Search](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/)
-`Google AI` · 19 Aug 18:00 UTC · score 6.052
-
-an illustrated image with icons and phrasing like "Add Notebook" and "Ask Google"
-
-### [Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)
-`OpenAI` · 18 Aug 10:00 UTC · score 4.6
-
-OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.
-
-### [Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)
-`OpenAI` · 18 Aug 10:00 UTC · score 4.6
-
-OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.
-
-### [Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens)
-`OpenAI` · 18 Aug 10:00 UTC · score 4.6
-
-ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.
-
-### [How NVIDIA scales expertise with ChatGPT Work](https://openai.com/index/nvidia/chatgpt-work)
-`OpenAI` · 17 Aug 23:00 UTC · score 4.6
-
-NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.
-
-### [ChatGPT Ads expands across Europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
-`OpenAI` · 18 Aug 21:00 UTC · score 4.3
-
-ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.
-
-### [Asana cleared 5 years of engineering work in 2 weeks with Codex](https://openai.com/index/asana)
-`OpenAI` · 18 Aug 06:00 UTC · score 4.3
-
-Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.
+*35 stories from the last 48 hours. Generated 2026-08-19 22:28 UTC.*
 
 ## Industry & Press
 
-### [Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)
-`TechCrunch AI` · 19 Aug 18:00 UTC · score 6.952
+### [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)
+`The Verge AI` · 18 Aug 18:28 UTC · score 3.7
 
-The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.
+OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have "critical" cybersecurity capabilities, and the […]
 
-### [Cognition CEO denies report that SpaceX tried to acquire the startup](https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/)
-`TechCrunch AI` · 19 Aug 20:51 UTC · score 6.709
+### [Google’s Pet Memory forgot who my cats are](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review)
+`The Verge AI` · 18 Aug 11:01 UTC · score 3.7
 
-SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.
+One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, […]
 
-### [OpenAI seeks to one-up Anthropic with new customer privacy protections](https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/)
-`TechCrunch AI` · 19 Aug 21:10 UTC · score 6.449
+### [OpenAI institutes new safeguards after Hugging Face breach](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/)
+`TechCrunch AI` · 18 Aug 17:00 UTC · score 3.6
 
-A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.
-
-### [AI was supposed to win people over by now — it hasn’t](https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/)
-`TechCrunch AI` · 19 Aug 18:11 UTC · score 5.776
-
-As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.
-
-### [Researchers say OpenAI revoked their access to limited cyber program](https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/)
-`TechCrunch AI` · 19 Aug 17:46 UTC · score 5.723
-
-The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.
-
-### [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
-`The Verge AI` · 19 Aug 18:00 UTC · score 5.552
-
-As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates […]
-
-### [Flight attendants freaked out that Google is buying tons of Spirit employee data](https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/)
-`Ars Technica AI` · 19 Aug 19:04 UTC · score 5.387
-
-Bankrupt Spirit accused of selling out workers in massive data sale to Google.
-
-### [I Saw the Future of AI in a Robot That Can Learn on the Spot](https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/)
-`Wired AI` · 19 Aug 18:30 UTC · score 5.215
-
-During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.
-
-### [OpenAI launches a safer ChatGPT for teens — years after teens started using it](https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/)
-`TechCrunch AI` · 18 Aug 12:50 UTC · score 4.5
-
-ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.
-
-### [ChatGPT is getting a dedicated mode for teens](https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode)
-`The Verge AI` · 18 Aug 10:00 UTC · score 4.3
-
-OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is "an experience designed to help teens […]
-
-### [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
-`Wired AI` · 19 Aug 08:00 UTC · score 3.902
-
-Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.
-
-### [Cursor capitalizes on GitHub frustration, launches rival hosting platform](https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/)
-`TechCrunch AI` · 18 Aug 21:14 UTC · score 3.9
-
-Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.
+The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.
 
 ## Research
 
-### [A Multimodal Agentic Pathology Co-pilot via Evidence Grounded Reasoning](https://arxiv.org/abs/2606.08093)
-`arXiv cs.AI` · 19 Aug 03:00 UTC · score 4.177
+### [LiveHouse-TS: An Open-world Living Benchmark for Time Series Foundation Models](https://arxiv.org/abs/2608.17299)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2606.08093v2 Announce Type: replace Abstract: Pathology is the cornerstone of modern medicine, where accurate decision-making relies heavily on evidence-based practices. While artificial intelligence (AI) has the potential to transform clinical workflows, the intersection of AI and evidence-based medicine remains under-explored, with primitive attempts restricted to text-only general…
+arXiv:2608.17299v1 Announce Type: new Abstract: Time Series Foundation Models (TSFMs) have recently emerged as a highly promising paradigm for cross-domain zero-shot forecasting. However, existing evaluation protocols predominantly rely on static benchmarks with fixed historical test windows. While these benchmarks provide a valuable baseline snapshot, they evaluate an average performance on a…
 
-### [FVSpec: Real-World Property-Based Tests as Lean Challenges](https://arxiv.org/abs/2606.01008)
-`arXiv cs.AI` · 19 Aug 03:00 UTC · score 4.177
+### [LLM-Only PDDL Domain Repair with Open-Weight Models](https://arxiv.org/abs/2608.17341)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2606.01008v2 Announce Type: replace-cross Abstract: We present a benchmark for evaluating AI models and agents on real-world formal software verification tasks. We first scrape 11,039 property-based tests (PBTs) from real-world Python repositories, then automatically translate 2,772 of them (25%) into 9,415 Lean 4 specifications with sorry placeholders (about 3 formalizations/PBT; we retain…
+arXiv:2608.17341v1 Announce Type: new Abstract: AI planning is concerned with finding a sequence of actions that achieves a specified goal. It relies on explicit models of the world, commonly represented in the Planning Domain Definition Language (PDDL). An active line of research investigates how errors in such models can be detected and repaired. For example, users may provide positive test…
 
-### [Deep Learning for Cross-Border Electricity Price Forecasting: A Comparative Study](https://arxiv.org/abs/2608.17091)
-`arXiv cs.LG` · 19 Aug 03:00 UTC · score 4.177
+### [Evaluating the Diversity of AI-Generated Content with Diversity Profiles](https://arxiv.org/abs/2608.17731)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.17091v1 Announce Type: new Abstract: While publicly available electricity market data presents a valuable resource for forecasting research, the field lacks established benchmark datasets for standardized comparison. As a result, many studies have relied on different datasets and metrics to evaluate methods in isolated settings, making it difficult to assess progress and compare…
+arXiv:2608.17731v1 Announce Type: new Abstract: Diversity is a fundamental criterion for evaluating generative artificial intelligence (AI) systems, yet its measurement remains inherently ambiguous. Existing approaches typically represent generated samples in an embedding space, compute pairwise distances or similarities, and aggregate them into a single scalar score. Such scalar summaries are…
 
-### [Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://arxiv.org/abs/2608.17310)
-`arXiv cs.LG` · 19 Aug 03:00 UTC · score 4.177
+### [Towards Zero-Shot Task Transfer with Neurosymbolic World Models](https://arxiv.org/abs/2608.17959)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.17310v1 Announce Type: new Abstract: Reinforcement Learning (RL) has been promising in single-turn LLM fine-tuning. However, long-horizon agentic reasoning introduces increasingly branching interactions and sparse rewards, exposing several limitations of RL: its heavyweight backpropagation-based training stack makes it impractical to fine-tune larger LLMs, and longer-horizon…
+arXiv:2608.17959v1 Announce Type: new Abstract: State-of-the-art model-based reinforcement learning methods learn neural world models that allow policy improvement by planning in a latent space, without assumptions on the structure of the underlying environment. While expressive, these models are generally task-dependent: they learn uninterpretable latent representations that are tied to the…
 
-### [Evaluating RL Explainability Methods by How Much They Help Fix Bugs in Agents](https://arxiv.org/abs/2608.17524)
-`arXiv cs.LG` · 19 Aug 03:00 UTC · score 4.177
+### [QuantumNovelty: A Skill-Orchestrating Language Agent for Referee-Style Review and Patentability Screening of Quantum Papers and Patents](https://arxiv.org/abs/2608.16900)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.17524v1 Announce Type: new Abstract: This preliminary paper outlines a planned evaluation benchmark for Explainable Reinforcement Learning (XRL) methods. Current evaluations rely on functionally-grounded metrics like faithfulness and compactness, and on human-grounded proxies like subjective ratings or prediction accuracy. We suggest evaluating XRL methods by how effectively their…
+arXiv:2608.16900v1 Announce Type: cross Abstract: Language-model agents increasingly produce quantum-science results; we ask whether the same agentic paradigm can also scrutinize them in an auditable, reproducible, and cost-transparent form. We present QuantumNovelty, an open-source skill-orchestrating language agent that both generates quantum-computing artifacts (papers, Pareto-front ansatz…
 
-### [Temporal Leakage in Financial News NLP: A Multi-Architecture Audit with a Regime-Specific M&A Signal](https://arxiv.org/abs/2608.17223)
-`arXiv cs.LG` · 19 Aug 03:00 UTC · score 4.177
+### [When Personalization Becomes Bias: Structural and Discursive Religious Framing in AI-Generated Financial Advice](https://arxiv.org/abs/2608.16909)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.17223v1 Announce Type: cross Abstract: Financial-news direction prediction has become a popular NLP benchmark, yet reported gains depend critically on whether the train-test split is chronological or random, i.e., on temporal leakage. We audit this dependence on a 49,799-article corpus across 16 feature-model combinations spanning TF-IDF, MiniLM, FinBERT, and fine-tuned RoBERTa-large /…
+arXiv:2608.16909v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly integrated into financial advisory systems, yet their role in reproducing religious bias remains underexamined. This study provides systematic mixed-methods evidence of such bias across three LLMs (ChatGPT, Gemini, and Grok) using 432 simulated advisor-client interactions spanning 16 religious identity…
 
-### [Belayer: Efficient Fault Tolerance for LLM Agentic RL Training](https://arxiv.org/abs/2608.14635)
-`arXiv cs.LG` · 19 Aug 03:00 UTC · score 4.177
+### [Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media](https://arxiv.org/abs/2608.17017)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.14635v2 Announce Type: replace-cross Abstract: Large language model (LLM) agents are increasingly trained with reinforcement learning in long-horizon, sandboxed environments. Unlike conventional RL, agentic RL couples GPU-intensive rollout engines with stateful environment containers whose actions may produce visible side effects, such as file edits, command execution, and dependency…
+arXiv:2608.17017v1 Announce Type: cross Abstract: The implementation of artificial intelligence techniques and tools in the media will systematically and continuously alter their work and that of their professionals during the coming decades. To this end, this article carries out a systematic review of the research conducted on the implementation of AI in the media over the last two decades,…
 
-### [Effects of Answer Format Variation on Gender Bias in Large Language Models](https://arxiv.org/abs/2608.17516)
-`arXiv cs.CL` · 19 Aug 03:00 UTC · score 4.177
+### [Beyond MSE: Rethinking the Evaluation Metric and Benchmarking for Irregular Time Series Forecasting](https://arxiv.org/abs/2608.17293)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.17516v1 Announce Type: new Abstract: Gender bias or other social biases in large language models (LLMs) are frequently evaluated with question answering or survey benchmarks where the LLM needs to give a response in a predefined answer format. It is well known in survey science that the answer format has a substantial impact on answers, just as LLMs are sensitive to the prompt wording.…
+arXiv:2608.17293v1 Announce Type: cross Abstract: Existing research on irregular time-series forecasting has primarily focused on model design, while evaluation metrics remain insufficiently studied. Existing benchmarks typically use mean squared error (MSE) as the evaluation metric. We show that, in irregular forecasting, MSE is determined not only by the model prediction but also by the…
 
-### [When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era](https://arxiv.org/abs/2608.17979)
-`arXiv cs.CL` · 19 Aug 03:00 UTC · score 4.177
+### [PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX](https://arxiv.org/abs/2608.17379)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.17979v1 Announce Type: new Abstract: Authorship verification (AV) assumes that an author's writing style remains sufficiently stable to distinguish it from that of other writers. In practice, however, this assumption is challenged by distribution shifts caused by changes in genre, time, and AI-assisted writing. Existing AV benchmarks typically study these factors in isolation and focus…
+arXiv:2608.17379v1 Announce Type: cross Abstract: We introduce PTXBench, a benchmark for evaluating and adapting large language models (LLMs) to use architecture-specific PTX for GPU kernel optimization. PTXBench measures functional correctness, whether selected target instructions execute at runtime, and speedup over frontier libraries across GEMM and attention workloads on H100 and B200 GPUs.…
 
-### [The Emergence of Lab-Driven Alignment Signatures: A Psychometric Framework for Auditing Latent Bias and Compounding Risk in Generative AI](https://arxiv.org/abs/2602.17127)
-`arXiv cs.CL` · 19 Aug 03:00 UTC · score 4.177
+### [SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation](https://arxiv.org/abs/2608.17426)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2602.17127v2 Announce Type: replace Abstract: Large language models increasingly serve as reasoning layers in multi-agent systems, where one provider's models may generate, judge, and summarize within a single pipeline. This raises the question of whether developer organizations impart durable behavioral tendencies that could compound across such stacks. We apply a scenario-based…
+arXiv:2608.17426v1 Announce Type: cross Abstract: We introduce Semantic Task Completion Video Generation, an outcome-oriented video generation task. Under this formulation, success requires both achievement of the intended outcome and semantic grounding. Semantic grounding characterizes the correspondence between the reference image and the generated outcome in terms of high-level semantics…
 
-### [DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding](https://arxiv.org/abs/2607.08642)
-`arXiv cs.CL` · 19 Aug 03:00 UTC · score 4.177
+### [Domain-Adapted Molecular Language Models for Efficient Search of Make-on-Demand Libraries](https://arxiv.org/abs/2608.17567)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2607.08642v3 Announce Type: replace Abstract: Speculative decoding accelerates LLM inference by drafting tokens and verifying them in parallel. Block-diffusion drafters such as DFlash model only per-position marginals, and tree methods such as DDTree expand candidate trees from those marginals. The released Domino drafter adds a GRU-based causal correction making each draft token's…
+arXiv:2608.17567v1 Announce Type: cross Abstract: Pretrained molecular language models are increasingly used as molecular encoders for learning structure-property relationships. However, their practical suitability for molecular discovery within and beyond their pretraining domain remains unclear. Herein, we systematically benchmark four molecular language models across six virtual molecular…
 
-### [LexKairos: Benchmarking Legal Temporal Capabilities in LLMs](https://arxiv.org/abs/2608.09106)
-`arXiv cs.CL` · 19 Aug 03:00 UTC · score 4.177
+### [tinyDSM: A Framework for Skill Modeling and Development for Resource-Constrained Millirobots](https://arxiv.org/abs/2608.17596)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.09106v2 Announce Type: replace Abstract: Large language models (LLMs) have demonstrated strong performance across a wide range of legal tasks. In legal practice, time is a critical concept that governs the validity of statutes, the progression of legal cases, and the enforcement of procedural deadlines. However, legal temporal capabilities remain underexplored in existing legal AI…
+arXiv:2608.17596v1 Announce Type: cross Abstract: In this study, we investigate developmental mechanisms that enable small, resource-constrained systems such as cm-sized millirobots to autonomously explore, learn, and adapt their capabilities throughout their lifespan. Reinforcement learning algorithms guide the agent's skill acquisition and adaptation through the interplay of our proposed…
 
-### [Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models](https://arxiv.org/abs/2608.17202)
-`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.877
+### [HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety](https://arxiv.org/abs/2608.17597)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
 
-arXiv:2608.17202v1 Announce Type: new Abstract: Safety alignment in open-weight language models is trivially removable: abliteration projects a refusal-mediating direction out of the weights in minutes, and no release-time defense we are aware of prevents it durably. What cannot be prevented can be deceived. Our defense, decoy hardening ("Fool's Gold"), concedes the refusal strip and poisons its…
+arXiv:2608.17597v1 Announce Type: cross Abstract: Large language models are increasingly deployed through agent harnesses that manage tools, extensions, persistent state, permissions, and external actions. Existing safety benchmarks mainly target individual attack mechanisms or a limited subset of operational settings, making it difficult to compare how safety failures emerge across different…
+
+### [Benchmarking Automated Security Patch Backporting: How Far Are We?](https://arxiv.org/abs/2608.17671)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.17671v1 Announce Type: cross Abstract: Automated security patch backporting is critical for mitigating N-day vulnerabilities. Recent tools report success rates above 80% on their respective datasets. However, these evaluations are often confined to homogeneous environments, such as one repository or specific project versions. Consequently, it remains unclear how well these tools…
+
+### [HA-VLN 2.0: An Open Benchmark and Leaderboard for Human-Aware Navigation in Discrete and Continuous Environments with Dynamic Multi-Human Interactions](https://arxiv.org/abs/2503.14229)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2503.14229v5 Announce Type: replace Abstract: Vision-and-Language Navigation (VLN) has been studied mainly in either discrete or continuous spaces, with little attention to dynamic, crowded environments. We present HA-VLN 2.0, a unified benchmark introducing explicit social-awareness constraints. Our contributions are: (i) a standardized task and metrics capturing both goal accuracy and…
+
+### [JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models](https://arxiv.org/abs/2607.16207)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2607.16207v2 Announce Type: replace Abstract: Public open-weight language models are often fine-tuned on private or domain-specific data before deployment, creating a need to audit whether individual records were used during adaptation. We study this problem for discrete diffusion language models (dLLMs), using the pre-fine-tuning checkpoint as a reference. Unlike autoregressive models,…
+
+### [Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems](https://arxiv.org/abs/2608.03744)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.03744v2 Announce Type: replace Abstract: Clinical decision support is moving toward committees of language-model agents deliberating on a shared workspace. We ask whether such committees can be gamed by shortcuts, cues a benchmark rewards but a clinician would ignore. Across seven cohorts on six public datasets spanning text (MedQA-USMLE, MedMCQA, MIMIC-CXR reports), imaging (NIH…
+
+### [Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://arxiv.org/abs/2509.12040)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2509.12040v3 Announce Type: replace-cross Abstract: Open-Vocabulary Remote Sensing Image Segmentation (OVRSIS), an emerging task that adapts Open-Vocabulary Segmentation (OVS) to the remote sensing (RS) domain, remains underexplored due to the absence of a unified evaluation benchmark and the domain gap between natural and RS images. To bridge these gaps, we first establish a standardized…
+
+### [Eigenius: A Typed Knowledge-Graph DBMS with Epistemic Stratification and Institution-Mediated Reasoning](https://arxiv.org/abs/2608.04457)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.04457v2 Announce Type: replace-cross Abstract: As "AI Scientists" emerge to drive research via the Model Context Protocol (MCP), systems relying on ephemeral scripts will fail. The sheer scale of stateful, interconnected evidence requires a machine-walkable warranty grounded in a purpose-built database architecture. Eigenius is an open-source, typed knowledge-graph DBMS built on a…
+
+### [Falsehood and Impossibility Are Different Directions in an AI's Representation of Language](https://arxiv.org/abs/2608.12852)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.12852v2 Announce Type: replace-cross Abstract: Language can describe states of affairs that are false and states of affairs that could not be the case at all. Whether an AI model internally distinguishes these failures remains unclear. I report an exploratory activation study of the multimodal open-weight model Gemma 3 4B IT using 85 prompts from 17 philosophical families and a…
+
+### [Palmyra x6 Technical Report: An Agentic, Tool-Use Model Post-Trained via Anchored Supervised Fine-Tuning](https://arxiv.org/abs/2608.16620)
+`arXiv cs.AI` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.16620v2 Announce Type: replace-cross Abstract: Palmyra x6 is a large language model optimized for use with enterprise-oriented agentic tasks. The model was built by post-training a Mixture-of-Experts base model with Anchored Supervised Fine-Tuning on a compact corpus of verified, synthetic tool-use trajectories, optimized with a Muon + Adam hybrid. The recipe is deliberately…
+
+### [rl-triton: High-Performance Triton GPU Kernels for Reinforcement Learning Credit Assignment](https://arxiv.org/abs/2608.17641)
+`arXiv cs.LG` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.17641v1 Announce Type: new Abstract: We present rl-triton, an open-source library of high-performance GPU kernels for reinforcement learning credit assignment, implemented in Triton. The core contribution is a unified associative scan framework that recasts seven distinct RL estimation algorithms - Generalized Advantage Estimation (GAE), V-Trace, Retrace($\lambda$), TD($\lambda$)…
+
+### [Debate Training Reduces Reward Hacking in RLAIF](https://arxiv.org/abs/2608.17776)
+`arXiv cs.LG` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.17776v1 Announce Type: new Abstract: We demonstrate that RL finetuning an LLM using debate, a two-player adversarial game between a generator and a critic adjudicated by a weaker LLM judge, reduces reward hacking compared to a reinforcement learning from AI feedback (RLAIF) baseline. Reward hacking is a central obstacle in RLAIF: as training progresses, the policy learns to exploit…
+
+### [Hybrid ML for Lightweight Pre-Route Delay Estimation in Open-Source IC Design](https://arxiv.org/abs/2608.17914)
+`arXiv cs.LG` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.17914v1 Announce Type: new Abstract: Static Timing Analysis (STA) is a critical step in the design flow of digital integrated circuits, however, obtaining accurate delay estimations can represent a challenge when limited information regarding physical design is available. In response, this work presents a hybrid and light-weight machine learning (ML) based approach that combines a…
+
+### [Inverse Problems for Partial Differential Equations with Jump Discontinuities in Coefficients via Two-Stage Physics-Informed Deep Learning and Statistical Mixture Models](https://arxiv.org/abs/2510.14656)
+`arXiv cs.LG` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2510.14656v3 Announce Type: replace-cross Abstract: This work proposes a two-stage physics-informed deep learning framework that combines neural-network-based sampling with statistical inference and constrained parameter refinement. In the first stage, a dual-network physics-informed architecture is used, where a main network approximates the PDE solution and an auxiliary coefficient sub…
+
+### [SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails](https://arxiv.org/abs/2606.06837)
+`arXiv cs.LG` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2606.06837v2 Announce Type: replace-cross Abstract: Scripted vs spontaneous speech detection is appealing for interview guardrails, but benchmark performance can be inflated by shortcuts tied to corpus identity, channel conditions, and recording artifacts rather than speaking style itself. We present SEAM, a shortcut-aware framework for real-time scriptedness detection that combines uniform…
+
+### [ArguLens: An Open-Source System for Automated Essay Scoring and Label-Aware Feedback Generation](https://arxiv.org/abs/2608.17356)
+`arXiv cs.CL` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.17356v1 Announce Type: new Abstract: Most automated essay scoring (AES) systems output a single holistic score without interpretable evidence and rely on closed APIs that introduce data privacy and cost barriers. We present ArguLens, an opensource, locally deployable system that decomposes AES into three decoupled components: a discourse-move classifier (Qwen2.5-7B-Instruct fine-tuned…
+
+### [From Global Benchmarks to Local Evaluations: Benchmarking LLMs for the German Public Sector](https://arxiv.org/abs/2608.17827)
+`arXiv cs.CL` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.17827v1 Announce Type: new Abstract: Public institutions face a persistent challenge in selecting LLMs suited to their specific context. Existing benchmarks, however, are of limited use as they primarily reflect English-language and US-centric settings, and often only evaluate task performance. In this paper, we present first results of M\"OVE, a holistic evaluation framework for the…
+
+### [Chain-of-Experience for Continual LLM Improvement](https://arxiv.org/abs/2608.18027)
+`arXiv cs.CL` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2608.18027v1 Announce Type: new Abstract: Humans continuously learn from experience, whereas conventional large language model (LLM) evaluations ignore the models' ability to improve through inference-time interaction. In this paper, we study how LLMs learn from iterative experience at test time, a setting we refer to as Chain-of-Experience (CoE), where models accumulate experiential traces…
+
+### [SCRIBES: Web-Scale Script-Based Semi-Structured Data Extraction with Reinforcement Learning](https://arxiv.org/abs/2510.01832)
+`arXiv cs.CL` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2510.01832v2 Announce Type: replace Abstract: Semi-structured content in HTML tables, lists, and infoboxes accounts for a substantial share of factual data on the web, yet the formatting complicates usage, and reliably extracting structured information from them remains challenging. Existing methods either lack generalization or are resource-intensive due to per-page LLM inference. In this…
+
+### [PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training](https://arxiv.org/abs/2602.13840)
+`arXiv cs.CL` · 19 Aug 03:00 UTC · score 3.865
+
+arXiv:2602.13840v2 Announce Type: replace Abstract: Large language model (LLM) agents are increasingly deployed in personalized tasks involving sensitive, context-dependent information, where privacy violations may arise in agents' action due to the implicitness of contextual privacy. Existing approaches rely on external, inference-time interventions which are brittle, scenario-specific, and may…
 
 ## Community
 
-### [How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]](https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/)
-`r/MachineLearning` · 19 Aug 18:24 UTC · score 5.002
+### [Looking for 1 teammate — RealPDE Competition (NeurIPS 2026)[D]](https://www.reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition/)
+`r/MachineLearning` · 19 Aug 10:22 UTC · score 3.688
 
-I’ve been looking at a fairly basic question in weight-space learning that I don’t think gets separated cleanly enough: Why does reading semantics directly from neural network weights work pretty well when the networks share an initialization, but collapse when the networks are fitted independently? The usual explanation is parameter symmetry. Permute hidden units, flip equivalent signs, etc.,…
-
-### [Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]](https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/)
-`r/MachineLearning` · 19 Aug 20:30 UTC · score 4.965
-
-I trained three LLMs from scratch in raw PyTorch then post-trained each one with SFT and then GRPO. Same process every time: same synthetic arithmetic curriculum, same reward function, same hyperparameters, same KL coefficient. Pre-training went as expected, the val loss went down as the model got more modern techniques (V1 to V2) and bigger (V3 being the biggest). However, GRPO hurt both V2 and…
+Registering for RealPDE (Sim2Real / LTTTA tracks — real PIV + CFD fluid dynamics data). Team cap is 3. If you've got a strong ML background and wanna participate, just DM me. Deadline's Aug 20, so move fast. 🔗 https://realpdecompetition.github.io submitted by /u/Alternative_Push9328 [link] [comments]
 
 ---
 

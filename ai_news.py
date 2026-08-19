@@ -33,6 +33,7 @@ import html
 import json
 import os
 import re
+import socket
 import sys
 import time
 from dataclasses import dataclass, field, asdict
@@ -66,6 +67,12 @@ USER_AGENT = (
 FETCH_TIMEOUT = 25
 MAX_WORKERS = 12
 SEEN_RETENTION_DAYS = 30
+
+# feedparser has no per-call timeout argument, so a hung feed connection would
+# otherwise block its worker thread forever - and since a stuck feed also
+# blocks ThreadPoolExecutor.map()'s in-order iteration, that can stall the
+# entire run. This process-wide socket default is the standard fix.
+socket.setdefaulttimeout(FETCH_TIMEOUT)
 
 
 # ---------------------------------------------------------------------------
@@ -366,6 +373,15 @@ def build_digest(
 
 CATEGORY_ORDER = ["Labs & Releases", "Industry & Press", "Research", "Community"]
 
+_SAFE_URL_SCHEMES = ("http://", "https://")
+
+
+def safe_href(url: str) -> str:
+    """Item URLs come from external feeds we don't control. Only ever emit
+    http(s) links into the HTML email - anything else (javascript:, data:,
+    etc.) becomes a dead link instead of a clickable one."""
+    return url if url.lower().startswith(_SAFE_URL_SCHEMES) else "#"
+
 
 def group_by_category(items: list[Item]) -> list[tuple[str, list[Item]]]:
     buckets: dict[str, list[Item]] = {}
@@ -447,7 +463,13 @@ def markdown_to_html(text: str) -> str:
         )
         s = _MD_BOLD.sub(r"<strong>\1</strong>", s)
         s = _MD_ITALIC.sub(r"<em>\1</em>", s)
-        s = _MD_LINK.sub(r'<a href="\2" style="color:#4f46e5;">\1</a>', s)
+        # The model writes these links from feed-sourced URLs it was given -
+        # external, untrusted input - so only ever render http(s) as clickable.
+        s = _MD_LINK.sub(
+            lambda m: f'<a href="{m.group(2) if m.group(2).lower().startswith(("http://", "https://")) else "#"}" '
+            f'style="color:#4f46e5;">{m.group(1)}</a>',
+            s,
+        )
         return s
 
     for raw in text.splitlines():
@@ -542,7 +564,7 @@ def render_html(
         for item in group:
             parts.append("<div style='margin:0 0 18px;'>")
             parts.append(
-                f"<a href=\"{esc(item.url)}\" style=\"color:#111827;font-weight:600;"
+                f"<a href=\"{esc(safe_href(item.url))}\" style=\"color:#111827;font-weight:600;"
                 f"font-size:15px;text-decoration:none;\">{esc(item.title)}</a>"
             )
             parts.append(
