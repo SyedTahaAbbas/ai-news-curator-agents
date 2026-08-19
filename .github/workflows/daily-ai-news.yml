@@ -1,0 +1,82 @@
+name: Daily AI News Digest
+
+on:
+  schedule:
+    # 07:13 UTC every day. Off-the-hour on purpose: GitHub delays cron jobs
+    # that land on :00 because everyone schedules there.
+    - cron: "13 7 * * *"
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: "Lookback window in hours"
+        required: false
+        default: "24"
+      send_email:
+        description: "Send the email (false = write files only)"
+        required: false
+        default: "true"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-ai-news
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect news and send digest
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '587' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO || 'Taha.mmtlmu@gmail.com' }}
+          # Optional voice layer. With neither key set, the digest is plain links.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+        run: |
+          if [ "${{ github.event.inputs.send_email }}" = "false" ]; then
+            python ai_news.py --hours "${{ github.event.inputs.hours || '24' }}" --no-email
+          else
+            python ai_news.py --hours "${{ github.event.inputs.hours || '24' }}"
+          fi
+
+      - name: Commit today's digest
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add digests latest.md .seen.json
+          if git diff --staged --quiet; then
+            echo "No new digest to commit."
+          else
+            git commit -m "AI news digest: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Upload digest as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-news-digest
+          path: digests/
+          retention-days: 30
+          if-no-files-found: ignore
