@@ -56,7 +56,7 @@ from summarizer import write_commentary
 
 ROOT = Path(__file__).resolve().parent
 SOURCES_FILE = ROOT / "sources.yaml"
-DIGEST_DIR = ROOT / "digests"
+DIGEST_DIR = ROOT / "see news"
 STATE_FILE = ROOT / ".seen.json"
 
 USER_AGENT = (

@@ -1,245 +1,138 @@
 # AI News Update
 
-A daily AI news digest. Collects from ~26 public RSS/Atom feeds, filters and
-ranks them, writes a dated Markdown digest into the repo, and emails you a
-formatted HTML summary — automatically, every morning, via GitHub Actions.
-
-No API keys. No paid tiers. No accounts.
+A script that checks ~22 AI news sources (OpenAI, DeepMind, TechCrunch, arXiv,
+Hacker News, and more), picks out the stories that matter, and saves them as a
+Markdown file in the **`see news/`** folder. No API keys required to run it.
 
 ---
 
-## Why this doesn't scrape Twitter/X
+## What it does, in plain terms
 
-You asked for Twitter scraping, and it's worth being straight about why the
-script doesn't do that:
+1. It reads a list of RSS feeds from `sources.yaml`.
+2. It downloads the latest posts from each one.
+3. It scores every story (how recent it is, how much you trust the source,
+   whether it matches AI keywords) and throws out duplicates.
+4. It writes the result to `see news/YYYY-MM-DD.md` — one file per day, named
+   after the date you ran it.
 
-- **X requires a login for search.** Since 2023 the public search endpoints are
-  gated. An anonymous scraper gets a login wall, not tweets.
-- **The old tools are dead.** `snscrape`, `twint` and the Nitter mirrors all
-  broke when that gate came down. Anything still claiming to work is either
-  paid or fragile.
-- **The official API is expensive.** X API v2 tweet *search* starts at the Basic
-  tier (~$200/month). The free tier can post, but cannot read search results.
-- **Automated scraping violates X's ToS**, which matters if this lives in a
-  public GitHub repo attached to your name.
-
-The feeds in `sources.yaml` cover the same ground the AI side of X does —
-frontier lab announcements, press, arXiv, Hacker News, and Reddit — with no
-cost and nothing that breaks next month.
-
-**If you do want X later**, the collector is structured so a source is just a
-function returning `Item` objects. Add a `fetch_x()` alongside `fetch_feed()`
-and it drops into the same pipeline.
+That's the whole pipeline. Sending an email is optional and off by default;
+this README doesn't cover it — see `.env.example` if you want it later.
 
 ---
 
-## What you get each morning
+## Quick start (5 steps)
 
-An email like this, to the address in `MAIL_TO`:
+**1. Install `uv`** (a fast Python package manager), if you don't have it:
 
-```
-AI News Update — 18 Aug 2026 (23 stories)
-
-LABS & RELEASES
-  OpenAI ships new reasoning model
-  OpenAI · 18 Aug 06:12 UTC
-  ...
-
-INDUSTRY & PRESS
-  ...
-
-RESEARCH
-  ...
-
-COMMUNITY
-  ...
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Plus, committed to the repo:
-
-- `digests/YYYY-MM-DD.md` — the day's digest in Markdown
-- `digests/YYYY-MM-DD.json` — the same data, structured
-- `latest.md` — always the most recent digest
-
----
-
-## Files
-
-| File | Purpose |
-|---|---|
-| **`PREFERENCES.md`** | **Your control panel — sources to add, and the voice the digest is written in. Start here.** |
-| `sources.yaml` | The machine-readable feed list, keywords, boost/mute terms |
-| `ai_news.py` | Collector, filter, ranker, renderer, entry point |
-| `summarizer.py` | Optional voice layer — reads `PREFERENCES.md`, calls an LLM |
-| `emailer.py` | SMTP delivery (also runnable standalone to test email) |
-| `requirements.txt` | Three dependencies |
-| `.env.example` | Template for local credentials |
-| `.github/workflows/daily-ai-news.yml` | The daily schedule |
-| `tests/test_pipeline.py` | 42 offline tests — no network needed |
-
----
-
-## The two modes
-
-**Without an LLM API key** (default) you get a ranked, deduplicated list of
-links grouped by category. Free, deterministic, runs forever.
-
-**With an API key** you additionally get the digest *written* — a "Top" section
-arguing what actually mattered today, then the stories with their second-order
-implications, then a "Watch" list. The writing style is defined in prose in
-`PREFERENCES.md` and passed to the model as its system prompt. See
-`sample-digest.md` for what this looks like.
-
-Set either `ANTHROPIC_API_KEY` or `OPENAI_API_KEY` — the provider is
-auto-detected. Cost is roughly a cent a day at current mid-tier pricing, since
-it's one call over ~35 headlines. `python ai_news.py --no-commentary` skips it
-for a run; `LLM_PROVIDER=none` disables it permanently.
-
-If the API call fails for any reason, the run falls back to the plain link
-digest and still emails you. The voice layer can never break the delivery.
-
----
-
-## Setup
-
-### 1. Put it in a repo
-
-This folder is designed to be **its own repository**, because
-`.github/workflows/` only runs when it sits at the repo root.
+**2. Open this folder in your terminal:**
 
 ```bash
 cd "AI News update"
-git init
-git add .
-git commit -m "AI news daily digest"
-gh repo create ai-news-update --private --source=. --push
 ```
 
-> If you'd rather nest it inside an existing repo, move
-> `.github/workflows/daily-ai-news.yml` up to that repo's root `.github/workflows/`
-> and add a `working-directory: "AI News update"` line to the run steps.
-
-### 2. Get a Gmail app password
-
-The script sends over SMTP. Gmail needs an **app password**, not your normal
-password:
-
-1. Turn on 2-Step Verification: <https://myaccount.google.com/security>
-2. Generate an app password: <https://myaccount.google.com/apppasswords>
-3. Copy the 16-character code.
-
-### 3. Add repository secrets
-
-In GitHub: **Settings → Secrets and variables → Actions → New repository secret**
-
-| Secret | Value |
-|---|---|
-| `SMTP_USER` | the Gmail address you send *from* |
-| `SMTP_PASSWORD` | the 16-character app password |
-| `MAIL_FROM` | same as `SMTP_USER` |
-| `MAIL_TO` | `Taha.mmtlmu@gmail.com` |
-| `ANTHROPIC_API_KEY` *or* `OPENAI_API_KEY` | optional — enables the written digest |
-
-`SMTP_HOST` and `SMTP_PORT` are optional — they default to `smtp.gmail.com:587`.
-
-### 4. Test it
-
-**Actions → Daily AI News Digest → Run workflow.** It runs immediately instead
-of waiting for tomorrow. Check the log, then check your inbox.
-
-After that it runs on its own at **07:13 UTC** daily. Change the `cron:` line in
-the workflow to move it.
-
----
-
-## Running locally
+**3. Create a virtual environment and install the dependencies:**
 
 ```bash
-pip install -r requirements.txt
-cp .env.example .env      # then fill in your credentials
-
-python ai_news.py                # collect 24h, write digest, email it
-python ai_news.py --no-email     # write files only
-python ai_news.py --dry-run      # print to terminal, write nothing
-python ai_news.py --hours 48     # widen the window
-python ai_news.py --check-feeds  # health-check every source
-python ai_news.py --no-commentary # skip the LLM layer for this run
-python emailer.py                # send a test email and exit
-python summarizer.py             # print the exact prompt built from PREFERENCES.md
-python tests/test_pipeline.py    # offline tests
+uv venv
+uv pip install -r requirements.txt
 ```
 
-`--check-feeds` is the one to reach for when the digest looks thin — it tells
-you which sources answered and which didn't.
+**4. Run it:**
+
+```bash
+source .venv/bin/activate
+python ai_news.py --no-email
+```
+
+**5. Look in the `see news/` folder.** You'll find a new file named after
+today's date, like `see news/2026-08-20.md`.
 
 ---
 
-## Tuning it
+## macOS certificate error?
 
-**How it reads** → edit section 2 of `PREFERENCES.md`. It's prose; the model
-reads it directly. Run `python summarizer.py` to see exactly what's being sent.
+If you see `SSL: CERTIFICATE_VERIFY_FAILED`, your Python install doesn't trust
+any certificates yet. Fix it in two commands:
 
-**What it collects** → `sources.yaml`.
+```bash
+uv pip install certifi
+export SSL_CERT_FILE="$(python -c 'import certifi; print(certifi.where())')"
+```
 
-**Add a source:**
+Then re-run the script. (You'll need to re-export that variable in any new
+terminal tab, or add it to your shell profile.)
+
+---
+
+## The commands you'll actually use
+
+```bash
+python ai_news.py --no-email         # collect news, write a file, done
+python ai_news.py --dry-run          # just print to the screen, save nothing
+python ai_news.py --hours 48         # look back 2 days instead of 1
+python ai_news.py --check-feeds      # test every source and show which ones work
+```
+
+`--check-feeds` is the one to run first if a digest looks thin — it tells you
+exactly which sources responded.
+
+---
+
+## The two files you'll want to edit
+
+| File | What it's for |
+|---|---|
+| **`PREFERENCES.md`** | Your control panel. List sources you want added, and describe the writing style you want (see below). |
+| `sources.yaml` | Where sources actually get added, in a format the script can read. |
+
+**To add a source:** write it down in `PREFERENCES.md` under "To add", then
+copy it into `sources.yaml` in this shape:
 
 ```yaml
   - name: Some AI Blog
     url: https://example.com/feed.xml
-    weight: 1.5              # >1 surfaces earlier, <1 pushes down
+    weight: 1.5              # higher = shows up earlier
     category: Research       # Labs & Releases | Industry & Press | Research | Community
-    always: true             # true = skip the keyword filter (feed is already all-AI)
+    always: true             # true = every post from this feed counts (it's already all-AI)
 ```
-
-**Keywords** are matched on word boundaries, so `ai` hits "AI", "AI's" and
-"AI-powered" but never "said" or "chain". A trailing `*` means prefix match:
-`fine-tun*` covers tune/tuned/tuning. Spaces also match hyphens, so
-`open source` catches "open-source".
-
-**`boost_terms`** raise an item's rank, **`mute_terms`** bury it.
-
-**Digest too long?** `python ai_news.py --max-items 20`, or edit the default in
-the workflow.
 
 ---
 
-## How ranking works
+## Want the digest *written*, not just a list of links?
 
-Each item scores:
+By default you get a plain, ranked list of headlines — free, no account
+needed. If you set an API key (`ANTHROPIC_API_KEY` or `OPENAI_API_KEY`) in a
+`.env` file (copy `.env.example` to start), the script will also have an LLM
+write a short summary in the voice described in `PREFERENCES.md` — that file
+is written to sound like how Aravind Srinivas explains AI news on his
+podcast appearances. Costs about a cent a day. If it ever fails, the script
+just falls back to the plain list — nothing breaks.
 
+```bash
+python summarizer.py     # preview exactly what gets sent to the model
 ```
-  source weight × 2.0        how much you trust the outlet
-+ recency      × 3.0         1.0 at publication, decaying to 0 at 24h
-+ keyword hits × 0.3         capped at 5
-+ boost terms  × 0.6         capped at 3
-- mute terms   × 3.0         effectively removes the item
-```
-
-Then duplicates collapse in two passes: exact (same URL after stripping
-`utm_*` tracking params) and near-duplicate (75% word overlap between
-headlines, so the same story from five outlets appears once — the
-highest-scoring copy wins).
-
-`.seen.json` remembers the last 30 days of sent items so a story that lingers
-on a feed for three days is only emailed once.
 
 ---
 
-## When something breaks
+## Running it every day automatically
 
-**No email arrived.** Check the Actions log. A missing secret prints
-`Skipping send - missing env var(s)`. An auth failure means Gmail wants an app
-password, not your account password.
+There's a GitHub Actions workflow at `.github/workflows/daily-ai-news.yml`
+that runs this on a schedule and commits the digest back to the repo. See the
+comments inside that file for the secrets it needs. This is optional — running
+it by hand with the commands above works fine too.
 
-**The digest is empty.** Run `--check-feeds`. If most sources are DEAD you're
-likely rate-limited or offline; if one is, remove it from `sources.yaml`.
+---
 
-**A single dead feed never fails the run** — errors are caught per-source and
-listed at the bottom of the digest.
+## If something looks wrong
 
-**Reddit feeds are flaky** from datacenter IPs and may intermittently 429. They
-are low-weight on purpose; the digest is fine without them.
-
-**GitHub disables scheduled workflows** in repos with no activity for 60 days.
-Since this one commits a digest daily, that won't trigger — but if you ever
-pause it, re-enable it under Actions.
+- **A source is missing or the digest is thin:** run `python ai_news.py
+  --check-feeds`. A source marked `DEAD` is either offline or has changed its
+  feed URL — remove it from `sources.yaml` or find the new URL.
+- **Reddit sources show up as dead sometimes:** that's normal — Reddit rate
+  limits automated requests. It'll work again on the next run.
+- **One bad source never breaks the whole run.** Every feed is fetched
+  independently; a failure is just noted at the bottom of the digest.

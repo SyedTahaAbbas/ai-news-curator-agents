@@ -27,10 +27,17 @@ Rewrite it in your own words and the next digest changes accordingly.
 
 | Tier | Sources | Weight | Why |
 |---|---|---|---|
-| **Frontier labs** | OpenAI, Anthropic, Google DeepMind, Google AI, Meta AI, Mistral, Hugging Face | 1.5–2.0 | Primary sources. When a lab ships, this is where it lands first. |
-| **Press** | TechCrunch AI, The Verge AI, Ars Technica AI, MIT Tech Review AI, VentureBeat AI, Wired AI, MarkTechPost | 1.0–1.5 | Context, funding, industry moves, regulation. |
+| **Frontier labs** | OpenAI, Google DeepMind, Google AI, Hugging Face | 1.5–2.0 | Primary sources. When a lab ships, this is where it lands first. |
+| **Press** | TechCrunch AI, The Verge AI, Ars Technica AI, MIT Tech Review AI, VentureBeat AI, Wired AI | 1.0–1.5 | Context, funding, industry moves, regulation. |
 | **Research** | arXiv cs.AI / cs.LG / cs.CL, BAIR Berkeley, Microsoft Research | 0.9–1.1 | Early signal. High volume, low weight on purpose. |
 | **Community** | Hacker News (AI, 100+ pts), r/MachineLearning, r/LocalLLaMA, r/artificial, Simon Willison, Import AI | 0.8–1.3 | Where practitioners react before the press catches up. |
+
+> **Dropped as dead (2026-08-20):** Anthropic, Meta AI, and Mistral AI's own RSS
+> feeds now 404 — the labs appear to have moved or removed them. MarkTechPost
+> returns 403 (blocking automated readers). Removed from `sources.yaml` rather
+> than left silently failing. If you find their new feed URLs, add them back
+> under "To add" below. In the meantime OpenAI, DeepMind, and Hugging Face
+> still surface most Anthropic/Meta/Mistral news secondhand via press coverage.
 
 ### To add
 

@@ -32,24 +32,6 @@ feeds:
     category: Labs & Releases
     always: true
 
-  - name: Anthropic
-    url: https://www.anthropic.com/rss.xml
-    weight: 2.0
-    category: Labs & Releases
-    always: true
-
-  - name: Meta AI
-    url: https://ai.meta.com/blog/rss/
-    weight: 1.7
-    category: Labs & Releases
-    always: true
-
-  - name: Mistral AI
-    url: https://mistral.ai/news/feed.xml
-    weight: 1.6
-    category: Labs & Releases
-    always: true
-
   - name: Hugging Face
     url: https://huggingface.co/blog/feed.xml
     weight: 1.5
@@ -96,12 +78,6 @@ feeds:
   - name: Wired AI
     url: https://www.wired.com/feed/tag/ai/latest/rss
     weight: 1.2
-    category: Industry & Press
-    always: true
-
-  - name: MarkTechPost
-    url: https://www.marktechpost.com/feed/
-    weight: 1.0
     category: Industry & Press
     always: true
 
