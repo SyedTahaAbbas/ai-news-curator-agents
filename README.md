@@ -20,7 +20,49 @@ this README doesn't cover it — see `.env.example` if you want it later.
 
 ---
 
-## Quick start (5 steps)
+## Run it with Docker (easiest — works on any machine)
+
+No Python setup, no dependency issues, no certificate problems. Requires
+[Docker Desktop](https://www.docker.com/products/docker-desktop/) installed
+and running.
+
+```bash
+cd "AI News update"
+docker compose run --rm ai-news --no-email
+```
+
+Look in the `see news/` folder afterwards — same as the local path below.
+Other commands work the same way, just prefixed:
+
+```bash
+docker compose run --rm ai-news --dry-run          # print only, save nothing
+docker compose run --rm ai-news --hours 48          # widen the window
+docker compose run --rm ai-news --check-feeds       # test every source
+```
+
+Editing `sources.yaml` or `PREFERENCES.md` takes effect immediately, no
+rebuild needed — they're mounted from this folder into the container. You
+only need to rebuild (`docker compose build`) after changing the Python code
+itself.
+
+If you'd rather not use Compose:
+
+```bash
+docker build -t ai-news-update .
+docker run --rm \
+  -v "$(pwd)/sources.yaml:/app/sources.yaml:ro" \
+  -v "$(pwd)/PREFERENCES.md:/app/PREFERENCES.md:ro" \
+  -v "$(pwd)/see news:/app/see news" \
+  -v "$(pwd)/.seen.json:/app/.seen.json" \
+  ai-news-update --no-email
+```
+
+If you want the emailed version, add `--env-file .env` (copy `.env.example`
+to `.env` first) and drop `--no-email`.
+
+---
+
+## Running it locally instead (no Docker)
 
 **1. Install `uv`** (a fast Python package manager), if you don't have it:
 
@@ -53,7 +95,7 @@ today's date, like `see news/2026-08-20.md`.
 
 ---
 
-## macOS certificate error?
+## macOS certificate error? (local path only — Docker doesn't hit this)
 
 If you see `SSL: CERTIFICATE_VERIFY_FAILED`, your Python install doesn't trust
 any certificates yet (common with the python.org installer on macOS).

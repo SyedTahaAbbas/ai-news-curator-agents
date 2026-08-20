@@ -1,0 +1,15 @@
+services:
+  ai-news:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ./sources.yaml:/app/sources.yaml:ro
+      - ./PREFERENCES.md:/app/PREFERENCES.md:ro
+      - ./see news:/app/see news
+      - ./.seen.json:/app/.seen.json
+    # Override at run time, e.g.:
+    #   docker compose run --rm ai-news --dry-run
+    #   docker compose run --rm ai-news --hours 48
+    command: ["--no-email"]
