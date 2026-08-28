@@ -1,0 +1,478 @@
+[
+  {
+    "title": "ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts",
+    "url": "https://arxiv.org/abs/2608.22510",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22510v1 Announce Type: new Abstract: Agent benchmarks often evaluate only final answers even when agents run on stateful runtimes. We argue this under-specifies what is being evaluated: the proper unit is a declared model-plus-runtime configuration whose failures can occur in evidence acquisition, runtime routing, safety boundaries, or repeated execution. We present ClawProBench, a\u2026",
+    "score": 6.707,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking Retrieval-Augmented Generation Strategies for Large Language Model-Based Travel Mode Choice Prediction",
+    "url": "https://arxiv.org/abs/2508.17527",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2508.17527v2 Announce Type: replace Abstract: Accurately predicting travel mode choice is essential for effective transportation planning, yet traditional statistical and machine learning models are constrained by rigid assumptions, limited contextual reasoning, and reduced transferability. This study explores the potential of Large Language Models (LLMs) as a more flexible and\u2026",
+    "score": 6.707,
+    "matched": [
+      "machine learning",
+      "large language model",
+      "retrieval augmented",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Agentic-SQL Revisited: Autonomy-Based Taxonomy and Empirical Benchmark Analysis for LLM Text-to-SQL",
+    "url": "https://arxiv.org/abs/2608.15389",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.15389v2 Announce Type: replace Abstract: LLM-based Text-to-SQL progress is reported across heterogeneous benchmarks, backbones, and inference protocols, making cross-system comparison fragile. We reframe the field as a leaderboard aggregation: we collect the metrics authors themselves report and organize them along an inference-autonomy axis spanning constrained, in-context, iterative,\u2026",
+    "score": 6.707,
+    "matched": [
+      "llm",
+      "agentic",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "K-Bench: measuring model performance on real scientific agent requests",
+    "url": "https://arxiv.org/abs/2608.21601",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21601v1 Announce Type: new Abstract: Benchmarks for scientific artificial intelligence are mostly written to be scored: multiple-choice questions, curated agent tasks with reference solutions, or simulators with a known generative structure. Real scientific requests arrive differently. They are underspecified, they carry attachments, and lack ground truth. We report K-Bench 01, an\u2026",
+    "score": 6.407,
+    "matched": [
+      "artificial intelligence",
+      "generative",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "LLM4LLM: Bridging Kernel Benchmarks and Real Deployment via Closed-Loop Agentic Optimization",
+    "url": "https://arxiv.org/abs/2608.21836",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21836v1 Announce Type: new Abstract: Large language models have become increasingly capable agents for low-level code and kernel optimization, but isolated kernel benchmarks provide only a proxy for the deployment behavior that matters in language-model inference. We identify a benchmark-to-deployment gap: candidate kernels that appear correct and fast in standalone harnesses can\u2026",
+    "score": 6.407,
+    "matched": [
+      "agentic",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Lexical Perturbations Disrupt LLM Reasoning: An Empirical Study of Attention Diversion",
+    "url": "https://arxiv.org/abs/2608.22140",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22140v1 Announce Type: cross Abstract: Large Language Models (LLMs) achieve strong reasoning performance, but their robustness to realistic lexical corruption remains poorly understood. We evaluate four open-weight instruction-tuned models and frontier models across four reasoning benchmarks under keyboard noise, character swaps, and filler insertion. Character-level perturbations\u2026",
+    "score": 6.407,
+    "matched": [
+      "llm",
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "NetConfArena: An Executable Benchmark for LLM Agents in Closed-Loop Network Configuration",
+    "url": "https://arxiv.org/abs/2608.23179",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.23179v1 Announce Type: cross Abstract: Large language model (LLM) agents are increasingly attractive for automating network configuration, yet their reliability and failure patterns are poorly understood. An essential prerequisite is to assess such agents in a realistic but risk-free environment. Existing benchmarks, however, fall short: they often treat configuration as static command\u2026",
+    "score": 6.407,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AI Surrogate Modeling for Real-Time Tokamak Equilibrium Prediction: Benchmarking Neural Architectures and Validation on EXL-50U",
+    "url": "https://arxiv.org/abs/2608.23217",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.23217v1 Announce Type: cross Abstract: Fast and reliable plasma equilibrium prediction is essential for real-time tokamak operation and control, but conventional Grad-Shafranov (GS) solvers are often too costly for real-time deployment. We develop an AI surrogate framework and benchmark five architectures (MLP, CNN, FNO, Transformer, and KAN) on a numerical GS database with 100,000 IID\u2026",
+    "score": 6.407,
+    "matched": [
+      "ai",
+      "transformer*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AI University: An LLM-Powered Learning Assistant for Engineering---A Finite Element Method Case Study",
+    "url": "https://arxiv.org/abs/2504.08846",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2504.08846v2 Announce Type: replace-cross Abstract: We introduce AI University (AI-U), a flexible framework for AI-driven course content delivery that adapts to a course's instructional style. AI-U combines a fine-tuned large language model (LLM) with retrieval-augmented generation (RAG) and a reasoning synthesis model to generate style-aligned responses from lecture videos, notes, and\u2026",
+    "score": 6.407,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "fine-tun*",
+      "retrieval augmented"
+    ]
+  },
+  {
+    "title": "In-Cell Learning: Deployed Language Models Can Learn New Knowledge Without Changing a Single Stored Bit",
+    "url": "https://arxiv.org/abs/2608.20873",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.20873v2 Announce Type: new Abstract: A deployed language model is a file that many things depend on - a benchmark report, a certification, a fleet of devices - and every way of teaching it something new produces a different file. We show that this is not necessary. A 4-bit release stores each weight as an integer code and a shared scale, and leaves between the stored values an interval\u2026",
+    "score": 6.407,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "BanglaVeilGuard: Cross-Script Safety Benchmarking and Lightweight Guardrails for Bangla Large Language Models",
+    "url": "https://arxiv.org/abs/2608.21880",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21880v1 Announce Type: new Abstract: Bangla large language model (LLM) safety is difficult to evaluate with English-centric or standard-script benchmarks because Bangla users routinely write across scripts, spellings, code-mixed forms, and regional registers. This paper presents BanglaVeilGuard, a compact Bangla-first safety benchmark and lightweight prompt guard for six language\u2026",
+    "score": 6.407,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking and Boosting Multilingual Capabilities of LVLMs via OCR-Centric Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2503.18484",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2503.18484v3 Announce Type: replace-cross Abstract: Evaluating the multilingual capabilities of Large Vision-Language Models (LVLMs) remains challenging because most benchmarks rely on non-parallel corpora, making it unclear whether cross-lingual performance gaps reflect model limitations or dataset inconsistencies. To address this, we introduce PM4Bench, the first multimodal, multilingual,\u2026",
+    "score": 6.407,
+    "matched": [
+      "multimodal",
+      "reinforcement learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+    "url": "https://arxiv.org/abs/2608.21382",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21382v1 Announce Type: new Abstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model's answer is read from generated text or from per-option likelihoods. Work on this harness sensitivity reports it as aggregate score variance, leaving unexamined which items the\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Evaluating Multimodal Narrative Understanding of Popular Hollywood Films",
+    "url": "https://arxiv.org/abs/2608.21430",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21430v1 Announce Type: new Abstract: Multimodal language models increasingly show promise for enabling the large-scale computational analysis of film, opening up new avenues for learning about film history and the evolution of narrative techniques. But the creation of stable benchmarks built around Hollywood films is complicated by copyright protections. In this work, we address these\u2026",
+    "score": 6.107,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "GuardianBench: A Same-Scene Instruction-Contrastive Benchmark for Latent Contextual Risk in Embodied AI",
+    "url": "https://arxiv.org/abs/2608.21928",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21928v1 Announce Type: new Abstract: In embodied AI, safety risk can be latent: a benign instruction and a safe scene become hazardous only when composed. Prior work has advanced embodied safety by varying visual contexts or evaluating execution-time dynamics, but the complementary axis of fixing the scene and varying only the instruction remains underexplored. We introduce\u2026",
+    "score": 6.107,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Repo2Skill-Evo: Repository Skills Go Stale in Silence",
+    "url": "https://arxiv.org/abs/2608.21964",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21964v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly operate over evolving software repositories, where success depends on repository-specific procedural knowledge: which APIs to call, which scripts to run, and which conventions the current release expects. Agent skills externalize this knowledge into reusable units, and prior work shows that they can\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "large language model"
+    ]
+  },
+  {
+    "title": "Redteaming Leading Arabic LLMs with ASAS",
+    "url": "https://arxiv.org/abs/2608.21985",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21985v1 Announce Type: new Abstract: As the adoption of large language models (LLMs) grows in Arabic-speaking regions, ensuring their safety and cultural alignment is increasingly critical. However, Arabic LLM safety remains underexplored, especially in adversarial evaluation settings. We introduce the Arabic Safety Index (ASAS), the first fully human-curated Arabic benchmark for\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Analyzing and Mitigating Cross-Lingual Degradation in Multilingual Medical VQA",
+    "url": "https://arxiv.org/abs/2608.22363",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22363v1 Announce Type: new Abstract: Medical visual question answering (VQA) is a crucial task in clinical AI, yet its evaluation has so far centered almost exclusively on English, limiting its relevance to linguistically diverse patients and clinicians. Recent multilingual medical VQA benchmarks show that large vision-language models (LVLMs) degrade in non-English languages, but lack\u2026",
+    "score": 6.107,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "When Does AI for PDEs Yield Scientific Evidence?",
+    "url": "https://arxiv.org/abs/2608.22504",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22504v1 Announce Type: new Abstract: Existing AI-for-PDE benchmarks primarily assess models in terms of predictive or approximation accuracy. In physics research, however, AI outputs often serve as evidence for scientific claims. These two objectives are not equivalent: the former measures an output's agreement with a reference target or satisfaction of governing constraints; the\u2026",
+    "score": 6.107,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Coalition-Aware Skill Reliability for Self-Evolving Agents",
+    "url": "https://arxiv.org/abs/2608.22610",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22610v1 Announce Type: new Abstract: Agent skills, structured artifacts distilled from interaction trajectories and dynamically reused from skill banks, have become a central mechanism for enabling large language model (LLM)-based self-evolving agents to learn from past experience. Yet existing work has largely focused on the operational aspects of skills, such as acquisition,\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "large language model"
+    ]
+  },
+  {
+    "title": "DeepSAGE: Stage-Aware Reinforcement Learning for Structured CBT Counseling Dialogue",
+    "url": "https://arxiv.org/abs/2608.22615",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22615v1 Announce Type: new Abstract: Large Language Model (LLM)-based counseling agents can generate fluent and supportive responses, but they often lack the structured, goal-directed progression required to conduct a coherent therapeutic session. We present DeepSAGE (Strategic AI Guidance Engine), a hybrid LLM--Deep Reinforcement Learning (DRL) framework for stage-aware counseling\u2026",
+    "score": 6.107,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "title": "FinixDoc: Rethinking Financial Document Parsing Beyond Saturated Benchmarks",
+    "url": "https://arxiv.org/abs/2608.22842",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22842v1 Announce Type: new Abstract: Financial document parsing requires accuracy, structural consistency, and verifiability that current benchmarks often fail to reflect. We present FinixDoc, an end-to-end agentic parsing system for real-world financial documents, with FinixDoc-VL, a 4B-scale vision-language model built on Qwen3-VL-4B, as its core parser. To characterize the gap\u2026",
+    "score": 6.107,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Concepts for Securing Agentic AI Coding and the Terok Environment",
+    "url": "https://arxiv.org/abs/2608.22930",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22930v1 Announce Type: new Abstract: Agentic AI is a fascinating new tool for software development. It is a huge step forward compared to \"conventional\" AI assisted coding, which in turn was a considerable breakthrough earlier. AI support through LLMs is a young and very fast-moving field. The \"conventional\" (non-agentic) flavor became useful and productive in early 2025 (around 18\u2026",
+    "score": 6.107,
+    "matched": [
+      "ai",
+      "agentic"
+    ]
+  },
+  {
+    "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+    "url": "https://arxiv.org/abs/2608.23035",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.23035v1 Announce Type: new Abstract: As on-device LLM agents evolve into personal copilots, the mobile operating system has become a key testbed for this paradigm, making rigorous capability evaluation essential. Yet existing benchmarks fall into two camps, each with a critical blind spot: GUI-centric benchmarks test surface-level screen manipulation while overlooking background tool\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EviSafe: Evidence-Grounded Safety Evaluation for Vision-Language Models",
+    "url": "https://arxiv.org/abs/2608.23313",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.23313v1 Announce Type: new Abstract: Vision-language model safety benchmarks typically evaluate only final responses: whether a model refuses, warns, or complies. This outcome-level view cannot tell whether a model is safe for the right multimodal reason. Safelooking behavior may reflect keyword-triggered refusal, missed visual hazards, or over-refusal of benign-sensitive inputs. We\u2026",
+    "score": 6.107,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "A Survey Instrument to Assess Students' AI and Generative AI Knowledge",
+    "url": "https://arxiv.org/abs/2608.21391",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21391v1 Announce Type: cross Abstract: In this research-to-practice paper we present a survey that can be used to assess students' AI knowledge. As the use of artificial intelligence (AI), including generative artificial intelligence (GenAI), has proliferated, so has the need to educate students about the topic. A range of AI literacy frameworks have been proposed, outlining the\u2026",
+    "score": 6.107,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "generative",
+      "genai"
+    ]
+  },
+  {
+    "title": "KAN-Robust-Bench: A Benchmark for Evaluating the Robustness of Kolmogorov-Arnold Networks",
+    "url": "https://arxiv.org/abs/2608.21488",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21488v1 Announce Type: cross Abstract: While machine learning models have demonstrated strong performance in many domains, these models have shown profound vulnerabilities when they are exposed to adversarial threats. While adversarial attacks fall into various categories, the most prominent category in research studies is evasion. In evasion attacks, the adversary generates perturbed\u2026",
+    "score": 6.107,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EDGE: Experience-Distillation for Guided Exploration in Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2608.21946",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.21946v1 Announce Type: cross Abstract: Reinforcement learning with outcome-based objectives such as GRPO enables LLM-based agents to solve complex, long-horizon tasks, yet the reusable exploration patterns embedded in interaction trajectories are largely discarded after a single policy update. Existing experience-augmented approaches retrieve historical guidance at inference time, but\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "agentic",
+      "reinforcement learning",
+      "inference"
+    ]
+  },
+  {
+    "title": "Register Shifts Break LLM Safety: A Bengali Benchmark with Culturally Grounded Harms",
+    "url": "https://arxiv.org/abs/2608.22335",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22335v1 Announce Type: cross Abstract: Bengali is the seventh-most-spoken language globally, yet LLM safety evaluation remains overwhelmingly English-centric. We introduce BanglaSafe, a benchmark of 879 Bengali prompts combining 309 natively authored prompts with 570 expert-reviewed prompts, spanning 17 culturally grounded harm categories and five prompting conditions that vary\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Rank Reversal in Multilingual LLM Judges: A Label-Free Double-Centering Calibrator",
+    "url": "https://arxiv.org/abs/2608.22432",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22432v1 Announce Type: cross Abstract: Multilingual LLM judges produce different evaluator-backbone rankings depending on the prompt language: on an eight-language Agent-as-a-Judge benchmark, the top-ranked backbone alternates across English, Arabic, Chinese, Hindi, Japanese, Spanish, Turkish, and Swahili, and 7 of 15 backbone pairs show statistically significant pairwise rank\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "BLADE: Bilevel Low-rank Augmented-Lagrangian Erasure for LLM Unlearning",
+    "url": "https://arxiv.org/abs/2608.22557",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22557v1 Announce Type: cross Abstract: Existing LLM unlearning methods struggle with robustness: unbounded forget losses degrade model coherence, fixed-weight balancing cannot adapt as retain difficulty shifts mid-training, and methods that work on one benchmark falter under scaling or repeated application. We propose BLADE, a constrained bilevel framework whose three mechanisms give\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "GeoRisk-RAG: A Hierarchy-Aware Risk Framework for Improving RAG Reliability through Selective Answering",
+    "url": "https://arxiv.org/abs/2608.22634",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.22634v1 Announce Type: cross Abstract: Current work on improving reliability in large language model (LLM)- generated answers has primarily leveraged Retrieval-Augmented Generation (RAG), knowledge-graph augmentation, and reinforcement learning. While these methods are adept at enhancing and measuring reliability through semantic similarity and faithfulness, they often struggle to\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "large language model",
+      "retrieval augmented",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "title": "Towards Comprehensive Basketball Understanding",
+    "url": "https://arxiv.org/abs/2608.23435",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2608.23435v1 Announce Type: cross Abstract: Understanding a basketball game requires recognizing events, localizing actions, identifying players, and relating these to structured game knowledge. Existing benchmarks primarily evaluate these abilities one at a time, leaving the interactions among these abilities under-explored. We introduce BasketballBench, a multimodal benchmark comprising\u2026",
+    "score": 6.107,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Beyond Benchmarks: LLM Evaluation with an Anthropomorphic and Lifecycle-oriented Roadmap",
+    "url": "https://arxiv.org/abs/2508.18646",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2508.18646v3 Announce Type: replace Abstract: Despite their rapid advancement, large language models (LLMs) suffer from a critical disconnect between benchmark scores and real-world utility. Current evaluation remains fragmented, prioritizing isolated technical metrics over the holistic, developmental, and societal aspects essential for deployment. Rather than serving merely as a\u2026",
+    "score": 6.107,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Retrieval-aligned Tabular Foundation Models Enable Robust Clinical Risk Prediction in Electronic Health Records Under Real-world Constraints",
+    "url": "https://arxiv.org/abs/2604.01841",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-25T04:00:00+00:00",
+    "summary": "arXiv:2604.01841v3 Announce Type: replace Abstract: Clinical prediction from structured electronic health records (EHRs) is challenging due to high dimensionality, heterogeneity, class imbalance, and distribution shift. While tabular in-context learning (TICL) and retrieval-augmented methods perform well on generic benchmarks, their behavior in clinical settings remains unclear. We present a\u2026",
+    "score": 6.107,
+    "matched": [
+      "retrieval augmented",
+      "benchmark*"
+    ]
+  }
+]

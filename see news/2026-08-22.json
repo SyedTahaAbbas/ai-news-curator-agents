@@ -1,0 +1,329 @@
+[
+  {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "Google DeepMind",
+    "category": "Labs & Releases",
+    "published": "2026-08-21T11:59:48+00:00",
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "score": 5.734,
+    "matched": [
+      "ai",
+      "deepmind"
+    ]
+  },
+  {
+    "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T23:07:25+00:00",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "score": 5.525,
+    "matched": [
+      "claude",
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T22:37:38+00:00",
+    "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
+    "score": 5.463,
+    "matched": [
+      "ai",
+      "nvidia"
+    ]
+  },
+  {
+    "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T21:25:50+00:00",
+    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [\u2026]",
+    "score": 5.413,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T19:43:39+00:00",
+    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "score": 5.4,
+    "matched": [
+      "ai",
+      "fine-tun*",
+      "nvidia"
+    ]
+  },
+  {
+    "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-22T04:39:18+00:00",
+    "summary": "I trained a 250M parameter model from scratch on 30B tokens of fineweb. It\u2019s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run. Runs around 400 tok/s on a normal laptop CPU, no GPU needed. How the long context works: the most recent 2048 tokens stay in fp16 like a normal KV cache. Everything older gets compressed to 1 bit and written to disk, about\u2026",
+    "score": 5.116,
+    "matched": [
+      "llm"
+    ]
+  },
+  {
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T14:00:00+00:00",
+    "summary": "There's about to be a big fight to secure access to space.",
+    "score": 4.984,
+    "matched": []
+  },
+  {
+    "title": "llm 0.32.1",
+    "url": "https://simonwillison.net/2026/Aug/21/llm/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-08-21T17:16:13+00:00",
+    "summary": "Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the moment by pinning to openai<3 , and a soon-to-drop 0.33 release will switch from httpx to httpx2 . Tags: httpx , openai ,\u2026",
+    "score": 4.793,
+    "matched": [
+      "llm",
+      "openai"
+    ]
+  },
+  {
+    "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
+    "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T23:25:32+00:00",
+    "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+    "score": 4.663,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "llm-openrouter 0.7",
+    "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-08-21T16:58:19+00:00",
+    "summary": "Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it can display the reasoning traces for LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter's implementation of the Responses API . Three new server-side tools: Shell , WebFetch , and WebSearch . Enable these with options like -T WebSearch . Tags: llm , openrouter",
+    "score": 4.456,
+    "matched": [
+      "llm"
+    ]
+  },
+  {
+    "title": "Quoting Matt Webb",
+    "url": "https://simonwillison.net/2026/Aug/21/matt-webb/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-08-21T15:06:26+00:00",
+    "summary": "After I released version 1.0, I figured I would have to do the rotations myself. So I sat down with ChatGPT and I didn\u2019t get it to write the code, but I got it to educate me. With a patient, interactive tutor, I was able to finally do what I hadn\u2019t by reading books and asking mathematician friends \u2013 I learnt how to use quaternions just enough to make the app work. So learning doesn\u2019t stop just\u2026",
+    "score": 4.223,
+    "matched": [
+      "chatgpt"
+    ]
+  },
+  {
+    "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T16:37:16+00:00",
+    "summary": "I have built an on-prem GPU cluster, 8 nvidia 16GB GPU's and 256GB CPU RAM, 50TB HDD and several TBs of SSDs. I have used it, and currently use it, for ML/AI research. But that research is not constantly running jobs, sometimes I use it heavily and other times it's idle. I was considering just letting people with qualified use cases run jobs on it SLURM style. I don't know if its enough compute\u2026",
+    "score": 4.212,
+    "matched": [
+      "ai",
+      "nvidia",
+      "gpu cluster"
+    ]
+  },
+  {
+    "title": "Safety critical systems (SCS) are the only real benchmark for ML systems. Thoughts? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vukv7j/safety_critical_systems_scs_are_the_only_real/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T16:17:37+00:00",
+    "summary": "What are real-world safety critical systems (SCS)? A flight controller for a commercial airplane carrying 300 passengers. A braking system for a bullet train that operates at 320km/hour. A reactor protection system for nuclear power plant that serves millions of people. A piece of medical equipment that regulate certain bodily rhythm for a patient. A railway crossing system for a network\u2026",
+    "score": 4.171,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "repo2nb 0.2.0, convert a GitHub repo into a Kaggle/Colab notebook (dependency resolution, reverse mode, incremental sync) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T17:53:36+00:00",
+    "summary": "repo2nb is an open-source CLI that converts a GitHub repo into a runnable Kaggle or Colab notebook: walks the file tree, resolves dependencies, and generates cells, instead of you doing that by hand for a repo you didn't write (a paper's code, a tutorial, someone else's experiment). 0.2.0 highlights: Dependency resolution tries poetry export, then uv export, then requirements.txt, then falls back\u2026",
+    "score": 4.071,
+    "matched": []
+  },
+  {
+    "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T16:38:15+00:00",
+    "summary": "LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back. Yesterday Claude Code shipped a \"concise output style\" where Claude keeps things short. We already have a paper out about this! We tested both channels, shortening the input prompt versus telling the model to output answer shorter, on the same questions across five\u2026",
+    "score": 3.914,
+    "matched": [
+      "llm",
+      "claude"
+    ]
+  },
+  {
+    "title": "AI boosted homework scores, then exam scores dropped: Study",
+    "url": "https://canews24.online/?p=71",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-08-21T15:25:42+00:00",
+    "summary": "Article URL: https://canews24.online/?p=71 Comments URL: https://news.ycombinator.com/item?id=49389565 Points: 165 # Comments: 9",
+    "score": 3.863,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Major YouTube creators are facing backlash for accepting AI money",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T13:37:52+00:00",
+    "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [\u2026]",
+    "score": 3.838,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vus26i/hybrid_collaborative_filtering_recommendation/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T20:42:41+00:00",
+    "summary": "Howdy y'all, In an effort to un-rust my SWE skills and learn more about Recommendation Systems, I decided to try my hand at developing one called By-Its-Cover TLDR: Check out the site and roast me: https://by-its-cover.com/ Check out the GitHub project and roast me: https://github.com/ByItsCover --- ## Recommendation System The recommendation system has two major parts: the semantic searches for\u2026",
+    "score": 3.823,
+    "matched": []
+  },
+  {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T14:00:00+00:00",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that\u2019s rarely used against VCs. Board conflicts\u2026",
+    "score": 3.784,
+    "matched": []
+  },
+  {
+    "title": "BMVC 2026 orals [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vur05y/bmvc_2026_orals_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T20:01:44+00:00",
+    "summary": "Hi, Did anyone here got an oral at BMVC? If yes, then what are the scores? Thanks. submitted by /u/dn8034 [link] [comments]",
+    "score": 3.738,
+    "matched": []
+  },
+  {
+    "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-08-21T11:00:53+00:00",
+    "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+    "score": 3.511,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Epistemic Intelligence in Machine Learning Neurips Workshop page limit? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vujk2p/epistemic_intelligence_in_machine_learning/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T15:29:10+00:00",
+    "summary": "I'm aiming to submit a paper to The 3rd Workshop on Epistemic Intelligence in Machine Learning at Neurips https://eiml.cc/ I can't find a page limit anywhere on their website and I've emailed the organisers (twice) asking for clarity on it. The previous workshop at ICML had a page limit of 6 pages. Do I assume that's the limit here? Or do I assume I have the 9 page limit of the main conference?\u2026",
+    "score": 3.47,
+    "matched": [
+      "machine learning"
+    ]
+  },
+  {
+    "title": "I'm becoming AI-blind",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-08-21T11:48:05+00:00",
+    "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 341 # Comments: 349",
+    "score": 3.41,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "What coding practices are you adopting for development today? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T17:10:38+00:00",
+    "summary": "I have been reflecting on this while working on a project recently. Every time we start a new model, we rewrite roughly same scaffolding, data validation checks, feature transformation logic ; all of this is nealy 80 percent identical to last project I tired templating with cookiecutter style project generators. Initially it was okay, but it drifted from reality since noone wants to maintain a\u2026",
+    "score": 3.382,
+    "matched": []
+  },
+  {
+    "title": "Research internship at MSR [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T16:47:52+00:00",
+    "summary": "So got selected for a research internship at MSR, how good is the quality of work and how useful is it to move to Applied sciences or research sciences position at other FAANG companies after the internship. And any perks and other benefits that interns get during microsoft internship? Any tips will be appreciated. Specifically to get into AS at amazon , does this boost my chances? I'll be\u2026",
+    "score": 3.334,
+    "matched": []
+  },
+  {
+    "title": "EMNLP26 Cost [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T16:24:00+00:00",
+    "summary": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! https://preview.redd.it/to16g93h7rkh1.png?width=667&format=png&auto=webp&s=566162320e8adc161ab3a3772988c6ea64d8be6d submitted by /u/No_Sky9786 [link] [comments]",
+    "score": 3.284,
+    "matched": []
+  },
+  {
+    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+    "url": "https://annas-archive.pk/blog/physical-destruction.html",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-08-21T10:05:46+00:00",
+    "summary": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 703 # Comments: 2",
+    "score": 3.196,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-08-21T08:54:41+00:00",
+    "summary": "So I got rejected at EMNLP with scores:- Meta: 3 (very positive in the review) Reviewers: OA(conf) 3(4) 3(4) 2.5(3) Avg: 2.83(3.67) Track: multimodality Rebuttals never got any acknowledgements. Most weaknesses were already discussed in the paper. What are my options now? As it was my first paper (solo as well). - If I want to commit to NACL in December. Do i need ti submit to acl arr again or\u2026",
+    "score": 2.348,
+    "matched": []
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "title": "UpgradeBench: A Decision-Centric Benchmark for Upgrading Fine-Tuned LLM Specialists",
+    "url": "https://arxiv.org/abs/2608.20918",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20918v1 Announce Type: new Abstract: Organizations maintain task-specific adapters for open-weight language models, and each new base-model release forces a migration decision: retain existing specialists, port adapters, refresh from preserved behavior, or retrain. Prior transfer work evaluates isolated model pairs, without studying these choices across real model release sequences. We\u2026",
+    "score": 7.292,
+    "matched": [
+      "llm",
+      "fine-tun*",
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility",
+    "url": "https://arxiv.org/abs/2608.20418",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20418v1 Announce Type: cross Abstract: We introduce Malaria-Instruct, a curated instruction-following dataset derived from the ChEMBL Legacy Malaria corpus for Malaria virtual screening, and conduct a systematic evaluation of five open-source LLMs; Gemma-2 2B/9B, TxGemma-2B/9B, and LlaSMol-Mistral-7B, on a rigorous out-of-distribution data split. Performance was benchmarked against\u2026",
+    "score": 6.692,
+    "matched": [
+      "mistral",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources",
+    "url": "https://arxiv.org/abs/2608.20438",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20438v1 Announce Type: cross Abstract: Population-level behavior in large-language-model (LLM) agents cannot be characterized by single-agent benchmarks. We introduce PV-SST, a peer-voted social-platform testbed, and report a separately frozen, preregistered matched-exposure experiment spanning four topics, four unused seeds, four open-weight model families, and three prespecified\u2026",
+    "score": 6.692,
+    "matched": [
+      "llm",
+      "large language model",
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+    "url": "https://arxiv.org/abs/2608.20342",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's terminal-based coding agent -- pre-loaded with relevant memories compiled from the user's existing\u2026",
+    "score": 6.392,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "claude",
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
+    "url": "https://arxiv.org/abs/2608.21233",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.21233v1 Announce Type: new Abstract: The Traveling Salesman Problem (TSP) is one of the most extensively studied NP-hard optimization problems. Genetic Algorithm (GA)-based solvers, such as the Edge Assembly Crossover (EAX), achieve state-of-the-art performance on many benchmark instances. However, the scalability of these approaches in massively parallel architectures remains limited\u2026",
+    "score": 6.392,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "When Failures Propagate: Causal Failure Attribution in Agentic Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2608.20627",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20627v1 Announce Type: cross Abstract: Agentic retrieval-augmented generation (RAG) interleaves retrieval, reasoning, and answer generation across multiple hops. A retrieval error at hop 1 can surface only as a wrong answer at hop 3, while later retrieval can also repair the trajectory. This paper introduces AgenticRAG-FP, an interventional benchmark for causal failure attribution in\u2026",
+    "score": 6.392,
+    "matched": [
+      "agentic",
+      "retrieval augmented",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction",
+    "url": "https://arxiv.org/abs/2608.20656",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20656v1 Announce Type: cross Abstract: Traffic sensors commonly record flow, speed, and occupancy, but standard traffic flow forecasting benchmarks and models rarely exploit all three raw measurements reliably. Although speed and occupancy provide sensor-native traffic-state information beyond flow alone, existing releases often omit these variables, replace them with proxies, or\u2026",
+    "score": 6.392,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems",
+    "url": "https://arxiv.org/abs/2608.21095",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.21095v1 Announce Type: cross Abstract: Retrieval-Augmented Generation (RAG) grounds Large Language Model (LLM) outputs in external knowledge, but RAG systems usually trust whatever they retrieve, creating a Security-Reliability Gap: high semantic relevance does not guarantee factual truth. Adversaries exploit this through knowledge poisoning, inserting malicious documents to cause\u2026",
+    "score": 6.392,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "generative",
+      "retrieval augmented"
+    ]
+  },
+  {
+    "title": "Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks",
+    "url": "https://arxiv.org/abs/2512.03262",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2512.03262v3 Announce Type: replace-cross Abstract: Vibe coding is a new software development paradigm in which human engineers prompt a large language model (LLM) agent to complete complex coding tasks with little supervision. Although vibe coding is increasingly adopted, is the generated code really safe to deploy in production? To investigate this question, we propose SUSVIBES, a\u2026",
+    "score": 6.392,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2608.20414",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20414v1 Announce Type: new Abstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial structure from a single image remains difficult to isolate. Broad benchmarks often combine perception, optical character recognition, domain knowledge, linguistic priors, and reasoning in the same evaluation. We introduce\u2026",
+    "score": 6.092,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2608.20975",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20975v1 Announce Type: new Abstract: Effective social interaction requires agents to translate mental state inferences into coordinated behavioral signals across verbal and nonverbal channels simultaneously. Yet existing benchmarks evaluate theory of mind (ToM) reasoning and embodied behavior in isolation, leaving unmeasured the gap between social inference and social action. We\u2026",
+    "score": 6.092,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration",
+    "url": "https://arxiv.org/abs/2608.20357",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20357v1 Announce Type: cross Abstract: Deep search is brittle on underspecified user queries: missing constraints such as time, location, scope, or definitions can lead to retrieval drift and incomplete answers. We introduce Clarify-Then-Search, a benchmark for evaluating whether LLM-generated clarification questions improve downstream deep-search utility. Built on real-world query\u2026",
+    "score": 6.092,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Hadith computational science in the age of large language models: a critical narrative review",
+    "url": "https://arxiv.org/abs/2608.20364",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20364v1 Announce Type: cross Abstract: We examine how hadith computational science is being reshaped by transformer models, retrieval-grounded pipelines, and large language models (LLMs). Recent reviews document growth in the literature, but they do not yet provide a critical account of which advances are methodologically robust, which remain benchmark-bound, and which unresolved\u2026",
+    "score": 6.092,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Evaluation-as-Search: Adaptive Discovery of Grounding Failures in Meeting Assistants",
+    "url": "https://arxiv.org/abs/2608.20392",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20392v1 Announce Type: cross Abstract: LLM-powered meeting assistants are deployed at scale, yet systematic evaluation of their grounding fidelity remains limited to static benchmarks that miss failure modes tied to specific discourse structures or reasoning demands. We propose Evaluation-as-Search (EaS), a feedback-driven methodology that frames quality evaluation as an adaptive\u2026",
+    "score": 6.092,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "BC-Bench: Evaluating Agentic Engineering in a Domain-Specific Language for ERP",
+    "url": "https://arxiv.org/abs/2608.20851",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20851v1 Announce Type: cross Abstract: Agentic engineering systems have shown strong performance on general-purpose benchmarks, yet their effectiveness in enterprise resource planning (ERP) domain-specific languages (DSLs) remains underexplored. We introduce BC-Bench, a benchmark designed to evaluate agentic engineering on real-world tasks in AL, the DSL for Microsoft Dynamics 365\u2026",
+    "score": 6.092,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Fine-tuning an ECG Foundation Model to Predict Coronary CT Angiography Outcomes",
+    "url": "https://arxiv.org/abs/2512.05136",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2512.05136v4 Announce Type: replace-cross Abstract: Coronary artery disease (CAD) remains a major global public health burden, yet scalable pre-imaging risk stratification tools are limited. In this multicenter study, we developed and validated an artificial intelligence-enabled electrocardiography (AI-ECG) model using coronary computed tomographic angiography (CCTA) as the anatomical\u2026",
+    "score": 6.092,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "foundation model",
+      "fine-tun*"
+    ]
+  },
+  {
+    "title": "Valid Inference with Synthetic Data via Task Exchangeability",
+    "url": "https://arxiv.org/abs/2606.13629",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2606.13629v2 Announce Type: replace-cross Abstract: There is a proliferation of work arguing for the use of synthetic data in scientific research. For example, social scientists are arguing for the use of LLM-generated \"silicon samples\" in pilot studies; AI evaluations increasingly rely on \"LLM-as-a-judge\" outputs; and proteomics research is accelerated by generative models that produce\u2026",
+    "score": 6.092,
+    "matched": [
+      "ai",
+      "llm",
+      "generative",
+      "inference"
+    ]
+  },
+  {
+    "title": "The Metanym Game: An LLM Benchmark Without Ground Truth That Rises With the Models It Measures",
+    "url": "https://arxiv.org/abs/2606.21008",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2606.21008v3 Announce Type: replace-cross Abstract: We present evidence that analogy is at the core of LLM intelligence. In our benchmark, LLMs compete in generating sets of analogous statements and rate each other's sets on their own understandings of factual correctness, beauty, intelligence, distinctness, length, and structural diversity. Nothing enters from outside: the only given is\u2026",
+    "score": 6.092,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Looks Right, Works Right: A Project-Level Benchmark for Multi-Screen Mobile App Generation",
+    "url": "https://arxiv.org/abs/2607.28645",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2607.28645v2 Announce Type: replace-cross Abstract: Recent multimodal large language models can convert visual designs directly into executable code, but real mobile products require multiple screenshots to become a buildable codebase with shared components and working navigation. This project-level setting exposes three limits of existing design-to-code benchmarks: they focus on\u2026",
+    "score": 6.092,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment",
+    "url": "https://arxiv.org/abs/2608.21057",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.21057v1 Announce Type: new Abstract: Agentic large language model (LLM) systems are reshaping scientific workflows in chemistry and drug discovery, but evaluating their open-ended, tool-augmented outputs remains a fundamental bottleneck. Reference-based metrics such as BLEU and ROUGE fail to capture semantic correctness, while expert human evaluation does not scale to the iteration\u2026",
+    "score": 6.092,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "agentic"
+    ]
+  },
+  {
+    "title": "Multilingual Verifier Bias in RLVR: Benchmark, Rollout Diagnosis, and the Cross-Lingual Selection Bottleneck",
+    "url": "https://arxiv.org/abs/2608.20362",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20362v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) is a standard recipe for training large language models on mathematical reasoning, where an answer verifier serves as a language-neutral reward function. We show that this assumption fails in multilingual settings: an exact-match verifier turns format and script variation into\u2026",
+    "score": 6.092,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Generalization Measures under Controlled Covariate Shift: A Regime-Aware Benchmark",
+    "url": "https://arxiv.org/abs/2602.01718",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2602.01718v2 Announce Type: replace Abstract: Predicting generalization from quantities available before target-test evaluation remains a central challenge in deep learning. The systematic benchmark of Jiang et al. (2020) evaluated many generalization measures, but it focused on independent and identically distributed (IID) settings. We revisit this problem for image classifiers evaluated\u2026",
+    "score": 6.092,
+    "matched": [
+      "deep learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "STS: Efficient Sparse Attention with Speculative Token Sparsity",
+    "url": "https://arxiv.org/abs/2605.15508",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2605.15508v3 Announce Type: replace Abstract: The quadratic complexity of attention imposes severe memory and computational bottlenecks on Large Language Model (LLM) inference. This challenge is particularly acute for emerging agentic applications that require processing multi-million token sequences. We propose STS, a sparse attention mechanism that requires no model retraining. STS\u2026",
+    "score": 6.092,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "inference"
+    ]
+  },
+  {
+    "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+    "url": "https://arxiv.org/abs/2608.20379",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that orchestrate perception, memory, and decision-making around powerful LLM backbones. With the advent of large multimodal models (LMMs), these systems can process and integrate\u2026",
+    "score": 5.792,
+    "matched": [
+      "llm",
+      "agentic",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Environmental Slow AI: Design Principles for Generative Systems",
+    "url": "https://arxiv.org/abs/2608.20398",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20398v1 Announce Type: new Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines the maximalist values of current generative AI through an environmental humanities tradition and proposes design\u2026",
+    "score": 5.792,
+    "matched": [
+      "ai",
+      "generative",
+      "genai"
+    ]
+  },
+  {
+    "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2608.20549",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20549v1 Announce Type: new Abstract: Advances in multimodal large language models (MLLMs) are extending radiological artificial intelligence (AI) beyond task-specific image analysis toward multimodal understanding and reasoning. Volumetric radiology, however, presents a fundamental representational mismatch: clinical interpretation often requires full-volume spatial context and\u2026",
+    "score": 5.792,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
+    "url": "https://arxiv.org/abs/2608.20574",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20574v1 Announce Type: new Abstract: Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versioned culinary system supplies dense, executable ground truth. Each task presents eight ingredients and asks for a three-ingredient portfolio; before\u2026",
+    "score": 5.792,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents",
+    "url": "https://arxiv.org/abs/2608.20631",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20631v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated the ability to solve multi-step tasks requiring planning, tool use, and external information access, yet growing execution histories increase inference cost and expose reasoning to outdated, irrelevant, or misleading information, potentially degrading reasoning quality. Existing memory approaches\u2026",
+    "score": 5.792,
+    "matched": [
+      "llm",
+      "large language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "DreamBench-SWE: A Multi-Session Memory-Hygiene Benchmark for Software Agents",
+    "url": "https://arxiv.org/abs/2608.20664",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20664v1 Announce Type: new Abstract: DreamBench-SWE is a multi-session benchmark for software-agent memory hygiene in which later software tasks depend on non-inferable evidence from earlier sessions and are scored by executable hidden oracles. We report the original scaled v2 fold and a separately preregistered v2.1 successor audit designed after that study but frozen before successor\u2026",
+    "score": 5.792,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "CAS: Conformalized Agentic Search via Adaptive Retrieval and Policy Weighting",
+    "url": "https://arxiv.org/abs/2608.20771",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20771v1 Announce Type: new Abstract: Search Agents face a severe reliability crisis during reinforcement learning (RL) fine-tuning. Heuristic Top-K retrieval often causes critical evidence loss or noise inclusion, while over-confidence induced by progressive RL leads to hallucinated answers and redundant searches. To build highly reliable agents, we introduce Conformal Prediction (CP)\u2026",
+    "score": 5.792,
+    "matched": [
+      "agentic",
+      "fine-tun*",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "title": "MGAL: A Multilingual Granularity-Aware Long-Context Benchmark",
+    "url": "https://arxiv.org/abs/2608.20853",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20853v1 Announce Type: new Abstract: Evaluation of long-context Large Language Models (LLMs) has advanced rapidly. However, most existing benchmarks are limited to the document level and focus mainly on high-resource languages, leaving many fine-grained challenges insufficiently evaluated. To address this gap, we present MGAL, the first multilingual, granularity- and position-aware\u2026",
+    "score": 5.792,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Coverage-Driven Verification for Safety-by-Design in AI-Based Collision Avoidance Systems",
+    "url": "https://arxiv.org/abs/2608.20864",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.20864v1 Announce Type: new Abstract: Artificial Intelligence (AI) offers significant potential for future aviation systems; however, its integration into safety-critical applications requires compliance with the aviation sector's stringent safety standards. For AI and Machine Learning (ML)-based systems, the European Union Aviation Safety Agency (EASA) emphasizes the need to\u2026",
+    "score": 5.792,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "Evaluating Large Language Model Performance on International Maritime Dangerous Goods Code Compliance",
+    "url": "https://arxiv.org/abs/2608.21036",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.21036v1 Announce Type: new Abstract: The transport of dangerous goods by sea is a high-consequence activity governed by the International Maritime Dangerous Goods (IMDG) Code, a complex regulatory framework where errors in classification, packaging, stowage, or segregation can result in fire, explosion, toxic release, or loss of life or vessel. Correct compliance requires accurately\u2026",
+    "score": 5.792,
+    "matched": [
+      "large language model"
+    ]
+  },
+  {
+    "title": "CellPath-Bench: A Multidimensional Benchmark for Whole-Slide Cellular Representations in Pathology Foundation Models",
+    "url": "https://arxiv.org/abs/2608.21060",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.21060v1 Announce Type: new Abstract: Pathology foundation models (PFMs) are increasingly used as general-purpose backbones, yet existing benchmarks cannot systematically diagnose their whole-slide cellular representation capabilities, including the decodability of cell-type information and the transferability of such information across tissue sections, datasets, and anatomical organs.\u2026",
+    "score": 5.792,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
+    "url": "https://arxiv.org/abs/2608.21317",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-24T04:00:00+00:00",
+    "summary": "arXiv:2608.21317v1 Announce Type: new Abstract: The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regulations. While new regulation requirements vary, many include a documentation artifact to ensure compliance. Notably, the Ecodesign for Sustainable Products Regulation (ESPR) introduces Digital Product Passports (DPPs) for life cycle\u2026",
+    "score": 5.792,
+    "matched": [
+      "llm"
+    ]
+  }
+]

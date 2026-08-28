@@ -1,0 +1,465 @@
+[
+  {
+    "title": "Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes",
+    "url": "https://arxiv.org/abs/2601.07737",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2601.07737v3 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have demonstrated remarkable performance in mainstream visual understanding tasks, but their ability to process action scenes that contradict everyday common sense remains undertested. To address this gap, we introduce CAIT, a benchmark comprising 400 high-fidelity synthetic scenes focused on\u2026",
+    "score": 6.705,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+    "url": "https://arxiv.org/abs/2608.23569",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23569v1 Announce Type: new Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these benchmarks rely on simplified academic schemas and open-source SQL dialects that do not reflect the complexity of enterprise database environments. We introduce ESQ-Bench, an\u2026",
+    "score": 6.405,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Beyond Accuracy: A Dual-Judge Evaluation Protocol for Vision-Language Models in Legally Grounded Tasks",
+    "url": "https://arxiv.org/abs/2608.24258",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24258v1 Announce Type: new Abstract: AI systems are increasingly evaluated for legally accountable settings, where correct outputs must also be justifiable against an applicable legal standard. Existing legal-AI benchmarks and LLM-as-judge protocols provide important infrastructure for measuring task performance and open-ended response quality. We contribute one additional evaluation\u2026",
+    "score": 6.405,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight",
+    "url": "https://arxiv.org/abs/2608.24314",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24314v1 Announce Type: new Abstract: Evaluating conversational voice agents at scale re- quires reliable assessment methods that capture both observ- able interaction quality and the contextual judgment typically provided by human evaluators. We investigate LLM-as-a-Judge evaluation by comparing human judgments with GPT-4.1 and GPT-5 on telecom and retail voice-agent conversations,\u2026",
+    "score": 6.405,
+    "matched": [
+      "llm",
+      "gpt",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Optimizing Expert-Designed Crystal Graph Networks for Band-Gap Prediction with an Autonomous LLM Research Loop",
+    "url": "https://arxiv.org/abs/2606.29717",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2606.29717v3 Announce Type: replace-cross Abstract: Predicting a material's properties from its structure is a central, fast-advancing problem in computational materials science. A decade of work has produced standard public benchmarks and many published machine-learning models for the task (Dunn et al., 2020). The task's fixed metric and these baselines make it a natural setting for\u2026",
+    "score": 6.405,
+    "matched": [
+      "machine learning",
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology",
+    "url": "https://arxiv.org/abs/2607.19261",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2607.19261v4 Announce Type: replace-cross Abstract: Whole-slide image (WSI) diagnosis requires identifying diagnostically relevant regions, examining them across magnifications, and integrating multi-scale evidence. However, most pathology benchmarks evaluate models on pre-cropped patches or pre-extracted slide features, leaving their ability to acquire evidence from gigapixel WSIs largely\u2026",
+    "score": 6.405,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-08-26T07:01:00+00:00",
+    "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in\u2026",
+    "score": 6.182,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "url": "https://arxiv.org/abs/2608.23568",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, typed record, or raw excerpt. We introduce RENDER, a benchmark control that fixes the conversation while varying the reader-facing artifact. RENDER combines a five-level packet\u2026",
+    "score": 6.105,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Recursive Agentic Reasoning",
+    "url": "https://arxiv.org/abs/2608.23956",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23956v1 Announce Type: new Abstract: Test-time reasoning methods such as iterative refinement, decomposition, and repeated sampling are often evaluated in isolation, making their gains difficult to compare across models, benchmarks, and evaluation pipelines. We introduce a unified view of these methods as recursion operators over an agent's reasoning trace: GROW, which deepens a single\u2026",
+    "score": 6.105,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals",
+    "url": "https://arxiv.org/abs/2608.24086",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24086v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as code agents for scientific and engineering analysis, but their ability to analyze raw physical-layer measurements remains untested. We introduce \\textbf{EMRB} (\\textbf{E}lectro\\textbf{m}agnetic \\textbf{R}easoning \\textbf{B}enchmark), which evaluates whether LLMs can analyze raw I/Q data by\u2026",
+    "score": 6.105,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses",
+    "url": "https://arxiv.org/abs/2608.24160",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24160v1 Announce Type: new Abstract: Multimodal understanding models that can jointly judge text-to-image (T2I), text-to-video (T2V) and text-to-speech (TTS) generation are increasingly used as \"OmniJudges\" for evaluation and automatic annotation. How reliably they understand what they score remains unclear, since existing benchmarks and training data tend to overemphasize positive\u2026",
+    "score": 6.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "SA-Bench: Evaluating Semantic Alignment in LLM-Based Paper Reproduction",
+    "url": "https://arxiv.org/abs/2608.24252",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24252v1 Announce Type: new Abstract: LLM agents can generate paper reproduction code, yet often produce scientifically unfaithful implementations. We define this failure mode as semantic drift, where generated code silently diverges from the paper's specifications. We introduce SemanticAlign-Bench(SA-Bench), a diagnostic benchmark covering 30 papers from ICLR, ICML and NeurIPS 2025.\u2026",
+    "score": 6.105,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "VideoHarness-RSI: Recursive Harness Self-Improvement for Long-Video Understanding with Frozen Vision-Language Models",
+    "url": "https://arxiv.org/abs/2608.24302",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24302v1 Announce Type: new Abstract: Long-video understanding depends critically on how a limited model context is constructed from a much longer video. Existing approaches improve this process through compression, retrieval, memory, and agentic evidence acquisition, but these mechanisms are typically introduced as part of a manually designed inference system or optimized together with\u2026",
+    "score": 6.105,
+    "matched": [
+      "agentic",
+      "inference"
+    ]
+  },
+  {
+    "title": "PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents",
+    "url": "https://arxiv.org/abs/2608.24509",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24509v1 Announce Type: new Abstract: LLM agents increasingly solve tasks by invoking multiple tools, where parallel execution is essential for low latency but difficult to manage safely. Existing agent benchmarks primarily evaluate tool selection, argument generation, and end-to-end success under mostly serial execution, largely overlooking valid parallelization and\u2026",
+    "score": 6.105,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Rebuild Dossier: Mechanically-Enforced Specs for Agentic App Rebuilds, and What Model-Tier Failures Reveal",
+    "url": "https://arxiv.org/abs/2608.23616",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23616v1 Announce Type: cross Abstract: An AI agent's rebuild is only as good as the process that produced it. Prior work found that once a model is strong enough, a multi-agent rebuild pipeline loses to the simplest approach: giving the model the original code and one instruction (AgentModernize). We present rebuild-dossier, an open-source tool that locks an application's real\u2026",
+    "score": 6.105,
+    "matched": [
+      "ai",
+      "agentic"
+    ]
+  },
+  {
+    "title": "Beyond Executable Models: The Pufibara Agent Harness and the Modelica Agent Workflow Benchmark for Physical System Modeling",
+    "url": "https://arxiv.org/abs/2608.23653",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23653v1 Announce Type: cross Abstract: AI agents are increasingly used for simulation-driven engineering. Physical system modeling presents different requirements from general-purpose code generation in software engineering, because correctness depends not only on syntax and executability but also on physical consistency and scenario-dependent behavior. We study this challenge in\u2026",
+    "score": 6.105,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "From Causal Plausibility to Causal Reliability: Evaluating LLMs as Calibrated Direct Causal-Edge Classifiers",
+    "url": "https://arxiv.org/abs/2608.23660",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23660v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to provide prior causal knowledge for structural causal discovery, yet whether their direct-edge judgments and confidence can be trusted remains unclear. We systematically evaluate 12 instruction-tuned open-weight models across six benchmark causal graphs, five prompting strategies, and four\u2026",
+    "score": 6.105,
+    "matched": [
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers",
+    "url": "https://arxiv.org/abs/2608.23763",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23763v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) has emerged as the standard layer connecting Large Language Model agents to external tool backends. This openness introduces a severe server-side threat we term TrustShift: a compromised MCP server behaves benignly during an initial conditioning phase, building operational reliance and suppressing agent skepticism,\u2026",
+    "score": 6.105,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology",
+    "url": "https://arxiv.org/abs/2608.23803",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23803v1 Announce Type: cross Abstract: Lung cancer tissue diagnostics is complex, as therapy decisions in precision oncology rely on the integration of histomorphological, immunohistochemical, and molecular features. Yet pathological assessment remains largely visual and semi-quantitative and shows interobserver variability, while existing artificial intelligence (AI) tools cover only\u2026",
+    "score": 6.105,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "agentic",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "ShardMeter: Sharded and Geo-Distributed Training Without the Guesswork",
+    "url": "https://arxiv.org/abs/2608.23840",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.23840v1 Announce Type: cross Abstract: Training large-scale AI models often outgrows a single data center, demanding sharded, multi-cluster, and decentralized training. However, the huge space of resource allocations makes exhaustive benchmarking and manual tuning impractical, while performance depends on tightly coupled factors like model size, GPU memory, batch size, bandwidth, and\u2026",
+    "score": 6.105,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection",
+    "url": "https://arxiv.org/abs/2608.24191",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24191v1 Announce Type: cross Abstract: Urdu, the world's tenth most spoken language with 246 million speakers, remains almost entirely absent from mainstream LLM safety evaluation and nine years of WOAH proceedings. To investigate whether this absence has measurable consequences for content moderation reliability, five large language models, GPT-4o, Claude Sonnet 4.5, Gemini 2.5 Flash,\u2026",
+    "score": 6.105,
+    "matched": [
+      "llm",
+      "gpt",
+      "claude",
+      "gemini"
+    ]
+  },
+  {
+    "title": "Evaluating Deep Multivariate Imputation Models on Wearable Device Data",
+    "url": "https://arxiv.org/abs/2608.24436",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24436v1 Announce Type: cross Abstract: Wearable device data enables continuous health monitoring, but suffers from structured missingness: features sharing a physical sensor drop out together. Deep imputation methods such as BRITS and SAITS have seen limited evaluation on multimodal physiological data under realistic missingness, and existing benchmarks use random-point holdout\u2026",
+    "score": 6.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "FraudBench: Protocol-Sensitive Benchmarking of Adversarial Robustness for Financial Risk Assessment",
+    "url": "https://arxiv.org/abs/2608.24551",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24551v1 Announce Type: cross Abstract: Machine learning models are widely used in financial fraud and credit-risk detection, yet their adversarial robustness remains difficult to evaluate because financial tabular data involve domain-specific constraints, severe class imbalance, and asymmetric attacker capability. We argue that, in this setting, robustness is not only an attribute of\u2026",
+    "score": 6.105,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "PHMForge: Evaluating LLM Agents on Industrial Prognostics through MCP-Native, Algorithm-Grounded Tools",
+    "url": "https://arxiv.org/abs/2604.01532",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2604.01532v3 Announce Type: replace Abstract: LLM agents are beginning to invoke industrial asset-management tools through the Model Context Protocol (MCP), yet whether they can act reliably on this substrate for safety-critical \\emph{Prognostics and Health Management (PHM)} is unanswered. Prior benchmarks conflate protocol fluency with reasoning, instrumentation failures with agent\u2026",
+    "score": 6.105,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams",
+    "url": "https://arxiv.org/abs/2604.15994",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2604.15994v3 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) excel at recognizing individual visual elements and reasoning over simple linear diagrams. However, when faced with complex topological structures involving branching paths, converging flows, and cyclic dependencies, their reasoning capabilities degrade sharply, even on tasks as basic as counting\u2026",
+    "score": 6.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "TangramPuzzle: Evaluating Multimodal Large Language Models with Compositional Spatial Reasoning",
+    "url": "https://arxiv.org/abs/2601.16520",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2601.16520v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have achieved remarkable progress in visual recognition and semantic understanding, yet precise compositional spatial reasoning under geometric constraints remains underexplored. Existing benchmarks mainly assess coarse spatial relations and rarely support rigorous geometric verification or multiple\u2026",
+    "score": 6.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility",
+    "url": "https://arxiv.org/abs/2601.17027",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2601.17027v2 Announce Type: replace-cross Abstract: While synthetic data has proven effective for improving scientific reasoning in the text domain, multimodal reasoning remains constrained by the difficulty of synthesizing scientifically rigorous images. Existing Text-to-Image (T2I) models often produce outputs that are visually plausible yet scientifically incorrect, resulting in a\u2026",
+    "score": 6.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ER-KANs: Efficient and Robust Kolmogorov-Arnold Networks for Data-Scarce Scientific Machine Learning",
+    "url": "https://arxiv.org/abs/2608.14773",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.14773v2 Announce Type: replace-cross Abstract: The efficient-KAN literature---covering Chebyshev, wavelet, and radial-basis-function variants of the original Kolmogorov-Arnold Network---has been benchmarked almost entirely on clean data. We show that this choice conceals a large capability difference between architectures: ChebyKAN's test MSE (evaluated against clean ground truth)\u2026",
+    "score": 6.105,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation",
+    "url": "https://arxiv.org/abs/2608.24479",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.24479v1 Announce Type: new Abstract: Massively parallel simulation changes the data regime in which off-policy reinforcement learning (RL) is trained, challenging stabilizers designed for data-limited replay. Through controlled experiments across eight benchmark families, we show that these stabilizers are data-regime-dependent: parameter normalization helps with narrow replay coverage\u2026",
+    "score": 6.105,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Massive-STEPS: Massive Semantic Trajectories for Understanding POI Check-ins -- Dataset and Benchmarks",
+    "url": "https://arxiv.org/abs/2505.11239",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2505.11239v4 Announce Type: replace Abstract: Understanding human mobility through Point-of-Interest (POI) trajectory modeling is increasingly important for applications such as urban planning, personalized services, and generative agent simulation. However, progress in this field is hindered by two key challenges: the over-reliance on older datasets from 2012-2013 and the lack of\u2026",
+    "score": 6.105,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs",
+    "url": "https://arxiv.org/abs/2510.01527",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2510.01527v2 Announce Type: replace Abstract: Large Language Models (LLMs) are emerging as versatile foundation models for computational chemistry, handling bidirectional tasks like reaction prediction and retrosynthesis. However, these models often lack round-trip consistency. For instance, a state-of-the-art chemical LLM may successfully caption a molecule, yet be unable to accurately\u2026",
+    "score": 6.105,
+    "matched": [
+      "llm",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "title": "Contextual Online Uncertainty-Aware Preference Learning for Human Feedback",
+    "url": "https://arxiv.org/abs/2504.19342",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2504.19342v4 Announce Type: replace-cross Abstract: Reinforcement Learning from Human Feedback (RLHF) has become a pivotal paradigm in artificial intelligence to align large models with human preferences. In this paper, we propose a novel statistical framework to simultaneously conduct the online decision-making and statistical inference on the optimal model using human preference data\u2026",
+    "score": 6.105,
+    "matched": [
+      "artificial intelligence",
+      "reinforcement learning",
+      "rlhf",
+      "inference"
+    ]
+  },
+  {
+    "title": "MPIB: A Benchmark for Medical Prompt Injection Attacks and Clinical Safety in LLMs",
+    "url": "https://arxiv.org/abs/2602.06268",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2602.06268v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems are increasingly integrated into clinical workflows. However, prompt injection attacks can steer these systems toward clinically unsafe or misleading outputs. We introduce the Medical Prompt Injection Benchmark (MPIB), a dataset-and-benchmark suite for evaluating\u2026",
+    "score": 6.105,
+    "matched": [
+      "retrieval augmented",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "L\\\"etzCross: A Cross-Lingual Page-Level Benchmark for Multimodal Retrieval over Luxembourgish Documents",
+    "url": "https://arxiv.org/abs/2608.21714",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.21714v1 Announce Type: new Abstract: Recent page-image retrievers such as ColPali have improved retrieval over visually rich documents, yet little is known about how they behave in cross-lingual, low-resource settings. We introduce L\\\"etzCross, a benchmark for cross-lingual page-level retrieval over Luxembourgish PDF documents, with document pages indexed as images and queries provided\u2026",
+    "score": 6.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2608.21808",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-26T04:00:00+00:00",
+    "summary": "arXiv:2608.21808v1 Announce Type: new Abstract: Multimodal Retrieval-Augmented Generation (RAG) with visual citation is crucial for ensuring the traceability and verifiability of MLLMs. However, current RAG and SFT-based methods struggle to achieve robust cross-modal reasoning, causing imprecise visual citations or decoupling between the citation and the generated answers. To address these\u2026",
+    "score": 6.105,
+    "matched": [
+      "agentic",
+      "retrieval augmented",
+      "multimodal",
+      "reinforcement learning"
+    ]
+  }
+]
