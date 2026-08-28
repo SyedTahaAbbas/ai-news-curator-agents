@@ -2,8 +2,13 @@
 """
 AI News Update
 ==============
-Collects AI news every day from public RSS/Atom feeds, ranks it, renders a
-digest, and emails it.
+A 3-stage pipeline that collects AI news daily, ranks it, writes commentary,
+and emails a digest:
+
+    agents/gatherer.py  - fetch raw items from every feed in sources.yaml
+    agents/analyst.py   - filter, score, dedupe, check against .seen.json
+    agents/writer.py    - optional LLM commentary at two levels (simple + deep)
+    ai_news.py           - render + deliver (this file), and the orchestrator
 
 No Twitter/X scraping: X requires login for search and actively blocks
 automated clients, so anonymous scraping is both unreliable and against their
@@ -12,12 +17,23 @@ HN/Reddit) without auth, cost, or breakage.
 
 Usage
 -----
+Local/Docker (runs all three stages in-process, in memory - same as always):
+
     python ai_news.py                     # collect last 24h, write digest, email it
     python ai_news.py --hours 48          # widen the window
     python ai_news.py --no-email          # write files only
     python ai_news.py --dry-run           # print to stdout, write nothing
     python ai_news.py --check-feeds       # health-check every source and exit
     python ai_news.py --max-items 40      # cap digest length
+    python ai_news.py --no-commentary     # skip the LLM voice layer
+
+Each stage independently (what the GitHub Actions workflow runs, one stage
+per step, passing a JSON file between them):
+
+    python -m agents.gatherer --out raw.json
+    python -m agents.analyst  --in raw.json --out ranked.json
+    python -m agents.writer   --in ranked.json --out-simple simple.md --out-deep deep.md
+    python ai_news.py deliver --in ranked.json --simple simple.md --deep deep.md
 
 Environment (see .env.example)
 ------------------------------
@@ -27,23 +43,12 @@ Environment (see .env.example)
 from __future__ import annotations
 
 import argparse
-import concurrent.futures
-import hashlib
 import html
 import json
-import os
 import re
-import socket
 import sys
-import time
-from dataclasses import dataclass, field, asdict
-from datetime import datetime, timedelta, timezone
-from functools import lru_cache
+from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Iterable
-
-import feedparser
-import yaml
 
 try:  # optional: load a local .env when present
     from dotenv import load_dotenv
@@ -52,320 +57,12 @@ try:  # optional: load a local .env when present
 except Exception:  # pragma: no cover - dotenv is optional
     pass
 
+from agents import analyst, gatherer, writer
 from emailer import send_digest_email
-from summarizer import write_commentary
+from models import Item, load_config
 
 ROOT = Path(__file__).resolve().parent
-SOURCES_FILE = ROOT / "sources.yaml"
 DIGEST_DIR = ROOT / "see news"
-STATE_FILE = ROOT / ".seen.json"
-
-USER_AGENT = (
-    "Mozilla/5.0 (compatible; AINewsUpdate/1.0; "
-    "+https://github.com/) python-feedparser"
-)
-FETCH_TIMEOUT = 25
-MAX_WORKERS = 12
-SEEN_RETENTION_DAYS = 30
-
-# feedparser has no per-call timeout argument, so a hung feed connection would
-# otherwise block its worker thread forever - and since a stuck feed also
-# blocks ThreadPoolExecutor.map()'s in-order iteration, that can stall the
-# entire run. This process-wide socket default is the standard fix.
-socket.setdefaulttimeout(FETCH_TIMEOUT)
-
-
-# ---------------------------------------------------------------------------
-# Data model
-# ---------------------------------------------------------------------------
-
-
-@dataclass
-class Item:
-    title: str
-    url: str
-    source: str
-    category: str
-    published: datetime
-    summary: str = ""
-    score: float = 0.0
-    matched: list[str] = field(default_factory=list)
-
-    @property
-    def uid(self) -> str:
-        """Stable id: canonical URL if we have one, else a title hash."""
-        key = canonical_url(self.url) or self.title.lower().strip()
-        return hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
-
-    def to_json(self) -> dict[str, Any]:
-        d = asdict(self)
-        d["published"] = self.published.isoformat()
-        return d
-
-
-# ---------------------------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------------------------
-
-_TRACKING_PARAMS = re.compile(
-    r"(?:^|&)(utm_[^=]+|ref|ref_src|source|fbclid|gclid|mc_cid|mc_eid)=[^&]*"
-)
-_TAG_RE = re.compile(r"<[^>]+>")
-_WS_RE = re.compile(r"\s+")
-
-
-def canonical_url(url: str) -> str:
-    """Strip tracking params and trailing slashes so the same story dedups."""
-    if not url:
-        return ""
-    url = url.split("#", 1)[0]
-    if "?" in url:
-        base, _, query = url.partition("?")
-        query = _TRACKING_PARAMS.sub("", query).strip("&")
-        url = f"{base}?{query}" if query else base
-    return url.rstrip("/").lower()
-
-
-def clean_text(raw: str, limit: int = 400) -> str:
-    """Feed summaries are full of markup and whitespace. Flatten them."""
-    if not raw:
-        return ""
-    text = _TAG_RE.sub(" ", raw)
-    text = html.unescape(text)
-    text = _WS_RE.sub(" ", text).strip()
-    if len(text) > limit:
-        text = text[:limit].rsplit(" ", 1)[0] + "…"
-    return text
-
-
-def parse_date(entry: Any) -> datetime | None:
-    for key in ("published_parsed", "updated_parsed", "created_parsed"):
-        parsed = entry.get(key)
-        if parsed:
-            try:
-                return datetime.fromtimestamp(time.mktime(parsed), tz=timezone.utc)
-            except (ValueError, OverflowError, TypeError):
-                continue
-    return None
-
-
-def load_config(path: Path = SOURCES_FILE) -> dict[str, Any]:
-    with path.open("r", encoding="utf-8") as fh:
-        cfg = yaml.safe_load(fh) or {}
-    cfg.setdefault("feeds", [])
-    cfg.setdefault("keywords", [])
-    cfg.setdefault("boost_terms", [])
-    cfg.setdefault("mute_terms", [])
-    return cfg
-
-
-# ---------------------------------------------------------------------------
-# Fetching
-# ---------------------------------------------------------------------------
-
-
-def fetch_feed(feed: dict[str, Any]) -> tuple[dict[str, Any], list[Item], str | None]:
-    """Fetch one feed. Never raises - a dead source must not kill the run."""
-    name = feed.get("name", feed.get("url", "unknown"))
-    url = feed.get("url", "")
-    category = feed.get("category", "Uncategorised")
-
-    try:
-        parsed = feedparser.parse(url, agent=USER_AGENT)
-    except Exception as exc:  # network, DNS, malformed XML, anything
-        return feed, [], f"{type(exc).__name__}: {exc}"
-
-    status = getattr(parsed, "status", None)
-    if status and status >= 400:
-        return feed, [], f"HTTP {status}"
-    if not parsed.entries:
-        bozo = getattr(parsed, "bozo_exception", None)
-        return feed, [], f"no entries ({bozo})" if bozo else "no entries"
-
-    items: list[Item] = []
-    for entry in parsed.entries:
-        link = entry.get("link") or ""
-        title = clean_text(entry.get("title", ""), limit=300)
-        if not title or not link:
-            continue
-        summary = clean_text(
-            entry.get("summary") or entry.get("description") or "", limit=400
-        )
-        published = parse_date(entry) or datetime.now(timezone.utc)
-        items.append(
-            Item(
-                title=title,
-                url=link,
-                source=name,
-                category=category,
-                published=published,
-                summary=summary,
-            )
-        )
-    return feed, items, None
-
-
-def collect(cfg: dict[str, Any]) -> tuple[list[Item], dict[str, str]]:
-    """Fetch all feeds in parallel. Returns (items, {feed_name: error})."""
-    items: list[Item] = []
-    errors: dict[str, str] = {}
-    feeds = cfg["feeds"]
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        for feed, got, err in pool.map(fetch_feed, feeds):
-            if err:
-                errors[feed.get("name", feed.get("url", "?"))] = err
-            items.extend(got)
-    return items, errors
-
-
-# ---------------------------------------------------------------------------
-# Filtering, scoring, dedup
-# ---------------------------------------------------------------------------
-
-
-@lru_cache(maxsize=512)
-def term_pattern(term: str) -> re.Pattern[str]:
-    """Word-boundary matcher for a keyword phrase.
-
-    Substring matching is too loose: 'ai' would fire on 'said', 'rag' on
-    'fragment'. Boundaries keep 'AI', "AI's" and 'AI-powered' matching while
-    ignoring the middle of unrelated words. A trailing '*' means prefix match
-    (e.g. 'fine-tun*' covers tune/tuned/tuning).
-    """
-    term = term.strip().lower()
-    prefix = term.endswith("*")
-    core = term[:-1] if prefix else term
-    escaped = r"[\s\-]+".join(re.escape(part) for part in core.split())
-    tail = r"\w*" if prefix else r"\b"
-    return re.compile(rf"\b{escaped}{tail}", re.IGNORECASE)
-
-
-def matches_keywords(item: Item, keywords: Iterable[str]) -> list[str]:
-    haystack = f"{item.title}. {item.summary}"
-    return [kw for kw in keywords if term_pattern(kw).search(haystack)]
-
-
-def score_item(item: Item, feed_weight: float, cfg: dict[str, Any], now: datetime) -> float:
-    """Higher is better. Recency dominates, then source weight, then topic hits."""
-    age_hours = max((now - item.published).total_seconds() / 3600.0, 0.0)
-    recency = max(0.0, 24.0 - age_hours) / 24.0  # 1.0 fresh -> 0.0 at 24h
-
-    text = f"{item.title}. {item.summary}"
-    boosts = sum(1 for t in cfg["boost_terms"] if term_pattern(t).search(text))
-    mutes = sum(1 for t in cfg["mute_terms"] if term_pattern(t).search(text))
-
-    score = (
-        feed_weight * 2.0
-        + recency * 3.0
-        + min(len(item.matched), 5) * 0.3
-        + min(boosts, 3) * 0.6
-        - mutes * 3.0
-    )
-    return round(score, 3)
-
-
-_STOPWORDS = {
-    "a", "an", "the", "and", "or", "of", "for", "to", "in", "on", "with",
-    "is", "are", "as", "at", "by", "its", "it", "new", "this", "that",
-}
-NEAR_DUP_THRESHOLD = 0.75
-
-
-def title_tokens(title: str) -> frozenset[str]:
-    words = re.sub(r"[^a-z0-9 ]", " ", title.lower()).split()
-    return frozenset(w for w in words if w not in _STOPWORDS and len(w) > 2)
-
-
-def jaccard(a: frozenset[str], b: frozenset[str]) -> float:
-    if not a or not b:
-        return 0.0
-    return len(a & b) / len(a | b)
-
-
-def dedupe(items: list[Item]) -> list[Item]:
-    """Same story from several outlets: keep the highest-scoring copy.
-
-    Two passes: exact (canonical URL / title hash), then near-duplicate
-    headlines via Jaccard overlap of significant title words, so
-    "X unveils weather model" and "X unveils weather model system" collapse.
-    """
-    best: dict[str, Item] = {}
-    for item in items:
-        key = item.uid
-        if key not in best or item.score > best[key].score:
-            best[key] = item
-
-    # Highest score first so the winner of each cluster is kept.
-    candidates = sorted(best.values(), key=lambda i: -i.score)
-    kept: list[tuple[frozenset[str], Item]] = []
-    for item in candidates:
-        tokens = title_tokens(item.title)
-        if any(jaccard(tokens, seen) >= NEAR_DUP_THRESHOLD for seen, _ in kept):
-            continue
-        kept.append((tokens, item))
-    return [item for _, item in kept]
-
-
-def load_seen() -> dict[str, str]:
-    if not STATE_FILE.exists():
-        return {}
-    try:
-        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
-    except (json.JSONDecodeError, OSError):
-        return {}
-
-
-def save_seen(seen: dict[str, str]) -> None:
-    cutoff = datetime.now(timezone.utc) - timedelta(days=SEEN_RETENTION_DAYS)
-    pruned = {}
-    for uid, iso in seen.items():
-        try:
-            if datetime.fromisoformat(iso) >= cutoff:
-                pruned[uid] = iso
-        except ValueError:
-            continue
-    STATE_FILE.write_text(json.dumps(pruned, indent=0), encoding="utf-8")
-
-
-def build_digest(
-    cfg: dict[str, Any],
-    items: list[Item],
-    hours: int,
-    max_items: int,
-    skip_seen: bool = True,
-) -> list[Item]:
-    now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(hours=hours)
-    weights = {f.get("name"): float(f.get("weight", 1.0)) for f in cfg["feeds"]}
-    always = {f.get("name") for f in cfg["feeds"] if f.get("always")}
-    keywords = cfg["keywords"]
-
-    kept: list[Item] = []
-    for item in items:
-        if item.published < cutoff:
-            continue
-        if item.source in always:
-            item.matched = matches_keywords(item, keywords)
-        else:
-            item.matched = matches_keywords(item, keywords)
-            if not item.matched:
-                continue
-        item.score = score_item(item, weights.get(item.source, 1.0), cfg, now)
-        kept.append(item)
-
-    kept = dedupe(kept)
-
-    if skip_seen:
-        seen = load_seen()
-        fresh = [i for i in kept if i.uid not in seen]
-        # if everything was already sent, fall back to the full set rather
-        # than mailing an empty digest
-        kept = fresh or kept
-
-    kept.sort(key=lambda i: (-i.score, -i.published.timestamp()))
-    return kept[:max_items]
-
 
 # ---------------------------------------------------------------------------
 # Rendering
@@ -396,7 +93,8 @@ def render_markdown(
     items: list[Item],
     hours: int,
     errors: dict[str, str],
-    commentary: str | None = None,
+    simple_commentary: str | None = None,
+    deep_commentary: str | None = None,
 ) -> str:
     today = datetime.now(timezone.utc)
     lines = [
@@ -407,8 +105,13 @@ def render_markdown(
         "",
     ]
 
-    if commentary:
-        lines += [commentary.strip(), "", "---", "", "## All stories", ""]
+    has_commentary = bool(simple_commentary or deep_commentary)
+    if simple_commentary:
+        lines += [simple_commentary.strip(), ""]
+    if deep_commentary:
+        lines += [deep_commentary.strip(), ""]
+    if has_commentary:
+        lines += ["---", "", "## All stories", ""]
 
     if not items:
         lines += ["Nothing crossed the threshold today.", ""]
@@ -518,7 +221,8 @@ def render_html(
     items: list[Item],
     hours: int,
     errors: dict[str, str],
-    commentary: str | None = None,
+    simple_commentary: str | None = None,
+    deep_commentary: str | None = None,
 ) -> str:
     today = datetime.now(timezone.utc)
     esc = html.escape
@@ -538,11 +242,15 @@ def render_html(
         f"{today:%A, %d %B %Y} &middot; {len(items)} stories from the last {hours}h</p>",
     ]
 
-    if commentary:
+    has_commentary = bool(simple_commentary or deep_commentary)
+    if has_commentary:
+        commentary_html = markdown_to_html((simple_commentary or "").strip())
+        if deep_commentary:
+            commentary_html += markdown_to_html(deep_commentary.strip())
         parts.append(
             "<div style=\"background:#fafafa;border-left:3px solid #6366f1;"
             "border-radius:0 6px 6px 0;padding:4px 18px 10px;margin:0 0 26px;\">"
-            + markdown_to_html(commentary)
+            + commentary_html
             + "</div>"
         )
         parts.append(
@@ -596,29 +304,124 @@ def render_html(
 
 
 # ---------------------------------------------------------------------------
-# Feed health check
+# Delivery (render, write files, email, mark seen)
 # ---------------------------------------------------------------------------
 
 
-def check_feeds(cfg: dict[str, Any]) -> int:
-    print(f"Checking {len(cfg['feeds'])} feeds\n")
-    ok = dead = 0
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
-        for feed, items, err in pool.map(fetch_feed, cfg["feeds"]):
-            name = feed.get("name", "?")
-            if err:
-                dead += 1
-                print(f"  DEAD  {name:<30} {err}")
-            else:
-                ok += 1
-                print(f"  OK    {name:<30} {len(items):>3} items")
-    print(f"\n{ok} healthy, {dead} unreachable")
-    return 0 if ok else 1
+def _write_digest_files(items: list[Item], markdown: str) -> None:
+    DIGEST_DIR.mkdir(parents=True, exist_ok=True)
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    md_path = DIGEST_DIR / f"{stamp}.md"
+    json_path = DIGEST_DIR / f"{stamp}.json"
+    md_path.write_text(markdown, encoding="utf-8")
+    json_path.write_text(
+        json.dumps([i.to_json() for i in items], indent=2), encoding="utf-8"
+    )
+    (ROOT / "latest.md").write_text(markdown, encoding="utf-8")
+    print(f"Wrote {md_path.relative_to(ROOT)} and {json_path.relative_to(ROOT)}")
+
+
+def _send_email(
+    items: list[Item],
+    hours: int,
+    errors: dict[str, str],
+    markdown: str,
+    simple_commentary: str | None,
+    deep_commentary: str | None,
+) -> None:
+    subject = f"AI News Update - {datetime.now(timezone.utc):%d %b %Y} ({len(items)} stories)"
+    sent = send_digest_email(
+        subject=subject,
+        html_body=render_html(items, hours, errors, simple_commentary, deep_commentary),
+        text_body=markdown,
+    )
+    if not sent:
+        print("Email not sent (see message above).", file=sys.stderr)
+
+
+def _mark_seen(items: list[Item]) -> None:
+    now_iso = datetime.now(timezone.utc).isoformat()
+    seen = analyst.load_seen()
+    seen.update({i.uid: now_iso for i in items})
+    analyst.save_seen(seen)
+
+
+def _read_optional(path: str) -> str | None:
+    p = Path(path)
+    if not p.exists():
+        return None
+    text = p.read_text(encoding="utf-8").strip()
+    return text or None
 
 
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
+
+
+def _run(args: argparse.Namespace) -> int:
+    """Full pipeline, in-process, no intermediate files - the local/Docker path."""
+    cfg = load_config()
+
+    if args.check_feeds:
+        return gatherer.check_feeds(cfg)
+
+    raw, errors = gatherer.collect(cfg)
+    print(f"Fetched {len(raw)} raw items; {len(errors)} feed(s) unreachable.")
+
+    items = analyst.build_digest(
+        cfg, raw, args.hours, args.max_items, skip_seen=not args.include_seen
+    )
+    print(f"{len(items)} items in today's digest.")
+
+    if args.no_commentary:
+        simple_commentary, deep_commentary = None, None
+    else:
+        simple_commentary = writer.write_simple_summary(items)
+        deep_commentary = writer.write_deep_dive(items)
+
+    markdown = render_markdown(items, args.hours, errors, simple_commentary, deep_commentary)
+
+    if args.dry_run:
+        print("\n" + markdown)
+        return 0
+
+    _write_digest_files(items, markdown)
+
+    if not args.no_email:
+        _send_email(items, args.hours, errors, markdown, simple_commentary, deep_commentary)
+
+    _mark_seen(items)
+    return 0
+
+
+def _cmd_deliver(args: argparse.Namespace) -> int:
+    """Render the analyst's + writer's output into a digest, write it, email it.
+
+    This is the last of the four CI steps - what `_run()` does after the
+    write stage, but reading everything from files instead of holding it in
+    memory, so it can be its own GitHub Actions step.
+    """
+    ranked = json.loads(Path(args.input).read_text(encoding="utf-8"))
+    items = [Item.from_dict(d) for d in ranked["items"]]
+    errors = ranked.get("errors", {})
+
+    simple_commentary = _read_optional(args.simple)
+    deep_commentary = _read_optional(args.deep)
+
+    markdown = render_markdown(items, args.hours, errors, simple_commentary, deep_commentary)
+
+    if args.dry_run:
+        print("\n" + markdown)
+        return 0
+
+    _write_digest_files(items, markdown)
+
+    if not args.no_email:
+        _send_email(items, args.hours, errors, markdown, simple_commentary, deep_commentary)
+
+    _mark_seen(items)
+    return 0
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -634,55 +437,25 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="skip the LLM voice layer even if an API key is set",
     )
+
+    sub = ap.add_subparsers(dest="command")
+    p_deliver = sub.add_parser(
+        "deliver",
+        help="render the analyst+writer output into a digest, write it, and email it "
+        "(the last of the four CI steps; gather/analyze/write are `python -m agents.<stage>`)",
+    )
+    p_deliver.add_argument("--in", dest="input", default="ranked.json", help="ranked items from the analyst")
+    p_deliver.add_argument("--simple", default="simple.md", help="top-level summary from the writer")
+    p_deliver.add_argument("--deep", default="deep.md", help="deep dive from the writer")
+    p_deliver.add_argument("--hours", type=int, default=24, help="lookback window, for display only")
+    p_deliver.add_argument("--no-email", action="store_true", help="write files but do not send")
+    p_deliver.add_argument("--dry-run", action="store_true", help="print only, write nothing")
+
     args = ap.parse_args(argv)
 
-    cfg = load_config()
-
-    if args.check_feeds:
-        return check_feeds(cfg)
-
-    raw, errors = collect(cfg)
-    print(f"Fetched {len(raw)} raw items; {len(errors)} feed(s) unreachable.")
-
-    items = build_digest(
-        cfg, raw, args.hours, args.max_items, skip_seen=not args.include_seen
-    )
-    print(f"{len(items)} items in today's digest.")
-
-    commentary = None if args.no_commentary else write_commentary(items)
-
-    markdown = render_markdown(items, args.hours, errors, commentary)
-
-    if args.dry_run:
-        print("\n" + markdown)
-        return 0
-
-    DIGEST_DIR.mkdir(parents=True, exist_ok=True)
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    md_path = DIGEST_DIR / f"{stamp}.md"
-    json_path = DIGEST_DIR / f"{stamp}.json"
-    md_path.write_text(markdown, encoding="utf-8")
-    json_path.write_text(
-        json.dumps([i.to_json() for i in items], indent=2), encoding="utf-8"
-    )
-    (ROOT / "latest.md").write_text(markdown, encoding="utf-8")
-    print(f"Wrote {md_path.relative_to(ROOT)} and {json_path.relative_to(ROOT)}")
-
-    if not args.no_email:
-        subject = f"AI News Update - {datetime.now(timezone.utc):%d %b %Y} ({len(items)} stories)"
-        sent = send_digest_email(
-            subject=subject,
-            html_body=render_html(items, args.hours, errors, commentary),
-            text_body=markdown,
-        )
-        if not sent:
-            print("Email not sent (see message above).", file=sys.stderr)
-
-    now_iso = datetime.now(timezone.utc).isoformat()
-    seen = load_seen()
-    seen.update({i.uid: now_iso for i in items})
-    save_seen(seen)
-    return 0
+    if args.command == "deliver":
+        return _cmd_deliver(args)
+    return _run(args)
 
 
 if __name__ == "__main__":

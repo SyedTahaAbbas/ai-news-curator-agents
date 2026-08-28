@@ -23,11 +23,19 @@ concurrency:
   group: daily-ai-news
   cancel-in-progress: false
 
+env:
+  HOURS: ${{ github.event.inputs.hours || '24' }}
+
 jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
+    # Four stages, one per step - mirrors the 3-agent pipeline
+    # (gatherer -> analyst -> writer) plus delivery. Each stage's output is
+    # uploaded as a short-lived artifact so you can inspect exactly what the
+    # analyst kept/dropped, or what the writer produced, without re-running
+    # the whole pipeline - useful while the ranking logic keeps evolving.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -41,7 +49,51 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Collect news and send digest
+      - name: "Agent 1: Gather stories"
+        run: python -m agents.gatherer --out raw.json
+
+      - name: Upload raw stories
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-stories
+          path: raw.json
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: "Agent 2: Analyze, rank, and dedupe"
+        run: python -m agents.analyst --in raw.json --out ranked.json --hours "$HOURS" --max-items 35
+
+      - name: Upload ranked stories
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ranked-stories
+          path: ranked.json
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: "Agent 3: Write commentary"
+        env:
+          # Optional voice layer. With neither key set, both files come out
+          # empty and delivery falls back to the plain link digest.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+        run: python -m agents.writer --in ranked.json --out-simple simple.md --out-deep deep.md
+
+      - name: Upload commentary
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: commentary
+          path: |
+            simple.md
+            deep.md
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Deliver the digest
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.gmail.com' }}
           SMTP_PORT: ${{ secrets.SMTP_PORT || '587' }}
@@ -49,15 +101,11 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO: ${{ secrets.MAIL_TO || 'Taha.mmtlmu@gmail.com' }}
-          # Optional voice layer. With neither key set, the digest is plain links.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          LLM_MODEL: ${{ vars.LLM_MODEL }}
         run: |
           if [ "${{ github.event.inputs.send_email }}" = "false" ]; then
-            python ai_news.py --hours "${{ github.event.inputs.hours || '24' }}" --no-email
+            python ai_news.py deliver --in ranked.json --simple simple.md --deep deep.md --hours "$HOURS" --no-email
           else
-            python ai_news.py --hours "${{ github.event.inputs.hours || '24' }}"
+            python ai_news.py deliver --in ranked.json --simple simple.md --deep deep.md --hours "$HOURS"
           fi
 
       - name: Commit today's digest

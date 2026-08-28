@@ -7,7 +7,8 @@ WORKDIR /app
 COPY requirements.txt .
 RUN uv pip install --system --no-cache-dir -r requirements.txt
 
-COPY ai_news.py emailer.py summarizer.py sources.yaml PREFERENCES.md ./
+COPY ai_news.py emailer.py models.py sources.yaml PREFERENCES.md ./
+COPY agents/ ./agents/
 
 # Runs as an unprivileged user, not root.
 RUN useradd --create-home --uid 1000 appuser \

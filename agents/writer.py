@@ -1,13 +1,20 @@
 #!/usr/bin/env python3
 """
-The voice layer.
+Stage 3: Writer.
 
-Turns the ranked list of stories into written commentary, using the "Voice"
-section of PREFERENCES.md verbatim as the model's system prompt. Edit that
-file and the next digest changes — no code changes needed.
+Turns the analyst's ranked shortlist into commentary at two levels, using
+the "Voice" section of PREFERENCES.md verbatim as the shared system prompt.
+Edit that file and both levels change - no code changes needed.
 
-Entirely optional. With no API key set, the pipeline falls back to the plain
-link digest and nothing breaks.
+    write_simple_summary()  - short, first-principles, explained simply
+                               (Aravind Srinivas podcast style; PREFERENCES.md's
+                               TOP section)
+    write_deep_dive()       - the detailed, story-by-story breakdown
+                               (PREFERENCES.md's THEN/WATCH sections)
+
+Both are entirely optional: with no API key set, both return None and the
+caller falls back to the plain link digest. Either call can fail
+independently without affecting the other.
 
 Provider is auto-detected from whichever key is present:
 
@@ -18,10 +25,14 @@ Override with LLM_PROVIDER=anthropic|openai|none and LLM_MODEL=<model-id>.
 
 Both providers are called over plain HTTPS via urllib, so there is no extra
 dependency to install and nothing to keep in version lockstep.
+
+    python -m agents.writer --in ranked.json --out-simple simple.md --out-deep deep.md
+    python -m agents.writer --preview   # show the exact prompts being sent, do nothing else
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import re
@@ -31,7 +42,11 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
-ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from models import Item  # noqa: E402
+
+ROOT = Path(__file__).resolve().parent.parent
 PREFERENCES_FILE = ROOT / "PREFERENCES.md"
 
 DEFAULT_MODELS = {
@@ -48,6 +63,25 @@ Be specific: names, numbers, versions. Explain what changed and what it
 pressures. No hype words. Say so plainly if nothing important happened.
 Under 700 words."""
 
+SIMPLE_INSTRUCTION = (
+    "For this task specifically: write ONLY the top-level summary - what the "
+    "Structure section above calls TOP. 2-4 sentences: the one thing worth "
+    "knowing today and why, explained the way Aravind Srinivas would explain "
+    "it simply on a podcast - trace the lineage, ground it in one concrete "
+    "example, no bullet list of stories. If today is quiet, say so in one "
+    "line and stop there. Do not write anything else."
+)
+
+DEEP_INSTRUCTION = (
+    "For this task specifically: write ONLY the deeper breakdown - what the "
+    "Structure section above calls THEN (and WATCH if something's worth "
+    "flagging early). Go story by story, grouped by theme rather than by "
+    "source: what shipped, the number that matters, what it pressures. The "
+    "reader has already seen a short top-level summary elsewhere, so do not "
+    "repeat it - go straight to the detail. Skip anything not worth the "
+    "reader's time."
+)
+
 
 # ---------------------------------------------------------------------------
 # Preferences
@@ -62,14 +96,14 @@ def load_voice_prompt(path: Path = PREFERENCES_FILE) -> str:
     to a terse built-in prompt rather than failing the run.
     """
     if not path.exists():
-        print(f"[summarizer] {path.name} not found; using fallback voice.", file=sys.stderr)
+        print(f"[writer] {path.name} not found; using fallback voice.", file=sys.stderr)
         return FALLBACK_VOICE
 
     text = path.read_text(encoding="utf-8")
     match = re.search(r"^##\s*2\.\s*Voice\s*$", text, re.MULTILINE | re.IGNORECASE)
     if not match:
         print(
-            "[summarizer] No '## 2. Voice' heading in PREFERENCES.md; using fallback.",
+            "[writer] No '## 2. Voice' heading in PREFERENCES.md; using fallback.",
             file=sys.stderr,
         )
         return FALLBACK_VOICE
@@ -84,6 +118,10 @@ def load_voice_prompt(path: Path = PREFERENCES_FILE) -> str:
     section = re.sub(r"^>.*$", "", section, flags=re.MULTILINE)
     section = section.strip()
     return section or FALLBACK_VOICE
+
+
+def _voice_system_prompt(extra_instruction: str) -> str:
+    return f"{load_voice_prompt()}\n\n---\n\n{extra_instruction}"
 
 
 # ---------------------------------------------------------------------------
@@ -152,7 +190,7 @@ def call_openai(api_key: str, model: str, system: str, user: str) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Public entry point
+# Public entry points
 # ---------------------------------------------------------------------------
 
 
@@ -185,8 +223,8 @@ def format_stories_for_model(items: list[Any]) -> str:
     return "\n".join(lines)
 
 
-def write_commentary(items: list[Any]) -> str | None:
-    """Generate the digest commentary. Returns None if unavailable.
+def _generate(items: list[Any], extra_instruction: str, label: str) -> str | None:
+    """Shared call path for both write_simple_summary() and write_deep_dive().
 
     None is a normal outcome, not an error: it means no key is configured, or
     the call failed. Either way the caller falls back to the plain digest.
@@ -197,21 +235,19 @@ def write_commentary(items: list[Any]) -> str | None:
     provider, api_key = detect_provider()
     if not provider:
         print(
-            "[summarizer] No ANTHROPIC_API_KEY or OPENAI_API_KEY set - "
-            "sending the plain link digest.",
+            f"[writer] No ANTHROPIC_API_KEY or OPENAI_API_KEY set - skipping {label}.",
             file=sys.stderr,
         )
         return None
     if not api_key:
         print(
-            f"[summarizer] LLM_PROVIDER={provider} but its API key is unset - "
-            "sending the plain link digest.",
+            f"[writer] LLM_PROVIDER={provider} but its API key is unset - skipping {label}.",
             file=sys.stderr,
         )
         return None
 
     model = os.getenv("LLM_MODEL") or DEFAULT_MODELS[provider]
-    system = load_voice_prompt()
+    system = _voice_system_prompt(extra_instruction)
     user = format_stories_for_model(items)
 
     try:
@@ -221,22 +257,34 @@ def write_commentary(items: list[Any]) -> str | None:
             text = call_openai(api_key, model, system, user)
     except urllib.error.HTTPError as exc:
         body = exc.read().decode("utf-8", "replace")[:300]
-        print(f"[summarizer] {provider} HTTP {exc.code}: {body}", file=sys.stderr)
+        print(f"[writer] {provider} HTTP {exc.code} ({label}): {body}", file=sys.stderr)
         return None
     except Exception as exc:
-        print(f"[summarizer] {provider} call failed: {type(exc).__name__}: {exc}", file=sys.stderr)
+        print(f"[writer] {provider} call failed ({label}): {type(exc).__name__}: {exc}", file=sys.stderr)
         return None
 
     if not text:
-        print("[summarizer] Model returned empty text.", file=sys.stderr)
+        print(f"[writer] Model returned empty text ({label}).", file=sys.stderr)
         return None
 
-    print(f"[summarizer] Commentary written by {provider}/{model} ({len(text)} chars).")
+    print(f"[writer] {label} written by {provider}/{model} ({len(text)} chars).")
     return text
 
 
-if __name__ == "__main__":
-    # Inspect what the model is actually being told: python summarizer.py
+def write_simple_summary(items: list[Any]) -> str | None:
+    return _generate(items, SIMPLE_INSTRUCTION, "simple summary")
+
+
+def write_deep_dive(items: list[Any]) -> str | None:
+    return _generate(items, DEEP_INSTRUCTION, "deep dive")
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+
+def _preview() -> None:
     print("=" * 70)
     print("VOICE PROMPT (from PREFERENCES.md section 2)")
     print("=" * 70)
@@ -248,3 +296,35 @@ if __name__ == "__main__":
         print(f"Provider: {provider} / {model} (key present)")
     else:
         print("Provider: none configured - digests will be plain links.")
+
+
+def main(argv: list[str] | None = None) -> int:
+    ap = argparse.ArgumentParser(description="Write the two-level digest commentary.")
+    ap.add_argument("--in", dest="input", default="ranked.json", help="ranked items from the analyst")
+    ap.add_argument("--out-simple", default="simple.md", help="where to write the top-level summary")
+    ap.add_argument("--out-deep", default="deep.md", help="where to write the deep dive")
+    ap.add_argument("--no-commentary", action="store_true", help="write empty files without calling any LLM")
+    ap.add_argument("--preview", action="store_true", help="print the voice prompt and provider status, do nothing else")
+    args = ap.parse_args(argv)
+
+    if args.preview:
+        _preview()
+        return 0
+
+    ranked = json.loads(Path(args.input).read_text(encoding="utf-8"))
+    items = [Item.from_dict(d) for d in ranked["items"]]
+
+    if args.no_commentary:
+        simple, deep = None, None
+    else:
+        simple = write_simple_summary(items)
+        deep = write_deep_dive(items)
+
+    Path(args.out_simple).write_text(simple or "", encoding="utf-8")
+    Path(args.out_deep).write_text(deep or "", encoding="utf-8")
+    print(f"Wrote {args.out_simple} and {args.out_deep}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

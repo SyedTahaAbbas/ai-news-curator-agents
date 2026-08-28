@@ -14,19 +14,15 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from ai_news import (  # noqa: E402
-    Item,
-    build_digest,
-    canonical_url,
-    clean_text,
-    dedupe,
-    load_config,
-    markdown_to_html,
-    render_html,
-    render_markdown,
-    term_pattern,
+from agents.analyst import build_digest, dedupe, term_pattern  # noqa: E402
+from agents.writer import (  # noqa: E402
+    detect_provider,
+    load_voice_prompt,
+    write_deep_dive,
+    write_simple_summary,
 )
-from summarizer import detect_provider, load_voice_prompt, write_commentary  # noqa: E402
+from ai_news import markdown_to_html, render_html, render_markdown  # noqa: E402
+from models import Item, canonical_url, clean_text, load_config  # noqa: E402
 
 NOW = datetime.now(timezone.utc)
 FAILURES = []
@@ -183,7 +179,8 @@ check(
     (prov is None) or (key is not None),
     f"provider={prov}",
 )
-check("write_commentary returns None on empty input", write_commentary([]) is None)
+check("write_simple_summary returns None on empty input", write_simple_summary([]) is None)
+check("write_deep_dive returns None on empty input", write_deep_dive([]) is None)
 
 print("\n--- markdown -> html ---")
 md_src = """## Top
@@ -207,10 +204,16 @@ check(
 )
 check("empty commentary is harmless", markdown_to_html("") == "")
 
-with_comment = render_markdown(digest, 24, {}, commentary="## Top\nQuiet day.")
-check("commentary lands in markdown", "Quiet day." in with_comment and "## All stories" in with_comment)
-html_with = render_html(digest, 24, {}, commentary="## Top\nQuiet day.")
-check("commentary lands in html", "Quiet day." in html_with)
+with_comment = render_markdown(digest, 24, {}, simple_commentary="## Top\nQuiet day.")
+check("simple commentary lands in markdown", "Quiet day." in with_comment and "## All stories" in with_comment)
+html_with = render_html(digest, 24, {}, simple_commentary="## Top\nQuiet day.")
+check("simple commentary lands in html", "Quiet day." in html_with)
+
+with_deep = render_markdown(digest, 24, {}, deep_commentary="## Then\nThe detail.")
+check("deep commentary lands in markdown", "The detail." in with_deep and "## All stories" in with_deep)
+html_deep = render_html(digest, 24, {}, deep_commentary="## Then\nThe detail.")
+check("deep commentary lands in html", "The detail." in html_deep)
+
 check(
     "html without commentary is unchanged in shape",
     "All stories" not in render_html(digest, 24, {}),

@@ -8,14 +8,22 @@ Markdown file in the **`see news/`** folder. No API keys required to run it.
 
 ## What it does, in plain terms
 
-1. It reads a list of RSS feeds from `sources.yaml`.
-2. It downloads the latest posts from each one.
-3. It scores every story (how recent it is, how much you trust the source,
-   whether it matches AI keywords) and throws out duplicates.
-4. It writes the result to `see news/YYYY-MM-DD.md` — one file per day, named
-   after the date you ran it.
+Three stages, run in order:
 
-That's the whole pipeline. Sending an email is optional and off by default;
+1. **Gatherer** (`agents/gatherer.py`) — downloads the latest posts from
+   every feed in `sources.yaml`.
+2. **Analyst** (`agents/analyst.py`) — scores each story (how recent it is,
+   how much you trust the source, whether it matches AI keywords), throws
+   out duplicates, and drops anything already sent in the last 30 days.
+   Purely rule-based today, no LLM involved — this is the stage most likely
+   to keep changing as the ranking gets smarter.
+3. **Writer** (`agents/writer.py`, optional) — if you've set an API key,
+   an LLM writes commentary at two levels: a short "what matters and why"
+   summary, and a separate deeper story-by-story breakdown. Skipped
+   entirely with no key configured.
+
+The result is written to `see news/YYYY-MM-DD.md` — one file per day, named
+after the date you ran it. Sending an email is optional and off by default;
 this README doesn't cover it — see `.env.example` if you want it later.
 
 ---
@@ -148,24 +156,51 @@ copy it into `sources.yaml` in this shape:
 
 By default you get a plain, ranked list of headlines — free, no account
 needed. If you set an API key (`ANTHROPIC_API_KEY` or `OPENAI_API_KEY`) in a
-`.env` file (copy `.env.example` to start), the script will also have an LLM
-write a short summary in the voice described in `PREFERENCES.md` — that file
-is written to sound like how Aravind Srinivas explains AI news on his
-podcast appearances. Costs about a cent a day. If it ever fails, the script
-just falls back to the plain list — nothing breaks.
+`.env` file (copy `.env.example` to start), the writer stage has an LLM
+produce two pieces of commentary in the voice described in `PREFERENCES.md`
+— written to sound like how Aravind Srinivas explains AI news on his
+podcast appearances:
+
+- a short **top-level summary** — the one thing worth knowing today, in 2-4
+  sentences
+- a separate **deep dive** — the same stories again, but story-by-story with
+  more technical detail
+
+Costs about two cents a day (two short calls instead of one). If either call
+fails, that piece is just skipped — nothing breaks, and the other one can
+still land.
 
 ```bash
-python summarizer.py     # preview exactly what gets sent to the model
+python -m agents.writer --preview     # print exactly what gets sent to the model
 ```
+
+---
+
+## Running the stages separately (what CI does)
+
+`python ai_news.py` runs all three stages in one process for convenience.
+The GitHub Actions workflow instead runs each stage as its own step, passing
+a JSON file between them — useful for inspecting exactly what the analyst
+kept or dropped without re-running the gatherer:
+
+```bash
+python -m agents.gatherer --out raw.json
+python -m agents.analyst  --in raw.json    --out ranked.json --hours 24 --max-items 35
+python -m agents.writer   --in ranked.json --out-simple simple.md --out-deep deep.md
+python ai_news.py deliver --in ranked.json --simple simple.md --deep deep.md --hours 24
+```
+
+Each command is self-contained and safe to re-run on its own.
 
 ---
 
 ## Running it every day automatically
 
 There's a GitHub Actions workflow at `.github/workflows/daily-ai-news.yml`
-that runs this on a schedule and commits the digest back to the repo. See the
-comments inside that file for the secrets it needs. This is optional — running
-it by hand with the commands above works fine too.
+that runs the four commands above on a schedule (one per step, each with its
+output uploaded as an artifact) and commits the digest back to the repo. See
+the comments inside that file for the secrets it needs. This is optional —
+running it by hand with the commands above works fine too.
 
 ---
 
