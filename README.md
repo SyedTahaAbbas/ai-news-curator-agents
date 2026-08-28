@@ -1,14 +1,25 @@
 # AI News Update
 
-A script that checks ~22 AI news sources (OpenAI, DeepMind, TechCrunch, arXiv,
-Hacker News, and more), picks out the stories that matter, and saves them as a
-Markdown file in the **`see news/`** folder. No API keys required to run it.
+**In one sentence:** every day it checks ~22 AI news sources, figures out
+what actually matters, and hands you a short write-up instead of a pile of
+links to sort through yourself.
+
+It's built as a small **agentic workflow** — three agents in a pipeline, each
+with one job, each able to run and be improved on its own:
+
+- 🔎 **Gatherer** — fetches the raw posts from every source
+- 📊 **Analyst** — ranks, dedupes, and drops what's already been covered
+- ✍️ **Writer** *(optional)* — an LLM writes it up in plain English, at a
+  quick-read level and a deeper level
+
+No API keys needed for the core pipeline (gathering + ranking work for free,
+forever). The writer agent is the only piece that costs anything, and it's
+entirely opt-in. The result lands as a dated Markdown file in
+**`see news/`**, and can be emailed to you automatically every morning.
 
 ---
 
-## What it does, in plain terms
-
-Three stages, run in order:
+## How each agent works
 
 1. **Gatherer** (`agents/gatherer.py`) — downloads the latest posts from
    every feed in `sources.yaml`.
