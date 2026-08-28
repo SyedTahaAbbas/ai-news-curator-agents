@@ -60,7 +60,7 @@ def send_digest_email(subject: str, html_body: str, text_body: str) -> bool:
 
     msg = EmailMessage()
     msg["Subject"] = subject
-    msg["From"] = formataddr(("AI News Update", sender))
+    msg["From"] = formataddr(("AI News Curator", sender))
     msg["To"] = ", ".join(to_addrs)
     msg["Date"] = formatdate(localtime=True)
     msg["Message-ID"] = make_msgid(domain="ai-news-update.local")
@@ -99,7 +99,7 @@ def send_digest_email(subject: str, html_body: str, text_body: str) -> bool:
 if __name__ == "__main__":
     # Quick connectivity test: python emailer.py
     ok = send_digest_email(
-        subject="AI News Update - test email",
+        subject="AI News Curator - test email",
         html_body="<p>If you can read this, SMTP is configured correctly.</p>",
         text_body="If you can read this, SMTP is configured correctly.",
     )

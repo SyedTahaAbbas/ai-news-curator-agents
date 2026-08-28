@@ -150,7 +150,7 @@ check("max_items caps the digest", len(capped) == 2, f"got {len(capped)}")
 
 print("\n--- rendering ---")
 md = render_markdown(digest, 24, {"Dead Feed": "HTTP 404"})
-check("markdown has a title", md.startswith("# AI News Update"))
+check("markdown has a title", md.startswith("# AI News Curator"))
 check("markdown links each story", "](https://" in md)
 check("markdown reports failed feeds", "Dead Feed" in md)
 check("markdown groups by category", "## Labs & Releases" in md)

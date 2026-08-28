@@ -1,4 +1,4 @@
-# AI News Update - Wednesday, 19 August 2026
+# AI News Curator - Wednesday, 19 August 2026
 
 *8 stories from the last 24 hours. Generated 2026-08-19 17:27 UTC.*
 

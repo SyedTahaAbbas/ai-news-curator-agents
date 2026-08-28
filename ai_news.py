@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-AI News Update
-==============
+AI News Curator Agents
+=======================
 A 3-stage pipeline that collects AI news daily, ranks it, writes commentary,
 and emails a digest:
 
@@ -98,7 +98,7 @@ def render_markdown(
 ) -> str:
     today = datetime.now(timezone.utc)
     lines = [
-        f"# AI News Update - {today:%A, %d %B %Y}",
+        f"# AI News Curator - {today:%A, %d %B %Y}",
         "",
         f"*{len(items)} stories from the last {hours} hours. "
         f"Generated {today:%Y-%m-%d %H:%M UTC}.*",
@@ -230,14 +230,14 @@ def render_html(
     parts = [
         "<!DOCTYPE html><html><head><meta charset='utf-8'>",
         "<meta name='viewport' content='width=device-width, initial-scale=1'>",
-        "<title>AI News Update</title></head>",
+        "<title>AI News Curator</title></head>",
         "<body style=\"margin:0;padding:0;background:#f4f5f7;\">",
         "<div style=\"max-width:680px;margin:0 auto;padding:24px 16px;"
         "font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;"
         "color:#1a1a1a;line-height:1.5;\">",
         "<div style=\"background:#ffffff;border-radius:12px;padding:28px 26px;"
         "box-shadow:0 1px 3px rgba(0,0,0,0.08);\">",
-        f"<h1 style=\"margin:0 0 4px;font-size:22px;letter-spacing:-0.3px;\">AI News Update</h1>",
+        f"<h1 style=\"margin:0 0 4px;font-size:22px;letter-spacing:-0.3px;\">AI News Curator</h1>",
         f"<p style=\"margin:0 0 24px;color:#6b7280;font-size:13px;\">"
         f"{today:%A, %d %B %Y} &middot; {len(items)} stories from the last {hours}h</p>",
     ]
@@ -297,7 +297,7 @@ def render_html(
 
     parts += [
         "<p style='color:#9ca3af;font-size:11px;margin-top:20px;'>"
-        "Generated automatically by AI News Update.</p>",
+        "Generated automatically by AI News Curator Agents.</p>",
         "</div></div></body></html>",
     ]
     return "".join(parts)
@@ -329,7 +329,7 @@ def _send_email(
     simple_commentary: str | None,
     deep_commentary: str | None,
 ) -> None:
-    subject = f"AI News Update - {datetime.now(timezone.utc):%d %b %Y} ({len(items)} stories)"
+    subject = f"AI News Curator - {datetime.now(timezone.utc):%d %b %Y} ({len(items)} stories)"
     sent = send_digest_email(
         subject=subject,
         html_body=render_html(items, hours, errors, simple_commentary, deep_commentary),

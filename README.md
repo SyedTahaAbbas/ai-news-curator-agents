@@ -1,8 +1,9 @@
-# AI News Update
+# AI News Curator Agents
 
-**In one sentence:** every day it checks ~22 AI news sources, figures out
-what actually matters, and hands you a short write-up instead of a pile of
-links to sort through yourself.
+**What this is for:** you don't have time to check 20+ AI news sources every
+day yourself. This does it for you — a small team of AI agents that reads
+everything so you don't have to, and hands you back a short, ranked,
+duplicate-free write-up instead of a pile of links.
 
 It's built as a small **agentic workflow** — three agents in a pipeline, each
 with one job, each able to run and be improved on its own:
