@@ -1,0 +1,479 @@
+[
+  {
+    "title": "Anthropic gets its first court win over the Pentagon\u2019s supply chain risk label",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-28T12:46:12+00:00",
+    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "score": 6.998,
+    "matched": [
+      "ai",
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Supporting Thailand\u2019s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-08-28T02:00:00+00:00",
+    "summary": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "score": 6.652,
+    "matched": [
+      "ai",
+      "openai"
+    ]
+  },
+  {
+    "title": "Distinct Profiles of Run-to-Run Score Reliability and Expert-Panel Alignment Across Four LLM Evaluators of Simulated Japanese-Language AI-to-AI Counseling",
+    "url": "https://arxiv.org/abs/2507.02950",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2507.02950v4 Announce Type: replace-cross Abstract: Large language models (LLMs) increasingly evaluate generated dialogue, but repeatable scores do not necessarily align with professional judgment. This observational fixed-benchmark study compared four configured LLM evaluator systems (GPT-5.5, Gemini 3.5 Flash, Claude Opus 4.8, and Fable 5) with aggregated ratings from 15 counseling\u2026",
+    "score": 6.202,
+    "matched": [
+      "ai",
+      "llm",
+      "gpt",
+      "claude",
+      "gemini",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Technical Comparative Benchmarking Study: Advanced AI Hybrid Methods for Renewable Energy Farm Optimization and Forecasting",
+    "url": "https://arxiv.org/abs/2608.26613",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26613v1 Announce Type: new Abstract: This study provides a comprehensive benchmarking of conventional machine learning (ML), ensemble learning, deep neural networks, recurrent architectures, Transformers, graph based models, and hybrid ensemble deep learning approaches under complementary renewable energy scenarios. Three datasets are considered: a large scale WEC dataset, a 16 WEC\u2026",
+    "score": 6.202,
+    "matched": [
+      "ai",
+      "machine learning",
+      "deep learning",
+      "transformer*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-28T12:21:06+00:00",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "score": 6.046,
+    "matched": [
+      "openai"
+    ]
+  },
+  {
+    "title": "BekchiAI: Measuring, Observing, and Controlling LLM Agents in One Click",
+    "url": "https://arxiv.org/abs/2608.26867",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26867v1 Announce Type: new Abstract: Large language model agents reason, call tools, and act autonomously over many steps, but their agentic skills-correctly sequencing tools, planning under dependencies, judging untrusted inputs, and grounding generated arguments-are hard to measure with accuracy-only leaderboards. We present BekchiAI, which addresses both sides: a benchmark for\u2026",
+    "score": 5.902,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+    "url": "https://arxiv.org/abs/2607.12227",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2607.12227v2 Announce Type: replace Abstract: We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit test cases to search for harness configurations and then report final performance on the same public benchmark. This protocol raises two fundamental concerns. First, harness evolution is itself an iterative search procedure that\u2026",
+    "score": 5.902,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Beyond FLOPs: Benchmarking Real Inference Acceleration of LLM Pruning under a GEMM-Centric Taxonomy",
+    "url": "https://arxiv.org/abs/2606.09080",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2606.09080v2 Announce Type: replace Abstract: Pruning has emerged as a dominant paradigm for accelerating large language model (LLM) inference, spanning a broad spectrum of methods that remove computation across tokens, layers, heads, dimensions, and attention patterns. Despite sharing the same objective, these pruning approaches induce fundamentally different execution behaviors, causing\u2026",
+    "score": 5.902,
+    "matched": [
+      "llm",
+      "large language model",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-28T03:14:06+00:00",
+    "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [\u2026]",
+    "score": 5.607,
+    "matched": [
+      "ai",
+      "anthropic"
+    ]
+  },
+  {
+    "title": "AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling",
+    "url": "https://arxiv.org/abs/2608.26623",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26623v1 Announce Type: new Abstract: LLM judges are widely used to evaluate agentic tool-calling systems, yet their reliability on structured, dependency-driven workflows remains largely unexamined. We present AgentJudgeBench, the first benchmark to systematically study LLM-as-a-judge reliability for agentic tool-calling over workflow DAGs, as distinct from the broader LLM-as-a-judge\u2026",
+    "score": 5.602,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AI Control Scientist: LLM-driven Agentic System for Automated Control Design",
+    "url": "https://arxiv.org/abs/2608.26780",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26780v1 Announce Type: new Abstract: Control system design is critical for modern industry, such as chemical process temperature regulation and aero-engine control. However,traditional control design workflows rely heavily on expert knowledge and extensive manual parameter tuning, resulting in limited efficiency and scalability. To this end, this paper proposes AI Control Scientist\u2026",
+    "score": 5.602,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic"
+    ]
+  },
+  {
+    "title": "A Contract-Centered Architecture for Scalable and Manageable Agentic Runtimes",
+    "url": "https://arxiv.org/abs/2608.27086",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.27086v1 Announce Type: new Abstract: Enterprise AI deployment is a coordination problem across business units, application and AI teams, testing, platform engineering, infrastructure, security, operations, and data governance. Use-case benchmarks show whether one agent completes one task, but not how changing capabilities, models, runtime mechanisms, capacity, and enterprise data\u2026",
+    "score": 5.602,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors",
+    "url": "https://arxiv.org/abs/2608.26175",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26175v1 Announce Type: cross Abstract: Extractive prompt compression promises to cut LLM inference costs by removing low-information tokens, and learned compressors such as LLMLingua-2 report strong results on English benchmarks. Most other languages already pay a token premium: the same content costs 1.3-1.8x more tokens than in English. We ask whether compression closes or widens\u2026",
+    "score": 5.602,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation",
+    "url": "https://arxiv.org/abs/2608.26237",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26237v1 Announce Type: cross Abstract: Capture-the-Flag (CTF) benchmarks are widely used to assess the offensive security capabilities of autonomous language-model agents. Evaluations rely on shallow binary judgments or aggregate scores, overlooking the agent's trajectory to the flag. Consequently actual exploitation is conflated with direct flag exposure, memorized recall, external\u2026",
+    "score": 5.602,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+    "url": "https://arxiv.org/abs/2608.27424",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.27424v1 Announce Type: cross Abstract: Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable security judgment. We evaluate ModelScan, ModelAudit, and Fickling using a controlled, artifact-backed benchmark on a synthetic corpus\u2026",
+    "score": 5.602,
+    "matched": [
+      "ai",
+      "machine learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes",
+    "url": "https://arxiv.org/abs/2608.10954",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.10954v2 Announce Type: replace-cross Abstract: While Multimodal Large Language Models (MLLMs) demonstrate impressive performance in benign scenarios, their cognitive reliability deteriorates significantly in complex scenes under adverse conditions. In these settings, models often rely on implicit inference without sufficient visual evidence, leading to a disconnect between perception\u2026",
+    "score": 5.602,
+    "matched": [
+      "multimodal",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "DataKernelBench: Can LLMs Optimize Database Queries on GPUs?",
+    "url": "https://arxiv.org/abs/2608.25061",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.25061v2 Announce Type: replace-cross Abstract: GPUs increasingly accelerate database systems, but query-specific peak performance still often relies on hand-written kernels. Existing LLM kernel benchmarks focus on machine learning operators, leaving irregular, heterogeneous, data-movement-heavy database-style operators untested. We introduce DataKernelBench, which translates SQL into\u2026",
+    "score": 5.602,
+    "matched": [
+      "machine learning",
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Classical and Hybrid Quantum Machine Learning for Trigger-Like Event Selection on CMS Open Data: An Eight-Qubit, PCA-Constrained Benchmark",
+    "url": "https://arxiv.org/abs/2608.26224",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26224v1 Announce Type: cross Abstract: Event triggering sits at the heart of high-energy physics, where the rare events of interest must be retained while an overwhelming background is discarded under tight latency and bandwidth budgets. This work compares four classical machine learning models, namely a support vector machine, an artificial neural network, a convolutional network and\u2026",
+    "score": 5.602,
+    "matched": [
+      "machine learning",
+      "neural network",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "You Don't Need to Run Every Eval",
+    "url": "https://arxiv.org/abs/2606.24020",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2606.24020v2 Announce Type: replace Abstract: A modern model release reports scores on 40+ benchmarks and the same evaluations were run many more times before it: to track training progress, compare design choices, and select the checkpoint for the release. But do we need to run every eval? We compile a public score matrix of 84 frontier models on 133 benchmarks (2,604 cells, 23.3% filled)\u2026",
+    "score": 5.602,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AfriSwitch: A Benchmark for In-the-Wild African Code-Switched Speech Recognition",
+    "url": "https://arxiv.org/abs/2608.26434",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26434v1 Announce Type: new Abstract: Code-switching is pervasive in bilingual African conversation, yet most ASR systems assume monolingual input and are evaluated on curated monolingual benchmarks. We present AfriSwitch, a 61.36-hour human-transcribed benchmark of in-the-wild code-switched speech spanning 16 African languages and language varieties, released with switch-level English\u2026",
+    "score": 5.602,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking Clinical Decision Pathway Adherence in Large Language Models",
+    "url": "https://arxiv.org/abs/2608.26592",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26592v1 Announce Type: new Abstract: Following clinical decision pathways (CDPs) defined by clinical practice guidelines is essential for safe and reliable medical decision-making. However, existing medical large language model (LLM) benchmarks mainly evaluate final-answer accuracy, providing limited evaluation of models' ability to adhere to guidelines. To address this gap, we\u2026",
+    "score": 5.602,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing",
+    "url": "https://arxiv.org/abs/2608.27219",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.27219v1 Announce Type: new Abstract: Mental health assessment relies on episodic self-report scales, which convert subjective states such as stress into numerical scores but provide only sparse snapshots of wellbeing. Wearable devices offer longitudinal behavioral and physiological signals for continuous, low-burden monitoring. Recent LLM-driven personal-health agents enable natural\u2026",
+    "score": 5.602,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+    "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-08-28T11:25:30+00:00",
+    "summary": "Article URL: https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/ Comments URL: https://news.ycombinator.com/item?id=49477055 Points: 190 # Comments: 64",
+    "score": 5.53,
+    "matched": [
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Benchmarking AI Agents for Hardware Design Automation via MCP Tool Calling",
+    "url": "https://arxiv.org/abs/2608.26199",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26199v1 Announce Type: new Abstract: We ask whether AI agents powered by locally deployed large language models can reliably automate expert-defined hardware design workflows in an industry-realistic tool-calling setting. In these environments, engineers issue repetitive, dependency-ordered operations---such as creating components, adding ports, and wiring connections---through\u2026",
+    "score": 5.302,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "The Reasoning Tax: Token Economics of LLM Reasoning Across Task Types and Deployment Contexts",
+    "url": "https://arxiv.org/abs/2608.26235",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26235v1 Announce Type: new Abstract: Accuracy-only benchmarking of reasoning-capable large language models misses a central deployment question: when do extended thinking tokens earn their cost? We introduce the Token Economy Score (TES), a marginal benchmarking metric that measures the accuracy gain of a reasoning model over a non-reasoning baseline, normalized by the generated-token\u2026",
+    "score": 5.302,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Multi2AV-Safety: Benchmarking Safety in Multimodal-to-Audio-Video Generation",
+    "url": "https://arxiv.org/abs/2608.26535",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26535v1 Announce Type: new Abstract: Audio-video generation is rapidly moving from prompt-driven synthesis toward multimodal conditioning, where text, images, audio, and video can jointly shape the generated output. This shift changes the nature of safety evaluation: harmful intent may no longer reside in any single input, but instead emerge from how otherwise benign or weakly harmful\u2026",
+    "score": 5.302,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "From Atomic to Agentic: Towards Interpretable Evaluation of LLMs' Agentic Mathematical Capabilities",
+    "url": "https://arxiv.org/abs/2608.26950",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26950v1 Announce Type: new Abstract: Large Language Models (LLMs) are evolving from performing end-to-end mathematical reasoning to integrating agentic intelligence. However, most existing math benchmarks evaluate only final answers. This outcome-oriented evaluation provides limited diagnostic value for identifying process-level failures or rigorous logic, failing to guide the\u2026",
+    "score": 5.302,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search",
+    "url": "https://arxiv.org/abs/2608.27266",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.27266v1 Announce Type: new Abstract: Efficiently improving autonomous agents across diverse tasks is central to accelerating recursive self-improvement (RSI) in agentic AI, with prompt optimization emerging as a promising approach capable of delivering performance gains comparable to those achieved by fine-tuning model weights, while reducing computational costs in both optimization\u2026",
+    "score": 5.302,
+    "matched": [
+      "ai",
+      "agentic",
+      "fine-tun*",
+      "model weights"
+    ]
+  },
+  {
+    "title": "Sophistication in GenAI Use: Field Evidence from a Large Firm",
+    "url": "https://arxiv.org/abs/2608.27364",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.27364v1 Announce Type: new Abstract: We study how sophistication in generative AI (genAI) use varies among the back-office workforce of a large firm. Using proprietary data, we observe 713,564 employee prompts and their corresponding large language model responses from nearly 4,000 back-office employees across 15 functional areas over eight months in 2025. We document three main\u2026",
+    "score": 5.302,
+    "matched": [
+      "ai",
+      "large language model",
+      "generative",
+      "genai"
+    ]
+  },
+  {
+    "title": "Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models",
+    "url": "https://arxiv.org/abs/2608.26317",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26317v1 Announce Type: cross Abstract: Frontier language models are increasingly marketed as omni systems that can perceive and respond across modalities. Existing evaluation frameworks, however, focus almost exclusively on bimodal understanding, typically text plus one other modality. We propose the Modality Maturity Index (MMI), a benchmark designed to evaluate the multimodal\u2026",
+    "score": 5.302,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability",
+    "url": "https://arxiv.org/abs/2608.26713",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.26713v1 Announce Type: cross Abstract: Recent advances in Multimodal Large Language Models (MLLMs) have extended Image Aesthetic Assessment (IAA) beyond scalar scores toward interpretable critique and guidance. Yet existing benchmarks mainly assess intrinsic visual quality or fixed domain criteria, leaving open whether an appealing image is appropriate for a specific purpose, audience,\u2026",
+    "score": 5.302,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "FaulT-Bench: Towards Benchmarking Network Troubleshooting LLM Agents under Unreliable User Tickets",
+    "url": "https://arxiv.org/abs/2608.27021",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2608.27021v1 Announce Type: cross Abstract: LLM-based agents are increasingly proposed for network fault diagnosis, but existing benchmarks evaluate them only on accurate tickets and always assume a fault is present, conditions rarely met in practice. We present FaulT-Bench, a benchmark of 200 troubleshooting scenarios across eight network topologies, five reimplemented from public\u2026",
+    "score": 5.302,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Do Multimodal Agents Really Benefit from Tool Use? A Systematic Study of Capability Gains",
+    "url": "https://arxiv.org/abs/2606.02357",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2606.02357v2 Announce Type: replace-cross Abstract: Tool-augmented multimodal agents show strong benchmark gains, often taken as evidence that agents have learned to use tools. We argue that this interpretation can be premature: a tool-call trace alone does not show whether the tool supplied answer-critical information. We study two representative ``thinking with images'' agents, Thyme and\u2026",
+    "score": 5.302,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement",
+    "url": "https://arxiv.org/abs/2607.02897",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2607.02897v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) have shown strong capabilities, but they may memorize private information from web data, raising privacy concerns. Machine unlearning offers a way to remove such private knowledge without retraining from scratch. However, existing MLLM unlearning benchmarks have two major limitations. First, they\u2026",
+    "score": 5.302,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking the Robustness of Foundation Models for Mammography under Domain Shift",
+    "url": "https://arxiv.org/abs/2607.10358",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-28T04:00:00+00:00",
+    "summary": "arXiv:2607.10358v3 Announce Type: replace-cross Abstract: Foundation models are increasingly used as image feature extractors for mammography, but their robustness under external domain shift remains unclear. We benchmark 15 foundation-model backbones across breast density, BI-RADS severity, and cancer status using a unified frozen-backbone linear-probe protocol, training on 3 source datasets and\u2026",
+    "score": 5.302,
+    "matched": [
+      "foundation model",
+      "benchmark*"
+    ]
+  }
+]
