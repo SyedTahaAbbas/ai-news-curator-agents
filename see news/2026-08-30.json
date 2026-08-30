@@ -1,0 +1,385 @@
+[
+  {
+    "title": "Inside Meta\u2019s push to put robots to work in data centers",
+    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-08-30T11:03:47+00:00",
+    "summary": "The company is testing robots on tasks that can performed by technicians.",
+    "score": 5.577,
+    "matched": []
+  },
+  {
+    "title": "Why the Hottest New Wearables Want to Be Ignored",
+    "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-08-30T10:30:00+00:00",
+    "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+    "score": 5.107,
+    "matched": []
+  },
+  {
+    "title": "Koboldcpp v1.120 released",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2c4el/koboldcpp_v1120_released/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T08:42:07+00:00",
+    "summary": "submitted by /u/Fcking_Chuck [link] [comments]",
+    "score": 5.082,
+    "matched": []
+  },
+  {
+    "title": "I fine-tuned a 0.8B local model for dictation cleanup. It matched a hosted frontier model on this narrow task",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2elkb/i_finetuned_a_08b_local_model_for_dictation/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T11:03:04+00:00",
+    "summary": "I built SpeakoFlow Mini, an Apache-2.0 fine-tune of Qwen3.5-0.8B for dictation cleanup. It is not a chat model or a general rewriter. It takes speech-to-text output, applies corrections the speaker actually made, and leaves everything else alone. That last part is harder than it sounds. General models often polish text that was already correct, but in dictation an unnecessary improvement is still\u2026",
+    "score": 5.076,
+    "matched": [
+      "fine-tun*"
+    ]
+  },
+  {
+    "title": "Experience report - Qwen 3.8 Flash Next on memory rich, GPU poor setup",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2e40k/experience_report_qwen_38_flash_next_on_memory/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T10:36:09+00:00",
+    "summary": "(not written by Claude, all errors and crappy text are result of too little coffee on a Sunday morning ;) Our home server is a 2018 Thinkstation P520, bought for about 600eur in 2023. It's been upgraded with a 2TB Samsung 980 Pro NVMe, a Xeon W-2145 and a 12GB 3060 - total cost about ~1k all in. Not nothing, but not a crazy amount of cash for all the capability it provides. 256GB ECC DDR4 at\u2026",
+    "score": 5.02,
+    "matched": [
+      "claude"
+    ]
+  },
+  {
+    "title": "Me these days",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2fmmq/me_these_days/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T11:57:45+00:00",
+    "summary": "submitted by /u/Eyelbee [link] [comments]",
+    "score": 4.89,
+    "matched": []
+  },
+  {
+    "title": "Humaneval benchmark for Deepseek V4 Flash 0731 vs GLM5.3 Flash on 2x DGX Spark setup",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w215qm/humaneval_benchmark_for_deepseek_v4_flash_0731_vs/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T23:18:13+00:00",
+    "summary": "I have a 2 DGX Spark setup recently and I have been happily running Deepseek V4 Flash 0731. Since the release of GLM5.3 Flash and Qwen 3.8 Flash Next this week, a lot of folks are still waiting to see what model to run given their own hardware situations. I am very interested in running a GLM model locally and looks like nvfp4 would be a good option for my setup, but I have been hearing a lot of\u2026",
+    "score": 4.807,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "When you say, because I can. Limits of X870e",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2dij0/when_you_say_because_i_can_limits_of_x870e/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T10:02:30+00:00",
+    "summary": "As the heading goes, at some point it stopped being about improvements and just whether I can. So check out my abomination. GLM-5.3-Flash at IQ3_XXS gets about 20t/s generation in Unsloth Studio. Now if only I can make my second 2x48GB DDR5 ram kit play nice, but computer just refuses to be stable with two different 2x48GB kits. Anyway, love this forum, plenty of ideas and fun. Time to go work\u2026",
+    "score": 4.65,
+    "matched": []
+  },
+  {
+    "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-29T18:41:59+00:00",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "score": 4.632,
+    "matched": [
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T09:28:27+00:00",
+    "summary": "submitted by /u/liright [link] [comments]",
+    "score": 4.579,
+    "matched": []
+  },
+  {
+    "title": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\"",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1tfkc/this_financemodel_benchmark_card_is_more_useful/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T18:04:08+00:00",
+    "summary": "The official benchmark card for Ling-3.0-flash-Fin is a useful reminder that the unit being tested is rarely just \u201cthe model.\u201d The release says most runs used temperature 1, top_p 0.95 and the highest available reasoning effort. FinFIRST and FinSearchComp Verified used a common ReAct scaffold with Web Search, Visit and Python. SpreadsheetBench used Claude Code 2.1.173 with LibreOffice 25.8.7,\u2026",
+    "score": 4.453,
+    "matched": [
+      "claude",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Introducing Hy4 Preview",
+    "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-08-29T23:53:13+00:00",
+    "summary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their previous Hy3 in July, which was 295B, 21B active, 256,000 context, 598GB. I recently started using model chat templates to better understand their capabilities.\u2026",
+    "score": 4.38,
+    "matched": [
+      "llm",
+      "hugging face"
+    ]
+  },
+  {
+    "title": "Any current Voice2Voice AI model that runs locally that\u2019s good?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vw3c/any_current_voice2voice_ai_model_that_runs/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T19:39:50+00:00",
+    "summary": "(I mean STS) You guys remember sesame AI? With their really good AI voice model? Obviously ChatGPT has their voice model that\u2019s also really good. Is there any smaller local variant that runs on like consumer grade gpu\u2018s (12,16 24gb?) I think NVidia released something but I didn\u2019t really remember much or look for it I think? Also something new, not something from like 2 years ago, thanks submitted\u2026",
+    "score": 4.352,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "nvidia"
+    ]
+  },
+  {
+    "title": "Qwen3.8-Flash-Next NVFP4 Day-3 support for 4xV100",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w29ukk/qwen38flashnext_nvfp4_day3_support_for_4xv100/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T06:31:25+00:00",
+    "summary": "RadixArk/Qwen3.8-Flash-Next-NVFP4 is now supported in SGLang-V100. 4 V100 32GB running full context. A little more than 50 GB ngram offloaded to system RAM. Prefill around 4000tks flat and decode around 60 tks all the way to the end of the 256k context. Prompt TTFT no MTP TTFT MTP ITL no MTP ITL MTP Prefill no MTP Prefill MTP Output no MTP Output MTP 10k 2,154 2,307 16.75 12.33 4,655 4,354 59.93\u2026",
+    "score": 4.21,
+    "matched": []
+  },
+  {
+    "title": "Ran Qwen3.8-Flash-Next (79 GB, 2-bit) at 350K ctx for 3.5 hours on a 128 GB M5 Max \u2014 speed vs context depth, 100 turns, one graph",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w26y0w/ran_qwen38flashnext_79_gb_2bit_at_350k_ctx_for_35/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T03:56:19+00:00",
+    "summary": "Setup: MacBook Pro M5 Max, 128 GB unified, macOS 26.5.2 \u00b7 llama.cpp b10686 (Metal, 12 threads, batch 2048, flash-attn, kv-unified, ngram-mod spec decode) \u00b7 Qwen3.8-Flash-Next UD-Q2_K_XL (Unsloth), 78.9 GB \u00b7 358,400-token context slot via YaRN from the native 262,144, fp16 KV. Weights + full 350K KV fit under the default 96 GB GPU wired limit \u2014 no sysctl hack. The session: one slot, 100 turns, two\u2026",
+    "score": 4.187,
+    "matched": [
+      "llama"
+    ]
+  },
+  {
+    "title": "Qwen3.8-Flash-Next optimised for Macs",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w296bx/qwen38flashnext_optimised_for_macs/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T05:54:00+00:00",
+    "summary": "EDIT: in the tests above, I forgot to enable one more optimisation - useful when RAM and cache are small. Doesn\u2019t help my numbers with MTP off (since I can cache enough tensors), but with MTP on I can still reach 185-190 tps prefill, basically making MTP the default choice, with no downsides. This might also be because ~190 tps prefill might be the hardware limit. Will add a comment later after\u2026",
+    "score": 4.132,
+    "matched": []
+  },
+  {
+    "title": "It's official! 192GB Framework",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T05:39:44+00:00",
+    "summary": "Just noticed this on the website. At their current price tiers for the memory SKUs (32, 64, 128) I'd expect this to be ~ 4.5k for the motherboard. The PCIe slot will be open at the back as well - that's what I've heard. Maybe they make it capable of delivering 75W as well? New board revisions for the smaller SKUs?. submitted by /u/reto-wyss [link] [comments]",
+    "score": 4.102,
+    "matched": []
+  },
+  {
+    "title": "an unscientific qwen 3.8 flash next and glm 5.3 flash comparison",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w28alw/an_unscientific_qwen_38_flash_next_and_glm_53/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-30T05:06:24+00:00",
+    "summary": "I stole the reference image from a recent post on r/stablediffusion , and then asked both qwen 3.8 flash next (q4 K XL) and GLM flash (oQ4e MLX) to choose try to reproduce it into a \"video game or tech demo\" as closely as possible, iterating over a period of (up to) about an hour and a half each. Overall GLM flash was overall much closer to the reference image in terms of scale, though still a\u2026",
+    "score": 4.033,
+    "matched": []
+  },
+  {
+    "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-29T17:36:47+00:00",
+    "summary": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "score": 3.896,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-29T18:19:53+00:00",
+    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [\u2026]",
+    "score": 3.786,
+    "matched": [
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Tenstorrent Qwen3.7-27b Benchmarks",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1vtfo/tenstorrent_qwen3727b_benchmarks/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T19:36:48+00:00",
+    "summary": "I saw someone here posted about getting a Tenstorrent QuietBox 2, and I wanted to look into it the hardware. It's very difficult to find any benchmarks, but I managed to find some from an employee. The machine it was benchmarked on has 2 p300c's, their top of the line card, that's not sold individually. It seems to be a p150 with 64 GB of GDDR6, instead of 32. The employee said the 2 cards in the\u2026",
+    "score": 3.746,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Nemotron-3.5-Lightning at 11.77 GiB, a 16 GB option for a model that didn't have one",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w21d86/nemotron35lightning_at_1177_gib_a_16_gb_option/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T23:27:11+00:00",
+    "summary": "TL;DR: Every public low-bit GGUF of this model is secretly ~4.70 bpw. Shim the rows to 256 and it becomes a real 3.07 bpw / 11.77 GiB file that runs 262K context on 16GB. Needs patched llama.cpp \u2014 not LM Studio or Ollama. In the AtomicChat HuggingFace repo it says \"There is currently no good 16 GB option for this model, from anyone.\" That was true, I wanted to figure out why, and it's a quantizer\u2026",
+    "score": 3.626,
+    "matched": [
+      "llama"
+    ]
+  },
+  {
+    "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-29T13:00:00+00:00",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "score": 3.619,
+    "matched": [
+      "ai",
+      "nvidia"
+    ]
+  },
+  {
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-08-29T17:19:47+00:00",
+    "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 411 # Comments: 101",
+    "score": 3.461,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "llama.cpp Open PRs list - CPU/RAM/Disk/Hybrid Related - Better for CPU-only & Hybrid inference",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T18:58:58+00:00",
+    "summary": "Folks! We're just 50 PRs away from more faster inference . Hopefully by end of year. Experts!, please chip in there. List of Open/Ongoing PRs(and also Discussions) related to CPU/RAM/Disk/Hybrid: [Discussion] RFC: MoE expert cache, VRAM caching of hot CPU-resident experts with hybrid hit/miss execution #24528 AVX2: Speed up large batch size prompt processing of IQ models #27402 llama: add Maple\u2026",
+    "score": 3.367,
+    "matched": [
+      "llama",
+      "inference"
+    ]
+  },
+  {
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "url": "https://lwn.net/Articles/1091231/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-08-29T14:02:10+00:00",
+    "summary": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 490 # Comments: 457",
+    "score": 3.349,
+    "matched": [
+      "ai",
+      "generative"
+    ]
+  },
+  {
+    "title": "(NInfer Fork) I wanted to have a 1M context Qwen-3.8 27B, tp2, dual 5090s",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1txyk/ninfer_fork_i_wanted_to_have_a_1m_context_qwen38/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T18:24:17+00:00",
+    "summary": "Hey! I forked NInfer (a from-scratch C++20/CUDA inference engine for Qwen models) and added two things: tensor-parallel across two GPUs, and YaRN \u00d74 rope scaling. Together they let Qwen3.8-27B NVFP4 run a 1,048,576-token context on two consumer 5090s \u2014 27.4 GB per card, no NVLink. Numbers (single stream, 500 W per GPU cap): Decode at 653k context: 119 tok/s with MTP speculative decoding, 57\u2026",
+    "score": 2.995,
+    "matched": [
+      "inference"
+    ]
+  },
+  {
+    "title": "Qwen3.8 Flash Quants",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1ou8x/qwen38_flash_quants/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T15:02:24+00:00",
+    "summary": "~20\u201330GB smaller than Unsloth/AesSedai Q4 at similar PPL. After several days of testing I released a set of mainline-compatible imatrix quants for Qwen3.8-Flash-Next. Goal: same quality band as the popular Unsloth / AesSedai Q4 builds, less disk and RAM. Savings are roughly 20\u201330GB depending on the file you compare against. PPL is in the model card and is competitive with both. Repo:\u2026",
+    "score": 2.874,
+    "matched": []
+  },
+  {
+    "title": "67-84 t/s DeepSeek flash v4 off 2x GX10s",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1uug2/6784_ts_deepseek_flash_v4_off_2x_gx10s/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T18:59:15+00:00",
+    "summary": "Finally achieved usable results with 2 gx10 at over 65 tokens a second sustained. The 2570 prompt eval is really crucial for me as well. Overall stoked 10/10 edit: I followed this setup with 2 ASUS GX10 DGX computers :) https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark submitted by /u/koalfied-coder [link] [comments]",
+    "score": 2.768,
+    "matched": []
+  },
+  {
+    "title": "Is it possible to run it with a combined memory setup: 16 GB VRAM + 64 GB RAM + SSD for offloading n-grams?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1lu77/is_it_possible_to_run_it_with_a_combined_memory/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T12:55:14+00:00",
+    "summary": "Hardware: rtx 5080 16 gb vram; 64 gb ram ddr5 6000hz; ssd with unlimited memory; ryzen 7 9800 x3d. OS: Windows 11 Software: I\u2019d prefer llama.cpp, but it\u2019s not a strict requirement; I\u2019ll use whatever you suggest, as long as it works on Windows. My attempts to run it with llama.cpp: llama-server ^ -m \"F:.lmstudio\\models\\unsloth\\Qwen-Next\\Qwen3.8-Flash-Next-UD-IQ3_XXS-00001-of-00003.gguf\" ^ -c 10000\u2026",
+    "score": 2.309,
+    "matched": [
+      "llama"
+    ]
+  },
+  {
+    "title": "Tencent compressed Hy4-preview from 1.5TB to about 200GB GGUF and kept about 98% performance.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T14:31:38+00:00",
+    "summary": "submitted by /u/RedditUsr2 [link] [comments]",
+    "score": 2.21,
+    "matched": []
+  },
+  {
+    "title": "Someone tested various Models on the Political Compass test...",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o1ji/someone_tested_various_models_on_the_political/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T14:30:05+00:00",
+    "summary": "submitted by /u/Thrumpwart [link] [comments]",
+    "score": 2.207,
+    "matched": []
+  },
+  {
+    "title": "Did anyone else notice the Ornith 1.5 35B GGUFs got a \"silent\" update?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1nhpp/did_anyone_else_notice_the_ornith_15_35b_ggufs/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T14:07:10+00:00",
+    "summary": "Hey all, I stumbled onto something funny and figured I'd share before it gets buried. I'd been running the Ornith 1.5 35B A3B GGUF (Q4_K_M) for a while, then recently a new revision showed up in my HF cache and I figured, eh, I'd pruned my old one. Fast forward a bit later when I wanted to dig into what actually changed, and it turned into a little rabbit hole. Long story short: the Aug 24\u2026",
+    "score": 2.159,
+    "matched": []
+  },
+  {
+    "title": "Exo labs claiming 4.8 tb/s memory bandwidth through m5u Mac Studio clustering",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1nc1c/exo_labs_claiming_48_tbs_memory_bandwidth_through/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T14:00:49+00:00",
+    "summary": "Exo labs making some very exciting and interesting claims. The headline is bandwidth scales linearly on Mac Studio clusters with their solution. There is a thread over at localllm subreddit ( https://www.reddit.com/r/LocalLLM/s/qEYLOFaYwc ) where one of their employees speaks about how its latency, not bandwidth that matters in their RDMA clustering solution. I made a post about m5u 96gb x 2\u2026",
+    "score": 2.146,
+    "matched": []
+  }
+]
