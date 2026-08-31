@@ -1,0 +1,446 @@
+[
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-31T13:27:36+00:00",
+    "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [\u2026]",
+    "score": 6.799,
+    "matched": [
+      "chatgpt",
+      "openai"
+    ]
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "score": 6.217,
+    "matched": [
+      "ai",
+      "chatgpt"
+    ]
+  },
+  {
+    "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
+    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-31T14:00:00+00:00",
+    "summary": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached [\u2026]",
+    "score": 5.967,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+    "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-08-31T13:41:40+00:00",
+    "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
+    "score": 5.929,
+    "matched": [
+      "chatgpt"
+    ]
+  },
+  {
+    "title": "Instagram cracks down on AI accounts pretending to be human",
+    "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-31T13:00:00+00:00",
+    "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [\u2026]",
+    "score": 5.842,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Auditing LLM Benchmarks with Item Response Theory",
+    "url": "https://arxiv.org/abs/2605.30504",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2605.30504v2 Announce Type: replace Abstract: LLM benchmark labels are frozen at release and silently propagated into downstream benchmarks, errors and all. We introduce an Item Response Theory-based indicator that surfaces likely mislabels at 95% precision in the top 200 examples across seven preference and multiple-choice benchmarks using responses from 114 models, outperforming a\u2026",
+    "score": 5.817,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-31T12:56:46+00:00",
+    "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+    "score": 5.735,
+    "matched": []
+  },
+  {
+    "title": "Improved off-policy training of diffusion samplers",
+    "url": "https://arxiv.org/abs/2402.05098",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2402.05098v5 Announce Type: replace Abstract: We study the problem of training diffusion models to sample from a distribution with a given unnormalized density or energy function. We benchmark several diffusion-structured inference methods, including simulation-based variational approaches and off-policy methods (continuous generative flow networks). Our results shed light on the relative\u2026",
+    "score": 5.517,
+    "matched": [
+      "generative",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+    "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-08-31T10:00:34+00:00",
+    "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+    "score": 5.468,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "OpenStamp: A Watermark for Open-Source Language Models",
+    "url": "https://arxiv.org/abs/2608.27899",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27899v1 Announce Type: cross Abstract: With the growing prevalence of large language model (LLM) generated content, watermarking is considered a promising approach for attributing text to LLMs and distinguishing it from human-written content. A prominent class of techniques embeds subtle but detectable signals in generated text by modifying token sampling probabilities. However, such\u2026",
+    "score": 5.217,
+    "matched": [
+      "llm",
+      "large language model"
+    ]
+  },
+  {
+    "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
+    "url": "https://arxiv.org/abs/2608.28458",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28458v1 Announce Type: cross Abstract: Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state across turns, interpret feedback, and choose valid actions under changing constraints. We study this setting in the LM Playschool Challenge with a 2B open-weight model, and find that many failures are not only broad knowledge\u2026",
+    "score": 5.217,
+    "matched": [
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+    "url": "https://arxiv.org/abs/2605.30434",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2605.30434v2 Announce Type: replace Abstract: Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and\u2026",
+    "score": 5.217,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
+    "url": "https://arxiv.org/abs/2608.26086",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.26086v2 Announce Type: replace Abstract: Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most competitions still finishes below strong human competitors. Outcome-based benchmarks record this gap but not its\u2026",
+    "score": 5.217,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "OceanGym: A Benchmark Environment for Underwater Embodied Agents",
+    "url": "https://arxiv.org/abs/2509.26536",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2509.26536v3 Announce Type: replace-cross Abstract: We introduce OceanGym, the first comprehensive benchmark for ocean underwater embodied agents, designed to advance AI in one of the most demanding real-world environments. Unlike terrestrial or aerial domains, underwater settings present extreme perceptual and decision-making challenges, including low visibility, dynamic ocean currents,\u2026",
+    "score": 5.217,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Beyond Output Correctness: Benchmarking and Evaluating Large Language Model Reasoning in Coding Tasks",
+    "url": "https://arxiv.org/abs/2604.12379",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2604.12379v2 Announce Type: replace-cross Abstract: Large language models (LLMs) increasingly rely on explicit reasoning to solve coding tasks, yet evaluating the quality of this reasoning remains challenging. Existing reasoning evaluators are not designed for coding, and current benchmarks focus primarily on code generation, leaving other coding tasks largely unexplored. We introduce\u2026",
+    "score": 5.217,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "H-Scale: Hessian-Guided Scale Refinement for NVFP4 Sub-Byte LLM Inference",
+    "url": "https://arxiv.org/abs/2608.28113",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28113v1 Announce Type: new Abstract: The NVIDIA Blackwell architecture, with native support for the ultra-fine-grained NVFP4 format, opens new opportunities for accelerating large language model (LLM) inference. NVFP4's micro-block design, such as a group size of 16, offers strong representational flexibility for capturing local weight distributions and isolating outliers, but it also\u2026",
+    "score": 5.217,
+    "matched": [
+      "llm",
+      "large language model",
+      "nvidia",
+      "inference"
+    ]
+  },
+  {
+    "title": "PersonaForge: Realistic Multi-Turn User Simulation for Agentic Systems",
+    "url": "https://arxiv.org/abs/2608.28378",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28378v1 Announce Type: new Abstract: Large language models are increasingly used as agentic workflow executors, yet existing training data and benchmarks largely assume informationally complete, single-turn queries. Our analysis of 16K real-world sessions shows that 75.9% of interactions are multi-turn, revealing a substantial gap between how users interact with agents and how such\u2026",
+    "score": 5.217,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry",
+    "url": "https://arxiv.org/abs/2608.28481",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28481v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have demonstrated strong capabilities in natural language understanding and mathematical reasoning. However, their ability to translate informal mathematical problems into formal representations remains underexplored. This limitation is particularly important for neuro-symbolic geometry systems such as\u2026",
+    "score": 5.217,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "SURE-Challenge: Evaluating Speech Evidence Before Speech-LLM Generation",
+    "url": "https://arxiv.org/abs/2608.27783",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27783v1 Announce Type: cross Abstract: Speech LLMs are usually graded after they answer, although an operating system first has to decide whether a waveform should be sent to the model. We define the Speech-Unsupported Rejection Evaluation Challenge (SURE-Challenge) for this admission step. The benchmark pairs LibriSpeech-derived transcription and first-word question answering with\u2026",
+    "score": 5.217,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking large language model agent societies against human behavioural distributions",
+    "url": "https://arxiv.org/abs/2608.28182",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28182v1 Announce Type: cross Abstract: Populations of large language model agents are increasingly used as experimental societies. Three doubts shadow every such result: whether the agents behave like the humans they stand in for, whether a finding survives changes to the apparatus that leave the rules untouched, and whether apparent social dynamics are interaction at all rather than\u2026",
+    "score": 5.217,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
+    "url": "https://arxiv.org/abs/2608.28518",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28518v1 Announce Type: cross Abstract: We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions being accepted and executed by EAI models, thereby reducing safety. We simulate ASR errors and combine them with existing safety benchmarks (SafeAgentBench\u2026",
+    "score": 5.217,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking LLM-as-a-Judge for Long-Form Output Evaluation",
+    "url": "https://arxiv.org/abs/2606.01629",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2606.01629v4 Announce Type: replace Abstract: As large language models (LLMs) are increasingly used for long-form generation, reliably evaluating long-form outputs has become a critical challenge. LLM-as-a-judge offers a scalable alternative to human evaluation, yet its reliability in long-form output evaluation remains underexamined: existing meta-evaluation benchmarks focus mainly on\u2026",
+    "score": 5.217,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-08-31T10:30:00+00:00",
+    "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. \u201cAI is just a tool,\u201d one person tells WIRED. \u201cIt should never be given the keys.\u201d",
+    "score": 5.129,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Beyond Search-Imitation: Prior-Directed Exploration for Searchless Chess",
+    "url": "https://arxiv.org/abs/2608.27757",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27757v1 Announce Type: new Abstract: Searchless chess networks reach human master strength from a single forward pass by imitating a stronger teacher: the strongest, Leela Chess Zero's (Lc0) released Chessformer, distills the visit counts of an AlphaZero-style Monte Carlo Tree Search (MCTS). Imitating a search is a poor proxy for playing without one, so we fine-tune for single-pass\u2026",
+    "score": 4.917,
+    "matched": [
+      "fine-tun*"
+    ]
+  },
+  {
+    "title": "REPLICANT: Learning Policies for Evading and Hardening Malware Detectors",
+    "url": "https://arxiv.org/abs/2608.28499",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28499v1 Announce Type: new Abstract: To determine the real-world effectiveness of machine learning based malware detection, it is vital to evaluate its robustness against highly capable adversaries. However, state-of-the-art attacks do not effectively model realistic adversaries, as they often assume access to privileged information such as the training data, feature space, or\u2026",
+    "score": 4.917,
+    "matched": [
+      "machine learning"
+    ]
+  },
+  {
+    "title": "RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests",
+    "url": "https://arxiv.org/abs/2608.27831",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27831v1 Announce Type: cross Abstract: Coding agents are now commonly evaluated on the SWE-bench family of benchmarks, whose tasks are built from curated GitHub issues--long, structured, and information-rich. Real user requests, however, are typically far shorter and less structured. To characterize this gap, we define a six-category information taxonomy and four dimensions of\u2026",
+    "score": 4.917,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Not to Break, but to Attest: Adversarial Probes for Privacy-Preserving LLM Verification",
+    "url": "https://arxiv.org/abs/2608.27954",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27954v1 Announce Type: cross Abstract: Post-deployment changes to large language models can alter behavior while leaving routine outputs largely unchanged, creating a challenge for AI governance when model weights are proprietary. We present a privacy-preserving zk-SNARK-based audit framework that searches for probes designed in the spirit of adversarial examples to amplify logit drift\u2026",
+    "score": 4.917,
+    "matched": [
+      "ai",
+      "llm",
+      "model weights"
+    ]
+  },
+  {
+    "title": "Characterization of Request and Token Energy Costs for LLM Inference Workloads on GPU Platforms",
+    "url": "https://arxiv.org/abs/2608.28044",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28044v1 Announce Type: cross Abstract: Large language model (LLM) inference serving is priced by tokens, but GPU energy is consumed over inference windows. This accounting mismatch makes token-normalized metrics incomplete, since average output-token energy can decrease even when total request energy increases. We characterize this behavior with a decomposed energy model: a fixed\u2026",
+    "score": 4.917,
+    "matched": [
+      "llm",
+      "large language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Mixture of Multicenter Experts in Multimodal AI for Debiased Radiotherapy Target Delineation",
+    "url": "https://arxiv.org/abs/2410.00046",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2410.00046v4 Announce Type: replace-cross Abstract: Clinical decision-making reflects diverse strategies shaped by regional patient populations and institutional protocols. However, most existing medical artificial intelligence (AI) models are trained on highly prevalent data patterns, which reinforces biases and fails to capture the breadth of clinical expertise. Inspired by the recent\u2026",
+    "score": 4.917,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Select, Don't Train: The Benefits of Modular Entity Disambiguation with LLM-Based Selection",
+    "url": "https://arxiv.org/abs/2608.27470",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27470v1 Announce Type: new Abstract: Entity Disambiguation (ED) is a key task for constructing and using knowledge graphs. State-of-the-art neural approaches commonly model ED as a single task, although it consists of two distinct subproblems: retrieving candidate entities and selecting the correct one given context. Dual-encoder models optimize for both within a shared embedding\u2026",
+    "score": 4.917,
+    "matched": [
+      "llm"
+    ]
+  },
+  {
+    "title": "XHotpotQA: A Benchmark for Cross-Lingual Knowledge Composition in Multi-Hop Question Answering",
+    "url": "https://arxiv.org/abs/2608.27481",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27481v1 Announce Type: new Abstract: Knowledge-intensive multi-hop question answering requires systems to select evidence and compose dependent facts, yet multilingual benchmarks usually translate an entire example into one language. This hides failures at language boundaries inside the reasoning chain. We introduce XHotpotQA, a controlled benchmark for cross-lingual knowledge\u2026",
+    "score": 4.917,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EvoHarmBench: Breaking Content Moderation with Iterative Human-Like Evasion",
+    "url": "https://arxiv.org/abs/2608.27844",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.27844v1 Announce Type: new Abstract: Existing evaluations of harmful content detection rely predominantly on static benchmarks, which struggle to reflect the interactive adversarial ecosystem of real-world content platforms where users continuously revise their expressions in response to moderation feedback. This mismatch creates a significant performance gap between offline benchmark\u2026",
+    "score": 4.917,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "A Shaky Voice Is Not Always a Dodge: Benchmarking Textual and Vocal Evasion Detection in Earnings Calls",
+    "url": "https://arxiv.org/abs/2608.28040",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28040v1 Announce Type: new Abstract: Existing approaches to evasion detection in earnings calls focus on textual transcripts, treating evasion as a single-dimensional phenomenon. We argue that evasion in spoken communication is inherently multidimensional: beyond what executives say, how they say it carries independent and complementary information. To study these dimensions jointly,\u2026",
+    "score": 4.917,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "CNeo-Bench: Diagnosing Large Language Models on Chinese Neologisms",
+    "url": "https://arxiv.org/abs/2608.28053",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28053v1 Announce Type: new Abstract: Chinese neologisms exploit diverse and unique linguistic mechanisms, such as phonetic substitution (e.g., 886 for ``bye-bye'') and visual character decomposition that are rare in other languages. We introduce CNeo-Bench, a benchmark of 4,759 such neologisms with reference definitions, organized into five top-level categories and nine subcategories\u2026",
+    "score": 4.917,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "FinExam-10K: When Retrieval Helps Financial Reasoning?",
+    "url": "https://arxiv.org/abs/2608.28155",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-08-31T04:00:00+00:00",
+    "summary": "arXiv:2608.28155v1 Announce Type: new Abstract: Professional financial examinations require models to combine domain knowledge, calculation, and judgment, yet no benchmark covers the full CFA and FRM structure under one protocol. We introduce FinExam-10K, to our knowledge the largest reported English benchmark for this setting, with 10,198 expert-reannotated questions spanning CFA Levels I-III\u2026",
+    "score": 4.917,
+    "matched": [
+      "benchmark*"
+    ]
+  }
+]
