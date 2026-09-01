@@ -1,0 +1,488 @@
+[
+  {
+    "title": "GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon",
+    "url": "https://arxiv.org/abs/2608.28667",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28667v1 Announce Type: cross Abstract: The rapid proliferation of Large Language Models (LLMs) has raised concerns about their environmental impact during inference. While Green AI research has focused on datacenter GPUs and embedded platforms, the energy profile of LLM inference on Apple Silicon, with its unified memory architecture, remains unstudied. This paper presents GreenBench,\u2026",
+    "score": 6.731,
+    "matched": [
+      "ai",
+      "llm",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
+    "url": "https://arxiv.org/abs/2608.28597",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28597v1 Announce Type: new Abstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical guardians of response quality. However, the rapid emergence of agentic AI (goal directed systems powered by a large language model (LLM) brain and/or a multimodal processing unit with tool-augmented capabilities) raises new\u2026",
+    "score": 6.431,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "agentic",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability",
+    "url": "https://arxiv.org/abs/2608.09538",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.09538v3 Announce Type: replace-cross Abstract: We introduce TCS-Bench, a benchmark for evaluating Large Language Models (LLMs) on research-level Theoretical Computer Science (TCS) proof generation. TCS-Bench consists of theorem-proving tasks from papers published at top theoretical computer science venues (STOC, FOCS, and SODA). Each task provides the necessary context to derive a\u2026",
+    "score": 6.431,
+    "matched": [
+      "ai",
+      "generative",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation",
+    "url": "https://arxiv.org/abs/2608.30730",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30730v1 Announce Type: new Abstract: Long-horizon agentic tasks go beyond chaining short tasks over more interaction turns. Their evolving dynamic environments and long-range dependencies require Large Language Models (LLMs) to continually explore, learn from experience, and adapt their policies over thousands of steps. We introduce E-Commerce Bench, the first open-source benchmark\u2026",
+    "score": 6.431,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning",
+    "url": "https://arxiv.org/abs/2608.31118",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.31118v1 Announce Type: new Abstract: The effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and Mixture-of-Experts variants from the Qwen3.5 and Qwen3.6 lineages, together with proprietary GPT release variants, using the OntoLearner retrieval-augmented\u2026",
+    "score": 6.131,
+    "matched": [
+      "llm",
+      "large language model",
+      "gpt",
+      "retrieval augmented"
+    ]
+  },
+  {
+    "title": "AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance",
+    "url": "https://arxiv.org/abs/2506.03828",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2506.03828v4 Announce Type: replace Abstract: AI for Industrial Asset Lifecycle Management aims to automate complex operational workflows, such as condition monitoring and maintenance scheduling, to minimize system downtime. While traditional AI/ML approaches solve narrow tasks in isolation, Large Language Model (LLM) agents offer a next-generation opportunity for end-to-end automation. In\u2026",
+    "score": 6.131,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AgentRx: Diagnosing AI Agent Failures from Execution Trajectories",
+    "url": "https://arxiv.org/abs/2602.02475",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2602.02475v2 Announce Type: replace Abstract: AI agents often fail in ways that are difficult to localize because executions are probabilistic, long-horizon, multi-agent, and mediated by noisy tool outputs. We address this gap by manually annotating failed agent runs and release a novel benchmark of 170 trajectories across 11 diverse task settings, including structured API workflows,\u2026",
+    "score": 6.131,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification",
+    "url": "https://arxiv.org/abs/2603.27476",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2603.27476v3 Announce Type: replace Abstract: AI-powered people search platforms are increasingly deployed for recruiting, sales prospecting, and professional networking, yet no standardized benchmark exists for their rigorous evaluation. We present PeopleSearchBench, an open-source benchmark comprising 119 multilingual queries across four scenarios: corporate recruiting, B2B sales\u2026",
+    "score": 6.131,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Universal Redundancies in Time Series Foundation Models",
+    "url": "https://arxiv.org/abs/2602.01605",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2602.01605v2 Announce Type: replace Abstract: Time Series Foundation Models (TSFMs) leverage extensive pretraining to accurately predict unseen time series during inference, without the need for task-specific fine-tuning. Through large-scale evaluations on standard benchmarks, we find that leading transformer-based TSFMs exhibit redundant components in their intermediate layers. We\u2026",
+    "score": 6.131,
+    "matched": [
+      "transformer*",
+      "fine-tun*",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ECGQuest: Benchmarking and Fine-Tuning Language Models for Electrocardiography",
+    "url": "https://arxiv.org/abs/2608.30893",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30893v1 Announce Type: new Abstract: Electrocardiogram (ECG) interpretation requires knowledge of cardiology, electrophysiology, clinical diagnosis, ECG waveforms, signal acquisition, and instrumentation. Existing language-model benchmarks, however, primarily assess broad medical knowledge or interpretation of individual ECG signals and images rather than the broader contextual\u2026",
+    "score": 6.131,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Physics-R1: An Audited Olympiad Corpus and Released Verifiers for Visual Physics Reasoning",
+    "url": "https://arxiv.org/abs/2605.14040",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2605.14040v2 Announce Type: replace Abstract: Trackable improvement in multimodal physics reasoning rests on a training-and-evaluation system that is itself rarely verified: the corpora a model trains on, the reward it is optimized against, and the benchmarks and judges that score it. We audit this system end to end and find that standard construction practices systematically distort\u2026",
+    "score": 6.131,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MineCEraft: Evaluating Language Models as Construction Engineers in the World of Minecraft",
+    "url": "https://arxiv.org/abs/2608.28884",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28884v1 Announce Type: new Abstract: We introduce MineCEraft (Minecraft Construction Engineering Benchmark, pronounced mine-see-ee-raft), an easy-to-use, open-source benchmark designed to systematically evaluate the reliability and limitations of LLMs for construction tasks in Minecraft. The MineCEraft benchmark comprises 723 domain-expert hand-crafted natural-language instructions\u2026",
+    "score": 5.831,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "BIRD-History: A Benchmark for History-Driven Text-to-SQL with Fine-Grained Knowledge Annotations",
+    "url": "https://arxiv.org/abs/2608.29345",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29345v1 Announce Type: new Abstract: While recent Large Language Model (LLM)-based text-to-SQL systems achieve impressive performance on standard benchmarks, they struggle when user queries implicitly rely on domain-specific knowledge, such as business logic, data conventions, and analytical practices, that is neither captured by the schema nor explicitly stated in the natural language\u2026",
+    "score": 5.831,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "LiteSearch-VL: Small Multimodal Search Agents via Trajectory Distillation and Synthetic Step-DPO",
+    "url": "https://arxiv.org/abs/2608.29357",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29357v1 Announce Type: new Abstract: Multimodal search agents answer visual questions by interleaving image understanding, web retrieval, tool use, and evidence synthesis. Strong systems exist, but in two expensive regimes: proprietary frontier models such as GPT-5 and Gemini, or large open vision-language backbones trained with substantial agentic data and reinforcement learning. We\u2026",
+    "score": 5.831,
+    "matched": [
+      "gpt",
+      "gemini",
+      "agentic",
+      "multimodal",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "title": "Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores",
+    "url": "https://arxiv.org/abs/2608.31068",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.31068v1 Announce Type: new Abstract: When a large language model fails a reasoning task, it is often assumed to lack the underlying capability. However, this conflates a genuine absence of reasoning with a late-stage output bottleneck. We observe a consistent readout gap across diverse reasoning benchmarks: hidden-state probes successfully decode correct answers even when native\u2026",
+    "score": 5.831,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "IndicDetect: Evaluating Cross-Lingual LLM-Generated Text Detection for Hindi, Telugu, and Tamil",
+    "url": "https://arxiv.org/abs/2608.29919",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29919v1 Announce Type: cross Abstract: The rapid proliferation of LLMs has further heightened the need to develop dependable AI-generated text detection, especially beyond English. Nevertheless, current benchmarks pay little attention to Indic languages and test detectors in idealized settings that do not represent the real world. We present a generalized benchmark for AI-generated\u2026",
+    "score": 5.831,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "BAITBENCH: Measuring Agent Reward Hacking with Optional Shortcuts Planted in ML Tasks",
+    "url": "https://arxiv.org/abs/2608.30724",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30724v1 Announce Type: cross Abstract: LLM agents are increasingly used to run autonomous ML experiments, iterating on target metrics with little human oversight. Prior work has documented reward hacking in these environments, bringing into question the validity of produced research and the broader safety case for AI R&D. Existing benchmarks do not measure exploits that live in the\u2026",
+    "score": 5.831,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+    "url": "https://arxiv.org/abs/2608.31142",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.31142v1 Announce Type: cross Abstract: The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for black-box identity verification of anonymous models: practitioner\u2026",
+    "score": 5.831,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "DynamicMCPBench: A Trace-Grounded, Effect-Scored Benchmark for LLM Agents over Live MCP Servers",
+    "url": "https://arxiv.org/abs/2607.20531",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2607.20531v2 Announce Type: replace Abstract: Large language model (LLM) agents are increasingly deployed over Model Context Protocol (MCP) servers, yet the benchmarks used to evaluate them score the final answer or a fixed \"ground-truth\" list of tools, both of which are fragile once the underlying data is live and stateful. We present DynamicMCPBench, a reusable framework rather than a\u2026",
+    "score": 5.831,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes",
+    "url": "https://arxiv.org/abs/2506.09557",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2506.09557v2 Announce Type: replace-cross Abstract: While Multimodal Large Language Models (MLLMs) demonstrate impressive performance in benign scenarios, their cognitive reliability deteriorates significantly in complex scenes under adverse conditions. In these settings, models often rely on implicit inference without sufficient visual evidence, leading to a disconnect between perception\u2026",
+    "score": 5.831,
+    "matched": [
+      "multimodal",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents",
+    "url": "https://arxiv.org/abs/2508.13186",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2508.13186v2 Announce Type: replace-cross Abstract: AI agents with advanced reasoning and tool-use capabilities have demonstrated impressive performance in web browsing for deep search. However, existing benchmarks such as BrowseComp primarily focus on textual content, overlooking the prevalence of multimodal content. To bridge this gap, we introduce MM-BrowseComp, a novel benchmark\u2026",
+    "score": 5.831,
+    "matched": [
+      "ai",
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Kinship Data Benchmark for Multi-hop Reasoning",
+    "url": "https://arxiv.org/abs/2601.07794",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2601.07794v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly evaluated on their ability to perform multi-hop reasoning, i.e., to combine multiple pieces of information into a coherent inference. We introduce KinshipQA, a benchmark designed to probe this capability through reasoning over kinship relations. The central contribution of our work is a generative\u2026",
+    "score": 5.831,
+    "matched": [
+      "generative",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "A-MADiff: Attention-Guided Multi-Agent DRL with Diffusion Policies for Memory-Aware Task Orchestration in Mobile AIGC Networks",
+    "url": "https://arxiv.org/abs/2608.29255",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29255v1 Announce Type: cross Abstract: Artificial Intelligence-Generated Content (AIGC) services employ Generative AI (GenAI) models to automatically generate diverse content. Mobile AIGC networks host GenAI models on edge-located AIGC Service Providers (ASPs) to deliver low-latency and personalized AIGC services for mobile users. However, AIGC inference tasks typically occupy GPU\u2026",
+    "score": 5.831,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "generative",
+      "genai",
+      "inference"
+    ]
+  },
+  {
+    "title": "Truthful AI Advisors: A Pre-Specified Benchmark for Large Language Model Honesty Under Preference Misalignment",
+    "url": "https://arxiv.org/abs/2606.01456",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2606.01456v2 Announce Type: replace Abstract: Large language models are increasingly deployed as advisors whose objective is not aligned with the user's: recommenders optimize for engagement, sales assistants for purchases. Whether they stay truthful when honesty conflicts with their own payoff is a core alignment question. We turn the canonical Crawford-Sobel cheap-talk model into a\u2026",
+    "score": 5.831,
+    "matched": [
+      "ai",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "QuantumBoostNet: Hybrid Classical-Quantum Cardiac View Identification",
+    "url": "https://arxiv.org/abs/2608.27302",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.27302v2 Announce Type: replace Abstract: Accurate identification of the correct view or angle in cardiac ultrasound (echocardiogram) is critical for cardiologic imaging, precise anatomical interpretation, and reducing clinical errors. Most state-of-the-art classical models perform well on standard benchmarks but give suboptimal results in specialized medical imaging due to high noise\u2026",
+    "score": 5.831,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "GPAgentBench-2K: Benchmarking Large Language Model Agents in Complex Clinical Action Space",
+    "url": "https://arxiv.org/abs/2608.30188",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30188v1 Announce Type: new Abstract: Large Language Models (LLMs) show great potential as clinical agents, yet existing benchmarks reduce clinical workflows to static predictions or unconstrained Markov Decision Processes (MDPs) with coarse action sets. To address this, we introduce GPAgentBench-2K, the first Constrained MDP (CMDP) LLM-agent benchmark for primary-care clinical\u2026",
+    "score": 5.831,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Detecting AI Impostors: How Do Middle Schoolers Identify LLM Agents in a Live Collaborative Setting?",
+    "url": "https://arxiv.org/abs/2608.30948",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.30948v1 Announce Type: new Abstract: LLMs can imitate how people write, which raises concerns about impersonation, trust, and detection in social settings. These concerns are especially important for adolescents, who use generative AI frequently but may struggle to recognize it. We introduce \\textit{DoppelBot}, a cooperative social deduction game designed to study how young people\u2026",
+    "score": 5.831,
+    "matched": [
+      "ai",
+      "llm",
+      "generative"
+    ]
+  },
+  {
+    "title": "SinLlama -- A Large Language Model for Sinhala",
+    "url": "https://arxiv.org/abs/2508.09115",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2508.09115v5 Announce Type: replace Abstract: Low-resource languages such as Sinhala are often overlooked by open-source Large Language Models (LLMs). In this research, we extend an existing multilingual LLM (Llama-3-8B) to better serve Sinhala. We enhance the LLM tokenizer with Sinhala specific vocabulary and perform continual pre-training on a cleaned 10 million Sinhala corpus, resulting\u2026",
+    "score": 5.831,
+    "matched": [
+      "llm",
+      "large language model",
+      "llama"
+    ]
+  },
+  {
+    "title": "IndicQE-APE: A Benchmark for Quality Estimation and Automatic Post-Editing for Indic Languages",
+    "url": "https://arxiv.org/abs/2608.16344",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.16344v2 Announce Type: replace Abstract: Indic quality estimation (QE) and automatic post-editing (APE) data is spread across separate releases, so no single resource supports training and evaluation across tasks and language pairs on one footing. We consolidate the WMT 2020--2024 shared-task lineage with an extended English--Malayalam resource into \\indicqe: $126{,}754$ instances over\u2026",
+    "score": 5.831,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "RegDivergence-101: An LLM Benchmark for Cross-Jurisdiction Regulatory Contradiction Detection in Life Sciences",
+    "url": "https://arxiv.org/abs/2608.28607",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28607v1 Announce Type: new Abstract: Pharmaceutical sponsors developing a drug for both the United States and the European Union must reconcile guidance issued independently by the FDA and the EMA. Where the two agencies require substantively the same thing, a sponsor can file once; where they diverge, a single trial design risks rejection in one region; where one agency is silent on a\u2026",
+    "score": 5.531,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Automated Researchers Can Reliably Mitigate Alignment Failures",
+    "url": "https://arxiv.org/abs/2608.28945",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.28945v1 Announce Type: new Abstract: Automating alignment research may accelerate progress toward aligned AI, but whether it does is hard to measure. Luckily, many alignment failures, such as deception, sycophancy, and jailbreaks, are already measurable by public benchmarks. We study whether automated alignment researchers (AARs) can post-train to mitigate alignment failures by\u2026",
+    "score": 5.531,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Agent2UCB: Agentic System for Generative Engine Optimization",
+    "url": "https://arxiv.org/abs/2608.29063",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29063v1 Announce Type: new Abstract: Large language model driven search engines such as Google AI Overviews and Perplexity have created new opportunities for Generative Engine Optimization (GEO) the practice of refining content to increase its likelihood of being cited or summarized by generative systems. We demonstrate Agent2UCB, an agentic GEO system that autonomously improves\u2026",
+    "score": 5.531,
+    "matched": [
+      "ai",
+      "large language model",
+      "generative",
+      "agentic"
+    ]
+  },
+  {
+    "title": "Beyond Correctness: Validity-Oriented Evaluation of Biomedical LLM Judges",
+    "url": "https://arxiv.org/abs/2608.29127",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29127v1 Announce Type: new Abstract: We propose a scalable, validity-oriented pipeline for evaluating biomedical LLM judges when high-quality human judgments are scarce. First, we augment existing human-labelled biomedical benchmarks with deterministic, metric-grounded mutations that produce auditable preference pairs. Second, we evaluate judges beyond aggregate correctness using three\u2026",
+    "score": 5.531,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Localizing Emergent Failures in Agentic AI: Recovering Minimal Repair Families via Counterfactual Replay",
+    "url": "https://arxiv.org/abs/2608.29228",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29228v1 Announce Type: new Abstract: Failures in agentic AI systems can arise from interactions among messages exchanged by multiple large language model (LLM) agents. Pointwise attribution cannot distinguish a jointly necessary repair from alternative singleton repairs. We formulate Minimal Repair Family Recovery (MRFR): recovering all inclusion-minimal event sets whose counterfactual\u2026",
+    "score": 5.531,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "agentic"
+    ]
+  },
+  {
+    "title": "MMPCBench: Benchmarking Multimodal Large Language Models on Proactive Critique of Flawed Inputs",
+    "url": "https://arxiv.org/abs/2608.29286",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-01T04:00:00+00:00",
+    "summary": "arXiv:2608.29286v1 Announce Type: new Abstract: As Multimodal Large Language Models (MLLMs) evolve into sophisticated interactive assistants, their reliability depends not only on following instructions but also on validating them. We define Proactive Critique as the model's autonomous ability to identify, analyze and fix faulty user inputs without extra prompts. However, evaluations mainly test\u2026",
+    "score": 5.531,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  }
+]
