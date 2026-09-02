@@ -1,0 +1,472 @@
+[
+  {
+    "title": "Retrieval, Scoring, and Decoding Shape Performance and Stability in LLM-based Conversational Recommendation",
+    "url": "https://arxiv.org/abs/2609.00086",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00086v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used as rerankers in conversational recommender systems, yet measured gains depend strongly on the retrieval and inference protocol. On the ReDial conversational movie recommendation benchmark, we compare proprietary, open-weight, and fine-tuned LLM rerankers with collaborative-filtering and sequential\u2026",
+    "score": 6.488,
+    "matched": [
+      "llm",
+      "fine-tun*",
+      "open-weight*",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+    "url": "https://arxiv.org/abs/2609.00012",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing agentic benchmarks report end-to-end success but\u2026",
+    "score": 6.188,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Calibration is the Bottleneck: An Action-Class Diagnostic of Multi-Turn Tool-Calling",
+    "url": "https://arxiv.org/abs/2609.00949",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00949v1 Announce Type: cross Abstract: Multi-turn tool calling is a core evaluation scenario for large language model (LLM) agents. On public tool-calling benchmarks, open-weight models now approach or even surpass closed-source frontier models in aggregate accuracy. However, this metric averages over many different multi-turn situations and obscures whether progress is balanced across\u2026",
+    "score": 6.188,
+    "matched": [
+      "llm",
+      "large language model",
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+    "url": "https://arxiv.org/abs/2606.18237",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2606.18237v2 Announce Type: replace-cross Abstract: Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, but they are difficult to scale due to their reliance on substantial manual effort for data curation and evaluation. We introduce ReproRepo,\u2026",
+    "score": 6.188,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Claude Fable 5.1 made me a really nice animated pelican",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-01T23:57:28+00:00",
+    "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announcement spends a notable amount of time on scientific research, boasting of a 52.6% score on the brand new Terminal-Bench-Science 0.1 benchmark (first announced on August 27th ), up from 24.7% for Fable 5, 29.0% for Opus 5\u2026",
+    "score": 5.982,
+    "matched": [
+      "claude",
+      "anthropic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Dr. Claw: An AI Scientist Workspace for Vibe Research",
+    "url": "https://arxiv.org/abs/2609.00365",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00365v1 Announce Type: new Abstract: Command-line coding agents (e.g., Claude Code, Gemini CLI) can already read and write files and sustain long sessions, yet end-to-end research still fragments across chat tools, IDEs, terminals, and writing environments, and the decisions that make it auditable are rarely preserved. We present Dr. Claw, an open-source workspace that wraps existing\u2026",
+    "score": 5.888,
+    "matched": [
+      "ai",
+      "claude",
+      "gemini"
+    ]
+  },
+  {
+    "title": "ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models",
+    "url": "https://arxiv.org/abs/2505.13180",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2505.13180v3 Announce Type: replace Abstract: Integrating Large Language Models with symbolic planners is a promising direction for obtaining verifiable and grounded plans, with recent works extending this idea to visual domains using Vision-Language Models (VLMs). However, an open-source benchmark for comparing these approaches under matched conditions is missing, due to a lack of visual\u2026",
+    "score": 5.888,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "UniACE: A Unified Framework for Evaluating LLM Agentic Capabilities",
+    "url": "https://arxiv.org/abs/2605.27898",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2605.27898v3 Announce Type: replace Abstract: Agent benchmarks are increasingly used to compare large language models (LLMs) across domains, yet a reported score reflects a complete model--harness--environment configuration rather than the model alone. Benchmark packages couple native tasks with specific prompts, tool protocols, orchestration logic, and sometimes dynamic external resources,\u2026",
+    "score": 5.888,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Can We Trust In-Distribution Success? Locked Evaluation Reveals Transfer Failure and Sampling-Depth Entanglement in CRISPRi Perturbation Prediction",
+    "url": "https://arxiv.org/abs/2608.00152",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2608.00152v3 Announce Type: replace-cross Abstract: AI evaluation can support the wrong inference when an in-domain benchmark success does not survive distribution shift, or when the benchmark endpoint is entangled with a design factor. We study this problem in CRISPRi perturbation-effect prediction, evaluating a frozen Geneformer representation under a locked, pre-registered protocol:\u2026",
+    "score": 5.888,
+    "matched": [
+      "ai",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
+    "url": "https://arxiv.org/abs/2609.00052",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00052v1 Announce Type: cross Abstract: Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs. All existing audits decide backbone identity from the text-output channel, which is structurally fragile for agentic APIs because modern serving stacks (OpenAI, Anthropic,\u2026",
+    "score": 5.888,
+    "matched": [
+      "llm",
+      "openai",
+      "anthropic",
+      "agentic",
+      "foundation model"
+    ]
+  },
+  {
+    "title": "Toward Workflow-Aware Benchmarking for Healthcare NLP Agents",
+    "url": "https://arxiv.org/abs/2609.00296",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00296v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly proposed for healthcare tasks such as clinical documentation, evidence retrieval, patient messaging, and care coordination. Yet many evaluations remain limited to static medical question answering or one-shot generation, under-representing longitudinal state, interruptions, and human handoffs. We\u2026",
+    "score": 5.888,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "The latest AI news we announced in August 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "source": "Google AI",
+    "category": "Labs & Releases",
+    "published": "2026-09-01T20:45:00+00:00",
+    "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\"",
+    "score": 5.881,
+    "matched": [
+      "ai",
+      "gemini"
+    ]
+  },
+  {
+    "title": "Anthropic launches Claude Fable 5.1 and says it\u2019s up to 45 percent cheaper for agentic work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-01T22:01:36+00:00",
+    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [\u2026]",
+    "score": 5.841,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic",
+      "agentic"
+    ]
+  },
+  {
+    "title": "UI-Venus-2 Technical Report",
+    "url": "https://arxiv.org/abs/2609.00028",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due to limited environment coverage, brittle task construction, and unreliable reward verification. In this work, we present UI-Venus-2, a general-purpose\u2026",
+    "score": 5.588,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "LLM-Driven Autonomous Vehicles Inherit Human Driver Biases in Pedestrian Yielding: Results and Implications From A New Benchmark",
+    "url": "https://arxiv.org/abs/2609.00192",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00192v1 Announce Type: new Abstract: Public trust in Autonomous Vehicles (AVs) may depend not only on technical success but also on the fairness of their decision making. While a recent trend in AV research involves using general purpose \"common sense\" models to guide AV decision making, the degree to which these inherit human biases in driving is still understudied. Given that\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "VoiceLongMemEval: Do Assistants Remember How You Sounded?",
+    "url": "https://arxiv.org/abs/2609.00570",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00570v1 Announce Type: new Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversation histories. Current benchmarks evaluate this dialogue history as information retrieval over long horizon, temporal reasoning, or knowledge updates, while\u2026",
+    "score": 5.588,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Socrates went Nuclear: Comparing Interaction Strategies for AI systems in a Learning Context using Brain Sensing",
+    "url": "https://arxiv.org/abs/2609.00584",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00584v1 Announce Type: new Abstract: Does unrestricted AI access bypass the cognitive effort required for learning, or does it streamline knowledge acquisition? This paper reports on a study where we compare three designs for user-AI interaction in a learning context: (1) an unrestricted conversational bot like ChatGPT, (2) a pedagogically constrained bot that guides through hints\u2026",
+    "score": 5.588,
+    "matched": [
+      "ai",
+      "chatgpt"
+    ]
+  },
+  {
+    "title": "SciTrue: Reliable Scientific Claim Validation with Frontier and Open Language Models at the NTCIR SciClaimEval Task",
+    "url": "https://arxiv.org/abs/2609.00654",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00654v1 Announce Type: new Abstract: We describe the SciTrue team's participation in both subtasks of the NTCIR-19 SciClaimEval task~\\cite{sciclaimeval}, which asks systems to verify scientific claims against the tables and figures of a paper. Rather than tuning a single model, we benchmark eleven frontier and open multimodal models under one honest, per-sample protocol and combine\u2026",
+    "score": 5.588,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "RPCBench: A Benchmark for Proactive Premise Critique in LLM-based Recommendation",
+    "url": "https://arxiv.org/abs/2609.00918",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00918v1 Announce Type: new Abstract: Large language models are increasingly used as interactive recommender assistants. Their evaluation should therefore go beyond plausible item recommendation and test whether they can recognize flawed recommendation requests. Existing recommender benchmarks mainly assess ranking, generation, or preference satisfaction, while existing error-detection\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "WorldBench: Culturally Grounded Benchmark for Multilingual Agents",
+    "url": "https://arxiv.org/abs/2609.01056",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01056v1 Announce Type: new Abstract: Despite the growing use of LLM-powered agents to solve multi-step tasks in complex environments, existing benchmarks rarely test state preservation, performance across languages, and application to realistic, grounded scenarios. To address these concerns, we present WorldBench: a comprehensive, multilingual benchmark of genuine, persona-grounded\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Analog-DB: An Agent-First Analog Integrated Circuit Database, From Blocks to Systems",
+    "url": "https://arxiv.org/abs/2609.01286",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01286v1 Announce Type: new Abstract: Sharing analog integrated circuit designs remains difficult: foundry non-disclosure agreements restrict the process details a design depends on, and the testbenches behind published results are rarely released. We present analog-db, an open-source, versioned database built on a shareable design representation. A domain-specific language captures\u2026",
+    "score": 5.588,
+    "matched": []
+  },
+  {
+    "title": "RePro: Proof-Verified Benchmark Rewriting for Reliable Evaluation of LLM Mathematical Problem Solving",
+    "url": "https://arxiv.org/abs/2609.00062",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00062v1 Announce Type: cross Abstract: Data contamination undermines the reliable evaluation of large language models (LLMs) on mathematical problem solving. While rewriting-based evaluation mitigates memorization, existing methods lack guarantees of problem validity and answer correctness. We propose Proof-Verified Benchmark Rewriting (RePro), the first framework to integrate\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ViTAMINS: An Empirical Study of Training Self-Supervised Vision Transformers with Synthetic Hard Negatives",
+    "url": "https://arxiv.org/abs/2609.01041",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01041v1 Announce Type: cross Abstract: We introduce ViTAMINS, a method that integrates synthetic hard negatives into unsupervised vision transformer pretraining to improve representation quality. Our approach is thoroughly benchmarked on ImageNet and transfer learning, image retrieval, copy detection, and image, video segmentation tasks. Notably, our proposed negatives give rise to\u2026",
+    "score": 5.588,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Who Judges the Judges? A Chinese Safety QA Benchmark for Evaluating LLM Responses and Safety Judges",
+    "url": "https://arxiv.org/abs/2609.01210",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01210v1 Announce Type: cross Abstract: Safety benchmarks for large language models often assess the risk of a user query, although the outcome of question answering depends on whether the response violates a policy. This distinction is critical in Chinese harmful-content evaluation, where linguistic variation and adversarial transformations can obscure risky intent. We introduce\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "HugAgent: A Human Simulation Benchmark for Individual-Level Reasoning",
+    "url": "https://arxiv.org/abs/2510.15144",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2510.15144v4 Announce Type: replace Abstract: Simulating human reasoning in open-ended tasks has long been a central aspiration in AI and cognitive science. While large language models now approximate human responses at scale, they remain tuned to population-level consensus, often erasing the individuality of reasoning styles and belief trajectories. To advance the vision of more human-like\u2026",
+    "score": 5.588,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "SkillRet: A Large-Scale Benchmark for Skill Retrieval in LLM Agents",
+    "url": "https://arxiv.org/abs/2605.05726",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2605.05726v3 Announce Type: replace Abstract: As LLM agents are increasingly deployed with large libraries of reusable skills, selecting the right skill for a user request has become a critical systems challenge. In small libraries, users may invoke skills explicitly by name, but this assumption breaks down as skill ecosystems grow under tight context and latency budgets. Despite its\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "The Importance of Being Statistically Earnest: A Critical Re-evaluation of GSM-Symbolic",
+    "url": "https://arxiv.org/abs/2605.28700",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2605.28700v3 Announce Type: replace Abstract: The GSM-Symbolic benchmark (Mirzadeh et al., 2025) reported consistent performance drops across 25 Large Language Models (LLMs) when tested on template-generated variants of GSM8K problems, concluding that the models lack genuine reasoning capabilities. We argue that this conclusion rests on shaky statistical ground. Re-evaluating 20 open-weight\u2026",
+    "score": 5.588,
+    "matched": [
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis",
+    "url": "https://arxiv.org/abs/2604.16729",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2604.16729v2 Announce Type: replace-cross Abstract: State-of-the-art large language models (LLMs) show high performance in general visual question answering. However, a fundamental limitation remains: current architectures lack the native 3D spatial reasoning required to directly analyze volumetric medical imaging, such as CT or MRI. Emerging agentic AI offers a new solution, eliminating\u2026",
+    "score": 5.588,
+    "matched": [
+      "ai",
+      "agentic"
+    ]
+  },
+  {
+    "title": "PlanarBench: Evaluating LLM Spatial Reasoning via Planar Graph Drawing",
+    "url": "https://arxiv.org/abs/2606.02010",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2606.02010v2 Announce Type: replace-cross Abstract: Existing LLM graph benchmarks typically ask models to answer graph-theoretic questions or compute symbolic solutions rather than construct spatial layouts. Within-task difficulty is also primarily stratified by vertex count. However, existing research also suggests that task difficulty is more closely related to the number of constraints\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Neural means and kernel corrections for operator learning",
+    "url": "https://arxiv.org/abs/2609.00389",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00389v1 Announce Type: new Abstract: We combine neural network means with exact Mat\\'ern kernel regressions of their residuals and of their learned features, and evaluate the pairing on two public emulation problems with published baselines: the structural-mechanics benchmark of de Hoop et al. and the OCO-2 radiative-transfer emulator of Lamminp\\\"a\\\"a et al. On structural mechanics the\u2026",
+    "score": 5.588,
+    "matched": [
+      "neural network",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "CRAFT: Fine-Tuning Pre-hoc Explainability in AI-native 6G RAN",
+    "url": "https://arxiv.org/abs/2609.00590",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00590v1 Announce Type: new Abstract: The next generation of mobile networks is envisioned as fully AI-native, with AI-RAN architectures embedding small language models (SLMs) to perform reasoning over real-time telemetry. The state-of-the-art training paradigms for telecom LLMs, exemplified by RANSTRUCT-style supervised fine-tuning (SFT) on curated instruction data, are limited to post\u2026",
+    "score": 5.588,
+    "matched": [
+      "ai",
+      "fine-tun*"
+    ]
+  },
+  {
+    "title": "Are Near-Tied LLM Rankings Robust to Family-DIF-Guided Benchmark Recomposition?",
+    "url": "https://arxiv.org/abs/2609.00482",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00482v1 Announce Type: cross Abstract: Small leaderboard gaps are often interpreted as evidence that one language model is better than another, but their sign may depend on which benchmark items are included. We test this using item-level responses from five benchmarks and a family-label-free spectral approximation to multidimensional item-response theory (MIRT). In owner-disjoint\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "The Visual Insensitivity Gap: Diagnosing When Vision-Language Models Fail to Use Visual Evidence",
+    "url": "https://arxiv.org/abs/2609.00868",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.00868v1 Announce Type: cross Abstract: Vision-language models are evaluated by aggregate accuracy on multimodal benchmarks, a practice that implicitly assumes the model uses its visual input. We show this assumption fails on 40%--97% of samples across six VLMs and three perceptual benchmarks: blurring the question-relevant visual region leaves the next-token distribution nearly\u2026",
+    "score": 5.588,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "mzCache: On-Device LLM Memory Management under Multitasking",
+    "url": "https://arxiv.org/abs/2609.01338",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01338v1 Announce Type: cross Abstract: On-device mobile Large Language Model (LLM) inference is gaining significant attention. However, mobile devices operate in highly dynamic multitasking environments where users frequently switch between applications. This creates memory pressure, forcing LLM memory (model weights and KV cache) to be evicted by the operating system. When a new\u2026",
+    "score": 5.588,
+    "matched": [
+      "llm",
+      "large language model",
+      "model weights",
+      "inference"
+    ]
+  },
+  {
+    "title": "Where the Verifier Fails: A Category-Level Audit of Reward Signals in RLVR",
+    "url": "https://arxiv.org/abs/2609.01354",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-02T04:00:00+00:00",
+    "summary": "arXiv:2609.01354v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) and standard benchmark evaluation both rely on an automatic verifier that turns a free text answer into a binary reward. Prior work reports that one evaluation harness accepts only about 94% of its own ground truth answers, blaming LaTeX parsing. That is an aggregate: it does not say which\u2026",
+    "score": 5.588,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ]
+  }
+]
