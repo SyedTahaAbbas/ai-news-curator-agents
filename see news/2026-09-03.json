@@ -1,0 +1,463 @@
+[
+  {
+    "title": "CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI",
+    "url": "https://arxiv.org/abs/2609.02459",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02459v1 Announce Type: new Abstract: We present CivBench, an open-source benchmark for evaluating language model agents in long-horizon, tool-mediated environments through the Model Context Protocol (MCP). A single episode spans 300+ turns and produces thousands of tool calls over a large action space, requiring sustained planning, state monitoring, and execution under partial\u2026",
+    "score": 5.889,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "How Fast Do Agents Rot? An Empirical Study of Long-Horizon Degradation in LLM Agents for Production Decision-Making",
+    "url": "https://arxiv.org/abs/2609.01660",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01660v1 Announce Type: cross Abstract: Production deployments of large language model (LLM) agents remain unreliable on long, multi-step workflows even as benchmark success rates climb steadily. We argue this gap is largely an artifact of task horizon: benchmarks are dominated by short-to-medium horizons where success remains high, while production workloads demand an order of\u2026",
+    "score": 5.889,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MeanField Surrogate Modeling for Scalable Runtime Scheduling of Concurrent Heterogeneous AI Inference on Shared GPUs",
+    "url": "https://arxiv.org/abs/2609.02109",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02109v1 Announce Type: cross Abstract: Deploying heterogeneous AI models concurrently on a shared GPU introduces resource contention that complicates runtime scheduling. While surrogate models avoid costly online benchmarking, their profiling requirements typically grow combinatorially with the number of co-running models, limiting scalability. We propose a MeanField surrogate that\u2026",
+    "score": 5.889,
+    "matched": [
+      "ai",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "text2ql: Multi-Target Natural Language Querying via a Language-Agnostic Intermediate Representation",
+    "url": "https://arxiv.org/abs/2609.02115",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02115v1 Announce Type: new Abstract: Natural language interfaces to databases have traditionally suffered from three structural limitations: exclusive targeting of relational SQL, unconditional dependence on large language model (LLM) inference at query time, and absence of any runtime signal when generated queries are semantically incorrect. This paper presents text2ql, an open-source\u2026",
+    "score": 5.889,
+    "matched": [
+      "llm",
+      "large language model",
+      "inference"
+    ]
+  },
+  {
+    "title": "Multimodal Language Models as Text-to-Image Model Evaluators",
+    "url": "https://arxiv.org/abs/2505.00759",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2505.00759v3 Announce Type: replace-cross Abstract: The steady improvements of text-to-image (T2I) generative models lead to slow deprecation of automatic evaluation benchmarks that rely on static datasets, motivating researchers to seek alternative ways to evaluate T2I progress. We present Multimodal Text-to-Image Eval (MT2IE), an evaluation framework in which a single multimodal large\u2026",
+    "score": 5.889,
+    "matched": [
+      "generative",
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Agent Tools Orchestration Leaks More: Dataset, Benchmark, and Mitigation",
+    "url": "https://arxiv.org/abs/2512.16310",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2512.16310v4 Announce Type: replace-cross Abstract: LLM agents can combine individually non-revealing tool returns and disclose a sensitive conclusion, creating Tools Orchestration Privacy Risk (TOP-R). We formalize TOP-R through three conditions: conclusion sensitivity, single-source non-inferability, and compositional inferability. We introduce Library-Grounded Reverse-Inference Seed\u2026",
+    "score": 5.889,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "SABER-Math: Automated Benchmark for Information Retrieval Evaluation in Mathematics",
+    "url": "https://arxiv.org/abs/2606.29894",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2606.29894v2 Announce Type: replace-cross Abstract: As agentic AI systems tackle more complex mathematical tasks, they increasingly rely on information retrieval (IR) to search problem databases, theorem libraries, and educational resources. However, choosing the right retriever remains difficult, as it is infeasible to directly isolate its effect on downstream performance. On the other\u2026",
+    "score": 5.889,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MemeCULT-1K: Benchmarking South Asian Cultural Context and Humor Understanding of Multimodal Models",
+    "url": "https://arxiv.org/abs/2609.01772",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01772v1 Announce Type: new Abstract: Meme understanding goes beyond recognizing visual content or literal text; it requires implicit cultural knowledge and pragmatic inference that most vision-language models still lack. We introduce MemeCULT-1K, a multilingual benchmark of 1,000 South Asian memes in Bengali, English, and Hindi, where each meme is paired with a cultural context note\u2026",
+    "score": 5.889,
+    "matched": [
+      "multimodal",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+    "url": "https://arxiv.org/abs/2609.02783",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02783v1 Announce Type: new Abstract: Evaluating LLM agents is essential for guiding their development, yet it has grown prohibitively expensive: a single pass of a frontier model over an agentic benchmark can cost hundreds to thousands of dollars, a price paid repeatedly across iterative development cycles. Prior efforts, centered on benchmark distillation, reduce the number of\u2026",
+    "score": 5.889,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "url": "https://arxiv.org/abs/2609.01611",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation results, which are a crucial component of current AI safety frameworks. We introduce EvalDetectBench, an open pipeline\u2026",
+    "score": 5.589,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents",
+    "url": "https://arxiv.org/abs/2609.02059",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02059v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have achieved strong performance on structured visual understanding tasks such as chart and document question answering. However, existing benchmarks typically evaluate these domains in isolation, leaving underexplored a key capability: whether models can use textual context to determine how chart evidence\u2026",
+    "score": 5.589,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "READY or Not: Reliable Enterprise Agent Deployment",
+    "url": "https://arxiv.org/abs/2609.02095",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02095v1 Announce Type: new Abstract: An AI agent can perform well on benchmarks and still be unsuitable for deployment. Existing AI-agent benchmarks measure whether an agent can complete realistic professional work, whereas enterprise deployment asks a different question: whether an agent can meet a required reliability level, under acceptable human oversight, and at tolerable cost. We\u2026",
+    "score": 5.589,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+    "url": "https://arxiv.org/abs/2609.01657",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01657v1 Announce Type: cross Abstract: Multimodal models often build on architectures designed for generative vision-language modeling, typically combining separately pretrained vision encoders with causal language models. Visual document retrievers such as ColPali repurpose these models as encoders, carrying over the parameter and compute overhead of a VLM for a non-generative task.\u2026",
+    "score": 5.589,
+    "matched": [
+      "generative",
+      "fine-tun*",
+      "multimodal",
+      "inference"
+    ]
+  },
+  {
+    "title": "AGI Maze Prediction Datasets: A Compact Benchmark for Learning World Dynamics with Transformers",
+    "url": "https://arxiv.org/abs/2609.02339",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02339v1 Announce Type: cross Abstract: World modeling requires a predictive model to maintain and update an internal state adequate for reasoning about the consequences of actions. We introduce the AGI Maze Prediction Datasets and Benchmark, a lightweight controlled testbed for studying this capability in Transformers and other predictive models. Derived from procedurally generated,\u2026",
+    "score": 5.589,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MultiGhostBench: A Multilingual Benchmark for Long-Form LLM-Generated Text Attribution under Distribution Shifts",
+    "url": "https://arxiv.org/abs/2609.02379",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02379v1 Announce Type: cross Abstract: While existing work on LLM authorship attribution (AA) has made progress, available benchmarks remain limited, often focusing on English, controlled settings, or relatively outdated models, with the few multilingual studies considering only relatively short texts. We introduce MultiGhostBench, a multilingual benchmark comprising 928 books\u2026",
+    "score": 5.589,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Achieving Olympiad-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2512.10534",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2512.10534v4 Announce Type: replace Abstract: Large language model (LLM) agents exhibit strong mathematical problem-solving abilities and can even solve International Mathematical Olympiad (IMO) level problems with the assistance of formal proof systems. However, due to weak heuristics for auxiliary constructions, AI for geometry problem solving remains dominated by expert models such as\u2026",
+    "score": 5.589,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "reinforcement learning"
+    ]
+  },
+  {
+    "title": "UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents",
+    "url": "https://arxiv.org/abs/2604.11557",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2604.11557v3 Announce Type: replace Abstract: Tool-use capability is a fundamental component of LLM agents, enabling them to interact with external systems through structured function calls. However, existing research exhibits inconsistent interaction representations, largely overlooks the structural distribution of tool-use trajectories, and relies on incompatible evaluation benchmarks. We\u2026",
+    "score": 5.589,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Measuring Reasoning Quality in LLMs: A Multi-Dimensional Behavioral Framework",
+    "url": "https://arxiv.org/abs/2605.24661",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2605.24661v4 Announce Type: replace Abstract: Despite remarkable progress on reasoning benchmarks, current LLM evaluation practice remains anchored to final-answer correctness, providing limited insight into how models reason, how reliably they behave under contextual variation, or how efficiently they reach conclusions. This paper proposes a unified multi-dimensional framework for\u2026",
+    "score": 5.589,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "EComAgentBench: Benchmarking Shopping Agents on Long-Horizon Tasks with Distributed Hidden Intent",
+    "url": "https://arxiv.org/abs/2606.17698",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2606.17698v3 Announce Type: replace Abstract: As LLM-based shopping agents enter production, existing benchmarks fail to capture how a shopper's requirements arrive: stated implicitly in the query, recorded in a profile, or revealed only when the right question is asked. Benchmarks that expose full intent upfront and grade only the final choice can neither pose this long-horizon challenge\u2026",
+    "score": 5.589,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+    "url": "https://arxiv.org/abs/2608.27463",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2608.27463v2 Announce Type: replace Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Each paradigm can be viewed as a measurement problem, where a latent property of an object is probed with items from an instrument (e.g., benchmark) by judges or raters. Standard evaluation\u2026",
+    "score": 5.589,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Can escalation channels redirect reward hacking toward defect disclosure?",
+    "url": "https://arxiv.org/abs/2608.29460",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2608.29460v2 Announce Type: replace Abstract: When coding agents encounter defective test infrastructure they may reward-hack: hardcoding outputs or editing test files to pass tests they cannot legitimately satisfy, a pattern that has now appeared outside benchmarks, in a coordinated multi-agent intrusion of a major AI platform's production infrastructure. The same capability that lets an\u2026",
+    "score": 5.589,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "FlatLands: Generative Floormap Completion From a Single Egocentric View",
+    "url": "https://arxiv.org/abs/2603.16016",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2603.16016v3 Announce Type: replace-cross Abstract: A single egocentric image typically captures only a small portion of the floor, yet a complete metric traversability map of the surroundings would better serve applications such as indoor navigation. We introduce FlatLands, a dataset and benchmark for single-view bird's-eye view (BEV) floor completion. The dataset contains 270,575\u2026",
+    "score": 5.589,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Emotional regulation improves deep learning-based image classification",
+    "url": "https://arxiv.org/abs/2606.13081",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2606.13081v2 Announce Type: replace-cross Abstract: Emotion significantly influences cognition, enhancing memory and learning under certain conditions. Drawing on this principle, emotion-augmented deep learning investigates how affective states can improve neural network architectures and learning paradigms, achieving better generalization than non-emotional models. However, existing\u2026",
+    "score": 5.589,
+    "matched": [
+      "deep learning",
+      "neural network"
+    ]
+  },
+  {
+    "title": "Sim2Signal: Sim-to-Real Benchmarks for Traffic Signal Control",
+    "url": "https://arxiv.org/abs/2609.01676",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01676v1 Announce Type: new Abstract: Reinforcement learning achieves strong traffic signal control performance in simulation, yet policies trained in simulators often fail once deployed in the real world, a failure known as the Sim-to-Real gap. When RL is applied to traffic signal control, this gap arises from several sources: sensing, action execution, traffic dynamics, and the\u2026",
+    "score": 5.589,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Reinforcement Learning and Rule-Based Peer-to-Peer Pricing in Residential PV-BES Communities",
+    "url": "https://arxiv.org/abs/2609.01680",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01680v1 Announce Type: new Abstract: This paper compares rule-based and learning-based pricing mechanisms for peer-to-peer (P2P) electricity trading in residential photovoltaic communities. The rule-based benchmarks comprise bill-sharing as an ex post allocation mechanism, the mid-market rate, and supply-demand-ratio pricing. The reinforcement-learning (RL) formulation is implemented\u2026",
+    "score": 5.589,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "A Study of Conditional Diffusion Models for Open-Loop Control under Dry Friction and Stiction",
+    "url": "https://arxiv.org/abs/2609.01756",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01756v1 Announce Type: new Abstract: Diffusion models have recently emerged as expressive generative priors for planning and control. This paper studies Action Diffusion, an action-sequence diffusion formulation used as an open-loop proposal distribution for a point-mass system with dry friction and stiction. In this benchmark, motion starts only when the applied input exceeds a\u2026",
+    "score": 5.589,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval",
+    "url": "https://arxiv.org/abs/2609.01865",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01865v1 Announce Type: cross Abstract: Embedding-based code retrieval is a core component of coding agents and retrieval-augmented code generation, where retrieving correct code matters more than retrieving lexically similar code. Existing code-retrieval benchmarks do not plant controlled, execution-verified single-edit variants of each query's canonical implementation in the search\u2026",
+    "score": 5.589,
+    "matched": [
+      "retrieval augmented",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Mediocrity is the key for LLM as a Judge Anchor Selection",
+    "url": "https://arxiv.org/abs/2603.16848",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2603.16848v2 Announce Type: replace Abstract: The ``LLM-as-a-judge'' paradigm has become a standard method for evaluating open-ended generation. To address the quadratic scalability costs of pairwise comparisons, popular benchmarks like Arena-Hard and AlpacaEval compare all models against a single anchor. However, despite its widespread use, the impact of anchor selection on the reliability\u2026",
+    "score": 5.589,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+    "url": "https://arxiv.org/abs/2606.18216",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2606.18216v2 Announce Type: replace Abstract: Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it on the teacher's sharpest modes, hurting generalization on benchmark families beyond the training corpus. Reinforcement learning (RL) avoids logit\u2026",
+    "score": 5.589,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2606.23092",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2606.23092v2 Announce Type: replace Abstract: Humans possess an innate ability to understand fine-grained interpersonal relationships, which is central to everyday social interactions. Although such reasoning is inherently multimodal, it remains largely unexplored by existing multimodal large language models (MLLMs). To address this gap, we introduce PIVOTS, the first benchmark built from\u2026",
+    "score": 5.589,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "This Is Flock\u2019s AI Search Tool for Cops",
+    "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-03T10:00:00+00:00",
+    "summary": "WIRED rebuilt Flock\u2019s latest search tool from code the company sends to a police officer\u2019s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+    "score": 5.439,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "machine unlearning? Leads to perpetual learning? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w64bow/machine_unlearning_leads_to_perpetual_learning_r/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-03T11:09:49+00:00",
+    "summary": "I understand ai works in parameters so in theory it cannot have infinite memory and/or infinite learning capability(at least to my understanding). But I was thinking, if we could train ai to forget information to create more space within its parameters for new information?, and once it has advanced its findings it can rid of the old information and that cycle just repeats so it\u2019s never\u2026",
+    "score": 5.384,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+    "url": "https://arxiv.org/abs/2609.01852",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01852v1 Announce Type: new Abstract: Persistent memory supports personalized agents, but a stale stored fact can override current authoritative evidence without warning. We study when this harm begins as model capability changes. We evaluate a frozen, closed-set, action-scored benchmark with 2 suites that represent 2 different meanings of \"no memory\" (a Benefit suite, unsolvable\u2026",
+    "score": 5.289,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Benchmarking Language Models for Statistical Problem Formulation",
+    "url": "https://arxiv.org/abs/2609.01982",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.01982v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as assistants for statistical and data science work, yet existing evaluations largely assume the analysis target is already specified. In practice, users arrive with informal goals and heterogeneous data, leaving the model to decide what statistical task is implied and which data are relevant. We\u2026",
+    "score": 5.289,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "ToolGate: An Executable Acceptance Pipeline for Tool-Dependent Scientific Benchmark Construction",
+    "url": "https://arxiv.org/abs/2609.02067",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-03T04:00:00+00:00",
+    "summary": "arXiv:2609.02067v1 Announce Type: new Abstract: Scientific benchmarks are commonly built by domain experts who write tasks and cross-check one another's work, or who adapt existing material from textbooks, published papers, and online resources. These routes can produce strong evaluations, but they require substantial per-item labor. Language models can reduce this repeated work by proposing\u2026",
+    "score": 5.289,
+    "matched": [
+      "benchmark*"
+    ]
+  }
+]
