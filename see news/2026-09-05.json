@@ -1,0 +1,372 @@
+[
+  {
+    "title": "OpenAI Agents Hacked Another Website",
+    "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-05T10:30:00+00:00",
+    "summary": "Plus: Tens of millions of US and Canadian drivers\u2019 licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+    "score": 5.605,
+    "matched": [
+      "openai"
+    ]
+  },
+  {
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-05T07:52:50+00:00",
+    "summary": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 154 # Comments: 130",
+    "score": 5.478,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T23:15:11+00:00",
+    "summary": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "score": 5.1,
+    "matched": [
+      "ai",
+      "openai"
+    ]
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T21:12:11+00:00",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "score": 4.843,
+    "matched": [
+      "ai",
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T16:04:08+00:00",
+    "summary": "It\u2019s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \u201chuge launch next week\u201d \u2014 timing that puts Apple\u2019s next iPhone event on his desk before he\u2019s even settled in. Cook isn\u2019t going far, though: he\u2019s staying on as Executive Chairman, focused on the kind of policy [\u2026]",
+    "score": 4.801,
+    "matched": [
+      "ai",
+      "nvidia"
+    ]
+  },
+  {
+    "title": "GPT-6 Astra on OpenRouter",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-04T21:39:19+00:00",
+    "summary": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 236 # Comments: 145",
+    "score": 4.8,
+    "matched": [
+      "ai",
+      "gpt",
+      "openai"
+    ]
+  },
+  {
+    "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-04T20:02:03+00:00",
+    "summary": "an observation : GPT-5-class models are genuinely capable(They are) of doing a substantial fraction of knowledge work, why haven\u2019t we seen a noticeable productivity shock in the real economy yet? Is AI actually less economically useful than the benchmarks suggest\u2014or are organizations simply too slow, constrained, and inefficient to turn model capability into measurable output? Are we confusing\u2026",
+    "score": 4.797,
+    "matched": [
+      "ai",
+      "gpt",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "NeurIPS 2026 Automatic Reference Checker [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-05T06:14:53+00:00",
+    "summary": "Just received an email about the automatic reference/citation checker. Did anyone receive a follow up email about whether the checker was included in the paper's decision making too, along with the general instructional email? submitted by /u/Emergency_Plate241 [link] [comments]",
+    "score": 4.574,
+    "matched": []
+  },
+  {
+    "title": "Language Models Can Control Their Own Attention [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-05T06:07:09+00:00",
+    "summary": "Abstract Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-token conversation, global attention layers must scan the full context to generate each token of the reply. A prominent approach mitigates this cost by pre-selecting relevant tokens via\u2026",
+    "score": 4.558,
+    "matched": []
+  },
+  {
+    "title": "Implementing Embedding Gemma from scratch in PyTorch [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7scxc/implementing_embedding_gemma_from_scratch_in/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-05T06:01:57+00:00",
+    "summary": "submitted by /u/Winter_Mistake_3185 [link] [comments]",
+    "score": 4.547,
+    "matched": []
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T23:36:14+00:00",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "score": 4.543,
+    "matched": []
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T18:39:19+00:00",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while\u2026",
+    "score": 4.525,
+    "matched": [
+      "ai",
+      "inference"
+    ]
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T22:17:36+00:00",
+    "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+    "score": 4.48,
+    "matched": [
+      "openai"
+    ]
+  },
+  {
+    "title": "OpenAI's rogue agents were caught communicating via public wikis",
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-04T17:38:48+00:00",
+    "summary": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort of web research benchmark, so they had (supposedly) controlled access to the Web. The agents figured out they could update public Wikis\u2026",
+    "score": 4.399,
+    "matched": [
+      "openai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "What will Apple\u2019s John Ternus era look like?",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T17:18:00+00:00",
+    "summary": "It\u2019s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \u201chuge launch next week\u201d \u2014 timing that puts Apple\u2019s next iPhone event on his desk before he\u2019s even settled in. Cook isn\u2019t going far, though: he\u2019s staying on as Executive Chairman, focused on the kind of policy [\u2026]",
+    "score": 4.355,
+    "matched": []
+  },
+  {
+    "title": "The Pelican comparison grid for Astra is pretty interesting",
+    "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-04T23:59:05+00:00",
+    "summary": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans in a comparison grid with GPT-5.6 Sol, Terra, and Luna, and beyond being fun the result was surprisingly useful. See the grid for full quality images. Here's the\u2026",
+    "score": 4.291,
+    "matched": [
+      "gpt"
+    ]
+  },
+  {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T13:34:12+00:00",
+    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [\u2026]",
+    "score": 4.289,
+    "matched": [
+      "ai",
+      "openai"
+    ]
+  },
+  {
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T17:51:35+00:00",
+    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [\u2026]",
+    "score": 4.225,
+    "matched": [
+      "ai",
+      "generative"
+    ]
+  },
+  {
+    "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T14:47:11+00:00",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "score": 4.041,
+    "matched": [
+      "ai",
+      "gemini"
+    ]
+  },
+  {
+    "title": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T16:22:18+00:00",
+    "summary": "Public-market scrutiny will intensify pressure on the Claude maker\u2019s unusual attempt to balance profit and purpose.",
+    "score": 4.039,
+    "matched": [
+      "claude",
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Corporate America is getting hooked on open-source AI",
+    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-04T15:33:45+00:00",
+    "summary": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 297 # Comments: 272",
+    "score": 4.038,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T16:05:57+00:00",
+    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [\u2026]",
+    "score": 4.005,
+    "matched": []
+  },
+  {
+    "title": "Nobody is saying why OpenAI and Anthropic had outages",
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-04T17:29:22+00:00",
+    "summary": "https://archive.ph/3zcMG Comments URL: https://news.ycombinator.com/item?id=49567594 Points: 195 # Comments: 4",
+    "score": 3.979,
+    "matched": [
+      "openai",
+      "anthropic"
+    ]
+  },
+  {
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-04T19:48:29+00:00",
+    "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 269 # Comments: 165",
+    "score": 3.969,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T16:21:11+00:00",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "score": 3.937,
+    "matched": [
+      "openai"
+    ]
+  },
+  {
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T17:18:12+00:00",
+    "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+    "score": 3.856,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "What is the general design of these new math solving systems? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-04T20:55:18+00:00",
+    "summary": "From what I've seen online so far, the description of these systems is roughly: They asked the model (often Aster) to generate statements in LEAN and then submit those to a LEAN compiler to be checked. Based on the results of attempting the LEAN compilation, they somehow add those statements as fact. When the full proof in LEAN compiles, the system is finished. I can imagine trying to jam as much\u2026",
+    "score": 3.408,
+    "matched": []
+  },
+  {
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T14:00:00+00:00",
+    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "score": 3.343,
+    "matched": []
+  },
+  {
+    "title": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
+    "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T15:00:00+00:00",
+    "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+    "score": 3.168,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-04T11:59:15+00:00",
+    "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 385 # Comments: 73",
+    "score": 2.991,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-04T11:54:53+00:00",
+    "summary": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1744 # Comments: 1338",
+    "score": 2.982,
+    "matched": [
+      "openai"
+    ]
+  }
+]
