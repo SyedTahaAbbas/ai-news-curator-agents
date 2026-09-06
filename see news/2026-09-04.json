@@ -1,0 +1,464 @@
+[
+  {
+    "title": "Sam Altman apologizes for \u2018messy\u2019 GPT-6 Astra rollout that\u2019s locked out paying users",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T10:41:48+00:00",
+    "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [\u2026]",
+    "score": 6.822,
+    "matched": [
+      "gpt",
+      "openai"
+    ]
+  },
+  {
+    "title": "GPT-6 is released [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-04T05:13:42+00:00",
+    "summary": "Benchmark scores: https://preview.redd.it/dgumcg67ggnh1.png?width=1378&format=png&auto=webp&s=fae8fb006ef46fcdebb0876717fc977a905baa89 https://openai.com/index/gpt-6-astra/ Above, GPT-6 uses a harness for ARC-AGI-3, and is at about 60% without one: https://preview.redd.it/bym9wajephnh1.png?width=615&format=png&auto=webp&s=72cb425fb037ce68a68dcb433e7748b27dc96c41 You might not like it, but this is\u2026",
+    "score": 6.439,
+    "matched": [
+      "gpt",
+      "openai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "This NAS company wants to run your local smart home",
+    "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T09:41:44+00:00",
+    "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a [\u2026]",
+    "score": 6.397,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Instagram\u2019s AI detection is a mess (again)",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T12:00:00+00:00",
+    "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [\u2026]",
+    "score": 6.385,
+    "matched": [
+      "ai",
+      "generative"
+    ]
+  },
+  {
+    "title": "Microsoft\u2019s Project Zenith is a \u2018distraction-free Windows experience\u2019 for developers",
+    "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T10:44:15+00:00",
+    "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a [\u2026]",
+    "score": 6.228,
+    "matched": []
+  },
+  {
+    "title": "GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models",
+    "url": "https://arxiv.org/abs/2606.12821",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2606.12821v2 Announce Type: replace Abstract: Environmental scientists spend disproportionate effort on data wrangling rather than analysis. New AI agents can be a helpful tool, but no benchmark exists to evaluate AI agents that automate environmental geospatial workflows through structured tool calling against real APIs. We introduce the GeoNatureAgent Benchmark, the first benchmark for\u2026",
+    "score": 6.185,
+    "matched": [
+      "ai",
+      "llm",
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Fixing FOLIO and MALLS: Verified Annotations and an LLM-assisted Framework to Focus Human Relabeling",
+    "url": "https://arxiv.org/abs/2606.02837",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2606.02837v2 Announce Type: replace-cross Abstract: Accurate translation from Natural Language to First-Order Logic (NL-to-FOL) underpins neurosymbolic AI systems and Natural Language Inference (NLI), making the quality of NL-to-FOL benchmarks essential---yet these datasets have never been rigorously audited. Our first contribution is to present a systematic human inspection of the\u2026",
+    "score": 6.185,
+    "matched": [
+      "ai",
+      "llm",
+      "inference",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Improving precipitation forecasts in an AI weather model using observational data",
+    "url": "https://arxiv.org/abs/2609.03210",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03210v1 Announce Type: cross Abstract: Artificial intelligence weather prediction (AIWP) systems now surpass state-of-the-art physical models for medium-range weather forecasting. Current global AIWP models are trained almost exclusively using one reanalysis dataset, ERA5, but it has known biases, particularly for precipitation. Here we fine-tune a graph-transformer architecture with\u2026",
+    "score": 6.185,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "transformer*",
+      "fine-tun*"
+    ]
+  },
+  {
+    "title": "Why AI food looks like that",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T11:00:00+00:00",
+    "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [\u2026]",
+    "score": 5.96,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "A Comparative Study in Surgical AI: Potential and Limitations of Data, Compute, and Scaling",
+    "url": "https://arxiv.org/abs/2603.27341",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2603.27341v5 Announce Type: replace Abstract: Recent Artificial Intelligence (AI) models have matched or exceeded human experts in several benchmarks of biomedical task performance, but surgical benchmarks in particular are often missing from prominent medical benchmark suites. Since surgery requires integrating disparate tasks, generally-capable AI models could be particularly attractive\u2026",
+    "score": 5.885,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "PCBWorld: A Benchmark Environment for Engine-Grounded PCB Design Automation",
+    "url": "https://arxiv.org/abs/2607.05915",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2607.05915v3 Announce Type: replace Abstract: PCB routing is the task of connecting the nets of a board with copper traces under strict design rules, yet learning-based methods still lag behind rule-based routers. We introduce PCBWorld, an open-source engine-grounded PCB routing environment built on KiCad, an electronic design automation (EDA) engine. As a human engineer does, agents in\u2026",
+    "score": 5.885,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "RobustSeiz: An Open-Source Framework for Benchmarking the Robustness of EEG Seizure Detection Models",
+    "url": "https://arxiv.org/abs/2609.04007",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.04007v1 Announce Type: new Abstract: Despite strong performance on held-out electroencephalography (EEG) data, seizure detectors may fail under real-world acquisition variability, artifacts, and adversarial inputs. We introduce RobustSeiz, an open-source, model-agnostic framework that provides a standardized, reproducible protocol for stress-testing and comparing seizure detectors\u2026",
+    "score": 5.885,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Contamination Inflates Scores but Rarely Reorders Large Language Model Leaderboards",
+    "url": "https://arxiv.org/abs/2609.02899",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.02899v1 Announce Type: new Abstract: Benchmark contamination, the leakage of test items into training data, is widely described as a threat to the reliability of large language model (LLM) leaderboards. We argue that this concern conflates two distinct questions: whether contamination inflates absolute scores, and whether it reorders the ranking of models. We recast contamination as a\u2026",
+    "score": 5.885,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "KhatianDoc: A Human-Verified Benchmark Diagnosing Multimodal LLM Failure on Bengali Legal Land Records",
+    "url": "https://arxiv.org/abs/2609.03597",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03597v1 Announce Type: new Abstract: Land ownership in Bangladesh is recorded in Ana-Ganda-Kora-Kranti-Til, a base-16 positional fraction system with dedicated Unicode glyphs, no mainstream font, and no coverage in any OCR pipeline or tokenizer. The handwritten records that carry these fractions, RS Khatians, are the authoritative title record for millions of parcels and a frequent\u2026",
+    "score": 5.885,
+    "matched": [
+      "llm",
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Last Translation Benchmark",
+    "url": "https://arxiv.org/abs/2609.04173",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.04173v1 Announce Type: new Abstract: For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide\u2026",
+    "score": 5.885,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "The Age of Curiosity Meets the Age of AI: Benchmarking Child Safety in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.25510",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2605.25510v3 Announce Type: replace Abstract: Children increasingly have access to Large Language Models (LLMs), which may expose them to responses that are developmentally inappropriate or require age-sensitive safety, guidance, and boundaries. Existing LLM safety evaluations largely focus on general harmful-content avoidance and do not explicitly target child-facing safety. We introduce\u2026",
+    "score": 5.885,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "August newsletter is out",
+    "url": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-04T05:54:40+00:00",
+    "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My projects What I'm using at the\u2026",
+    "score": 5.824,
+    "matched": [
+      "chatgpt",
+      "claude"
+    ]
+  },
+  {
+    "title": "How does one approach towards machine learning?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w6z6kz/how_does_one_approach_towards_machine_learningd/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-04T09:10:43+00:00",
+    "summary": "I honestly am so confused rn as the ml community is overburst with people only caring about building rag modules and agentic ai for larger corporations. I have a passion for machine learning but honestly it feels really confusing as to what really counts today. I would love some advice on what exact learning counts in this field like what exact topics, tech and tools? submitted by\u2026",
+    "score": 5.733,
+    "matched": [
+      "ai",
+      "machine learning",
+      "agentic"
+    ]
+  },
+  {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T09:25:19+00:00",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part\u2026",
+    "score": 5.663,
+    "matched": []
+  },
+  {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T04:21:03+00:00",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "score": 5.629,
+    "matched": [
+      "ai",
+      "generative"
+    ]
+  },
+  {
+    "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+    "url": "https://arxiv.org/abs/2609.03438",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03438v1 Announce Type: new Abstract: Graphical user interface (GUI) agents are increasingly used to execute natural-language instructions on user interfaces, yet real users may issue infeasible instructions due to benign mistakes. A reliable agent should not only know how to act, but also when not to act. In this work, we introduce CONFLICTGUI, a benchmark covering instruction-internal\u2026",
+    "score": 5.585,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
+    "url": "https://arxiv.org/abs/2609.03526",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03526v1 Announce Type: new Abstract: Multimodal language models achieve near-ceiling scores on food recognition benchmarks, yet it remains unclear whether this success reflects genuine cultural understanding or mere visual matching. To probe this distinction, we introduce CulturalMenuBench, a benchmark of 4,870 items in 10 languages across 18 regions; its 10 tasks pair final-dish and\u2026",
+    "score": 5.585,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
+    "url": "https://arxiv.org/abs/2609.03553",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03553v1 Announce Type: new Abstract: Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce\u2026",
+    "score": 5.585,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents",
+    "url": "https://arxiv.org/abs/2609.03588",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03588v1 Announce Type: new Abstract: As LLMs increasingly act through tools, they must reconcile user instructions, parametric knowledge, and dynamic environmental observations before taking actions. We introduce KC-Bench, a controlled multi-turn benchmark for measuring this capability across world-knowledge conflicts, input inconsistencies, and multi-source temporal conflicts. Its 238\u2026",
+    "score": 5.585,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "InSituMeasure: Probing Situated Measurement Grounding in Industrial Scenes with Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2609.04014",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.04014v1 Announce Type: new Abstract: For trained operators, gauge reading requires little specialized knowledge, low cognitive effort, and high repeatability. Yet Multimodal Large Language Models (MLLMs) remain unreliable in continuous-valued measurement despite strong results on general multimodal benchmarks. Existing benchmarks expose this weakness but isolate measurement from\u2026",
+    "score": 5.585,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "SHELF: A Synthetic Harness for Multi-Task Bibliographic Benchmarking",
+    "url": "https://arxiv.org/abs/2609.03047",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03047v1 Announce Type: cross Abstract: Libraries and archives manage large collections with limited staff and computing budgets, yet common benchmarks do not systematically test their bibliographic work. They need to know which methods work for their tasks and what those methods require to run. SHELF, the Synthetic Harness for Evaluating LLM Fitness, addresses this gap. It is a Python\u2026",
+    "score": 5.585,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Beyond BLEU: A Case for Redefining Sign Language Translation Benchmarks",
+    "url": "https://arxiv.org/abs/2609.03734",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03734v1 Announce Type: cross Abstract: BLEU-4 is the standard metric for evaluating sign language translation (SLT), but spoken-language metrics may not adequately reflect sign language proficiency. The multimodal, low-resource context of SLT allows models to exploit spurious correlations and spoken-language priors, rather than learning stronger sign representations. In this paper, we\u2026",
+    "score": 5.585,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas",
+    "url": "https://arxiv.org/abs/2603.11842",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2603.11842v3 Announce Type: replace-cross Abstract: The post-ChatGPT surge has rapidly reframed IS research and practice. As organizations and society grapple with GenAI adoption, a body of secondary studies and research agendas has emerged to synthesize early evidence and chart directions for future inquiry. This study reviews secondary and roadmap papers to synthesize the state of\u2026",
+    "score": 5.585,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "generative",
+      "genai"
+    ]
+  },
+  {
+    "title": "Learning-Based Collaborative MEC for LLM Inference with Soft-Deadline Awareness via Transformer-Enhanced PPO",
+    "url": "https://arxiv.org/abs/2608.02031",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2608.02031v2 Announce Type: replace-cross Abstract: This paper investigates collaborative mobile edge computing (MEC) servers for large language model (LLM) inference under soft deadline constraints. In this system, to improve the quality of service, computations are expected to be completed within their deadlines. However, due to dependencies among tasks or subtasks, any missed deadline\u2026",
+    "score": 5.585,
+    "matched": [
+      "llm",
+      "large language model",
+      "transformer*",
+      "inference"
+    ]
+  },
+  {
+    "title": "LexIssue: Benchmarking Legal Issue Identification in Chinese Civil Litigation",
+    "url": "https://arxiv.org/abs/2609.02954",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.02954v1 Announce Type: new Abstract: Identifying the issues disputed between litigating parties is a crucial component of real-world litigation. However, legal issues remain comparatively underexplored in legal AI research. In this work, we study the computational modelling of legal issue identification in litigation. We introduce a legally grounded hierarchical schema that represents\u2026",
+    "score": 5.585,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MedQA-MM: Shortcuts Behind Medical Visual Reasoning",
+    "url": "https://arxiv.org/abs/2609.03261",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2609.03261v1 Announce Type: cross Abstract: A benchmark score credits final answers, but not the route by which an item can be answered. In medical multimodal multiple-choice questions (MCQs), this distinction matters because a correct answer can be supported by the intended image finding or by benchmark-preserved cues in the wording of answers, non-visual clinical text, visible image text,\u2026",
+    "score": 5.585,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "SuperValid: Capability-Aligned OOD Validation for Generalizable Downstream Scaling",
+    "url": "https://arxiv.org/abs/2605.28179",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2605.28179v2 Announce Type: replace Abstract: Scaling laws guide large language model training by relating compute to cross-entropy loss, and recent work further extends them to predict downstream benchmark performance. However, prior approaches face generalization limitations from two aspects: focusing on benchmark-level performance introduces scenario-specific artifacts, while relying on\u2026",
+    "score": 5.585,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Beyond Accuracy: Community Perspectives on Machine Translation",
+    "url": "https://arxiv.org/abs/2606.09655",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-04T04:00:00+00:00",
+    "summary": "arXiv:2606.09655v2 Announce Type: replace Abstract: Despite remarkable progress in machine translation (MT), non-AI communities have raised growing concerns about MT systems, suggesting a noticeable gap between technical advancement and the needs of real-world users. For instance, while NLP researchers focus on benchmark performance, end users care about ethical concerns, trust, reliability,\u2026",
+    "score": 5.585,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "OpenAI begins rolling out GPT-6 Astra",
+    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-03T18:18:22+00:00",
+    "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/ , image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot... https://venturebeat.com/technology/welcome-to-the-agi-era-op... https://www.theverge.com/ai-artificial-intelligence/988334/o... https://twitter.com/OpenAI/status/2095595741528125780 Comments URL: https://news.ycombinator.com/item?id=49554273 Points: 267 # Comments: 247",
+    "score": 5.474,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "gpt",
+      "openai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-04T10:00:00+00:00",
+    "summary": "Job seekers are trying to game the application process using AI. It\u2019s not working, and not for the reasons you might think.",
+    "score": 5.435,
+    "matched": [
+      "ai"
+    ]
+  }
+]

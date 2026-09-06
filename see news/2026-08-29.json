@@ -1,0 +1,453 @@
+[
+  {
+    "title": "Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T07:17:09+00:00",
+    "summary": "Announcement: https://www.tbench.ai/news/terminal-bench-4-0 Leaderboard: https://www.tbench.ai/ Imo the best aspect in their announcement is their focus on rapidly iterating on TerminalBench to keep the pace up with new model releases to fight benchmark saturation. On a similar note, what cheaper/smaller alternatives are there to benchmarking coding agents or your own harness? Large benchmarks\u2026",
+    "score": 6.667,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-08-29T12:00:00+00:00",
+    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [\u2026]",
+    "score": 6.256,
+    "matched": [
+      "ai",
+      "generative"
+    ]
+  },
+  {
+    "title": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-08-29T10:30:00+00:00",
+    "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you\u2019ll never guess what \u201cMrChildPorn\u201d was arrested for.",
+    "score": 5.368,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "How to Run a Chatbot on Your Own Computer",
+    "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-08-29T10:00:00+00:00",
+    "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won\u2019t compromise your data privacy.",
+    "score": 5.306,
+    "matched": [
+      "large language model"
+    ]
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-08-28T19:30:38+00:00",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "score": 5.295,
+    "matched": [
+      "ai",
+      "anthropic",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "zai-org/GLM-5.3 \u00b7 Hugging Face",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0tgzl/zaiorgglm53_hugging_face/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-28T15:19:04+00:00",
+    "summary": "GLM-5.3 uses the same base model as GLM-5.2 \u2014 every gain comes from post-training. Compared with GLM-5.2, it is much better at complex coding and long-horizon tasks: Stronger Coding: GLM-5.3 is the most capable open-weights model for coding, with a 50% improvement over GLM-5.2 on our in-house Z.ai Code Bench. It also achieve open-source SOTA on public benchmarks including Terminal Bench 3.0 and\u2026",
+    "score": 5.271,
+    "matched": [
+      "ai",
+      "hugging face",
+      "open-weight*",
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-08-29T12:50:05+00:00",
+    "summary": "I wanted to share my successful setup for running a Qwen 3.8 27B model with a massive context window on a consumer 16GB GPU (RTX 4070 Ti SUPER). The goal was to fit everything into VRAM without sacrificing quality or speed. \ud83e\udde0 Key Components Model: Qwen3.8-27B-i1-IQ4_XS-GGUF-Smaller from jrell on Hugging Face . It's a custom hybrid quantization specifically designed to fit Multi-Token Prediction\u2026",
+    "score": 5.26,
+    "matched": [
+      "hugging face"
+    ]
+  },
+  {
+    "title": "MemToC: Benchmarking Memory-Tool Conflict Resolution in Large Language Models",
+    "url": "https://arxiv.org/abs/2608.26295",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26295v1 Announce Type: cross Abstract: Tool-augmented LLMs must arbitrate between two fallible sources when a tool return conflicts with their parametric memory, yet existing evaluations measure source preference without establishing source correctness. We introduce MemToC, a controlled benchmark for post-tool-return arbitration with executable tools. MemToC comprises 6,504 evaluation\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "How Unlikely Is \"Unlikely\"? Assessing Verbal Probability Perception Across Large Language Models",
+    "url": "https://arxiv.org/abs/2608.26327",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26327v1 Announce Type: cross Abstract: Large language models increasingly produce and interpret verbal probability expressions, yet whether these expressions carry consistent meaning across models (or match human perceptions of uncertainty) remains unknown. We present a systematic cross-model evaluation using a word-to-number mapping task grounded in established human benchmarks.\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "RTNav: Towards Real-Time Zero-Shot Object Navigation",
+    "url": "https://arxiv.org/abs/2608.26496",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26496v1 Announce Type: cross Abstract: Navigation in unknown environments to find unforeseen objects has become increasingly feasible with capable vision and language foundation models. However, these models also introduce non-negligible inference latency, which becomes an important concern when agents must operate continuously in the real world. Most state-of-the-art methods are still\u2026",
+    "score": 5.156,
+    "matched": [
+      "inference"
+    ]
+  },
+  {
+    "title": "When Memory Takes Gradients: Collaborative Vector Memory for Agentic Recommender Systems",
+    "url": "https://arxiv.org/abs/2608.26895",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26895v1 Announce Type: cross Abstract: Agentic recommender systems ground each decision of a large language model (LLM) in a persistent memory of the user, and in existing agents that memory is text: a narrative written and maintained by further LLM calls. Text limits this memory in two ways. It is updated one rewrite at a time, so exploiting the full interaction history is\u2026",
+    "score": 5.156,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic"
+    ]
+  },
+  {
+    "title": "ANTShapes Benchmarking Datasets for Event-Based Neuromorphic Object Classification",
+    "url": "https://arxiv.org/abs/2608.27150",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.27150v1 Announce Type: cross Abstract: Object classification in event-based computer vision is a task that is attracting considerable research attention. Event-based object classification is a fundamental task in the fields of security and applied computer vision, which typically use synchronous frame-based cameras and computing pipelines for operation. This approach has several\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+    "url": "https://arxiv.org/abs/2608.27442",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.27442v1 Announce Type: cross Abstract: In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round,\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "LLM-Powered Swarms: A New Frontier or a Conceptual Stretch?",
+    "url": "https://arxiv.org/abs/2506.14496",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2506.14496v3 Announce Type: replace Abstract: Swarm intelligence describes how simple, decentralized agents can collectively produce complex behaviors. Recently, the concept of swarming has been extended to large language model (LLM)-powered systems, such as OpenAI's Swarm (OAS) framework, where agents coordinate through natural language prompts. This paper evaluates whether such systems\u2026",
+    "score": 5.156,
+    "matched": [
+      "llm",
+      "large language model",
+      "openai"
+    ]
+  },
+  {
+    "title": "From Accuracy to Auditability: A Survey of Determinism in Financial AI Systems",
+    "url": "https://arxiv.org/abs/2605.23955",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2605.23955v4 Announce Type: replace Abstract: Deploying machine learning in regulated financial environments -- credit risk, fraud detection, and anti-money laundering -- exposes critical vulnerabilities in algorithmic reproducibility. While early financial ML addressed statistical challenges such as backtest overfitting, deep neural networks and Generative AI have introduced mechanical\u2026",
+    "score": 5.156,
+    "matched": [
+      "ai",
+      "machine learning",
+      "generative"
+    ]
+  },
+  {
+    "title": "The BS-meter: Detecting Politics and Labour through ChatGPT's Language",
+    "url": "https://arxiv.org/abs/2411.15129",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2411.15129v3 Announce Type: replace-cross Abstract: What can we learn about language from studying how it is used by ChatGPT and other large language model (LLM)-based chatbots? In this paper, we analyse the distinctive character of language generated by ChatGPT, in relation to questions raised by natural language processing pioneer, and student of Wittgenstein, Margaret Masterman.\u2026",
+    "score": 5.156,
+    "matched": [
+      "llm",
+      "large language model",
+      "chatgpt"
+    ]
+  },
+  {
+    "title": "Recurrence Meets Transformers for Universal Multimodal Retrieval",
+    "url": "https://arxiv.org/abs/2509.08897",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2509.08897v3 Announce Type: replace-cross Abstract: With the rapid advancement of multimodal retrieval and its application in LLMs and multimodal LLMs, increasingly complex retrieval tasks have emerged. Existing methods predominantly rely on task-specific fine-tuning of vision-language models and are limited to single-modality queries or documents. In this paper, we propose ReT-2, a unified\u2026",
+    "score": 5.156,
+    "matched": [
+      "transformer*",
+      "fine-tun*",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "GSM8K-V: Can Vision Language Models Solve Grade School Math Word Problems in Visual Contexts",
+    "url": "https://arxiv.org/abs/2509.25160",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2509.25160v2 Announce Type: replace-cross Abstract: Mathematical reasoning is a key capability for vision-language models (VLMs), yet current benchmarks mainly evaluate text-based or explicitly symbolic visual inputs. It remains unclear whether VLMs can reason mathematically when information must be perceived and inferred from images rather than read from explicit symbols. We introduce\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "LLM-Specific Utility for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2510.11358",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2510.11358v4 Announce Type: replace-cross Abstract: Retrieval-augmented generation (RAG) is typically optimized for topical relevance, yet its success ultimately depends on whether retrieved passages are useful for a large language model (LLM) to generate correct and complete answers. We argue that such utility is often LLM-specific rather than universal, due to differences in models'\u2026",
+    "score": 5.156,
+    "matched": [
+      "llm",
+      "large language model",
+      "retrieval augmented"
+    ]
+  },
+  {
+    "title": "Beyond Factual QA: Mentorship-Oriented Question Answering over Long-Form Multilingual Content",
+    "url": "https://arxiv.org/abs/2601.17173",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2601.17173v2 Announce Type: replace-cross Abstract: Question answering systems are typically evaluated on factual correctness, yet many real-world applications-such as education and career guidance-require mentorship: responses that provide reflection and guidance. Existing QA benchmarks rarely capture this distinction, particularly in multilingual and long-form settings. We introduce\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "SynthCharge: An Electric Vehicle Routing Instance Generator with Feasibility Screening to Enable Learning-Based Optimization and Benchmarking",
+    "url": "https://arxiv.org/abs/2603.03230",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2603.03230v2 Announce Type: replace-cross Abstract: The electric vehicle routing problem with time windows (EVRPTW) extends the classical VRPTW by introducing battery capacity constraints and charging station decisions. Existing benchmark datasets are often static and lack verifiable feasibility, which restricts reproducible evaluation of learning-based routing models. We introduce\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "MambaCSP: Hybrid-Attention State Space Models for Hardware-Efficient Channel State Prediction",
+    "url": "https://arxiv.org/abs/2604.21957",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2604.21957v2 Announce Type: replace-cross Abstract: Recent works have demonstrated that attention-based transformer and large language model (LLM) architectures can achieve strong channel state prediction (CSP) performance by capturing long-range temporal dependencies across channel state information (CSI) sequences. However, these models suffer from quadratic scaling in sequence length,\u2026",
+    "score": 5.156,
+    "matched": [
+      "llm",
+      "large language model",
+      "transformer*"
+    ]
+  },
+  {
+    "title": "When Does Latent Communication Pay? A Causal Audit of Relayed KV Caches in Multi-Agent LLMs",
+    "url": "https://arxiv.org/abs/2608.04893",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.04893v2 Announce Type: replace-cross Abstract: Multi-agent LLM systems relay key-value caches instead of text and credit their gains to exchanged \"latent thoughts\". That credit is a claim about which example's cache is relayed, not merely that one is. We audit it causally in released systems. The cache is replaced with deranged (mismatched-example), zeroed, and moment-matched random\u2026",
+    "score": 5.156,
+    "matched": [
+      "llm"
+    ]
+  },
+  {
+    "title": "EXAM$^2$: $\\underline{Ex}tending$ $\\underline{A}udio$ $Understanding$ $in$ $\\underline{M}ultilingual$ $and$ $\\underline{M}ultimodal$ $Analysis$",
+    "url": "https://arxiv.org/abs/2608.23758",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.23758v2 Announce Type: replace-cross Abstract: Recent large audio language models (LALMs) have achieved impressive progress in audio understanding. However, existing evaluations remain largely constrained to English and narrow audio domains. Prior benchmarks typically focus on a single audio modality, i.e., speech, sound, or music, limiting the systematic investigation into how these\u2026",
+    "score": 5.156,
+    "matched": [
+      "benchmark*"
+    ]
+  },
+  {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-08-29T01:24:13+00:00",
+    "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 129 # Comments: 29",
+    "score": 5.031,
+    "matched": [
+      "ai"
+    ]
+  },
+  {
+    "title": "A Safety-Gated Multimodal AI Backend for Mental-Health Support: Hierarchical State Representation, Conservative Risk Fusion, and Controlled Generation in Anian",
+    "url": "https://arxiv.org/abs/2608.26162",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26162v1 Announce Type: new Abstract: Safety-critical mental-health support systems must distinguish when supportive conversation is appropriate from when free-form generation should be blocked. This paper presents Anian, a safety-gated multimodal AI backend for perinatal mental-health support and mindfulness-intervention routing. Anian is not intended to diagnose psychiatric conditions\u2026",
+    "score": 4.856,
+    "matched": [
+      "ai",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Agentic AI for operating scientific instruments for nanoscale characterization",
+    "url": "https://arxiv.org/abs/2608.26198",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26198v1 Announce Type: new Abstract: Operating a scientific instrument such as an atomic force microscope (AFM) requires continuous expert decision-making. A trained user defines the experimental intent, translates it into instrument commands, assesses incoming data, adjusts imaging parameters, and post-processes the final image. Existing automation usually addresses only parts of this\u2026",
+    "score": 4.856,
+    "matched": [
+      "ai",
+      "agentic"
+    ]
+  },
+  {
+    "title": "Approved Too Late: Verdict Staleness in LLM-Guarded Self-Adaptive Systems",
+    "url": "https://arxiv.org/abs/2608.26306",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26306v1 Announce Type: new Abstract: A large language model (LLM) guardrail for a self-adaptive system (SAS) may issue an approval that is correct at check time but stale by actuation. This creates an Execute-stage time-of-check to time-of-use (TOCTOU) hazard. We study verdict freshness: whether a guardrail verdict remains valid when used. We distinguish three quantities that answer\u2026",
+    "score": 4.856,
+    "matched": [
+      "llm",
+      "large language model"
+    ]
+  },
+  {
+    "title": "Fine-Tuning of Transformer models with Frames",
+    "url": "https://arxiv.org/abs/2608.26430",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26430v1 Announce Type: new Abstract: Parameter-Efficient Fine-Tuning (PEFT) strategies such as Low-Rank Adaptation (LoRA) are effective solutions for fine-tuning large-scale pre-trained models; however, their memory requirements scale with the size of the model, $\\mathcal{O}(dr)$, where $d$ is the model's hidden dimension and $r$ is the rank. Our proposal, FrameFT, models the parameter\u2026",
+    "score": 4.856,
+    "matched": [
+      "transformer*",
+      "fine-tun*"
+    ]
+  },
+  {
+    "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
+    "url": "https://arxiv.org/abs/2608.27260",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.27260v1 Announce Type: new Abstract: LLM agents increasingly rely on generated interaction data to learn how to interact with external environments. Agentic data generation must maintain consistency among environments, tasks, interactions, and success signals while producing experience that is useful rather than merely abundant. Existing work spans many agent domains, but\u2026",
+    "score": 4.856,
+    "matched": [
+      "llm",
+      "agentic"
+    ]
+  },
+  {
+    "title": "FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes",
+    "url": "https://arxiv.org/abs/2608.26129",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26129v1 Announce Type: cross Abstract: Scientific peer review datasets have trained AI systems exclusively on Computer Science and Machine Learning venues, producing models that critique ablation studies yet have never seen a biology reviewer demand contamination controls or a chemist question Nuclear Magnetic Resonance (NMR) spectral assignments. We introduce FIRSTPASS, the first\u2026",
+    "score": 4.856,
+    "matched": [
+      "ai",
+      "machine learning"
+    ]
+  },
+  {
+    "title": "VFA: Empowering Multilingual MLLMs via Vision-Free Adaptation",
+    "url": "https://arxiv.org/abs/2608.26155",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26155v1 Announce Type: cross Abstract: Multimodal large language models have advanced rapidly, yet most remain English-centric, as scaling multilingual multimodal instruction tuning is limited by the scarcity and high cost of high-quality non-English image-text supervision. Although multilingual text data is abundant, naive textual fine-tuning can disrupt vision-language alignment and\u2026",
+    "score": 4.856,
+    "matched": [
+      "fine-tun*",
+      "multimodal"
+    ]
+  },
+  {
+    "title": "Self-Generated Text Recognition: Quality Heuristics, Cross-Task Transfer, and Downstream Bias in LLM Evaluation",
+    "url": "https://arxiv.org/abs/2608.26159",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26159v1 Announce Type: cross Abstract: Self-Generated Text Recognition (SGTR)--the ability of an LLM to identify its own outputs--poses risks to AI safeguards that rely on LLMs as evaluators or monitors. Specifically, an LLM may recognize outputs from other copies of the same model and make biased judgments or collude outright. Prior work has drawn conflicting conclusions about whether\u2026",
+    "score": 4.856,
+    "matched": [
+      "ai",
+      "llm"
+    ]
+  },
+  {
+    "title": "Improving LLM Interpretability with User-Centric Chain-of-Thought Reasoning",
+    "url": "https://arxiv.org/abs/2608.26166",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26166v1 Announce Type: cross Abstract: Advancing reasoning capabilities allow large language models (LLMs) to tackle increasingly complex problems, while reasoning traces - intermediate steps toward solutions - open up high-stakes applications by enabling human inspection of AI decision-making. However, current approaches prioritize model performance over human interpretability,\u2026",
+    "score": 4.856,
+    "matched": [
+      "ai",
+      "llm"
+    ]
+  },
+  {
+    "title": "Prompt Sensitivity of Generative Agents: Evidence from an Epidemic Model",
+    "url": "https://arxiv.org/abs/2608.26221",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-08-29T04:00:00+00:00",
+    "summary": "arXiv:2608.26221v1 Announce Type: cross Abstract: As generative AI gains traction, researchers are investigating its potential to serve as proxies for humans. From undergoing cognitive psychology experiments to experiencing an epidemic, generative agents, agents powered by generative AI models, produce realistic human behavior when prompted. This study explores the sensitivity of these generative\u2026",
+    "score": 4.856,
+    "matched": [
+      "ai",
+      "generative"
+    ]
+  }
+]
