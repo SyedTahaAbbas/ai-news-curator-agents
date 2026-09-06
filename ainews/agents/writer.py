@@ -2,9 +2,10 @@
 """
 Stage 3: Writer.
 
-Turns the analyst's ranked shortlist into commentary at two levels, using
-the "Voice" section of PREFERENCES.md verbatim as the shared system prompt.
-Edit that file and both levels change - no code changes needed.
+Listens for StoriesRanked and turns that shortlist into commentary at two
+levels, using the "Voice" section of PREFERENCES.md verbatim as the shared
+system prompt. Edit that file and both levels change - no code changes needed.
+The commentary goes out as CommentaryWritten.
 
     write_simple_summary()  - short, first-principles, explained simply
                                (Aravind Srinivas podcast style; PREFERENCES.md's
@@ -13,8 +14,10 @@ Edit that file and both levels change - no code changes needed.
                                (PREFERENCES.md's THEN/WATCH sections)
 
 Both are entirely optional: with no API key set, both return None and the
-caller falls back to the plain link digest. Either call can fail
-independently without affecting the other.
+digest falls back to a plain link list. The two calls are independent, so they
+run concurrently and either can fail without touching the other. Transient
+failures (429, 5xx, timeouts) are retried - a single rate-limit response used
+to cost the whole voice layer for the day.
 
 Provider is auto-detected from whichever key is present:
 
@@ -22,32 +25,25 @@ Provider is auto-detected from whichever key is present:
     OPENAI_API_KEY     ->  OpenAI   (default model: gpt-4.1-mini)
 
 Override with LLM_PROVIDER=anthropic|openai|none and LLM_MODEL=<model-id>.
-
-Both providers are called over plain HTTPS via urllib, so there is no extra
-dependency to install and nothing to keep in version lockstep.
-
-    python -m agents.writer --in ranked.json --out-simple simple.md --out-deep deep.md
-    python -m agents.writer --preview   # show the exact prompts being sent, do nothing else
 """
 
 from __future__ import annotations
 
-import argparse
-import json
+import concurrent.futures
 import os
 import re
 import sys
 import urllib.error
-import urllib.request
 from pathlib import Path
 from typing import Any
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from ainews.bus import EventBus
+from ainews.events import CommentaryWritten, StoriesRanked
+from ainews.http import post_json
+from ainews.paths import project_root
 
-from models import Item  # noqa: E402
-
-ROOT = Path(__file__).resolve().parent.parent
-PREFERENCES_FILE = ROOT / "PREFERENCES.md"
+def preferences_file() -> Path:
+    return project_root() / "PREFERENCES.md"
 
 DEFAULT_MODELS = {
     "anthropic": "claude-sonnet-4-5",
@@ -56,6 +52,7 @@ DEFAULT_MODELS = {
 
 REQUEST_TIMEOUT = 120
 MAX_OUTPUT_TOKENS = 2000
+LLM_ATTEMPTS = 3
 
 FALLBACK_VOICE = """\
 Write a short daily AI news digest for a technical reader.
@@ -88,13 +85,14 @@ DEEP_INSTRUCTION = (
 # ---------------------------------------------------------------------------
 
 
-def load_voice_prompt(path: Path = PREFERENCES_FILE) -> str:
+def load_voice_prompt(path: Path | None = None) -> str:
     """Extract everything under the '## 2. Voice' heading in PREFERENCES.md.
 
     The section is passed to the model as-is, which is the whole point: the
     user edits prose, not code. If the file or heading is missing we fall back
     to a terse built-in prompt rather than failing the run.
     """
+    path = path or preferences_file()
     if not path.exists():
         print(f"[writer] {path.name} not found; using fallback voice.", file=sys.stderr)
         return FALLBACK_VOICE
@@ -146,19 +144,8 @@ def detect_provider() -> tuple[str | None, str | None]:
     return None, None
 
 
-def _post_json(url: str, headers: dict[str, str], payload: dict[str, Any]) -> dict[str, Any]:
-    request = urllib.request.Request(
-        url,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json", **headers},
-        method="POST",
-    )
-    with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
-        return json.loads(response.read().decode("utf-8"))
-
-
-def call_anthropic(api_key: str, model: str, system: str, user: str) -> str:
-    data = _post_json(
+def call_anthropic(api_key: str, model: str, system: str, user: str, label: str = "anthropic") -> str:
+    data = post_json(
         "https://api.anthropic.com/v1/messages",
         {"x-api-key": api_key, "anthropic-version": "2023-06-01"},
         {
@@ -167,14 +154,17 @@ def call_anthropic(api_key: str, model: str, system: str, user: str) -> str:
             "system": system,
             "messages": [{"role": "user", "content": user}],
         },
+        timeout=REQUEST_TIMEOUT,
+        attempts=LLM_ATTEMPTS,
+        label=label,
     )
     return "".join(
         block.get("text", "") for block in data.get("content", []) if block.get("type") == "text"
     ).strip()
 
 
-def call_openai(api_key: str, model: str, system: str, user: str) -> str:
-    data = _post_json(
+def call_openai(api_key: str, model: str, system: str, user: str, label: str = "openai") -> str:
+    data = post_json(
         "https://api.openai.com/v1/chat/completions",
         {"Authorization": f"Bearer {api_key}"},
         {
@@ -185,6 +175,9 @@ def call_openai(api_key: str, model: str, system: str, user: str) -> str:
                 {"role": "user", "content": user},
             ],
         },
+        timeout=REQUEST_TIMEOUT,
+        attempts=LLM_ATTEMPTS,
+        label=label,
     )
     return data["choices"][0]["message"]["content"].strip()
 
@@ -252,9 +245,9 @@ def _generate(items: list[Any], extra_instruction: str, label: str) -> str | Non
 
     try:
         if provider == "anthropic":
-            text = call_anthropic(api_key, model, system, user)
+            text = call_anthropic(api_key, model, system, user, label=label)
         else:
-            text = call_openai(api_key, model, system, user)
+            text = call_openai(api_key, model, system, user, label=label)
     except urllib.error.HTTPError as exc:
         body = exc.read().decode("utf-8", "replace")[:300]
         print(f"[writer] {provider} HTTP {exc.code} ({label}): {body}", file=sys.stderr)
@@ -279,12 +272,19 @@ def write_deep_dive(items: list[Any]) -> str | None:
     return _generate(items, DEEP_INSTRUCTION, "deep dive")
 
 
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
+def write_both(items: list[Any]) -> tuple[str | None, str | None]:
+    """Both levels at once. They share nothing but the story list, so waiting
+    for the first to finish before starting the second just doubled the
+    stage's wall-clock time for no reason."""
+    if not items:
+        return None, None
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:
+        simple = pool.submit(write_simple_summary, items)
+        deep = pool.submit(write_deep_dive, items)
+        return simple.result(), deep.result()
 
 
-def _preview() -> None:
+def preview() -> None:
     print("=" * 70)
     print("VOICE PROMPT (from PREFERENCES.md section 2)")
     print("=" * 70)
@@ -298,33 +298,30 @@ def _preview() -> None:
         print("Provider: none configured - digests will be plain links.")
 
 
-def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(description="Write the two-level digest commentary.")
-    ap.add_argument("--in", dest="input", default="ranked.json", help="ranked items from the analyst")
-    ap.add_argument("--out-simple", default="simple.md", help="where to write the top-level summary")
-    ap.add_argument("--out-deep", default="deep.md", help="where to write the deep dive")
-    ap.add_argument("--no-commentary", action="store_true", help="write empty files without calling any LLM")
-    ap.add_argument("--preview", action="store_true", help="print the voice prompt and provider status, do nothing else")
-    args = ap.parse_args(argv)
-
-    if args.preview:
-        _preview()
-        return 0
-
-    ranked = json.loads(Path(args.input).read_text(encoding="utf-8"))
-    items = [Item.from_dict(d) for d in ranked["items"]]
-
-    if args.no_commentary:
-        simple, deep = None, None
-    else:
-        simple = write_simple_summary(items)
-        deep = write_deep_dive(items)
-
-    Path(args.out_simple).write_text(simple or "", encoding="utf-8")
-    Path(args.out_deep).write_text(deep or "", encoding="utf-8")
-    print(f"Wrote {args.out_simple} and {args.out_deep}")
-    return 0
+# ---------------------------------------------------------------------------
+# Wiring
+# ---------------------------------------------------------------------------
 
 
-if __name__ == "__main__":
-    raise SystemExit(main())
+def register(bus: EventBus) -> None:
+    """Subscribe this agent to the bus.
+
+    CommentaryWritten is published either way - with no API key, or with
+    commentary switched off, it simply carries None for both levels. The voice
+    layer being optional is this stage's business; delivery downstream should
+    not have to branch on whether the writer ran.
+    """
+
+    def on_stories_ranked(event: StoriesRanked, bus: EventBus) -> None:
+        simple, deep = write_both(event.items) if event.config.commentary else (None, None)
+        bus.publish(
+            CommentaryWritten(
+                items=event.items,
+                outcomes=event.outcomes,
+                simple=simple,
+                deep=deep,
+                config=event.config,
+            )
+        )
+
+    bus.subscribe(StoriesRanked, on_stories_ranked)

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Shared data model and config loader.
+The Item, and the text helpers that produce one.
 
-Used by every stage of the pipeline (agents/gatherer.py, agents/analyst.py,
-ai_news.py) so an Item produced by one stage can be serialised to JSON,
-handed to the next stage as a file, and read back identically.
+An Item is what every stage passes around. It round-trips through JSON
+unchanged, so the same object can travel over the in-process bus or through a
+file between two CI steps and be indistinguishable at the far end.
 """
 
 from __future__ import annotations
@@ -12,15 +12,10 @@ from __future__ import annotations
 import hashlib
 import html
 import re
-from dataclasses import asdict, dataclass, field
+import time
+from dataclasses import asdict, dataclass, field, fields
 from datetime import datetime, timezone
-from pathlib import Path
 from typing import Any
-
-import yaml
-
-ROOT = Path(__file__).resolve().parent
-SOURCES_FILE = ROOT / "sources.yaml"
 
 _TRACKING_PARAMS = re.compile(
     r"(?:^|&)(utm_[^=]+|ref|ref_src|source|fbclid|gclid|mc_cid|mc_eid)=[^&]*"
@@ -54,8 +49,6 @@ def clean_text(raw: str, limit: int = 400) -> str:
 
 
 def parse_date(entry: Any) -> datetime | None:
-    import time
-
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         parsed = entry.get(key)
         if parsed:
@@ -66,14 +59,27 @@ def parse_date(entry: Any) -> datetime | None:
     return None
 
 
-def load_config(path: Path = SOURCES_FILE) -> dict[str, Any]:
-    with path.open("r", encoding="utf-8") as fh:
-        cfg = yaml.safe_load(fh) or {}
-    cfg.setdefault("feeds", [])
-    cfg.setdefault("keywords", [])
-    cfg.setdefault("boost_terms", [])
-    cfg.setdefault("mute_terms", [])
-    return cfg
+@dataclass
+class ScoreBreakdown:
+    """Why an item scored what it did.
+
+    The ranking is the part of this system most likely to keep changing, and a
+    bare float tells you nothing when a story lands in the wrong place. Every
+    component that went into the total is kept and written to the digest's JSON
+    sibling, so a bad ranking can be diagnosed from the artifact alone.
+    """
+
+    feed_weight: float = 0.0
+    recency: float = 0.0
+    keywords: float = 0.0
+    boosts: float = 0.0
+    mutes: float = 0.0
+
+    @property
+    def total(self) -> float:
+        return round(
+            self.feed_weight + self.recency + self.keywords + self.boosts - self.mutes, 3
+        )
 
 
 @dataclass
@@ -86,6 +92,10 @@ class Item:
     summary: str = ""
     score: float = 0.0
     matched: list[str] = field(default_factory=list)
+    # Stable join key back to the feed in sources.yaml. `source` is the display
+    # label and may be renamed or duplicated; this may not.
+    feed_id: str = ""
+    breakdown: ScoreBreakdown | None = None
 
     @property
     def uid(self) -> str:
@@ -100,9 +110,21 @@ class Item:
 
     @classmethod
     def from_dict(cls, d: dict[str, Any]) -> "Item":
-        """Reverse of to_json() - reconstitutes an Item read back from an
-        intermediate JSON file (raw.json / ranked.json) passed between
-        pipeline stages."""
-        d = dict(d)
-        d["published"] = datetime.fromisoformat(d["published"])
-        return cls(**d)
+        """Reverse of to_json().
+
+        Tolerant on purpose: digests written by an older version of this code
+        are still readable (missing fields take their defaults), and fields
+        this version no longer knows about are dropped rather than raising.
+        """
+        known = {f.name for f in fields(cls)}
+        data = {k: v for k, v in d.items() if k in known}
+        published = data.get("published")
+        if isinstance(published, str):
+            data["published"] = datetime.fromisoformat(published)
+        breakdown = data.get("breakdown")
+        if isinstance(breakdown, dict):
+            valid = {f.name for f in fields(ScoreBreakdown)}
+            data["breakdown"] = ScoreBreakdown(
+                **{k: v for k, v in breakdown.items() if k in valid}
+            )
+        return cls(**data)

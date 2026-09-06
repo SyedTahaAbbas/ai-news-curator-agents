@@ -217,3 +217,36 @@ mute_terms:
   - deal of the day
   - sponsored
   - webinar replay
+
+# ---------------------------------------------------------------------------
+# Ranking weights. These used to be hardcoded in the analyst; the values below
+# are exactly the old formula, so leaving them alone changes nothing.
+#
+#   score = feed_weight x <the feed's weight above>
+#         + recency     x <1.0 at the top of the window, 0.0 at its edge>
+#         + keyword_match x <how many keywords hit, capped>
+#         + boost       x <how many boost_terms hit, capped>
+#         - mute        x <how many mute_terms hit>
+#
+# Every digest's JSON sibling records the breakdown per story, so you can see
+# which component put something where it landed before changing anything.
+# ---------------------------------------------------------------------------
+scoring:
+  feed_weight: 2.0
+  recency: 3.0
+  keyword_match: 0.3
+  max_keyword_matches: 5
+  boost: 0.6
+  max_boosts: 3
+  mute: 3.0
+
+# ---------------------------------------------------------------------------
+# When a degraded source list should fail the run rather than quietly produce
+# a thinner digest. A one-off failure is normal (Reddit rate-limits most
+# mornings) and only gets a footnote; these are the thresholds for "something
+# is actually wrong".
+# ---------------------------------------------------------------------------
+health:
+  fail_if_no_items: true        # nothing gathered at all -> exit 1
+  fail_above_dead_ratio: 0.5    # more than half the feeds down -> exit 1
+  warn_after_dead_days: 3       # flag a feed dead this many days running

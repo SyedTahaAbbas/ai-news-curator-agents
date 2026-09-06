@@ -4,3 +4,11 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+*.egg-info/
+.pytest_cache/
+# Intermediate stage files (the CI steps' transport) and run journals.
+raw.json
+ranked.json
+simple.md
+deep.md
+runs/

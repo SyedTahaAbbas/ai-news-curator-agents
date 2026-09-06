@@ -1,4 +1,0 @@
-feedparser==6.0.14
-PyYAML==6.0.3
-python-dotenv==1.2.3
-certifi==2026.7.22

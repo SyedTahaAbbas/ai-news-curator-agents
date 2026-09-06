@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SMTP delivery for the daily digest.
+The email channel.
 
 Configured entirely through environment variables so nothing secret ever lands
 in the repo. Locally these come from a .env file; in GitHub Actions they come
@@ -15,6 +15,12 @@ from repository secrets.
 
 Gmail note: with 2FA on, generate an app password at
 https://myaccount.google.com/apppasswords and use that as SMTP_PASSWORD.
+
+The distinction this module reports back matters more than it looks. "No
+mailbox is configured" is a skip - you never asked for email, so the run is
+still a success. "We tried and it failed" is a failure that blocks the commit,
+because a digest went missing and those stories must stay unsent so tomorrow
+can try again.
 """
 
 from __future__ import annotations
@@ -23,10 +29,21 @@ import os
 import smtplib
 import ssl
 import sys
+from datetime import datetime
 from email.message import EmailMessage
 from email.utils import formataddr, formatdate, make_msgid
 
+from ainews.bus import EventBus
+from ainews.config import Config
+from ainews.events import DigestEmailed, DigestRendered
+from ainews.render import render_html
+from ainews.state import FeedHealthStore
+
 DEFAULT_RECIPIENT = "Taha.mmtlmu@gmail.com"
+
+
+class EmailNotConfigured(Exception):
+    """No mailbox set up. A skip, not a failure."""
 
 
 def _recipients() -> list[str]:
@@ -35,7 +52,12 @@ def _recipients() -> list[str]:
 
 
 def send_digest_email(subject: str, html_body: str, text_body: str) -> bool:
-    """Send the digest. Returns True on success, False (with a reason) otherwise."""
+    """Send the digest.
+
+    Returns True on success, False on a genuine send failure. Raises
+    EmailNotConfigured when there is no mailbox to send from - the caller
+    treats that as "email was never on the table", not as a lost digest.
+    """
     host = os.getenv("SMTP_HOST", "smtp.gmail.com")
     port = int(os.getenv("SMTP_PORT", "587"))
     user = os.getenv("SMTP_USER")
@@ -49,14 +71,9 @@ def send_digest_email(subject: str, html_body: str, text_body: str) -> bool:
         if not value
     ]
     if missing:
-        print(
-            f"[emailer] Skipping send - missing env var(s): {', '.join(missing)}",
-            file=sys.stderr,
-        )
-        return False
+        raise EmailNotConfigured(f"missing env var(s): {', '.join(missing)}")
     if not to_addrs:
-        print("[emailer] Skipping send - MAIL_TO is empty.", file=sys.stderr)
-        return False
+        raise EmailNotConfigured("MAIL_TO is empty")
 
     msg = EmailMessage()
     msg["Subject"] = subject
@@ -96,11 +113,45 @@ def send_digest_email(subject: str, html_body: str, text_body: str) -> bool:
     return True
 
 
-if __name__ == "__main__":
-    # Quick connectivity test: python emailer.py
-    ok = send_digest_email(
-        subject="AI News Curator - test email",
-        html_body="<p>If you can read this, SMTP is configured correctly.</p>",
-        text_body="If you can read this, SMTP is configured correctly.",
-    )
-    raise SystemExit(0 if ok else 1)
+def register_email(
+    bus: EventBus, cfg: Config, health: FeedHealthStore | None = None
+) -> None:
+    def send_email(event: DigestRendered, bus: EventBus) -> None:
+        if event.config.dry_run or not event.config.email:
+            return
+
+        warnings = []
+        if health is not None:
+            warnings = [
+                f"{name} has been unreachable for {days} days"
+                for name, days in health.dead_for_days(
+                    cfg.health.warn_after_dead_days, event.config.run_at
+                )
+            ]
+
+        run_at: datetime = event.config.run_at
+        subject = f"AI News Curator - {run_at:%d %b %Y} ({len(event.items)} stories)"
+        try:
+            sent = send_digest_email(
+                subject=subject,
+                html_body=render_html(
+                    event.items,
+                    event.config.hours,
+                    event.errors,
+                    event.simple,
+                    event.deep,
+                    run_at=run_at,
+                    health_warnings=warnings,
+                ),
+                text_body=event.markdown,
+            )
+        except EmailNotConfigured as exc:
+            print(f"[emailer] Skipping send - {exc}.", file=sys.stderr)
+            bus.publish(DigestEmailed(sent=False, skipped=True, reason=str(exc)))
+            return
+
+        bus.publish(
+            DigestEmailed(sent=sent, skipped=False, reason="" if sent else "send failed")
+        )
+
+    bus.subscribe(DigestRendered, send_email)

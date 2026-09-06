@@ -9,7 +9,9 @@ services:
       - ./PREFERENCES.md:/app/PREFERENCES.md:ro
       - ./see news:/app/see news
       - ./.seen.json:/app/.seen.json
+      - ./.feed-health.json:/app/.feed-health.json
     # Override at run time, e.g.:
     #   docker compose run --rm ai-news --dry-run
     #   docker compose run --rm ai-news --hours 48
+    #   docker compose run --rm ai-news check-feeds
     command: ["--no-email"]
