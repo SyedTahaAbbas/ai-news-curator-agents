@@ -1,0 +1,260 @@
+[
+  {
+    "title": "My Brief Summer Fling With Siri AI",
+    "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-06T10:30:00+00:00",
+    "summary": "I was initially enamored with the beta version of Apple\u2019s revamped smartphone assistant. As the full release approaches, I\u2019ve forgotten Siri AI even exists.",
+    "score": 6.156,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.856,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Is designing a memory graph around known data structure \u201coverfitting\u201d if I never touch the questions? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-06T07:33:50+00:00",
+    "summary": "building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, timestamps, relations. So I extract those into a graph. I did not look at the QA pairs while building extractors or retrieval rules. No \u201cif question contains X, fetch fact #173.\u201d Recall is very high and it keeps working on new\u2026",
+    "score": 5.589,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.489,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-06T09:23:59+00:00",
+    "summary": "I've been working on a practical implementation of Sliding Window Attention (SWA) for pretrained Hugging Face causal LLMs. The idea is simple: instead of allowing every generated token to attend to the complete historical KV cache, maintain a bounded cache consisting of: attention sinks + recent sliding window I implemented this as a reusable inference layer rather than modifying or retraining\u2026",
+    "score": 5.519,
+    "matched": [
+      "hugging face",
+      "inference"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.719,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+    "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-06T10:00:00+00:00",
+    "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies\u2014the only problem is a lack of evidence.",
+    "score": 5.194,
+    "matched": [],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.794,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-05T22:49:55+00:00",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "score": 4.998,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.398,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GPT-6 Astra on robot arms",
+    "url": "https://openai.robocurve.org/gpt-6-astra/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-06T01:52:45+00:00",
+    "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 203 # Comments: 151",
+    "score": 4.978,
+    "matched": [
+      "gpt",
+      "openai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.778,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-05T18:05:27+00:00",
+    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "score": 4.405,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.805,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-05T19:35:24+00:00",
+    "summary": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\"",
+    "score": 4.292,
+    "matched": [
+      "gemini"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.992,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AIStats 2027 Questions [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-06T03:33:12+00:00",
+    "summary": "Hi All, Was reading AIStats' website and it seems like abstract submission is due in 3 weeks. Does anyone know where to find the LaTex template for 2027? It seems like very little information is available on their website. Another question, is a Quant Finance paper a better fit for AIStats or ICLR? Some background about the paper: Rejected by UAI with 76654, had some errors with proofs had to fix\u2026",
+    "score": 4.188,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.988,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing GPT-6 Astra for developers",
+    "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-05T23:27:48+00:00",
+    "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals , cityscapes, even Dyson spheres.\u2026",
+    "score": 4.176,
+    "matched": [
+      "gpt"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.476,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-05T19:11:16+00:00",
+    "summary": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the\u2026",
+    "score": 4.042,
+    "matched": [
+      "gpt"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.942,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-05T23:33:49+00:00",
+    "summary": "I ran a side-by-side ML text-processing and model-training workflow using Fable 5.1 vs. Astra (both on xhigh), and the results could not have been more different. Warning, long post. TL;DR -- Astra codes more agentically, Fable more coherently. Fable writes better and follows directions better. Astra's final outcome was slightly better, and its scientific rigor/reproducibility was noticeably\u2026",
+    "score": 3.689,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.489,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Using Blender with coding agents on macOS",
+    "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-05T15:51:09+00:00",
+    "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle In this case I followed that up with these two prompts:\u2026",
+    "score": 3.225,
+    "matched": [
+      "chatgpt"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.525,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
