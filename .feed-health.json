@@ -3,32 +3,32 @@
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Ars Technica AI"
  },
  "arxiv-cs-ai": {
-  "consecutive_failures": 0,
-  "failing_since": null,
-  "last_error": null,
+  "consecutive_failures": 1,
+  "failing_since": "2026-09-08T12:07:12.870614+00:00",
+  "last_error": "no entries",
   "last_ok": "2026-09-07T13:29:42.011945+00:00",
   "name": "arXiv cs.AI"
  },
  "arxiv-cs-cl": {
-  "consecutive_failures": 0,
-  "failing_since": null,
-  "last_error": null,
+  "consecutive_failures": 1,
+  "failing_since": "2026-09-08T12:07:12.870614+00:00",
+  "last_error": "no entries",
   "last_ok": "2026-09-07T13:29:42.011945+00:00",
   "name": "arXiv cs.CL"
  },
  "arxiv-cs-lg": {
-  "consecutive_failures": 0,
-  "failing_since": null,
-  "last_error": null,
+  "consecutive_failures": 1,
+  "failing_since": "2026-09-08T12:07:12.870614+00:00",
+  "last_error": "no entries",
   "last_ok": "2026-09-07T13:29:42.011945+00:00",
   "name": "arXiv cs.LG"
  },
  "bair-berkeley": {
-  "consecutive_failures": 2,
+  "consecutive_failures": 3,
   "failing_since": "2026-09-06T11:38:11.870834+00:00",
   "last_error": "no entries (<urlopen error timed out>)",
   "last_ok": null,
@@ -38,32 +38,32 @@
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Google AI"
  },
  "google-deepmind": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Google DeepMind"
  },
  "hacker-news-ai-100-pts": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Hacker News (AI, 100+ pts)"
  },
  "hugging-face": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Hugging Face"
  },
  "import-ai": {
-  "consecutive_failures": 2,
+  "consecutive_failures": 3,
   "failing_since": "2026-09-06T11:38:11.870834+00:00",
   "last_error": "HTTP 403",
   "last_ok": null,
@@ -73,39 +73,39 @@
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Microsoft Research"
  },
  "mit-technology-review-ai": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "MIT Technology Review AI"
  },
  "nvidia": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "NVIDIA"
  },
  "openai": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "OpenAI"
  },
  "r-artificial": {
-  "consecutive_failures": 2,
+  "consecutive_failures": 3,
   "failing_since": "2026-09-06T11:38:11.870834+00:00",
   "last_error": "HTTP 429",
   "last_ok": null,
   "name": "r/artificial"
  },
  "r-localllama": {
-  "consecutive_failures": 2,
+  "consecutive_failures": 3,
   "failing_since": "2026-09-06T11:38:11.870834+00:00",
   "last_error": "HTTP 429",
   "last_ok": null,
@@ -115,32 +115,32 @@
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "r/MachineLearning"
  },
  "simon-willison": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Simon Willison"
  },
  "techcrunch-ai": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "TechCrunch AI"
  },
  "the-verge-ai": {
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "The Verge AI"
  },
  "venturebeat-ai": {
-  "consecutive_failures": 2,
+  "consecutive_failures": 3,
   "failing_since": "2026-09-06T11:38:11.870834+00:00",
   "last_error": "HTTP 429",
   "last_ok": null,
@@ -150,7 +150,7 @@
   "consecutive_failures": 0,
   "failing_since": null,
   "last_error": null,
-  "last_ok": "2026-09-07T13:29:42.011945+00:00",
+  "last_ok": "2026-09-08T12:07:12.870614+00:00",
   "name": "Wired AI"
  }
 }

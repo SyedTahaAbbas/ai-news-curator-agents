@@ -1,0 +1,303 @@
+[
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T10:34:00+00:00",
+    "summary": "Danijar Hafner\u2019s office in San Francisco\u2019s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn\u2019t even have its name on the door. On the day I visit, there\u2019s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up\u2026",
+    "score": 6.104,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.804,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-08T01:57:19+00:00",
+    "summary": "I'm testing a new approach for reducing the cost of image-based LLM inference. I evaluated it on the MOMA Graph benchmark , using 1,315 questions . Compared with using GPT-4o to process the original images directly, I observed approximately: ~95% lower token usage roughly the same accuracy as the GPT-4o direct-image baseline I'm intentionally not sharing implementation details yet because the\u2026",
+    "score": 5.727,
+    "matched": [
+      "llm",
+      "gpt",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.727,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "llm 0.35",
+    "url": "https://simonwillison.net/2026/Sep/7/llm/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-07T23:54:54+00:00",
+    "summary": "Release: llm 0.35 New OpenAI model: gpt-6-astra for GPT-6 Astra . Tags: openai , llm , gpt-6-astra",
+    "score": 5.372,
+    "matched": [
+      "llm",
+      "gpt",
+      "openai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.472,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-08T10:19:04+00:00",
+    "summary": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out. there's been a lot of noise about this, so i went through the actual conference statements and Pangram's technical docs to see how this actually went down. the reality is wildly worse than just \"the AI detector made a\u2026",
+    "score": 5.273,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.773,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+    "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-07T18:24:32+00:00",
+    "summary": "Article URL: https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses Comments URL: https://news.ycombinator.com/item?id=49601338 Points: 100 # Comments: 117",
+    "score": 4.584,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.784,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-08T05:01:04+00:00",
+    "summary": "this is the kinda debugging case i find rlly annoying/ everything says success. no exceptions no failed tool calls. no obvious timeout the workflow completes but the final result is still wrong when that happens, what\u2019s your first move? do you guys usually: start from the final output and work backward compare against a previous good run inspect state transitions check retrieval/tool behavior\u2026",
+    "score": 4.31,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.11,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting Jakub Pachocki",
+    "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-07T22:26:25+00:00",
+    "summary": "The strongest argument I see for continuing to train much smarter models quickly is the need to build defensive systems against the dangers posed by other AI. [...] We will need powerful, aligned AI for defense; to secure infrastructure, to protect against rogue agents in real time, and to invent entirely new protective measures. This will be a primary focus of OpenAI\u2019s deployment efforts. At the\u2026",
+    "score": 4.288,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.288,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-07T19:24:00+00:00",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "score": 4.208,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.908,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-07T16:54:55+00:00",
+    "summary": "I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of results and a history of prior attempts, and each candidate is scored by an independent verifier so improvements are kept and failures discarded. On the Packomania csqv benchmark it improved the\u2026",
+    "score": 3.997,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.597,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-08T02:16:23+00:00",
+    "summary": "So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth. But what happens if you have a billion documents, and you decide to upgrade your model to a \"better\" one? on an h100, that would take about 108 days, just to upgrade the\u2026",
+    "score": 3.967,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.767,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-08T00:05:37+00:00",
+    "summary": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a slightly different formulation: instead of handing the network a timestamp t , could a small recurrent dynamical system (RNN-ish) learn the continuous temporal flow in latent space and generate the entire ~6,500-frame full\u2026",
+    "score": 3.695,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.495,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mercator \u2194 Equal Earth",
+    "url": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-07T16:24:16+00:00",
+    "summary": "Tool: Mercator \u2194 Equal Earth I got curious about the Equal Earth map projection that was recently voted on at the UN so I had GPT-6 Astra (medium) in ChatGPT Work build me this animated transition between Mercator and Equal Earth using D3. Tags: geospatial , d3 , vibe-coding , gpt-6-astra",
+    "score": 3.534,
+    "matched": [
+      "gpt",
+      "chatgpt"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.534,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Video compressor",
+    "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-07T18:29:07+00:00",
+    "summary": "Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG. Tags: ffmpeg , video , webassembly , claude , claude-code , claude-mythos-fable",
+    "score": 3.494,
+    "matched": [
+      "claude"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.794,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+    "url": "https://news.ycombinator.com/item?id=49600233",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-07T16:40:32+00:00",
+    "summary": "In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less. Comments URL: https://news.ycombinator.com/item?id=49600233 Points: 125 # Comments: 140",
+    "score": 3.468,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.568,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-07T15:22:35+00:00",
+    "summary": "Background : Our T-PAMI submission was rejected despite receiving three highly favorable reviews. The AE inadvertently revealed that the decision relied on negative comments attributed to a \u201cfourth reviewer.\u201d However, the actual fourth reviewer had submitted a positive review, which subsequently disappeared from the review record under the AE\u2019s handling. We have spent the past six months pursuing\u2026",
+    "score": 2.605,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.405,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
