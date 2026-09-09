@@ -1,0 +1,703 @@
+[
+  {
+    "title": "Worried Anthropic researchers warn that AI \u2018could kill all humans\u2019",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-09T09:56:28+00:00",
+    "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [\u2026]",
+    "score": 6.401,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.701,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-09T12:05:34+00:00",
+    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+    "score": 6.27,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.97,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How An AI math breakthrough ignited a controversy",
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-09T10:25:41+00:00",
+    "summary": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy Comments URL: https://news.ycombinator.com/item?id=49624163 Points: 108 # Comments: 101",
+    "score": 6.262,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 2.762,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-09T11:00:10+00:00",
+    "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+    "score": 6.234,
+    "matched": [
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.834,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Students who use AI generally score worse at school",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-09T12:05:01+00:00",
+    "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how [\u2026]",
+    "score": 6.069,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.969,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-09T03:10:08+00:00",
+    "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI\u2019s cap. But the announcement has been overshadowed by accusations\u2026",
+    "score": 5.755,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.855,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Now this is a serious local machine",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbir6v/now_this_is_a_serious_local_machine/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T11:20:09+00:00",
+    "summary": "Amd announced this: https://www.amd.com/en/products/workstations/amd-threadripper-halo-station.html submitted by /u/Apprehensive_Bar6609 [link] [comments]",
+    "score": 5.476,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.876,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T20:16:09+00:00",
+    "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [\u2026]",
+    "score": 5.292,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.992,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "new Nex model",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbemg0/new_nex_model/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T07:25:10+00:00",
+    "summary": "new model of nex benchmark seems like good https://huggingface.co/nex-agi/Nex-N2.5-Max submitted by /u/Lordaizen639 [link] [comments]",
+    "score": 5.286,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.386,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.5",
+    "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-08T22:46:33+00:00",
+    "summary": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT\u2011Image models in the API\". This latest release improves their instruction-following ability across multiple turns, responds faster, and \"is better at preserving the subjects in your reference photos\". There are two new model IDs in the API:\u2026",
+    "score": 5.206,
+    "matched": [
+      "gpt",
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.306,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DeepSeek-V4-Flash-Vision-Exp (285B MoE) on 10-12x RTX 3090 \u2014 spec decoding, vision",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbi5u1/deepseekv4flashvisionexp_285b_moe_on_1012x_rtx/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T10:50:10+00:00",
+    "summary": "Running the full deepseek-ai/DeepSeek-V4-Flash-Vision-Exp on consumer Ampere \u2014 10-12x RTX 3090, SM86-compatible vLLM build. 285B MoE, FP4 experts + FP8 attention, 157 GB weights. Highlights: - **60+ tok/s** decode, DSpark spec (k=3) on 10 GPUs (TP2xPP5), at a 240 W cap - **120+ tok/s** on 12 GPUs (TP4xPP3) - **Vision + spec + tool calls all working** - **1M context** (no offload) / **4M** (RAM\u2026",
+    "score": 5.113,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.813,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MiMo-X-Pro-Preview and MiMo-X-Flash-Preview - New Mimo Model found in Mimo Desktop preview announcement",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbejtp/mimoxpropreview_and_mimoxflashpreview_new_mimo/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T07:20:54+00:00",
+    "summary": "From the email \"Early access to new models During the program, approved users can try two next-generation Xiaomi MiMo models for a limited time: MiMo-X-Pro-Preview and MiMo-X-Flash-Preview. The MiMo-X series is optimized for real professional workflows, with a focus on complex reasoning, multi-agent collaboration, large-scale coding projects, Office, web design, frontend and interaction design,\u2026",
+    "score": 4.977,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.377,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-09-08T17:00:00+00:00",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "score": 4.884,
+    "matched": [
+      "gpt"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.584,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What OpenBMB 1B version is this?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbagpr/what_openbmb_1b_version_is_this/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T03:42:47+00:00",
+    "summary": "This is from the https://huggingface.co/IFM/K2-Horizon-0.9B benchmark image Tried searching for it but couldn't find it, I am guessing is https://huggingface.co/openbmb/MiniCPM5-1B but the numbers do not match submitted by /u/FerLuisxd [link] [comments]",
+    "score": 4.823,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.923,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T21:11:46+00:00",
+    "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+    "score": 4.808,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.108,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T20:53:52+00:00",
+    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [\u2026]",
+    "score": 4.771,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.071,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T21:10:27+00:00",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "score": 4.705,
+    "matched": [
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.105,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T17:27:31+00:00",
+    "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed [\u2026]",
+    "score": 4.641,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.641,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Deepseek Has Soft Retired Deepseek V4 Pro",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T08:34:28+00:00",
+    "summary": "submitted by /u/Few_Painter_5588 [link] [comments]",
+    "score": 4.53,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.53,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
+    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T14:17:48+00:00",
+    "summary": "The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+    "score": 4.446,
+    "matched": [
+      "ai",
+      "mistral"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.246,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I resigned from Anthropic today",
+    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-09T00:40:40+00:00",
+    "summary": "https://xcancel.com/hilbertspaess/status/2097476196791709843... Comments URL: https://news.ycombinator.com/item?id=49619227 Points: 593 # Comments: 800",
+    "score": 4.443,
+    "matched": [
+      "anthropic"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.543,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T21:04:06+00:00",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "score": 4.392,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.092,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-09-08T13:00:00+00:00",
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish\u2014and make growth more economical.",
+    "score": 4.384,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.084,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T01:34:52+00:00",
+    "summary": "Hi, I'm the co-creator of this Qwen3.8-Flash-Next engine support in MLX-serve. I've been tuning this one to run both fast, efficient and correct up 1m context using kv cache 8 bits in M5 Max 128GB. Qwen is working well at very long context as showed in the video (a snapshot at ~760k context), I let it build MLX Serve Monitor plugin that you've seen on the right side of Opencode2's app. The\u2026",
+    "score": 4.256,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.656,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T15:04:09+00:00",
+    "summary": "Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster.",
+    "score": 4.242,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.342,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta bets on AI agent Muse to catch up in AI race",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T19:00:00+00:00",
+    "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up [\u2026]",
+    "score": 4.234,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.834,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "source": "Google DeepMind",
+    "category": "Labs & Releases",
+    "published": "2026-09-08T14:00:15+00:00",
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "score": 4.209,
+    "matched": [],
+    "feed_id": "google-deepmind",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.209,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google\u2019s Atlas of the human genome could pave the way for new treatments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T14:00:00+00:00",
+    "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [\u2026]",
+    "score": 4.209,
+    "matched": [
+      "ai",
+      "deepmind"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.209,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting Terence Tao",
+    "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-09T00:20:17+00:00",
+    "summary": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of someone working on a problem can trigger a massive amount of AI-powered effort to flatten it before the original research project has time to reach its full\u2026",
+    "score": 4.201,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.501,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+    "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-08T23:55:12+00:00",
+    "summary": "On the Navier\u2013Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier\u2013Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have been subject to a $1,000,000 prize since May 24th, 2000. The discovery is somewhat overshadowed by accusations of skulduggery from Tristan Buckmaster, an NYU\u2026",
+    "score": 4.149,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.449,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T03:06:39+00:00",
+    "summary": "https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/ https://www.nbcnews.com/tech/tech-news/us-accuses-china-ai-developers-deepseek-alibaba-copying-american-ai-rcna596696 submitted by /u/External_Mood4719 [link] [comments]",
+    "score": 4.148,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.848,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T16:42:05+00:00",
+    "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "score": 4.146,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.546,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-08T19:00:00+00:00",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "score": 4.134,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.834,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Is there a dummies guide for setting up qwen 27B with dflash2 and n-gram?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbcbuv/is_there_a_dummies_guide_for_setting_up_qwen_27b/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-09T05:17:47+00:00",
+    "summary": "I'm pretty sure I still wont be able to run it, but I wanna try dammit! submitted by /u/thebadslime [link] [comments]",
+    "score": 4.121,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.121,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-08T21:00:52+00:00",
+    "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 392 # Comments: 347",
+    "score": 3.985,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.085,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
