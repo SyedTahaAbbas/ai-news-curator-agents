@@ -1,0 +1,754 @@
+[
+  {
+    "title": "An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks",
+    "url": "https://arxiv.org/abs/2609.09404",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09404v1 Announce Type: cross Abstract: Agentic AI frameworks let a language model plan, keep memory, and call tools that reach real files, mail, and services. Most of these agents also read images, which gives an attacker a way to put text into the agent's context without going through the user. We present MMPIBench, a reproducible benchmark that measures what happens next. It delivers\u2026",
+    "score": 6.175,
+    "matched": [
+      "ai",
+      "agentic",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
+    "url": "https://arxiv.org/abs/2609.09604",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09604v1 Announce Type: cross Abstract: On August 2, 2026, the obligations of Article 50 of the EU AI Act took effect, requiring generative AI providers to mark the content their systems produce and ensure it can be detected as AI-generated. Days later, Anthropic disclosed that every Claude model released after that date embeds a watermark based on SynthID-Text in all generated text,\u2026",
+    "score": 6.175,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic",
+      "generative"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.03247",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.03247v1 Announce Type: cross Abstract: Large language model (LLM) security has largely focused on role-playing jailbreaks, with less attention to what happens when a user asks an LLM to verify an identity claim through a test designed by the model itself. We study this behavior through a staged developer-identity experiment with ChatGPT, Claude, Qwen, Mistral, and Llama. All five\u2026",
+    "score": 5.875,
+    "matched": [
+      "llm",
+      "large language model",
+      "chatgpt",
+      "claude",
+      "llama",
+      "mistral"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Reinforcement learning for Quantum Tiq-Taq-Toe",
+    "url": "https://arxiv.org/abs/2411.06429",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2411.06429v2 Announce Type: replace Abstract: Quantum Tiq-Taq-Toe is a well-known benchmark and playground for both quantum computing and machine learning. Despite its popularity, no reinforcement learning (RL) methods have been applied to Quantum Tiq-Taq-Toe. Although there has been some research on Quantum Chess this game is significantly more complex in terms of computation and analysis.\u2026",
+    "score": 5.875,
+    "matched": [
+      "machine learning",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Optimizing AI Inference Across the Deployment Stack",
+    "url": "https://arxiv.org/abs/2609.10550",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10550v1 Announce Type: cross Abstract: AI deployment performance is shaped not by model architecture alone, but by interactions among compression, compiler transformations, and serving policies. Published benchmarks often report latency and throughput under incomparable conditions, limiting their use for deployment decisions. This paper presents a unified analytical treatment of\u2026",
+    "score": 5.875,
+    "matched": [
+      "ai",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Alignment Reduces Expressed but Not Encoded Gender Bias: A Unified Framework and Study",
+    "url": "https://arxiv.org/abs/2603.24125",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2603.24125v3 Announce Type: replace Abstract: During training, Large Language Models (LLMs) learn social regularities that can lead to gender bias in downstream applications. Most mitigation efforts focus on reducing bias in generated outputs, typically evaluated on structured benchmarks, which raises two concerns: output-level evaluation does not reveal whether alignment modifies the\u2026",
+    "score": 5.875,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-11T09:00:00+00:00",
+    "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely \u201cspooking people\u201d inside big labs.",
+    "score": 5.6,
+    "matched": [
+      "ai",
+      "agentic"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.6,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+    "url": "https://arxiv.org/abs/2609.09203",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes, or distinguish systematic reasoning from fortunate guessing. We present\u2026",
+    "score": 5.575,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LexAgentHallu: A Hierarchical Benchmark for Profiling Hallucinations in Legal Agents",
+    "url": "https://arxiv.org/abs/2609.09754",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09754v1 Announce Type: new Abstract: As large language models are increasingly deployed as tool-augmented legal agents, they introduce agentic hallucinations where tool-call and reasoning errors cascade into fabricated holdings and miscited authority. However, existing legal benchmarks evaluate only single-turn QA with outcome-level metrics, while agentic hallucination benchmarks lack\u2026",
+    "score": 5.575,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Era by Eon Benchmark: A Generated Enterprise Estate with Exact Ground Truth for Benchmarking LLM Agents",
+    "url": "https://arxiv.org/abs/2609.09853",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09853v1 Announce Type: new Abstract: LLM agents for enterprise systems of record cannot be evaluated on customer production data, and no existing substitute provides ground truth. We present the Era by Eon Benchmark for evaluating LLM agents that use enterprise tools. The benchmark is built around a complete fictional company. It includes product simulators, company-specific internal\u2026",
+    "score": 5.575,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents",
+    "url": "https://arxiv.org/abs/2609.09875",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09875v1 Announce Type: new Abstract: Existing evaluation frameworks mostly assess only one part of AI agents, such as task completion (AgentBench) or security robustness (AgentDojo, ASB), rather than the complete pipeline of planning, tool selection, tool execution, memory and reasoning. Failures can occur at any stage, yet existing benchmarks rarely identify their precise source.\u2026",
+    "score": 5.575,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
+    "url": "https://arxiv.org/abs/2609.10060",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10060v1 Announce Type: new Abstract: Existing bias auditing methods typically rely on model outputs, requiring costly benchmarks or judge models and potentially missing internal shifts that never appear in generated text. We propose a reference-based method that audits bias in hidden-state representations across related model variants, for example before and after fine-tuning. Because\u2026",
+    "score": 5.575,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning",
+    "url": "https://arxiv.org/abs/2609.10335",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10335v1 Announce Type: new Abstract: Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic inputs, they are often computationally intensive and opaque. We demonstrate that a pure Large Language Model (LLM), when equipped with specialized\u2026",
+    "score": 5.575,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LogiScope-VQA: Benchmarking Vision-Language Models for Logistics Hazard Identification in Industrial Scenarios",
+    "url": "https://arxiv.org/abs/2609.09790",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09790v1 Announce Type: cross Abstract: Large Multimodal Models (LMMs) large-scale deployment in industrial warehouse settings specifically necessitates that models exhibit human-expert-level hazard-oriented perception, understanding, and reasoning capabilities. However, the scarcity of real industrial data, tightly coupled to commercial terms, significantly hampers further advancement.\u2026",
+    "score": 5.575,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CS-Guard: Benchmarking LLM Guardrails for Code Generation Security",
+    "url": "https://arxiv.org/abs/2609.09798",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09798v1 Announce Type: cross Abstract: Large language models (LLMs) have been ex- ploited to generate malware, but the effective- ness of guardrails for code generation secu- rity remains unclear. We introduce CS-Guard, the first benchmark to systematically evalu- ate guardrails for code generation security. It covers 1) text-to-code generation with 1000 high-quality malware-generation\u2026",
+    "score": 5.575,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Forward-Free LLM Depth Pruning via Weight Redundancy",
+    "url": "https://arxiv.org/abs/2609.09883",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.09883v1 Announce Type: cross Abstract: Depth pruning reduces large language model (LLM) inference cost by removing complete Transformer blocks. Activation-based methods collect hidden states through forward passes on calibration data, while existing forward-free methods score each Transformer block separately without measuring similarity between blocks. We propose Weight-Redundancy\u2026",
+    "score": 5.575,
+    "matched": [
+      "llm",
+      "large language model",
+      "transformer*",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+    "url": "https://arxiv.org/abs/2609.10494",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10494v1 Announce Type: cross Abstract: Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has three parts. A gold-blind capability-binding\u2026",
+    "score": 5.575,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Generative AI for Analysts",
+    "url": "https://arxiv.org/abs/2512.19705",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2512.19705v2 Announce Type: replace-cross Abstract: We study how generative artificial intelligence (GenAI) reshapes financial analysts' information production. Using the 2023 integration of GenAI into FACTSET as a plausibly exogenous change in AI access, we find that FACTSET-associated reports become markedly richer--featuring 26% more distinct information sources, 24% broader topical\u2026",
+    "score": 5.575,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "generative",
+      "genai"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2604.10701",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2604.10701v2 Announce Type: replace-cross Abstract: Credit assignment is a central challenge in reinforcement learning (RL). Classical actor-critic methods address this challenge through fine-grained advantage estimation based on a learned value function. However, learned value models are often avoided in modern large language model (LLM) RL because conventional discriminative critics are\u2026",
+    "score": 5.575,
+    "matched": [
+      "llm",
+      "large language model",
+      "generative",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Predicting Privacy Leakage from Weight Spectral Density",
+    "url": "https://arxiv.org/abs/2609.11780",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11780v1 Announce Type: new Abstract: Membership inference attacks (MIAs) are widely used to audit the privacy disclosure risk of machine learning models, however current state-of-the-art attacks require training computationally expensive shadow models, making large-scale privacy evaluation impractical. In this work, we investigate whether inexpensive spectral metrics derived from the\u2026",
+    "score": 5.575,
+    "matched": [
+      "machine learning",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+    "url": "https://arxiv.org/abs/2609.11897",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11897v1 Announce Type: new Abstract: Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which specify a causal graph together with the mechanisms that generate data, yet existing studies differ substantially in graph families,\u2026",
+    "score": 5.575,
+    "matched": [
+      "foundation model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Station-Based Evaluation of Machine Learning-based Weather Forecasting Models in Northern Norway",
+    "url": "https://arxiv.org/abs/2609.10564",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10564v1 Announce Type: cross Abstract: Recent machine learning weather prediction (MLWP) models have demonstrated remarkable forecasting skill on global reanalysis-based benchmarks. However, their performance remains unclear in challenging environments such as Northern Norway, where narrow fjords and rapidly changing weather result in highly variable local wind conditions. In this case\u2026",
+    "score": 5.575,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Adaptive Diffusion Freezing: Privacy-preserving Diffusion Models Against Membership Inference Attacks",
+    "url": "https://arxiv.org/abs/2609.10608",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10608v1 Announce Type: cross Abstract: Diffusion models have achieved remarkable success in generative tasks across various areas, however their training process raises significant privacy concerns, particularly under membership inference attacks (MIAs). Prior studies on privacy-preserving of diffusion models fail to balance privacy, utility, and efficiency. To address this gap, we\u2026",
+    "score": 5.575,
+    "matched": [
+      "generative",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SynCo: Synthetic Community-Aware Attributed Graph Generator for Graph Neural Network Benchmarking",
+    "url": "https://arxiv.org/abs/2609.10742",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10742v1 Announce Type: cross Abstract: Graph Neural Networks (GNNs) are powerful models for handling attributed graphs in tasks such as classification, link prediction, and community detection, as they enable the aggregation of information from both structural and semantic sources. However, progress in community detection is hindered by the lack of high-quality datasets, since\u2026",
+    "score": 5.575,
+    "matched": [
+      "neural network",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Empirical Evaluation of Membership Inference Attacks on NLP Text Classifiers: A Baseline Study on SST-2",
+    "url": "https://arxiv.org/abs/2609.10935",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.10935v1 Announce Type: cross Abstract: Membership inference attacks (MIAs) try to determine whether a specific record was used to train a model, a privacy risk that matters in natural language processing (NLP), where training data can contain sensitive user text. This paper presents a controlled benchmark of membership inference vulnerability for text classification on the GLUE SST-2\u2026",
+    "score": 5.575,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Oligarch Barely Steers Model Collapse in Multi-Model Ecosystems",
+    "url": "https://arxiv.org/abs/2609.11146",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11146v1 Announce Type: cross Abstract: AI-generated text is flowing back into the training corpora of the next generation of models. Recursive training on it drives model collapse, and recent work extends the setting to many models feeding one another -- but almost always with the market split evenly, while real generative AI is an oligopoly. Concentration raises two worries: fewer,\u2026",
+    "score": 5.575,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "E-CONAN (Entailment, CONtradition And Neutral) Benchmarks: Arabic Textual Entailment and Natural Inference Datasets",
+    "url": "https://arxiv.org/abs/2609.11334",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11334v1 Announce Type: cross Abstract: Natural Language Inference processes pairs of sentences to extract their semantic relations. NLI has been a hot research topic, integrated as a main component in other NLP applications. Despite significant advancements in textual inference across various languages all around the world, Arabic language still suffers from limited resources in this\u2026",
+    "score": 5.575,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SG-Blend: Learning an Interpolation Between Improved Swish and GELU for Robust Neural Representations",
+    "url": "https://arxiv.org/abs/2505.23942",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2505.23942v2 Announce Type: replace Abstract: Prevailing activation functions such as Swish and GELU tend toward domain-specific optima, Swish was discovered via neural architecture search on vision benchmarks, while GELU dominates transformer-based language models, and neither offers any mechanism to adapt its gating shape to individual layers. This rigidity is especially consequential in\u2026",
+    "score": 5.575,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating Memory Structure in LLM Agents",
+    "url": "https://arxiv.org/abs/2602.11243",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2602.11243v3 Announce Type: replace Abstract: Modern LLM-based agents and chat assistants rely on long-term memory frameworks to store reusable knowledge, recall user preferences, and augment reasoning. As researchers create more complex memory architectures, it becomes increasingly difficult to analyze their capabilities and guide future memory designs. Most long-term memory benchmarks\u2026",
+    "score": 5.575,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Measuring Progress in Reasoning Toward Mathematical Discovery with Automatic Verification",
+    "url": "https://arxiv.org/abs/2603.15617",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2603.15617v2 Announce Type: replace Abstract: Can AI make progress on important, unsolved mathematical problems? Large language models are now capable of sophisticated mathematical and scientific reasoning, but whether they can perform novel research is still widely debated and underexplored. We introduce HorizonMath, a benchmark of 113 predominantly unsolved problems spanning eight domains\u2026",
+    "score": 5.575,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking non-conformity score functions in conformal prediction",
+    "url": "https://arxiv.org/abs/2605.24983",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2605.24983v2 Announce Type: replace Abstract: Conformal prediction is a useful and versatile alternative to model calibration in machine learning classification. It replaces single-class prediction with prediction sets, guaranteeing that the a priori probability of the prediction sets containing the true class is larger than or equal to a pre-specified rate. The size and usefulness of the\u2026",
+    "score": 5.575,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ProMediConv: Benchmarking Proactive Conversational Agents in Legal Dispute Mediation",
+    "url": "https://arxiv.org/abs/2609.11101",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11101v1 Announce Type: new Abstract: Dispute mediation is essential for maintaining social harmony and resilience, yet developing skilled mediators is costly and time-consuming. Existing LLM-based mediation research remains limited by unrealistic task formulations, low-fidelity datasets, and coarse evaluation metrics that obscure turn-by-turn dynamics. To address these gaps, we\u2026",
+    "score": 5.575,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TransClean: A Benchmark for Detecting and Extracting Clean Translations from Large Language Model Outputs",
+    "url": "https://arxiv.org/abs/2609.11399",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11399v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for machine translation, yet their outputs often contain additional text beyond the translation itself, such as language labels, explanations or bilingual repetitions, which we term translation noise. Despite its prevalence, this problem lacks dedicated benchmarks and systematic study. We analyze\u2026",
+    "score": 5.575,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ReGround: Grounding Reviewer Comments in Multimodal Evidence",
+    "url": "https://arxiv.org/abs/2609.11460",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2609.11460v1 Announce Type: new Abstract: Reviewer comments naturally relate to specific parts of the reviewed paper, yet grounding these comments to the underlying evidence is difficult due to long multimodal documents. Existing benchmarks do not capture this setting and largely focus on explicit, information-seeking queries. We introduce ReGround, a large-scale dataset for reviewer\u2026",
+    "score": 5.575,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Reports",
+    "url": "https://arxiv.org/abs/2601.08536",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-11T04:00:00+00:00",
+    "summary": "arXiv:2601.08536v3 Announce Type: replace Abstract: Deep Research Agents (DRA) aim to help users search the web, synthesize information, and deliver comprehensive investigative reports. Prior benchmarks often either under-evaluate a system's ability to produce meaningful insights and high-quality writing, or adopt coarse or LLM-defined criteria that are hard to verify and can diverge from human\u2026",
+    "score": 5.575,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.975,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
