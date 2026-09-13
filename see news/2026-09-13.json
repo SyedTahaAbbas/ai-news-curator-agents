@@ -1,0 +1,247 @@
+[
+  {
+    "title": "AI Agents Are Thirsty for Power",
+    "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-13T10:00:00+00:00",
+    "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
+    "score": 5.659,
+    "matched": [
+      "ai",
+      "agentic"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.659,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When NeurIPS'26 final decision release? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-13T10:38:50+00:00",
+    "summary": "Will it be strictly Sep'24 AoE? Is there any possibility for releasing before Sep'18 AoE, ICLR abstract submission date? submitted by /u/No_Fig_3372 [link] [comments]",
+    "score": 5.54,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.74,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-13T12:12:39+00:00",
+    "summary": "I\u2019ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-parameter autoregressive transformer which generates ~100 bytes of drawing bytecode rather than pixels. The bytecode is then transferred to a Raspberry Pi Pico, where a small fixed-point virtual machine\u2026",
+    "score": 5.436,
+    "matched": [
+      "transformer*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.936,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-13T10:42:53+00:00",
+    "summary": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs.LG ( https://arxiv.org/list/cs.LG/recent?skip=0&show=500 ). This is many times more papers than what a human being or even a sizeable reading group could feasibly read and digest in a year. This is preceded by around 200/day of new ML papers before and after. Are we pass the point of no return? Should the\u2026",
+    "score": 5.249,
+    "matched": [
+      "machine learning"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.749,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Sam Altman says OpenAI going public in 2026 would be \u2018ill-advised\u2019",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-12T21:16:28+00:00",
+    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [\u2026]",
+    "score": 4.769,
+    "matched": [
+      "ai",
+      "openai",
+      "hugging face"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.069,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-12T19:34:44+00:00",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "score": 4.757,
+    "matched": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.857,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-12T21:41:36+00:00",
+    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [\u2026]",
+    "score": 4.521,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.121,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+    "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-12T23:56:42+00:00",
+    "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what I'd asked for, as both an embedded visualization and downloadable GPX file and GeoJSON files. Here's that 5K route: When I asked it how it had created the route,\u2026",
+    "score": 4.403,
+    "matched": [
+      "gpt",
+      "chatgpt"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.403,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-12T16:23:40+00:00",
+    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [\u2026]",
+    "score": 3.859,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.459,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trump is giving data centers a pass to pollute",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-12T14:41:27+00:00",
+    "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [\u2026]",
+    "score": 3.346,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.246,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How do you control different character pose in SDXL when using a reference image? [R][D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-12T21:45:25+00:00",
+    "summary": "Hi, I\u2019m working on generating ~128\u00d7128 pixel art and trying to generate different poses of the same character. My current approach is roughly: Start with a reference image and preprocess it into cleaner/more pixel-art-like data (often removing transparency or setting up fixed number of pallets or descaling) Use IP-Adapter for the character/reference appearance. Use ControlNet pose/rig\u2026",
+    "score": 3.329,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.129,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How much do tech reports matter for a PhD application? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-12T14:40:54+00:00",
+    "summary": "The title, by tech reports I don't mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc. Is it much above, above, much below, below or equal to a first author A* paper? submitted by /u/simple-Flat0263 [link] [comments]",
+    "score": 3.045,
+    "matched": [
+      "gemini",
+      "mistral"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.245,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
