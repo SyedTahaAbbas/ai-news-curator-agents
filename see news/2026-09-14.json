@@ -1,0 +1,738 @@
+[
+  {
+    "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-14T13:55:00+00:00",
+    "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+    "score": 6.889,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.989,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Duplicating baseline benchmarks [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wg1tdn/duplicating_baseline_benchmarks_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-14T12:18:06+00:00",
+    "summary": "Suppose I create two machine learning models suppose tree and neural network for a task let's suppose regression problem, now suppose I am sending both of this paper to two different journals, now the thing is the baseline models I need to only run once because I have reported same baseline in both papers, so the RMSE tables looks exactly same except the proposed model, does it lead to any\u2026",
+    "score": 6.487,
+    "matched": [
+      "machine learning",
+      "neural network",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.787,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
+    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-14T13:00:00+00:00",
+    "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [\u2026]",
+    "score": 6.275,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.875,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences",
+    "url": "https://arxiv.org/abs/2609.11993",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.11993v1 Announce Type: new Abstract: Machine learning research in financial services is limited by the scarcity of representative open-source datasets. Existing resources are often narrowly focused on a single modality or task and fail to reflect the structured, multimodal, and dynamic nature inherent to many problems in financial services. In this paper, we introduce FINESSE, a\u2026",
+    "score": 6.25,
+    "matched": [
+      "machine learning",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.9,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Battery Price of edge AI: A study of the Environmental Impact of LLM Inference on Mobile Devices",
+    "url": "https://arxiv.org/abs/2609.11940",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.11940v1 Announce Type: cross Abstract: The rapid diffusion of generative artificial intelligence raises privacy, latency, and performance concerns that motivate a shift toward \"local-first\" AI, where inferences are performed on the user's device instead of on remote cloud servers. This paradigm also places a significant computational load on battery-powered smartphones, potentially\u2026",
+    "score": 6.25,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "llm",
+      "generative",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 1.5,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Dataset and Benchmarks for Atrial Fibrillation Detection from Electrocardiograms of Intensive Care Unit Patients",
+    "url": "https://arxiv.org/abs/2512.18031",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2512.18031v2 Announce Type: replace Abstract: Objective: Atrial fibrillation (AF) is the most common cardiac arrhythmia experienced by intensive care unit (ICU) patients and can cause adverse health effects. In this study, we publish a labelled ICU dataset and benchmarks for AF detection. Methods: We compared machine learning models across three data-driven artificial intelligence (AI)\u2026",
+    "score": 5.95,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Statistical Uncertainty Quantification for Aggregate Performance Metrics in Machine Learning Benchmarks",
+    "url": "https://arxiv.org/abs/2501.04234",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2501.04234v2 Announce Type: replace-cross Abstract: Modern artificial intelligence is supported by machine learning models (e.g., foundation models) that are pretrained on a massive data corpus and then adapted to solve a variety of downstream tasks. To summarize performance across multiple tasks, evaluation metrics are often aggregated into a summary metric, e.g., average accuracy across\u2026",
+    "score": 5.65,
+    "matched": [
+      "artificial intelligence",
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents",
+    "url": "https://arxiv.org/abs/2607.24077",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2607.24077v2 Announce Type: replace-cross Abstract: Optical Character Recognition (OCR) is a key component in the digitization of historical archives. Recently, Vision-Language Models (VLMs) have emerged as strong alternatives to traditional OCR systems, achieving state-of-the-art performance on standard benchmarks. However, their suitability for archival transcription remains\u2026",
+    "score": 5.65,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MMGR: Multi-Modal Generative Reasoning Benchmark and Evaluation",
+    "url": "https://arxiv.org/abs/2512.14691",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2512.14691v3 Announce Type: replace Abstract: Modern multimodal generative models can synthesize visually compelling images and videos, but it remains unclear whether this visual fluency reflects genuine reasoning: when prompted to generate a solution, can a model preserve the physical, logical, spatial, and temporal constraints a task requires, or does it merely produce plausible-looking\u2026",
+    "score": 5.65,
+    "matched": [
+      "generative",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "[P] Built a 100% Client-Side Vision Pipeline for Real-Time Chessboard & Multi-Board Detection (Chrome/Firefox Extension) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wfzzml/p_built_a_100_clientside_vision_pipeline_for/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-14T10:47:39+00:00",
+    "summary": "Hi everyone, Inspired by tools like Chessvision.ai, I wanted to take a different architectural approach and build a browser extension ( ChessInsights AI ) that performs chessboard detection and piece recognition 100% client-side using local inference\u2014with zero image data ever leaving the user's machine, support for detecting multiple boards in a single frame, and entirely free features. The main\u2026",
+    "score": 5.399,
+    "matched": [
+      "ai",
+      "inference"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.599,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
+    "url": "https://arxiv.org/abs/2609.12002",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12002v1 Announce Type: new Abstract: LLMs are increasingly used as automated judges for model training and evaluation, yet individual judges exhibit systematic biases that undermine reliability. Much of prior work has studied biases in pairwise LLM-as-a-judge settings; in this paper, we focus on absolute scoring tasks, which mirror more realistic use cases. Across four benchmarks and\u2026",
+    "score": 5.35,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GUIDE: Generative Utility Inference and Decision Engine",
+    "url": "https://arxiv.org/abs/2609.12137",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12137v1 Announce Type: new Abstract: Measuring the preferences of human users remains a fundamental challenge of AI alignment. Existing elicitation approaches struggle to efficiently discover multidimensional preferences or accurately ground these inferences in domain knowledge. To address this, we introduce GUIDE, an LLM-driven elicitation architecture that infers user preferences\u2026",
+    "score": 5.35,
+    "matched": [
+      "ai",
+      "llm",
+      "generative",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Connected Does Not Mean Similar: Charting the Homophily Boundary of SNAP-KG for Streaming Entity Integration",
+    "url": "https://arxiv.org/abs/2609.12356",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12356v1 Announce Type: new Abstract: SNAP-KG is a framework for assigning newly arriving entities to semantic communities in a growing knowledge graph (KG) using only their raw features, with no graph access and no retraining at inference time. It was evaluated on five multi-view benchmarks and a 2.4M-node OGB-WikiKG2 KG. In each of these datasets, at least one graph view is\u2026",
+    "score": 5.35,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Certified AI Triage of ICU Alarms",
+    "url": "https://arxiv.org/abs/2609.12365",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12365v1 Announce Type: new Abstract: In the VTaC benchmark 71% of ventricular-tachycardia alarms are false, but silencing a real one can delay recognition of a dangerous arrhythmia. We reframe alarm reduction as three-way triage (retain, suppress, or defer) and bound the decision this analysis treats as harmful: among suppressed alarms, the fraction that were genuine stays below a\u2026",
+    "score": 5.35,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Judging by the Cover: Cleaning LLM Truthfulness Benchmarks to Avoid Surface-Level Feature Leakage",
+    "url": "https://arxiv.org/abs/2609.13003",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.13003v1 Announce Type: cross Abstract: Binary-choice truth benchmarks ask models to choose between a correct and an incorrect answer, but if the two answers differ systematically in surface-level features, models can exceed chance without performing the intended reasoning. We show that this failure mode is detectable and can be exploited by downstream classifiers. In TruthfulQA, a\u2026",
+    "score": 5.35,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Representation Before Training: A Practical Benchmark for Generative Medical Event Model Tokenization",
+    "url": "https://arxiv.org/abs/2604.16775",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2604.16775v2 Announce Type: replace Abstract: Generative medical event models use tokenized sequences of patient timelines as input, but practical guidance on the many decisions around tokenization is limited. We benchmark quantization granularity, reference-range anchoring, code--value fusion, numeric and temporal encodings, and native versus harmonized event representations from an\u2026",
+    "score": 5.35,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+    "url": "https://arxiv.org/abs/2606.26350",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2606.26350v2 Announce Type: replace-cross Abstract: Although large language model agents are increasingly applied to quantitative-finance workflows, their evaluation remains fragmented across isolated tasks, while the financial relevance of benchmark tasks is often overlooked. Yet financial workflows are inherently multi-stage, spanning interdependent tasks such as forecasting, strategy\u2026",
+    "score": 5.35,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LatentMD: Benchmarking Markdown Boundary Failures in LLM-Generated Text",
+    "url": "https://arxiv.org/abs/2609.06993",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.06993v2 Announce Type: replace-cross Abstract: Large language models (LLMs) increasingly generate Markdown that is consumed by renderers, agents, code extractors, and structured downstream pipelines. Yet existing evaluations often conflate content quality with format adherence, leaving Markdown boundary failures under-measured. We introduce LatentMD, a benchmark and evaluation protocol\u2026",
+    "score": 5.35,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tasks over Application Manuals: Revealing Gaps in Long-Horizon Procedural Reasoning for Language Models",
+    "url": "https://arxiv.org/abs/2609.13005",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.13005v1 Announce Type: new Abstract: Large language models (LLMs) have achieved strong performance on a wide range of natural language tasks, and recent benchmarks suggest that they are increasingly adept at multi-hop reasoning. However, these benchmarks are typically short-horizon, requiring only a small number of retrieval or inference steps, and provide limited evidence of\u2026",
+    "score": 5.35,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do LLMs Trust the Accuser or the Accusation? Measuring Belief Shifts in Werewolf",
+    "url": "https://arxiv.org/abs/2609.12446",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12446v1 Announce Type: cross Abstract: Social-deduction games such as Werewolf are increasingly used to evaluate LLM agents, but existing evaluations often rely on final game outcomes. We propose a belief-shift evaluation benchmark in Werewolf for analyzing communication skills through belief updating. Using LLM-played games, we annotate suspicion and accusation messages and measure\u2026",
+    "score": 5.35,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "UrduFactCheck: An Agentic Fact-Checking Framework for Urdu with Evidence Boosting and Benchmarking",
+    "url": "https://arxiv.org/abs/2505.15063",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2505.15063v3 Announce Type: replace Abstract: The rapid adoption of Large Language Models (LLMs) has raised important concerns about the factual reliability of their outputs, particularly in low-resource languages such as Urdu. Existing automated fact-checking systems are predominantly developed for English, leaving a significant gap for the more than 200 million Urdu speakers worldwide. In\u2026",
+    "score": 5.35,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NSIDDx: A Design Framework for Neuro-Symbolic, Practitioner-First Differential Diagnosis in Low-Resource Settings",
+    "url": "https://arxiv.org/abs/2609.00256",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.00256v2 Announce Type: replace Abstract: LLM-based diagnostic systems achieve high semantic accuracy on benchmarks, but open-ended evaluation on clinically uncommon presentations reveals a systematic gap between headline accuracy and verifiable clinical reliability. We evaluate an LLM+rare-disease-RAG pipeline across two cohorts and show that the paradigm produces confident outputs\u2026",
+    "score": 5.35,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LLM-BabyBench: Can Language Models Plan in Worlds They Can Simulate?",
+    "url": "https://arxiv.org/abs/2505.12135",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2505.12135v2 Announce Type: replace-cross Abstract: When an interactive benchmark reports a single success rate for a language-model agent, it is rarely clear what that number measures. A failure can come from perception, ambiguous instructions, retrieval, missing commonsense about what actions do, an incorrect model of the dynamics, or planning, and an aggregate score does not separate\u2026",
+    "score": 5.35,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
+    "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-14T11:00:00+00:00",
+    "summary": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China.",
+    "score": 5.325,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.625,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wg3g03/ms_marco_clicktranslation_expansion_tables_poor/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-14T13:28:01+00:00",
+    "summary": "TLDR: I made \"poor man\u2019s\" DSSM (Deep Structured Semantic Model) \u2014 the count-based translation table that can enrich the inverted index for full-text search. This trick can improve baseline BM25. So the idea is the following: - You have supervised pairs (query, relevant document), e.g., MS MARCO or click logs. - You tokenize both sides into some units (char n\u2011grams, wordpieces, words). - You count\u2026",
+    "score": 5.133,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.933,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "\u2018I Like My Big Rat Wife\u2019: Meet the People Using Chatbots to Write Custom Fiction",
+    "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-14T09:00:00+00:00",
+    "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+    "score": 5.075,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.375,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Look Before You Leap: Pre-Action Verification for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.11957",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.11957v1 Announce Type: new Abstract: An LLM agent acts on the world by emitting actions: shell commands to run, edits to apply. A wrong action does not always fail loudly; it can fail silently, producing a plausible but incorrect effect that raises no error. We argue that a cheap deterministic check, run before an action takes effect, is an effective and underused form of agent\u2026",
+    "score": 5.05,
+    "matched": [
+      "llm"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Sampling via Decision-Flow: Training-Free Extraction of Improved Latent Reasoning Paths in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.12317",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12317v1 Announce Type: new Abstract: A central question in LLM reasoning is whether reinforcement learning (RL) instills genuinely new capabilities or merely reshapes how existing knowledge is expressed during inference. Building on the distribution-sharpening hypothesis, which holds that RL reallocates probability mass toward high-reward trajectories already latent in base models, we\u2026",
+    "score": 5.05,
+    "matched": [
+      "llm",
+      "reinforcement learning",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ParaRecover: A Process-Level Benchmark for Error Localization and Recovery in Parallel Tool-Use Agents",
+    "url": "https://arxiv.org/abs/2609.12345",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12345v1 Announce Type: new Abstract: Existing agent benchmarks mainly evaluate final task success or tool-call correctness, providing limited insight into whether agents can reliably diagnose and recover from intermediate execution failures. This limitation becomes particularly critical in multi-turn parallel tool-use scenarios, where errors may propagate across dependent branches and\u2026",
+    "score": 5.05,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Granularity-Adaptive Credit Assignment for Long-Horizon LLM Agent Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2609.12424",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12424v1 Announce Type: new Abstract: Reinforcement learning is now the standard way to train large language model agents on long-horizon tasks, where dozens of interdependent actions precede a single sparse reward. Critic-free, group-relative methods such as GRPO suit this regime, but they broadcast one trajectory-level scalar to every step and cannot say which decision drove the\u2026",
+    "score": 5.05,
+    "matched": [
+      "llm",
+      "large language model",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Differentially Private Federated Proximal Optimization Framework for Customer Churn Prediction in Heterogeneous Federated Telecom Networks",
+    "url": "https://arxiv.org/abs/2609.12470",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12470v1 Announce Type: new Abstract: Customer churn is one of the major issues in the telecommunication industry. To predict customer churn, conventional centralized machine learning approaches have been widely used. This centralized approach requires customer data to be stored in a central repository, which raises privacy concerns and may violate data protection regulations. Federated\u2026",
+    "score": 5.05,
+    "matched": [
+      "machine learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner",
+    "url": "https://arxiv.org/abs/2609.12651",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12651v1 Announce Type: new Abstract: While Reinforcement Learning from Human Feedback (RLHF) is the standard paradigm for aligning large language models with human preferences, its effectiveness in pluralistic settings has been called into question. Notably, recent work by G\\\"olz et al. (2025) demonstrated that the \\textit{distortion} -- defined as the multiplicative gap between the\u2026",
+    "score": 5.05,
+    "matched": [
+      "ai",
+      "reinforcement learning",
+      "rlhf"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MAxBench: A Multinomial Concept Recovery Benchmark",
+    "url": "https://arxiv.org/abs/2609.13072",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.13072v1 Announce Type: new Abstract: Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activation space often suffices for steering. However, many concepts are not binary: Animals and Countries contain many subcategories, each with multiple\u2026",
+    "score": 5.05,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "HoliBench: A Cross-Platform Benchmarking and Deployment Toolkit for Foundation Models in CPS-IoT Applications",
+    "url": "https://arxiv.org/abs/2609.12412",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12412v1 Announce Type: cross Abstract: Foundation models, including large language models, vision-language models, and time-series foundation models, are increasingly deployed on embedded and edge platforms for CPS and IoT applications, where energy, latency, and memory are as critical as task accuracy. Existing benchmarking tools evaluate model capability in isolation, reporting\u2026",
+    "score": 5.05,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Inference for Newton Methods with Accelerated Sketch-and-Project via Random Scaling",
+    "url": "https://arxiv.org/abs/2609.12421",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-14T04:00:00+00:00",
+    "summary": "arXiv:2609.12421v1 Announce Type: cross Abstract: We study an online sketched Newton method that approximates the Newton direction at each step via a state-of-the-art sketching solver, called the generalized accelerated sketch-and-project solver (GAS), thereby mitigating the computational bottleneck of classical second-order methods. The GAS solver improves upon vanilla, unaccelerated\u2026",
+    "score": 5.05,
+    "matched": [
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.75,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
