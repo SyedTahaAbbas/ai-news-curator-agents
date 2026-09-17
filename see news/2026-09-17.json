@@ -1,0 +1,756 @@
+[
+  {
+    "title": "Benchmarking Large Language Models for Biomedical Relation Extraction",
+    "url": "https://arxiv.org/abs/2609.19071",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.19071v1 Announce Type: new Abstract: Extracting SNP-phenotype associations from biomedical literature is vital but challenging. We benchmarked diverse NLP models, including MLMs, hybrid architectures, and state-of-the-art LLMs (Gemini 2.0, OpenAI O-series, Qwen, Mistral), on the SNPPhenA corpus across three tasks: sentence-level, abstract-level, and association strength classification.\u2026",
+    "score": 6.727,
+    "matched": [
+      "gemini",
+      "mistral",
+      "openai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models",
+    "url": "https://arxiv.org/abs/2505.01912",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2505.01912v3 Announce Type: replace-cross Abstract: Data-driven molecular discovery leverages artificial intelligence/machine learning (AI/ML) and generative modeling to filter and design novel molecules. Discovering novel molecules requires accurate out-of-distribution (OOD) predictions, but ML models struggle to generalize OOD. Currently, no systematic benchmarks exist for molecular OOD\u2026",
+    "score": 6.427,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.5,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Inside the suddenly explosive world of AI safety",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-17T11:30:00+00:00",
+    "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly [\u2026]",
+    "score": 6.264,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.864,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I code or AI code: A comparative evaluation of AI-rated scores in classroom observations",
+    "url": "https://arxiv.org/abs/2609.18274",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18274v1 Announce Type: cross Abstract: Classroom observations are widely recognized as a key tool for establishing benchmarks of education quality and guiding pedagogical improvement, yet they remain resource-intensive and dependent on trained observers. This study evaluated the feasibility of using a LLM (GPT-5 model) to score teacher-child interactions in early childhood classrooms,\u2026",
+    "score": 6.127,
+    "matched": [
+      "ai",
+      "llm",
+      "gpt",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "StableEval Arena: A Cost-Aware Agentic Benchmark for Stablecoin Price Stability Prediction",
+    "url": "https://arxiv.org/abs/2609.18949",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18949v1 Announce Type: cross Abstract: We introduce StableEval Arena, a cost-aware benchmark framework for evaluating agentic AI systems on stablecoin peg-risk prediction. StableEval Arena evaluates LLM-backed agentic systems on diagnosing peg stress and forecasting deviations from the one-dollar peg over a hidden seven-day horizon, using leakage-safe historical replay with exchange\u2026",
+    "score": 6.127,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Calibrated Instrument for Measuring How Inference Optimizations Affect Output Quality",
+    "url": "https://arxiv.org/abs/2609.18005",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18005v1 Announce Type: cross Abstract: Large language model optimization is an active research area, spanning quantization of model weights, early-exit methods for skipping layers, and speculative decoding. Each track uses its own quality measures, typically an idiosyncratic benchmark score. Few approach the measurement precision required by other scientific disciplines. We propose a\u2026",
+    "score": 6.127,
+    "matched": [
+      "large language model",
+      "model weights",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TabICLv2: A better, faster, scalable, and open tabular foundation model",
+    "url": "https://arxiv.org/abs/2602.11139",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2602.11139v2 Announce Type: replace Abstract: Tabular foundation models, such as TabPFNv2 and TabICL, have recently dethroned gradient-boosted trees at the top of predictive benchmarks, demonstrating the value of in-context learning for tabular data. We introduce TabICLv2, a new state-of-the-art foundation model for regression and classification built on three pillars: (1) a novel synthetic\u2026",
+    "score": 6.127,
+    "matched": [
+      "foundation model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Pixels to Pairs: A Comprehensive Benchmark of LLM-Based Key-Value Extraction in Noisy Document Settings",
+    "url": "https://arxiv.org/abs/2609.17538",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17538v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for structured information extraction from documents, yet their behavior under realistic OCR noise remains poorly understood. We present a systematic benchmark of open-source instruction-tuned LLMs for key-value pair (KVP) extraction under both clean-text and noisy OCR conditions. We evaluate\u2026",
+    "score": 6.127,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-17T05:00:00+00:00",
+    "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "score": 5.952,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.052,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+    "url": "https://arxiv.org/abs/2609.17695",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17695v1 Announce Type: new Abstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whether agents mistake these repeated encounters for additional corroboration. The benchmark varies path counts and evidential origins while holding evidence content fixed, and evaluates both judgments and active exploration.\u2026",
+    "score": 5.827,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts",
+    "url": "https://arxiv.org/abs/2609.18366",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18366v1 Announce Type: new Abstract: Reliable agent evaluation is complicated by automatic harness optimization, which repeatedly uses a released benchmark $B_{\\mathrm{rel}}$ to guide a Proposer that edits prompts, memory, retrieval, tools, and control code around a fixed target agent. Task holdout varies semantic tasks but leaves the benchmark protocol fixed, so a \"bad genius\"\u2026",
+    "score": 5.827,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Outcomes: Dual-View Relational Learning for Efficient Agent Benchmarking",
+    "url": "https://arxiv.org/abs/2609.18909",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18909v1 Announce Type: cross Abstract: Agent benchmarks are substantially more costly to evaluate than conventional LLM benchmarks. Benchmark compression is therefore a natural solution, yet existing methods primarily model redundancy in task--model final-score distributions, which is important in agentic evaluation. To address this limitation, we analyze large-scale trajectories and\u2026",
+    "score": 5.827,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "English Word Sense Disambiguation in 2026: When the Labels Become the Bottleneck",
+    "url": "https://arxiv.org/abs/2609.17554",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17554v1 Announce Type: new Abstract: In English all-words word sense disambiguation (WSD), the labels, not the models, have become the bottleneck: frontier LLMs are accurate enough that the errors surviving in the gold standard decide benchmark rankings -- in the test sets we score on and, as we show causally, in the corpus we train on. We release lexEN, a WSD evaluation benchmark\u2026",
+    "score": 5.827,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-16T21:07:24+00:00",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "score": 5.567,
+    "matched": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.067,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RideWay: Benchmarking Efficient Task Completion for Tool-Using Language Agents",
+    "url": "https://arxiv.org/abs/2609.17985",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17985v1 Announce Type: new Abstract: AI agents are usually evaluated by whether they complete a task. In interactive service settings, a successful agent can still frustrate users by asking repeated questions, performing redundant searches, or making avoidable revisions. We introduce RideWay, an efficiency-centered benchmark for ridehailing agents in a stateful tool-calling\u2026",
+    "score": 5.527,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Multimodal Conditioning of Fine-Tuned Stable Diffusion XL for Controllable and Culturally Faithful Ulos Motif Generation",
+    "url": "https://arxiv.org/abs/2609.17987",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17987v1 Announce Type: new Abstract: The traditional Batak Ulos weaving industry faces growing challenges in producing diverse, innovative motifs due to limitations in conventional, manually driven design methods. This study proposes a multimodal generative framework integrating a fine-tuned Latent Diffusion Model (Stable Diffusion XL v1.0 via LoRA) with a Multimodal Large Language\u2026",
+    "score": 5.527,
+    "matched": [
+      "diffusion model",
+      "generative",
+      "fine-tun*",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses",
+    "url": "https://arxiv.org/abs/2609.18676",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18676v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) is changing how students learn, yet the roles of course context, cognitive reliance, evaluation literacy, and early reliance remain underexplored. Using survey responses from 118 students across 12 AI-related courses at our institution, we examined differences in GenAI use and perceived learning\u2026",
+    "score": 5.527,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "generative",
+      "genai"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Lost in Perception: Isolating Perceptual and Reasoning Failures in Multimodal Physics and Geometry Reasoning",
+    "url": "https://arxiv.org/abs/2609.18991",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18991v1 Announce Type: new Abstract: Multimodal LLMs report strong performance on scientific reasoning benchmarks, yet most treat perception and reasoning as a single measurable process. We introduce a five-task diagnostic experiment across physics and geometry benchmarks that isolates failures to perception, reasoning, or both. Incorrect diagram interpretation degrades performance\u2026",
+    "score": 5.527,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
+    "url": "https://arxiv.org/abs/2609.19088",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.19088v1 Announce Type: new Abstract: Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic imagery, understand its semantic, affective, and cultural content, and reason about visual context to support\u2026",
+    "score": 5.527,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Rethinking Domain Specialization for Open-Ended Scientific Reasoning in Astronomy Language Models",
+    "url": "https://arxiv.org/abs/2609.17644",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17644v1 Announce Type: cross Abstract: Domain-specialized language models are widely used for scientific question answering, but stronger general-purpose systems raise a sharper question: when does domain-specific fine-tuning remain valuable for open-ended scientific reasoning? We study this in astronomy with a curated QA benchmark from publicly available 2017--2026 Olympiad-style\u2026",
+    "score": 5.527,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Reflections on Trusting Trust, Revisited: Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks",
+    "url": "https://arxiv.org/abs/2609.17817",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17817v1 Announce Type: cross Abstract: Thompson's \"Reflections on Trusting Trust\" showed that a compiler can be poisoned to reinsert its own backdoor, so that even recompiling clean source reproduces the Trojan. Today, substantial coding work is done by AI coding agents -- and increasingly, those agents generate new versions of themselves. We reconsider Thompson's attack when the\u2026",
+    "score": 5.527,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Lexara-RF: Reference-Free Metrics for Evaluating Conversational Visual Analytics Agents",
+    "url": "https://arxiv.org/abs/2609.17842",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17842v1 Announce Type: cross Abstract: Conversational visual analytics (CVA) agents powered by large language models generate visualizations and natural-language explanations from open-ended queries. Evaluating these multimodal outputs is challenging: curated reference benchmarks are costly to author, cannot comprehensively capture the space of valid responses, and are unavailable in\u2026",
+    "score": 5.527,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Comprehensive Review of Generative Physical Artificial Intelligence",
+    "url": "https://arxiv.org/abs/2609.18111",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18111v1 Announce Type: cross Abstract: The integration of large-scale foundation models with physical embodiments has led to significant advancements in robotics known as Generative Physical Artificial Intelligence (GPAI). These agentic AI systems autonomously perceive, reason, and act in complex real-world situations. This survey comprehensively analyzes GPAI systems, focusing on\u2026",
+    "score": 5.527,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "generative",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MiST: Mid-Training LLMs for Cybersecurity",
+    "url": "https://arxiv.org/abs/2609.18496",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18496v1 Announce Type: cross Abstract: Cybersecurity combines high-stakes analysis with complex technical language, making it an impactful and challenging domain for LLMs. We present MiST (Mid-trained Security Transformer), a suite of 8B and 32B models that achieve strong performance on public cybersecurity benchmarks. We use mid-training as an intermediate adaptation stage between\u2026",
+    "score": 5.527,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning",
+    "url": "https://arxiv.org/abs/2508.16129",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2508.16129v5 Announce Type: replace Abstract: Multimodal large language models (MLLMs) have recently demonstrated remarkable reasoning abilities under reinforcement learning (RL) paradigm. However, most existing multimodal medical reasoning models focus on basic reasoning, which refers to shallow inference based on visual feature matching. In contrast, real-world clinical diagnosis extends\u2026",
+    "score": 5.527,
+    "matched": [
+      "ai",
+      "multimodal",
+      "reinforcement learning",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LM Fight Arena: Benchmarking Large Multimodal Models via Game Competition",
+    "url": "https://arxiv.org/abs/2510.08928",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2510.08928v2 Announce Type: replace Abstract: Existing benchmarks for large multimodal models (LMMs) often fail to capture their performance in real-time, adversarial environments. We introduce LM Fight Arena (Large Model Fight Arena), a novel framework that evaluates LMMs by pitting them against each other in the classic fighting game Mortal Kombat II, a task requiring rapid visual\u2026",
+    "score": 5.527,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use",
+    "url": "https://arxiv.org/abs/2512.24565",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2512.24565v5 Announce Type: replace Abstract: Large Language Models (LLMs) are increasingly serving as autonomous agents, and their utilization of external tools via the Model Context Protocol (MCP) is considered a future trend. Current MCP evaluation sets suffer from issues such as reliance on external MCP services and a lack of difficulty awareness. To address these limitations, we\u2026",
+    "score": 5.527,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Abstention vs. Hallucination: Benchmarking LLM Source Attribution for Scientific Citations",
+    "url": "https://arxiv.org/abs/2405.02228",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2405.02228v5 Announce Type: replace-cross Abstract: Large language models (LLMs) increasingly generate citation-backed responses, yet citation hallucination remains a major challenge for trustworthy scientific information access. We introduce REASONS, a benchmark of 12,723 sentence-level citation instances spanning 12 arXiv subject categories, designed to evaluate scientific citation\u2026",
+    "score": 5.527,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search",
+    "url": "https://arxiv.org/abs/2601.23232",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2601.23232v4 Announce Type: replace-cross Abstract: In recent years, large language models (LLMs) have made rapid progress in information retrieval, yet existing research has mainly focused on text or static multimodal settings. Open-domain video shot retrieval, which involves richer temporal structure and more complex semantics, still lacks systematic benchmarks and analysis. To fill this\u2026",
+    "score": 5.527,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AMIGO: Agentic Multi-Image Grounding Oracle Benchmark",
+    "url": "https://arxiv.org/abs/2603.28662",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2603.28662v2 Announce Type: replace-cross Abstract: Agentic vision-language models increasingly act through extended interactions, but most evaluations still focus on single-image, single-turn correctness. We introduce \\textbf{AMIGO} (\\textbf{A}gentic \\textbf{M}ulti-\\textbf{I}mage \\textbf{G}rounding \\textbf{O}racle Benchmark), a long-horizon benchmark for \\emph{hidden-target} identification\u2026",
+    "score": 5.527,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LightSleepX: A Lightweight, Inception-Based Dual-Modal Network for Sleep Staging",
+    "url": "https://arxiv.org/abs/2609.19062",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.19062v1 Announce Type: new Abstract: Automatic sleep staging is fundamental to personal health monitoring, yet many existing approaches are ill-suited for real-world applications. Traditional pipelines often rely on hand-crafted features or shallow machine learning models that struggle to generalize, while state-of-the-art deep learning methods, though accurate, are computationally\u2026",
+    "score": 5.527,
+    "matched": [
+      "machine learning",
+      "deep learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "vidax: A Unified JAX Framework for Video Generative Models on Accelerator Meshes",
+    "url": "https://arxiv.org/abs/2609.18077",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.18077v1 Announce Type: cross Abstract: Open-source video generative models ship almost exclusively as PyTorch/CUDA reference implementations. This leaves Cloud TPU pods without a production-ready inference path, despite offering large, cost-effective accelerator memory pools ideal for long-sequence spatiotemporal attention. We present vidax, an open-source JAX/Flax inference engine and\u2026",
+    "score": 5.527,
+    "matched": [
+      "generative",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Safety-Flag: A Unified Benchmark for the Reliability and Calibration of LLM Content Moderators",
+    "url": "https://arxiv.org/abs/2609.19072",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.19072v1 Announce Type: cross Abstract: Large language models are increasingly used for content moderation, but most evaluations still report aggregate accuracy on individual benchmarks. We introduce Safety-Flag, which places seven widely used safety benchmarks (BeaverTails, XSTest, Ethics, WildGuard, Aegis, ToxiChat, and ToxiGen) into a single balanced flag / do-not-flag protocol. We\u2026",
+    "score": 5.527,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Understanding the Staged Dynamics of Transformers in Learning Latent Structure",
+    "url": "https://arxiv.org/abs/2511.19328",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2511.19328v3 Announce Type: replace Abstract: Language modeling has shown us that transformers can discover latent structure from context, but the dynamics of how they acquire different components of that structure remain poorly understood, leading to assertions that models just remix training data. In this work, we use the Alchemy benchmark in a controlled setting (Wang et al.,2021) to\u2026",
+    "score": 5.527,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do Social Patterns Hold in Synthetic Data? Analyzing Cyberbullying Dynamics in LLM-Generated and Authentic Dialogues",
+    "url": "https://arxiv.org/abs/2609.17549",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-17T04:00:00+00:00",
+    "summary": "arXiv:2609.17549v1 Announce Type: new Abstract: Cyberbullying (CB) is a complex social phenomenon characterized by repeated aggression, power imbalance, and multi-party interaction. Although large language models (LLMs) are increasingly used to generate synthetic CB conversations for data augmentation and benchmarking, it remains unclear whether such data faithfully reproduces the social dynamics\u2026",
+    "score": 5.527,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.927,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
