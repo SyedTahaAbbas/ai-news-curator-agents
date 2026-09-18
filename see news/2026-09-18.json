@@ -1,0 +1,751 @@
+[
+  {
+    "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+    "url": "https://arxiv.org/abs/2609.19524",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19524v1 Announce Type: new Abstract: Benchmark scores alone provide an incomplete basis for assessing the trustworthiness of modern artificial intelligence systems. Large language models (LLMs), agentic systems, and multimodal models (MLLMs) require different forms of assessment, yet their evaluation evidence must remain interpretable for development and oversight. We propose a unified\u2026",
+    "score": 6.474,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "agentic",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 1.5,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T11:29:22+00:00",
+    "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and\u2026",
+    "score": 6.21,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.91,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software",
+    "url": "https://arxiv.org/abs/2509.25248",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2509.25248v2 Announce Type: replace-cross Abstract: Automatically compiling open-source software (OSS) projects is a vital, labor-intensive, and complex task, which makes it a good challenge for LLM Agents. Existing methods rely on manually curated rules and workflows, which cannot adapt to OSS that requires customized configuration or environment setup. Recent attempts using Large Language\u2026",
+    "score": 6.174,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-18T10:01:58+00:00",
+    "summary": "I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget \u2014 and I'd rather hear that it's already settled than spend money finding out. AI-assisted throughout: the protocol was developed and critiqued with ChatGPT and Claude. Their citation handling turned out unreliable, which is why I'm asking for\u2026",
+    "score": 6.128,
+    "matched": [
+      "ai",
+      "llm",
+      "chatgpt",
+      "claude"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.728,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Leftist Split Over AI Doom",
+    "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T10:15:00+00:00",
+    "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+    "score": 6.055,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.755,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Is It Still Worth Training a Classical Model in the Era of LLMs? A Crossover Benchmark on Tabular Data",
+    "url": "https://arxiv.org/abs/2609.20218",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20218v1 Announce Type: cross Abstract: Large language models can label a tabular row from a plain-English description with no training - a capability now shipping in mainstream spreadsheet tools such as Microsoft Copilot in Excel and Anthropic's Claude for Excel - raising a practical question for the many business prediction problems where labels are expensive: should you prompt a\u2026",
+    "score": 5.874,
+    "matched": [
+      "claude",
+      "anthropic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Environmental Impacts of Language Model Training Keep Rising Now is the Time to Catch Impacts on the Rebound",
+    "url": "https://arxiv.org/abs/2510.09022",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2510.09022v2 Announce Type: replace Abstract: Recent Machine Learning (ML) approaches have shown increased performance on benchmarks at the cost of escalating compute demands. Hardware, algorithmic and carbon optimizations have been proposed to curb energy use and environmental impacts. We estimate the environmental impacts associated with training models documented in the Epoch AI database\u2026",
+    "score": 5.874,
+    "matched": [
+      "ai",
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews",
+    "url": "https://arxiv.org/abs/2609.19151",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19151v1 Announce Type: new Abstract: Generative AI (GenAI) applications have achieved rapid consumer adoption, yet little large-scale research examines user-perceived quality, trust, and adoption barriers. We present one of the first cross-application analyses of app store reviews for six major GenAI applications (ChatGPT, Gemini, Microsoft Copilot, Claude, DeepSeek, and Perplexity),\u2026",
+    "score": 5.874,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "generative",
+      "genai"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "To Memories and Beyond: From Remembering to Knowing You across Long-Term Multimodal Personal Archives",
+    "url": "https://arxiv.org/abs/2609.19167",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19167v1 Announce Type: new Abstract: As AI systems evolve into personalized digital companions, a central capability is reasoning over a user's long-term personal history: not merely storing past events, but tracking longitudinal experiences and evolving preferences. Progress here is bottlenecked by evaluation, existing long-term memory benchmarks are largely synthetic and text-only,\u2026",
+    "score": 5.874,
+    "matched": [
+      "ai",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking LLM Compliance with China AI Generated Content Regulations",
+    "url": "https://arxiv.org/abs/2609.19989",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19989v1 Announce Type: new Abstract: The widespread adoption of LLMs has led to escalating content compliance risks. Prior works have contributed to addressing these risks in the English context, downplaying the complexity of Chinese language content. This paper follows China's current AI-Generated content compliance requirements and provides evaluation results on 20 notable LLMs,\u2026",
+    "score": 5.874,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment",
+    "url": "https://arxiv.org/abs/2609.20584",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20584v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly considered for safety-critical engineering, yet their reliability in regulated functional-safety workflows remains underexplored. We introduce SAFARI (Safety-Aware Functional Automotive Risk Inference), the first industrial benchmark for LLM-assisted automotive Hazard Analysis and Risk Assessment (HARA)\u2026",
+    "score": 5.874,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Redemption Score: A Multi-Modal Evaluation Framework for Image Captioning via Distributional, Perceptual, and Linguistic Signal Triangulation",
+    "url": "https://arxiv.org/abs/2505.16180",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2505.16180v3 Announce Type: replace-cross Abstract: Evaluating image captions requires cohesive assessment of both visual semantics and language pragmatics, which is often not entirely captured by most metrics. As such metrics increasingly guide model development, benchmarking, and system optimization in multimodal AI, inaccuracies in evaluation can misrepresent true progress. We introduce\u2026",
+    "score": 5.874,
+    "matched": [
+      "ai",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Flash floods can strike without warning \u2014 this new technology could change that",
+    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T11:00:00+00:00",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [\u2026]",
+    "score": 5.649,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.849,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why AI Isn\u2019t Likely to Wipe Out Humanity With Bioweapons",
+    "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T09:00:00+00:00",
+    "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+    "score": 5.599,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.599,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-18T09:45:07+00:00",
+    "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/ Comments URL: https://news.ycombinator.com/item?id=49752056 Points: 262 # Comments: 195",
+    "score": 5.593,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 2.693,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+    "url": "https://arxiv.org/abs/2609.19182",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirements themselves are changing. The expanding variety of benchmarks offers another perspective: what researchers expect LLMs to do, and what they count as successful performance. We\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+    "url": "https://arxiv.org/abs/2609.19244",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web search across four major conversational platforms (ChatGPT, Claude, Grok, and DeepSeek), combining real-world user interactions (invivo) with controlled experiments using the same\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "chatgpt",
+      "claude",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
+    "url": "https://arxiv.org/abs/2609.19630",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19630v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into vehicle voice assistants. But linking natural-language requests to vehicle functions creates a safety-critical authorization problem. Before executing a command, the system must choose whether to execute, refuse, clarify, require confirmation, defer to manual control, trigger an emergency\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Geopolitical Divisions Across Languages in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.20005",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20005v1 Announce Type: new Abstract: People increasingly turn to AI chatbots for news and explanations of world events. But do they receive the same political answers when they ask in different languages? Here we show that the language of a question can change how the same AI systems assess the war in Ukraine. We ask GPT, Claude and Gemini to evaluate twenty statements about the war in\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "gpt",
+      "claude",
+      "gemini"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+    "url": "https://arxiv.org/abs/2609.19705",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19705v1 Announce Type: cross Abstract: Autonomous large language model (LLM) agents are moving rapidly into high-stakes domains, yet existing agentic-AI security studies remain largely domain-agnostic and overlook the distinctive, high-consequence attack surface such settings create. We examine this gap through financial trading agents, a representative case of high-stakes agentic\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PetriBench: Benchmarking LLM Reasoning over Dynamic State Spaces",
+    "url": "https://arxiv.org/abs/2609.19883",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19883v1 Announce Type: cross Abstract: Characterizing LLM reasoning remains an open challenge, as many existing benchmarks isolate specific reasoning skills, rely on external knowledge, or are costly to extend. We introduce PetriBench, a compact, fully self-contained, and scalable benchmark for evaluating LLM reasoning over dynamic state spaces using Petri nets, a mature formalism for\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "KoNeoBench: A Curated Evaluation Dataset for LLM Understanding of Korean Neologisms",
+    "url": "https://arxiv.org/abs/2609.19916",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.19916v1 Announce Type: cross Abstract: Large language models (LLMs) are typically evaluated on static benchmarks, even though natural language constantly evolves through newly emerging words and meanings. Existing Korean benchmarks are centered on established vocabulary and therefore provide limited coverage of such recent lexical change, and their English-oriented design makes it\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Governance-as-Code: Translating EU AI Act Technical Requirements into Executable Compliance Pipelines for Generative AI Systems",
+    "url": "https://arxiv.org/abs/2609.20016",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20016v1 Announce Type: cross Abstract: The EU AI Act (Regulation 2024/1689) imposes technical obligations on high-risk AI providers, yet Articles 8-15 were drafted for predictive AI and leave seven technical gaps when applied to generative systems, spanning non-deterministic data governance, training-data provenance, continuous conformity, human oversight, open-ended robustness,\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+    "url": "https://arxiv.org/abs/2609.20614",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20614v1 Announce Type: cross Abstract: Frontier AI models are rapidly gaining the ability to exploit vulnerabilities in complex pieces of software. The risk is not theoretical, as evidenced by recent sandbox escapes performed by frontier models at OpenAI and Anthropic. Discussions of how to sandbox inference stack components often focus on components other than the inference engine\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "openai",
+      "anthropic",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
+    "url": "https://arxiv.org/abs/2609.20758",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20758v1 Announce Type: cross Abstract: Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensive, so evaluation rests on a sample of labeled units. We treat the evaluation set as a finite population and seek accurate point and interval estimates\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Architectural Design, Not Only Model Intelligence, Governs Multi-Agent LLM Performance",
+    "url": "https://arxiv.org/abs/2602.03128",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2602.03128v2 Announce Type: replace Abstract: Multi-agent LLM frameworks are data-intensive systems that govern how agents orchestrate tasks, manage state, and coordinate decisions. These architectural choices control execution overhead, memory behavior, planning effectiveness, and coordination scalability. Their impact on system performance remains poorly understood. Existing benchmarks\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Neuropsychologically Grounded Evaluation of LLM Cognitive Abilities",
+    "url": "https://arxiv.org/abs/2603.02540",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2603.02540v2 Announce Type: replace Abstract: Large language models (LLMs) display a unified \"general factor\" of capability across 10 benchmarks (a finding confirmed by our factor analysis of 156 models), yet they still struggle with simple, trivial tasks for humans. This is because current benchmarks focus on task completion, failing to probe the foundational cognitive abilities that\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SCICONVBENCH: Benchmarking LLMs on Multi-Turn Clarification for Task Formulation in Computational Science",
+    "url": "https://arxiv.org/abs/2605.18630",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2605.18630v2 Announce Type: replace Abstract: Large Language Models (LLMs) are increasingly deployed as scientific AI as- sistants, and a growing body of benchmarks evaluates their capabilities across knowledge retrieval, reasoning, code generation, and tool use. These evaluations, however, typically assume the scientific problem is already well-posed, whereas practical scientific\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "FitAQA: A Benchmark of Fitness Action Quality Assessment for Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2608.08736",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2608.08736v2 Announce Type: replace Abstract: Fitness Action Quality Assessment (AQA) is important for intelligent sports training, yet the capabilities of Multimodal Large Language Models (MLLMs) in this setting remain underexplored. Existing benchmarks rely on action-specific annotation schemes and focus primarily on final assessment outputs, offering limited insight into how models\u2026",
+    "score": 5.574,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "IWC-Bench: Evaluating Web Application Generation from a Software Testing Perspective",
+    "url": "https://arxiv.org/abs/2609.15387",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.15387v2 Announce Type: replace-cross Abstract: Human evaluation provides a direct measure of the quality of LLM-generated web applications. However, fitting human judgments through automated evaluation remains challenging. Static benchmarks can credit functionality that exists in source code but is unreachable at runtime. Interactive benchmarks exercise the application, yet incomplete\u2026",
+    "score": 5.574,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating Financial Sentiment in the Age of AI",
+    "url": "https://arxiv.org/abs/2609.20198",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2609.20198v1 Announce Type: new Abstract: Financial sentiment measures are widely used in empirical finance, but it remains unclear whether general-purpose large language models (LLMs) improve on existing finance-specific methods. This paper evaluates twelve sentiment models, including dictionary-based methods, finance-specific transformers, and open-source LLMs, using two criteria:\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "transformer*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Large-Scale Vision-Language Dataset Derived from Open Scientific Literature to Advance Biomedical Generalist AI",
+    "url": "https://arxiv.org/abs/2503.22727",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-18T04:00:00+00:00",
+    "summary": "arXiv:2503.22727v3 Announce Type: replace-cross Abstract: Despite the excitement behind biomedical artificial intelligence (AI), access to high-quality, diverse, and large-scale data - the foundation for modern AI systems - is still a bottleneck to unlocking its full potential. To address this gap, we introduce Biomedica, an open-source dataset derived from the PubMed Central Open Access subset,\u2026",
+    "score": 5.574,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.974,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How competitive are journals compared to top ai conferences? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-18T11:36:57+00:00",
+    "summary": "Hi everyone, The NeurIPS results aren\u2019t out yet, but I\u2019m expecting my paper to be rejected, so I\u2019m considering submitting it to a journal instead. My scores were 2/3/3 (3/4/4). I feel like I would probably get a similar outcome if I submitted the paper to ICLR or CVPR, so at this point I\u2019m leaning toward a journal rather than trying another top conference. I\u2019m obviously not aiming for top-tier\u2026",
+    "score": 5.426,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.926,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+    "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T09:15:00+00:00",
+    "summary": "Once the music industry\u2019s biggest headache, Napster\u2019s next act is bringing AI to the classroom.",
+    "score": 5.33,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.63,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-17T23:25:52+00:00",
+    "summary": "The round values the data center giant at $30.9 billion.",
+    "score": 5.303,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.403,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  }
+]
