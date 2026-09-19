@@ -1,0 +1,710 @@
+[
+  {
+    "title": "Forget the AI Slowdown\u2014the Vulnerability Explosion Is Already Happening",
+    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T11:00:00+00:00",
+    "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+    "score": 5.585,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.885,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mathematicians Hate AI. They Can\u2019t Quit It",
+    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T10:00:00+00:00",
+    "summary": "Powerful AI models have created an existential risk to the field, but researchers can\u2019t stop relying on them because they\u2019re too useful.",
+    "score": 5.46,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.76,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI",
+    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-18T23:57:57+00:00",
+    "summary": "Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. In one of the cases, the model guessed passwords until it gained access to a protected\u2026",
+    "score": 5.106,
+    "matched": [
+      "ai",
+      "gemini",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.506,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T09:00:00+00:00",
+    "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+    "score": 5.035,
+    "matched": [],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.635,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T23:13:31+00:00",
+    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "score": 5.013,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.413,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Is HF starting to move against abliterated models?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-18T18:43:03+00:00",
+    "summary": "Baseten launched a new safety infrastructure standard alongside its Base Labs research arm on Wednesday, partnering with Hugging Face and Goodfire AI to build safety evaluation and monitoring infrastructure for open-weight models. The announcement lands amid debate for the safety of open-weight models \u2014 which can be made dangerous by removing their safeguards through a rising technique known as\u2026",
+    "score": 4.95,
+    "matched": [
+      "ai",
+      "hugging face",
+      "open-weight*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.85,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "General warning about Clore.AI",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T08:37:35+00:00",
+    "summary": "Hello, I know some of us may be tempted to rent out our expensive GPUs to recoup some of the cost of self-hosting, and it should be obvious that this can be a risky decision. I decided to try hosting my rig on clore.ai briefly to see what kind of revenue it could bring in, keeping a close eye on the process lists from the renters' jobs of course but not digging into their files or anything.\u2026",
+    "score": 4.888,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.588,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
+    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T00:12:07+00:00",
+    "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "score": 4.835,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.535,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Built a home server from an old PC with GPU upgrade. Qwen3.8 27B runs at ~30 tokens per second.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkgb2h/built_a_home_server_from_an_old_pc_with_gpu/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T08:09:46+00:00",
+    "summary": "I needed a relatively simple but acceptable level of AI for working on one project. I didn't have any heavy requests, I just needed to give the AI access to the project files so it could search through them for bugs and stuff. I already had an old computer that I decided not to throw away and instead give it a new life as a git server (and sometimes a minecraft server). The pc specs are ancient\u2026",
+    "score": 4.83,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.53,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI's Sam Altman to brief UN Security Council next week",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkfrye/openais_sam_altman_to_brief_un_security_council/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T07:38:48+00:00",
+    "summary": "submitted by /u/johnnyApplePRNG [link] [comments]",
+    "score": 4.766,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.466,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T23:25:01+00:00",
+    "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "score": 4.737,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.437,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI hallucination nearly triggers US military operation",
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T23:12:32+00:00",
+    "summary": "\u201cIt\u2019s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+    "score": 4.711,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.411,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T02:11:38+00:00",
+    "summary": "Meet Inco Splash, open-source inference engine, built around the model and around Apple silicon. Up to 3\u00d7 the decode speed of Ollama, 2\u00d7 oMLX, and almost 4\u00d7 when an agent fans out into sub-agents. Requirements: M3 or newer, macOS 26.4+, 36 GB Get started with a single command: brew install incoai/tap/splash splash serve --model incoai/Qwen3.8-27B-Splash That is the whole setup. Point your agent\u2026",
+    "score": 4.684,
+    "matched": [
+      "inference"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.784,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T01:57:25+00:00",
+    "summary": "submitted by /u/Fusseldieb [link] [comments]",
+    "score": 4.654,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.754,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T01:00:00+00:00",
+    "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "score": 4.635,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.635,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-09-18T12:00:00+00:00",
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "score": 4.61,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.01,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+    "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T17:09:56+00:00",
+    "summary": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has outlined his plan to \u201cpace the frontier\u201d of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it\u2019s already picked up some industry support, along with some pointed pushback from Nvidia\u2019s Jensen Huang. Watch\u2026",
+    "score": 4.556,
+    "matched": [
+      "ai",
+      "anthropic",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.656,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Automattic\u2019s 33-Hour Coup, and can AI labs police themselves?",
+    "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T17:06:32+00:00",
+    "summary": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has outlined his plan to \u201cpace the frontier\u201d of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it\u2019s already picked up some industry support, along with some pointed pushback from Nvidia\u2019s Jensen Huang. On [\u2026]",
+    "score": 4.548,
+    "matched": [
+      "ai",
+      "anthropic",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.648,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic\u2019s first embedded evaluator is \u2026 Accenture?",
+    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T21:44:33+00:00",
+    "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "score": 4.528,
+    "matched": [
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.228,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T18:49:30+00:00",
+    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "score": 4.463,
+    "matched": [
+      "ai",
+      "chatgpt"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.863,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Training a Neural Network on AMD MI50s Using Vulkan: Proof of ConceptOr: Why I Stopped Listening and Just Did It",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9qjn/training_a_neural_network_on_amd_mi50s_using/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T02:23:02+00:00",
+    "summary": "Note: This writeup was put together with the help of AI. So I've got dual AMD MI50 32GB cards. If you know these cards, you know the story - AMD dropped official ROCm support for gfx906 after ROCm 5.7. Every AI I talked to, every forum post, every \"expert\" said the same thing: if you want to do anything serious on AMD hardware you need ROCm, and if you need ROCm on MI50s, good luck because AMD\u2026",
+    "score": 4.408,
+    "matched": [
+      "ai",
+      "neural network"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.808,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "US government website used Chinese model the FBI called \"malicious\"",
+    "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T17:28:50+00:00",
+    "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+    "score": 4.395,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.695,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Stepfun new model \"Step 5 Preview\" just leaked",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc2n1/stepfun_new_model_step_5_preview_just_leaked/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T04:18:31+00:00",
+    "summary": "https://artificialanalysis.ai/models/step-5 https://preview.redd.it/tt7z192zkeqh1.png?width=1035&format=png&auto=webp&s=bf91d4fb080c5f6f2028cc8bddd58b0e5a04ece7 https://preview.redd.it/d8ldk181leqh1.png?width=721&format=png&auto=webp&s=d07ef1a0306837321d2715b66b0819864a92cbf8 https://preview.redd.it/1o114262leqh1.png?width=726&format=png&auto=webp&s=f3ac36bddcc3b94da4dd82a84fe2686b38ddeb88 3.7\u2026",
+    "score": 4.348,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.048,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I enjoyed the daily HF papers today",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkdzdk/i_enjoyed_the_daily_hf_papers_today/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T05:58:38+00:00",
+    "summary": "Top 3 papers on HF Daily Paper are all unusually delightful and interesting reads for anyone on the leading edge of local LLMs, agent harness optimization, etc, felt like sharing. DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression https://huggingface.co/papers/2609.19969 Cross-layer KV reuse plus FP4 KV caching brings the global KV cache to 890 bytes per token, about a quarter of\u2026",
+    "score": 4.257,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.257,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T21:07:24+00:00",
+    "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [\u2026]",
+    "score": 4.25,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.15,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "We benchmarked 24 LLMs against human writers on 475 creative writing prompts",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjwhxc/we_benchmarked_24_llms_against_human_writers_on/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-18T17:24:23+00:00",
+    "summary": "We just released the first version of our Creative Writing benchmark, comparing 24 LLMs against human writers across 475 writing prompts. Creative writing is subjective, so the rankings aren't meant to predict what any one person will prefer. Instead, they predict what a large group of readers would prefer, using a custom reward model trained specifically on human preferences for creative\u2026",
+    "score": 4.186,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.686,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T20:26:33+00:00",
+    "summary": "But the military's overall use of AI seems to be accelerating.",
+    "score": 4.165,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.065,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T14:00:14+00:00",
+    "summary": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "score": 4.16,
+    "matched": [
+      "claude",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.26,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "New experts join Google\u2019s AI & Economy team",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "source": "Google AI",
+    "category": "Labs & Releases",
+    "published": "2026-09-18T14:00:00+00:00",
+    "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+    "score": 4.16,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "google-ai",
+    "breakdown": {
+      "feed_weight": 3.6,
+      "recency": 0.26,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Security researchers used Claude to help them hack into OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T15:30:16+00:00",
+    "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The [\u2026]",
+    "score": 4.148,
+    "matched": [
+      "claude",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.448,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T02:08:07+00:00",
+    "summary": "Hopefully things like this let people understand there is good things that can come out of AI. submitted by /u/giveen [link] [comments]",
+    "score": 4.077,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.777,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
+    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T17:59:53+00:00",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "score": 4.06,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.76,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Steer LLMs and Agents at the Token Level: An interactive tool for token visualization & control, model inspection and data annotation.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-19T04:21:02+00:00",
+    "summary": "onPanda is designed for geeks, power users, curious minds, and engineers. Its UI is built for deep exploration and efficient data annotation. - The core loop is simple: hover over a token \u2192 click an alternative or edit freely \u2192 continue generation. You can edit every part of model output exposed by onPanda, including reasoning and tool calls. - Edit prompts directly, branch tool calls, and use a\u2026",
+    "score": 4.054,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.054,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "World model companies are keeping a lot of secrets",
+    "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T20:18:14+00:00",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually building.",
+    "score": 4.048,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.048,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-18T15:30:00+00:00",
+    "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "score": 4.047,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.447,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
