@@ -1,0 +1,479 @@
+[
+  {
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-20T12:00:00+00:00",
+    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [\u2026]",
+    "score": 6.062,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.962,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-20T10:30:00+00:00",
+    "summary": "The Muse app continues Meta\u2019s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+    "score": 5.475,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.775,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "It\u2019s Donald Trump Versus MAGA on Data Centers",
+    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-20T10:30:00+00:00",
+    "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+    "score": 5.475,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.775,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-19T18:21:30+00:00",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit Comments URL: https://news.ycombinator.com/item?id=49768921 Points: 170 # Comments: 47",
+    "score": 5.157,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.757,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Inside sanoTTS \u2014 a 294,279-parameter TTS system [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wlbhw8/inside_sanotts_a_294279parameter_tts_system_p/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-20T08:30:48+00:00",
+    "summary": "How sanoTTS works? I have vibe coded this site to show what's inside sanoTTS? Every tensor shown on the page is a real intermediate value captured from the shipped int8 model while it synthesized an actual sentence; no mock-ups, no stand-in data. Just check this out: https://ampixa.github.io/sanotts-anatomy/ Created to explore the in-depth mechanisms involved in how sanoTTS processes a sentence.\u2026",
+    "score": 4.726,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.526,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-20T00:43:46+00:00",
+    "summary": "Hi all! i am currently working as a software engineer for a pretty big enterprise fintech company here in the states. In the the last 12 months at my job there has been a huge push for developers to use ai and agentic program in our development cycle, first in our ide directly, then Coder space instances with cloud agents and now code vulnerability remediation. This has gotten me thinking beyond\u2026",
+    "score": 4.353,
+    "matched": [
+      "ai",
+      "agentic"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.553,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T13:00:00+00:00",
+    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "score": 4.287,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.087,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trump says it\u2019s time to rebrand AI with a new name \u2014 and he\u2019s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T19:57:47+00:00",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "score": 4.258,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.958,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T17:30:00+00:00",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "score": 4.25,
+    "matched": [
+      "ai",
+      "gemini"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.65,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-19T23:35:28+00:00",
+    "summary": "Given the recent interest in tools like Jev, I wanted to share ProgramAsWeights (PAW), an open-source research project I'm working on at the University of Waterloo. You describe a text function in English, compile it into a reusable neural program, and run it locally, including on a CPU. For example: import programasweights as paw fn = paw.compile_and_load(\"Classify urgent emails\") fn(\"Need this\u2026",
+    "score": 4.211,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.411,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta\u2019s Muse is creepy, but maybe not for the reasons you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T20:44:40+00:00",
+    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [\u2026]",
+    "score": 4.155,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.055,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The AI regulation smackdown isn\u2019t over",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T13:00:00+00:00",
+    "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [\u2026]",
+    "score": 4.087,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.087,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T20:39:13+00:00",
+    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "score": 4.044,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.044,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I wanted to watch a neural network learn [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-19T23:12:48+00:00",
+    "summary": "I wanted to really see how a neural network learns different functions, so built an interactive demo. You can change the architecture of the network and the function it will try to approximate. A fully-connected network with ReLU activations will create a piecewise linear function. For a network with a single layer, the maximum number of segments the network can create is 1 + the width of the\u2026",
+    "score": 3.864,
+    "matched": [
+      "neural network"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.364,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jev to retrieve memories is a game changer [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wl31tp/jev_to_retrieve_memories_is_a_game_changer_p/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-20T01:06:20+00:00",
+    "summary": "Check it out here: https://github.com/samdotmak/jev-recall submitted by /u/hungryillini [link] [comments]",
+    "score": 3.8,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.6,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T15:25:03+00:00",
+    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [\u2026]",
+    "score": 3.789,
+    "matched": [
+      "gemini",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.389,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T15:00:00+00:00",
+    "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when \u2014 though the fanciest health-monitoring features will cost you an extra subscription.",
+    "score": 3.637,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.337,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI safety conversations have gotten unbelievable",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T15:00:00+00:00",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "score": 3.637,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.337,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I think you should almost never use AI to write",
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-09-19T16:35:24+00:00",
+    "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 308 # Comments: 150",
+    "score": 3.436,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.536,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Does AI need an antitrust exemption so it doesn\u2019t kill everyone????",
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T14:00:00+00:00",
+    "summary": "Today on Decoder, we\u2019ve got the first of a two-part series on the future of business, and I\u2019m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he\u2019s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [\u2026]",
+    "score": 3.312,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.212,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-19T14:00:00+00:00",
+    "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+    "score": 3.212,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.212,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-19T17:34:49+00:00",
+    "summary": "Hey everyone! I want to share the results of a small language model architecture experiment I\u2019ve been running as a side project. The ultimate goal is to test an approach to reduce the number of the model's training parameters, since the main bottleneck in training is VRAM. The core idea is very similar to Universal Transformer. Let's take just a single decoder block and iteratively pass the input\u2026",
+    "score": 3.16,
+    "matched": [
+      "transformer*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.66,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Sharing my ML learning repo \u2014 NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-19T12:54:13+00:00",
+    "summary": "Sharing my ML learning repo \u2014 NumPy to Transformers, 5 months, daily commits, all notebooks public. Covers the full stack: - Classical ML (scikit-learn, XGBoost) - Deep Learning (TensorFlow/Keras \u2014 ANN, CNN, RNN, LSTM) - Numpy & Pandas - Data Visualization - NLP fundamentals - Statistics and SQL github.com/gyr0byte/ML-Foundations Hope this is useful to someone starting their ML journey. Star it\u2026",
+    "score": 2.875,
+    "matched": [
+      "deep learning",
+      "transformer*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.075,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ICLR 2027 submission 50k+[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wks0dv/iclr_2027_submission_50kd/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-19T17:23:30+00:00",
+    "summary": "Its 13 hours for the closure of abstract submission, my submission # is close to 51k. OMG submitted by /u/Invariant_n_Cauchy [link] [comments]",
+    "score": 2.836,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.636,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
