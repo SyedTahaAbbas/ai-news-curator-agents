@@ -1,0 +1,735 @@
+[
+  {
+    "title": "iPhone owners can now submit a claim in Apple\u2019s $250 million Siri AI lawsuit",
+    "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T13:36:52+00:00",
+    "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [\u2026]",
+    "score": 6.644,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.944,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "UN says AI safeguards can\u2019t wait for certainty",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T10:18:06+00:00",
+    "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [\u2026]",
+    "score": 6.23,
+    "matched": [
+      "ai",
+      "openai",
+      "hugging face"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.53,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T12:00:00+00:00",
+    "summary": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for\u2026",
+    "score": 6.042,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.742,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-09-21T13:44:34+00:00",
+    "summary": "",
+    "score": 5.96,
+    "matched": [],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.96,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning",
+    "url": "https://arxiv.org/abs/2609.21909",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21909v1 Announce Type: new Abstract: In this work, we conduct a systematic comparison of two state-of-the-art motion-imitation reinforcement learning (MIRL) pipelines, one built on SCONE/HyFyDy and one built on MuJoCo/MyoSim. HyFyDy emphasizes physiological realism through detailed musculotendon modeling, while MuJoCo prioritizes computational efficiency and scalable policy learning.\u2026",
+    "score": 5.942,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Omni Demand Understanding: A Benchmark for Contextual User-Intent Inference in Multimodal Interaction",
+    "url": "https://arxiv.org/abs/2609.21392",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21392v1 Announce Type: new Abstract: Natural audio-visual interaction is emerging as an important interface for AI assistants, allowing users to communicate through speech and vision rather than carefully composed text prompts. However, existing benchmarks of interactive capabilities still focus primarily on response quality, leaving a more fundamental question underexplored: can a\u2026",
+    "score": 5.942,
+    "matched": [
+      "ai",
+      "multimodal",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "JudgeSense: A Benchmark for Prompt Sensitivity in LLM-as-a-Judge Systems",
+    "url": "https://arxiv.org/abs/2604.23478",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2604.23478v3 Announce Type: replace Abstract: Large language models are widely used to judge the output of other language models, yet whether a judge returns the same verdict when the same request is worded differently remains largely unexamined. We study that question across four evaluation tasks and twenty-five judges from six providers. To support the analysis we release JudgeSense, a\u2026",
+    "score": 5.942,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How V7 gives AI agents institutional memory",
+    "url": "https://openai.com/index/v7",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-09-21T00:00:00+00:00",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "score": 5.842,
+    "matched": [
+      "ai",
+      "gpt"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 1.242,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can CEO John Ternus find Apple\u2019s next big thing?",
+    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T14:00:00+00:00",
+    "summary": "Today, I\u2019m talking with Mark Gurman, who is the world\u2019s best-sourced Apple reporter \u2014 both as Bloomberg\u2019s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [\u2026]",
+    "score": 5.792,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.992,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
+    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T12:00:00+00:00",
+    "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past\u2026",
+    "score": 5.742,
+    "matched": [],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.742,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T12:00:00+00:00",
+    "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed\u2026",
+    "score": 5.742,
+    "matched": [],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.742,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T12:00:00+00:00",
+    "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying\u2026",
+    "score": 5.742,
+    "matched": [],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.742,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+    "url": "https://arxiv.org/abs/2609.21181",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21181v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We address this gap by studying test-time task embeddings in Vision ARC (VARC), a model in which a pre-trained\u2026",
+    "score": 5.642,
+    "matched": [
+      "ai",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces",
+    "url": "https://arxiv.org/abs/2609.21325",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21325v1 Announce Type: new Abstract: Agentic marketplaces are emerging where AI agents with varying capabilities autonomously complete specialized tasks for buyers. A major challenge of such marketplaces is that buyers cannot easily determine which agent will perform best on their tasks. Reported benchmark scores may be difficult to verify or compare across tasks, software, and\u2026",
+    "score": 5.642,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SWE-Proof: Can Language Models Resolve Real-World Issues with Machine-Checked Proofs?",
+    "url": "https://arxiv.org/abs/2609.21190",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21190v1 Announce Type: cross Abstract: Ensuring the correctness of LLM-generated code is a core challenge for modern software engineering. Benchmarks for agentic code generation check correctness with held-out test suites, which are inherently incomplete and increasingly susceptible to memorization. Formal verification avoids both problems, but existing work covers only standalone\u2026",
+    "score": 5.642,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AgentVidBench: A Multi-Hop Video Question Answering Benchmark for Evaluating MLLM Agents",
+    "url": "https://arxiv.org/abs/2609.21386",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21386v1 Announce Type: cross Abstract: Comprehensive video understanding is crucial for advancing artificial intelligence toward the intricate dynamics of the physical world. While recent advances in Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in video understanding, existing benchmarks remain confined to simple scene-level queries or global\u2026",
+    "score": 5.642,
+    "matched": [
+      "artificial intelligence",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Constraint Decay: The Fragility of LLM Agents in Backend Code Generation",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2605.06445v2 Announce Type: replace-cross Abstract: Large Language Model (LLM) agents demonstrate strong performance in autonomous code generation under loose specifications. However, production-grade software requires strict adherence to structural constraints, such as architectural patterns, databases, and object-relational mappings. Existing benchmarks often overlook these non-functional\u2026",
+    "score": 5.642,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge",
+    "url": "https://arxiv.org/abs/2609.22038",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.22038v1 Announce Type: new Abstract: We introduce QuranicMMLU, a benchmark for evaluating generative AI on Quranic Arabic across multiple dimensions of linguistic complexity. Existing Quranic benchmarks center on general question answering and semantic retrieval, without probing specific linguistic competencies or stratifying by cognitive demand and verse difficulty. We construct a\u2026",
+    "score": 5.642,
+    "matched": [
+      "ai",
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Cultural Alignment in Large Language Models Using Soft Prompt Tuning",
+    "url": "https://arxiv.org/abs/2503.16094",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2503.16094v2 Announce Type: replace Abstract: Large Language Model (LLM) alignment is commonly achieved through supervised fine-tuning or reinforcement learning, both of which require labeled or preference data and update model weights. Without targeted cultural adaptation, however, deployed LLMs often exhibit culturally homogeneous behavior that fails to reflect diverse local values.\u2026",
+    "score": 5.642,
+    "matched": [
+      "llm",
+      "large language model",
+      "fine-tun*",
+      "reinforcement learning",
+      "model weights"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Amazon blocks Meta\u2019s Muse AI agent",
+    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-21T09:21:47+00:00",
+    "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [\u2026]",
+    "score": 5.512,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.412,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "5 Companies Using NVIDIA AI for Clean Energy",
+    "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-09-21T10:00:35+00:00",
+    "summary": "Clean energy isn\u2019t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks \u2014 including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating\u2026",
+    "score": 5.493,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.493,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
+    "url": "https://arxiv.org/abs/2609.21267",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21267v1 Announce Type: new Abstract: Production LLM agents are evaluated repeatedly as they evolve, but full agent benchmarks are costly to rerun. We study efficient recurring evaluation for a production analytics agent serving tens of thousands of monthly active users and report first-hand deployment experience. Using 574 historical runs of the production benchmark, split\u2026",
+    "score": 5.342,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+    "url": "https://arxiv.org/abs/2609.21493",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21493v1 Announce Type: new Abstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess spatial reasoning, structural validity, or physics-grounded construction, but they do not determine whether MLLMs can\u2026",
+    "score": 5.342,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+    "url": "https://arxiv.org/abs/2609.21841",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21841v1 Announce Type: new Abstract: Frontier language models now produce professional deliverables that expert graders judge to match human work on a substantial share of economically valuable tasks, yet most enterprise GenAI initiatives fail to show a measurable business effect and a large fraction of agentic projects are expected to be cancelled. We argue that this is substantially\u2026",
+    "score": 5.342,
+    "matched": [
+      "ai",
+      "generative",
+      "genai",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+    "url": "https://arxiv.org/abs/2609.22068",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.22068v1 Announce Type: new Abstract: Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we\u2026",
+    "score": 5.342,
+    "matched": [
+      "agentic",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CESBench: Benchmarking Large Language Models on Cryptographic Engineering Security for IoT Devices",
+    "url": "https://arxiv.org/abs/2609.21344",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21344v1 Announce Type: cross Abstract: For Internet of Things (IoT) devices, a secure algorithm alone is not enough: an attacker with physical access can attack the implementation directly, and its flaws are hard to fix once deployed. Large language models (LLMs) are now used to build and analyze such implementations. LLM benchmarks exist for cryptography and general cybersecurity, but\u2026",
+    "score": 5.342,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OneBid: A Unified Auto-Bidding Foundation Model for Diverse oCPX Advertising Scenarios",
+    "url": "https://arxiv.org/abs/2609.21550",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21550v1 Announce Type: cross Abstract: Auto-bidding is central to computational advertising, where strategies must maximize advertisers' conversion value under economic constraints. It has evolved from rule-based controllers to reinforcement learning and generative methods such as Decision Transformer (DT). Yet these methods increasingly mismatch the prevailing optimized cost-per-X\u2026",
+    "score": 5.342,
+    "matched": [
+      "transformer*",
+      "generative",
+      "foundation model",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition",
+    "url": "https://arxiv.org/abs/2609.21879",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21879v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) have recently been proposed as promising tools for face recognition, as they can produce natural language explanations alongside similarity scores. This capability is considered appealing for face comparisons in forensic contexts, which require decisions to be transparent and auditable. However, existing evaluations\u2026",
+    "score": 5.342,
+    "matched": [
+      "open-weight*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation",
+    "url": "https://arxiv.org/abs/2603.13099",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2603.13099v3 Announce Type: replace Abstract: We introduce CRYSTAL (Clear Reasoning via Yielded Steps, Traceability, and Logic), a diagnostic benchmark with 6,372 instances that evaluates multimodal reasoning through verifiable intermediate steps. We propose two complementary metrics: Match F1, which scores step-level precision and recall via semantic similarity matching, and Ordered Match\u2026",
+    "score": 5.342,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Understanding Structural Representation in Foundation Models for Polymers",
+    "url": "https://arxiv.org/abs/2512.11881",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2512.11881v2 Announce Type: replace-cross Abstract: From the relative scarcity of training data to the lack of standardized benchmarks, the creation of effective foundation models for polymers faces significant and multi-faceted challenges. At the core, many of these issues are tied directly to the structural representation of polymers. Here, we present a chemical language foundation model\u2026",
+    "score": 5.342,
+    "matched": [
+      "foundation model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenMAS-GCom. A Diagnostic Benchmark for Graph-enhanced Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2609.21527",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.21527v1 Announce Type: new Abstract: Graph-enhanced multi-agent systems (G-MAS) coordinate large language model agents through communication graphs and role assignments, which determine how agents exchange information and divide responsibilities. However, final-score comparisons across systems combine differences in models, communication patterns, roles, and computation costs, making\u2026",
+    "score": 5.342,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "VISPATH: Visual-Intent-Guided Path Reasoning for Multimodal Knowledge Graph Question Answering",
+    "url": "https://arxiv.org/abs/2609.20843",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.20843v1 Announce Type: cross Abstract: Knowledge graph question answering (KGQA) enables models to answer natural-language questions through structured graph reasoning and has achieved substantial progress across many benchmarks and applications. Recently, multimodal KGQA (MM-KGQA) has attracted increasing attention because many questions require jointly using multimodal inputs and KG\u2026",
+    "score": 5.342,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Fidel-TS: A High-Fidelity Multimodal Benchmark for Time Series Forecasting",
+    "url": "https://arxiv.org/abs/2509.24789",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2509.24789v5 Announce Type: replace Abstract: The evaluation of time series forecasting models is hindered by a lack of high-quality benchmarks, leading to overestimated assessments of progress. Existing datasets suffer from issues ranging from small-scale, low-frequency, pre-training data contamination in unimodal designs to the temporal and description leakage prevalent in early\u2026",
+    "score": 5.342,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Recall Before Rerank: Benchmarking Deep Learning Models for Large-Scale Code-to-Code Retrieval",
+    "url": "https://arxiv.org/abs/2606.27401",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2606.27401v2 Announce Type: replace-cross Abstract: Semantic code search and clone detection are essential for software development, maintenance, and reuse. This paper evaluates the effectiveness, efficiency, and scalability of contemporary deep learning models for first-stage recall in large-scale code-to-code search engines. Benchmarking across multiple programming languages and datasets\u2026",
+    "score": 5.342,
+    "matched": [
+      "deep learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MME-Safety: A Fine-grained Benchmark for Safety Evaluation of MLLMs",
+    "url": "https://arxiv.org/abs/2609.20850",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-21T04:00:00+00:00",
+    "summary": "arXiv:2609.20850v1 Announce Type: new Abstract: While Multimodal Large Language Models (MLLMs) show remarkable advancements, their cross-modal capabilities introduce complex vulnerabilities that easily bypass unimodal filters. Existing benchmarks lack fine-grained intent-related annotations and rely on unidimensional metrics, hindering comprehensive robustness evaluation. To address this, we\u2026",
+    "score": 5.342,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
