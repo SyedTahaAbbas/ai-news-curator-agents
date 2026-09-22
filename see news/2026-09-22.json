@@ -1,0 +1,747 @@
+[
+  {
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-09-22T12:00:41+00:00",
+    "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at [\u2026]",
+    "score": 7.429,
+    "matched": [
+      "ai",
+      "agentic",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.929,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Don\u2019t be fooled by this summer of AI hype",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-22T11:04:51+00:00",
+    "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed\u2026",
+    "score": 7.313,
+    "matched": [
+      "ai",
+      "claude",
+      "openai",
+      "anthropic",
+      "hugging face"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.813,
+      "keywords": 1.5,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
+    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-22T12:23:05+00:00",
+    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "score": 6.576,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.976,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TriFleetRCA: On-Premise LLM Root Cause Analysis for Kubernetes",
+    "url": "https://arxiv.org/abs/2609.23766",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23766v1 Announce Type: cross Abstract: Root cause analysis at a remote site is slow: evidence is scattered across pod logs, Kubernetes events and cluster-level objects, and many operators cannot send production logs to a hosted model at all. On-premise inference removes the second constraint but raises a question live-cluster benchmarks have not addressed: when one workstation GPU\u2026",
+    "score": 6.428,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.9,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PII-TRACE: A Benchmark for Context-Aware PII Detection in Multi-Turn LLM Conversations",
+    "url": "https://arxiv.org/abs/2609.22200",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22200v1 Announce Type: new Abstract: LLM assistants and agentic systems log long multi-turn conversations. AI providers often scan these conversations for Personally Identifiable Information (PII) and mask the PII before storing or processing conversation data. Yet most PII detectors and benchmarks target self-contained records rather than cross-turn evaluation. To evaluate PII\u2026",
+    "score": 6.128,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "BabelArena: A Large-Scale Multilingual Benchmark for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.23490",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23490v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly execute multi-step workflows through tool use and interaction with users and environments. However, current agent evaluations are largely English-centric, limiting our understanding of agent capabilities in multilingual settings. We introduce BabelFlow, a benchmark-general agentic workflow that adapts\u2026",
+    "score": 6.128,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-22T11:53:58+00:00",
+    "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [\u2026]",
+    "score": 6.015,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.915,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles",
+    "url": "https://arxiv.org/abs/2609.22220",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22220v1 Announce Type: new Abstract: Benchmarks for LLM-generated GPU kernels decide correctness with a few random inputs and a loose floating-point tolerance, and their verdicts now feed leaderboards and reinforcement-learning rewards. Recent work agrees these checkers are weak and patches them by hand---extra input distributions, fuzzing recipes, tighter tolerances---with no way to\u2026",
+    "score": 5.828,
+    "matched": [
+      "llm",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Is Availability-Aware Training Worth It? A Benchmark and Empirical Study of Interruption-Resilient Optimization Under Predictable Compute Schedules",
+    "url": "https://arxiv.org/abs/2609.22087",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22087v1 Announce Type: cross Abstract: Training under non-stationary but predictable compute availability (satellites under eclipse, duty-cycled edge devices, power-capped datacenters) is often framed as needing specialized, availability-aware optimizers. We test that premise. We release OrbitTrace, a benchmark of 50 physics-grounded availability traces from SGP4 propagation of live\u2026",
+    "score": 5.828,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ORION-CMR: On-scanner Reporting with Integrated Foundation Model for End-to-End Cardiac MRI Analysis and Interpretation",
+    "url": "https://arxiv.org/abs/2609.23950",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23950v1 Announce Type: cross Abstract: Cardiovascular magnetic resonance (CMR) provides comprehensive cardiac assessment but remains underutilized because of the complexity of acquisition, post-processing, and interpretation. Existing artificial intelligence (AI) methods address isolated tasks, limiting clinical integration. We present ORION-CMR (On-scanner Reporting with Integrated\u2026",
+    "score": 5.828,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "foundation model"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Time Series Foundation Models for Process Model Forecasting",
+    "url": "https://arxiv.org/abs/2512.07624",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2512.07624v2 Announce Type: replace Abstract: Process Model Forecasting (PMF) aims to predict how the control-flow structure of a process evolves over time by modeling the temporal dynamics of directly-follows (DF) relations, complementing predictive process monitoring that focuses on single-case prefixes. Prior benchmarks show that machine learning and deep learning models provide only\u2026",
+    "score": 5.828,
+    "matched": [
+      "machine learning",
+      "deep learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Constrained Decoding Eliminates Structural Failures in Small LLMs but Reveals a Scale-Dependent Semantic Gap",
+    "url": "https://arxiv.org/abs/2609.23742",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23742v1 Announce Type: new Abstract: Small open-source large language models (LLMs) in the 0.6B-4B parameter range are increasingly deployed for structured output generation (JSON, function calling, data extraction), yet little is known about how constrained decoding (CD) interacts with model scale in this regime. We benchmark five models from three families across 14 structured-output\u2026",
+    "score": 5.828,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "WildfireSpreadBench: The Metric Decides the Model in Wildfire Spread Prediction",
+    "url": "https://arxiv.org/abs/2609.22191",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22191v1 Announce Type: new Abstract: Machine learning is being increasingly used to predict where active wildfires will burn the following day, helping inform evacuation boundaries and containment lines. Most models are evaluated using Average Precision (AP), which summarizes performance across all decision thresholds, although acting on a forecast requires choosing one. We benchmarked\u2026",
+    "score": 5.528,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking Hybrid Deep Learning Architectures for Predictive Maintenance in Industry 4.0",
+    "url": "https://arxiv.org/abs/2609.22583",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22583v1 Announce Type: new Abstract: Predictive maintenance in Industry 4.0 refers to using data from sensors, machines, and production systems to estimate when equipment is likely to fail, so maintenance can be planned before a breakdown occurs [1]. However, a model that predicts maintenance may work perfectly in the lab but fail unexpectedly when applied to real factory data [2]. To\u2026",
+    "score": 5.528,
+    "matched": [
+      "deep learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Augmenting PID Control with Deep Reinforcement Learning: A Hybrid Approach to the Industrial Benchmark",
+    "url": "https://arxiv.org/abs/2609.22584",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22584v1 Announce Type: new Abstract: As industrial processes grow in complexity, traditional Proportional-Integral-Derivative (PID) controllers are often insufficient for handling their non-linear, multi-input dynamics. We propose using advanced Deep Reinforcement Learning (DRL) to prove its advantages in these complex environments. To do this, we rely on the Industrial Benchmark (IB).\u2026",
+    "score": 5.528,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks",
+    "url": "https://arxiv.org/abs/2609.23435",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23435v1 Announce Type: new Abstract: Multi-omics sequences contain complex biological patterns, yet deciphering their mechanisms for automated scientific discovery remains challenging. As large language models (LLMs) interpret these sequences, evaluating both predictions and scientific reasoning is critical. However, existing benchmarks for multi-omics sequence tasks rely on\u2026",
+    "score": 5.528,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ETH-TraceBench: A Large-Scale Event-Stream Benchmark for Ethereum DeFi under Temporal, Protocol, and Contract Shift",
+    "url": "https://arxiv.org/abs/2609.23659",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23659v1 Announce Type: new Abstract: Ethereum decentralized finance (DeFi) provides a public, time-stamped record of transaction-level event streams, but the same public symbols can create strong machine-learning shortcuts. We introduce ETH-TraceBench, a benchmark for evaluating Ethereum DeFi representations under temporal, protocol, pool/infrastructure, and symbolic shift. The raw\u2026",
+    "score": 5.528,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MemCalib: Benchmarking and Optimizing Memory Use in LLM Agents",
+    "url": "https://arxiv.org/abs/2609.24259",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.24259v1 Announce Type: new Abstract: The effectiveness of agent memory ultimately depends on whether the underlying LLM gives each memory in context an appropriate degree of influence over its response. Yet this capability has remained largely overlooked. To assess this capability, we introduce MemCalib, a benchmark grounded in realistic memory-system scenarios for evaluating memory\u2026",
+    "score": 5.528,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "$t_0$: A Time-Series Foundation Model for Forecasting with Context",
+    "url": "https://arxiv.org/abs/2609.24559",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.24559v1 Announce Type: new Abstract: We present $t_0$, a family of open-weights foundation models for forecasting with multivariate context. We release its first two members: $\\texttt{t0-alpha}$ and $\\texttt{t0-beta}$, respectively 102M and 256M parameters. Both condition their forecasts on target history, past covariates, and known-future covariates, without task-specific retraining.\u2026",
+    "score": 5.528,
+    "matched": [
+      "foundation model",
+      "open-weight*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Leakage-Safe Empirical Benchmarking of EEG-Based Machine Learning Pipelines for Dementia Classification",
+    "url": "https://arxiv.org/abs/2609.22092",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22092v1 Announce Type: cross Abstract: Electroencephalography (EEG) is a low-cost and non-invasive signal source for dementia screening, yet existing EEG-based studies remain difficult to compare because preprocessing, EEG segmentation, feature design, classifier choice, and validation protocols vary across studies and are often evaluated in isolation. This variability limits the\u2026",
+    "score": 5.528,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Does the Truthfulness Signal Survive Code-Mixing? Probing Hidden States for Hallucination Detection in Hinglish",
+    "url": "https://arxiv.org/abs/2609.22138",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22138v1 Announce Type: cross Abstract: Hidden-state hallucination probing - training a linear classifier on an LLM's internal activations to detect whether a generated answer is faithful to the input - is an active area of 2026 research, with recent work reporting 0.90-1.00 AUROC across several benchmarks and languages. However, none of this work has tested probes on code-mixed input,\u2026",
+    "score": 5.528,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Per-Query Gating of LLM Rerankers for Multi-Hop Retrieval",
+    "url": "https://arxiv.org/abs/2609.22880",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22880v1 Announce Type: cross Abstract: LLM rerankers add of the order of \\$0.2-0.3 per 1,000 queries and about a second of tail latency on top of a graph-augmented dense pipeline such as HippoRAG2, and on three multi-hop benchmarks they improve final-hop top-K coverage on seven of nine (dataset, K) cells, by up to +34.8 pp. We ask whether a learned per-query gate can skip the reranker\u2026",
+    "score": 5.528,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Measured Joules, Learned Routes: Learning to Route for Energy-Efficient LLM Serving",
+    "url": "https://arxiv.org/abs/2609.23085",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23085v1 Announce Type: cross Abstract: Large language models (LLMs) and agentic AI systems are creating rapidly growing inference energy demands as model sizes grow and reasoning trajectories extend. While in practice, many queries do not require the capabilities of the largest available model, and routinely directing such queries to a high-capability model can introduce unnecessary,\u2026",
+    "score": 5.528,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design",
+    "url": "https://arxiv.org/abs/2609.23385",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23385v1 Announce Type: cross Abstract: Data acquisition (DAQ) systems at future particle physics experiments stand to benefit from the extremes of AI/ML development: large-scale foundation models can enhance the performance of feature extraction algorithms, and small-scale on-detector deployments can enable real-time intelligent data handling. This work provides the first fine-tuning\u2026",
+    "score": 5.528,
+    "matched": [
+      "ai",
+      "fine-tun*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms",
+    "url": "https://arxiv.org/abs/2609.23658",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.23658v1 Announce Type: cross Abstract: Despite impressive visual quality, state-of-the-art video diffusion models often generate content that violates real-world physical laws. While existing solutions rely on external priors or specialized data, we investigate the root cause by exploring the internal mechanisms of these models. Specifically, we present the first interpretability study\u2026",
+    "score": 5.528,
+    "matched": [],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.0,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Vision Transformers versus convolutional neural networks for fine-grained orchid genus identification in a species-rich, data-poor flora: a controlled benchmark on the Orchidaceae of New Guinea",
+    "url": "https://arxiv.org/abs/2609.24064",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.24064v1 Announce Type: cross Abstract: New Guinea is the world's richest island flora (~2,856 orchid species), yet most species are represented by only a handful of photographs, far fewer than direct species-level classification requires. Methods for fine-grained identification in such species-rich, data-poor floras are needed, and it remains unclear which backbone architecture and\u2026",
+    "score": 5.528,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OSCAR: Order-aware Scoring and Calibration for AI Rankings",
+    "url": "https://arxiv.org/abs/2609.24128",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.24128v1 Announce Type: cross Abstract: Judge-specific sensitivity is useful for aggregating pairwise LLM evaluations, but its interpretation depends on which systematic presentation effects the ranking model includes. We introduce OSCAR, an order-aware framework for scoring and calibrating AI rankings, and study position as one such effect. In released judgments from 18 evaluators, the\u2026",
+    "score": 5.528,
+    "matched": [
+      "ai",
+      "llm"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MCP-GRANITE Benchmark: GRANularity Interface TEsting for MCP-Based LLM Agents",
+    "url": "https://arxiv.org/abs/2609.24161",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.24161v1 Announce Type: cross Abstract: As LLM agents increasingly interact with external tools through standardized protocols such as MCP, tool-interface design becomes a critical yet underexplored factor. How fun{\\psi}tionality is decomposed into tools affects whether an agent can select the right tool and construct valid arguments. This choice is especially consequential at the edge,\u2026",
+    "score": 5.528,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Training-Free Refusal of MCP Exploits via Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2605.11217",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2605.11217v2 Announce Type: replace Abstract: The model context protocol (MCP) has been widely adopted as an open standard enabling the seamless integration of generative AI agents. However, while LLM guardrails have significantly matured to refuse malicious or harmful queries (e.g., \"How do I build a bomb?\"), recent work has shown that MCP-enabled LLMs are highly susceptible to prompt\u2026",
+    "score": 5.528,
+    "matched": [
+      "ai",
+      "llm",
+      "generative",
+      "retrieval augmented"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Unified Benchmark for Dynamic Medical Treatment Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2606.01028",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2606.01028v2 Announce Type: replace Abstract: Medical treatment recommendation poses several challenges to reinforcement learning (RL): patient physiology evolves in continuous time, measurements and interventions are performed at irregular intervals, and treatment effects vary substantially across individuals. Existing RL formulations and simulated environments, however, are based on\u2026",
+    "score": 5.528,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MMS-VPR: A Fine-Grained Multimodal Street-Level Visual Place Recognition Dataset and Evaluation Benchmark for Dense Pedestrian Environments",
+    "url": "https://arxiv.org/abs/2505.12254",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2505.12254v3 Announce Type: replace-cross Abstract: Existing visual place recognition (VPR) datasets predominantly rely on vehicle-mounted imagery, offer limited multimodal diversity, and underrepresent dense pedestrian street scenes, particularly in non-Western urban contexts. We present MMS-VPR, a challenging fine-grained multimodal benchmark for pedestrian-level place recognition in\u2026",
+    "score": 5.528,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CytoCrowd: A Multi-Annotator Benchmark Dataset for Cytology Image Analysis",
+    "url": "https://arxiv.org/abs/2602.06674",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2602.06674v2 Announce Type: replace-cross Abstract: High-quality annotated datasets are crucial for advancing machine learning in medical image analysis. However, a critical gap exists: most datasets either offer a single, clean ground truth, which hides real-world expert disagreement, or they provide multiple annotations without a separate gold standard for objective evaluation. To bridge\u2026",
+    "score": 5.528,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching",
+    "url": "https://arxiv.org/abs/2602.24208",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2602.24208v2 Announce Type: replace-cross Abstract: Diffusion models achieve state-of-the-art video generation quality, but their inference remains expensive due to the large number of sequential denoising steps. This has motivated a growing line of research on accelerating diffusion inference. Among training-free acceleration methods, caching reduces computation by reusing previously\u2026",
+    "score": 5.528,
+    "matched": [
+      "diffusion model",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can Generalist Agents Automate Data Curation?",
+    "url": "https://arxiv.org/abs/2606.04261",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2606.04261v2 Announce Type: replace-cross Abstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iteratively propose, implement, evaluate, and revise data policies against noisy benchmark feedback. We ask whether generalist coding agents can automate this data-curation loop. We introduce *Curation-Bench*, an\u2026",
+    "score": 5.528,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Recognition, Simulation, and Refusal: A Contamination-Aware Study of Classic Psychological Effects in LLM Agents",
+    "url": "https://arxiv.org/abs/2609.22090",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-22T04:00:00+00:00",
+    "summary": "arXiv:2609.22090v1 Announce Type: new Abstract: An LLM producing the response pattern associated with a human psychological effect is not the same claim as the LLM possessing that bias. We present PsyAgentBench, a benchmark that re-runs classic psychology experiments on LLM agents under a factorial design built to separate these: each paradigm is run with the paradigm explicitly labeled in the\u2026",
+    "score": 5.528,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.928,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
