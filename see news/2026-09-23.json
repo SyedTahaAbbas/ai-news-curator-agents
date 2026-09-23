@@ -1,0 +1,752 @@
+[
+  {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-09-23T13:00:00+00:00",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "score": 7.3,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 3.0,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-23T12:00:00+00:00",
+    "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+    "score": 6.808,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.908,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-09-23T00:00:00+00:00",
+    "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+    "score": 6.608,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 1.408,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-23T11:02:39+00:00",
+    "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with [\u2026]",
+    "score": 6.489,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.789,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trains but Doesn't Learn: A Post-Training Delivery Benchmark for LLM Agents as Forward-Deployed Engineers",
+    "url": "https://arxiv.org/abs/2609.25237",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25237v1 Announce Type: new Abstract: Post-training is becoming a service (PTaaS): a customer hands an operator data and a goal, and a forward-deployed engineer (FDE) returns a fine-tuned, evaluated, and deployed model under a budget, a human-approval gate, and reproducibility requirements. Seating an LLM agent in the FDE seat raises a question existing benchmarks cannot answer: not\u2026",
+    "score": 6.408,
+    "matched": [
+      "llm",
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.9,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PhysAI-Bench: A Benchmark for LLM-Based Agentic Decision-Making in Autonomous UAV-Centric Physical AI",
+    "url": "https://arxiv.org/abs/2609.23695",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.23695v1 Announce Type: new Abstract: Recent advances in Physical AI have accelerated the use of foundation models in autonomous systems such as unmanned aerial vehicles (UAVs), which must perceive, reason, plan, and act in dynamic environments. Existing benchmarks assess physical perception, intuitive physics, embodied navigation, and collaborative reasoning, but rarely evaluate the\u2026",
+    "score": 6.108,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ORDER: A Fictitious-World Benchmark for Domain-Adaptive Embodied AI",
+    "url": "https://arxiv.org/abs/2609.22285",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.22285v1 Announce Type: cross Abstract: Adapting language models to new domains via continual pre-training raises a basic evaluation problem: if the training corpus overlaps with what the model already knows, performance gains cannot be cleanly attributed to new learning rather than pre-existing knowledge. This matters most for knowledge-intensive, task-light (KHTL) robot deployments -\u2026",
+    "score": 6.108,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CivBench: Progress-Based Evaluation for LLMs' Strategic Decision-Making in Civilization V",
+    "url": "https://arxiv.org/abs/2604.07733",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2604.07733v2 Announce Type: replace Abstract: Evaluating strategic decision-making in LLM-based agents requires generative, competitive, and longitudinal environments, yet few benchmarks provide all three, and fewer still offer evaluation signals rich enough for long-horizon, multi-agent play. We introduce CivBench, a benchmark for LLM strategists (a model under an agentic setup) in\u2026",
+    "score": 6.108,
+    "matched": [
+      "llm",
+      "generative",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-22T16:30:00+00:00",
+    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [\u2026]",
+    "score": 5.971,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.471,
+      "keywords": 0.9,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Inference Engine to Inference Control Plane: Connecting vLLM, llm-d, and the Evolution of Efficient Distributed LLM Serving",
+    "url": "https://arxiv.org/abs/2609.23130",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.23130v1 Announce Type: new Abstract: Large language model (LLM) inference is evolving from an engine-local optimization problem into a distributed control problem involving reusable state, phase placement, heterogeneous accelerators, networking, autoscaling, reliability, and service-level objectives. This paper connects that transition across peer-reviewed systems research, open-source\u2026",
+    "score": 5.808,
+    "matched": [
+      "llm",
+      "large language model",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Law of Stop: Interruptibility, Injunctions, and the Governance of Agentic AI",
+    "url": "https://arxiv.org/abs/2609.22882",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.22882v1 Announce Type: cross Abstract: On June 12, 2026, the U.S. government ordered Anthropic to bar foreign nationals from two of its most capable models within ninety minutes. Unable to sort users by nationality in that time, it withdrew them from everyone. Weeks later, OpenAI agents under test escaped their sandbox and compromised Hugging Face, which stopped the intrusion without\u2026",
+    "score": 5.808,
+    "matched": [
+      "ai",
+      "openai",
+      "anthropic",
+      "hugging face",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking",
+    "url": "https://arxiv.org/abs/2607.26641",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2607.26641v2 Announce Type: replace-cross Abstract: Identity document (ID) authentication relies on the structural integrity of complex, high-frequency security patterns. However, advanced Generative AI models can now inject localized, high-fidelity manipulations, creating deceptive attacks that bypass standard verification. Training robust image forensic models to detect these anomalies is\u2026",
+    "score": 5.808,
+    "matched": [
+      "ai",
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Visual Jev: Accurate and Efficient Decisions from Shared Visual Context",
+    "url": "https://arxiv.org/abs/2609.25845",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25845v1 Announce Type: cross Abstract: Many vision applications ask several independent, forced-choice questions about the same image. Visual Jev encodes the image and public context once, executes isolated question suffixes as a batch, and reads candidate probabilities from the backbone's language-model head. Across four benchmarks, answer-supervised post-training raises equal-weight\u2026",
+    "score": 5.808,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-22T23:46:41+00:00",
+    "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna . It's going to take a while to get a good read on all of these new models, but here are my impressions so far. GPT-6 Sol and Luna are half the price of their GPT-5.6 equivalents GPT-5.6 Luna was already my\u2026",
+    "score": 5.58,
+    "matched": [
+      "gpt",
+      "claude",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.38,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ISA-Bench: A Benchmark for Computational Reasoning Across Instruction Set Architectures",
+    "url": "https://arxiv.org/abs/2609.22878",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.22878v1 Announce Type: new Abstract: Large language model code generation benchmarks primarily evaluate well-resourced languages like Python and Java, where models benefit from abundant training data. They provide limited evidence about reasoning in unfamiliar computational models: deriving arithmetic from a single subtract instruction, coordinating parallel programs across\u2026",
+    "score": 5.508,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do Not Trust the Benchmark: Limitations of General LLM Rankings and a Case for Task-Specific Evaluation",
+    "url": "https://arxiv.org/abs/2609.23201",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.23201v1 Announce Type: new Abstract: Benchmark scores increasingly influence the development, marketing, and selection of large language models (LLMs). Yet an overall score is interpretable only in relation to the system tested, the questions included, and the conditions of evaluation. This perspective examines five connected limitations of general LLM rankings: differences between\u2026",
+    "score": 5.508,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "WorkWorlds: An Infrastructure for Evaluating AI Agents on Workplace Tasks",
+    "url": "https://arxiv.org/abs/2609.23806",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.23806v1 Announce Type: new Abstract: Many knowledge-work benchmarks are constructed around individual tasks, with the context needed for each task selected together with or after the task has been specified. This design measures performance on workplace-like tasks in an environment assembled for the task. When task specification guides which context is selected, the evaluation can\u2026",
+    "score": 5.508,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "FinInteract: Benchmarking Clarification and Intent Integration in Ambiguous Financial Question Answering",
+    "url": "https://arxiv.org/abs/2609.24002",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.24002v1 Announce Type: new Abstract: Large language model agents increasingly answer financial questions by searching regulatory filings. Such questions are often deceptively under-specified: Meta Platforms' \"operating income\" is $46.75B consolidated but $62.87B for the Family of Apps segment, and each reading is exactly verifiable against the filing. A capable agent should recognize\u2026",
+    "score": 5.508,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "APEXA: Execution-Integrity Enforcement for Multi-Agent LLM Automation of Synchrotron Data Reduction",
+    "url": "https://arxiv.org/abs/2609.24165",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.24165v1 Announce Type: new Abstract: Synchrotron data reduction, detector calibration followed by azimuthal integration of terabyte-scale diffraction series, is a multi-step, expert-bound bottleneck that increasingly limits the science rate of user facilities. LLM agents promise to collapse it, but driving a real pipeline with a stochastic model creates a failure mode chat benchmarks\u2026",
+    "score": 5.508,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security",
+    "url": "https://arxiv.org/abs/2609.24662",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.24662v1 Announce Type: new Abstract: LLM-based agents increasingly operate in environments where they interact with users, tools, and external systems. Yet most security evaluations assume passive users and static control, ignoring the interactive dynamics that shape real agent behavior. We introduce \\textbf{DUMA-Bench}, a benchmark and evaluation protocol for measuring agent security\u2026",
+    "score": 5.508,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating Personal Information Output from Conversational Interactions in Generative AI Systems",
+    "url": "https://arxiv.org/abs/2609.22204",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.22204v1 Announce Type: cross Abstract: This exploratory pilot study evaluates the scope and perceived accuracy of personal information output from ongoing conversational interactions in generative AI systems using GPT-5.2 Instant and GPT-5.2 Thinking, categorized into three output types: Fact, Inference, and Confidence. Based on the evaluation results obtained from 15 Japanese\u2026",
+    "score": 5.508,
+    "matched": [
+      "ai",
+      "gpt",
+      "generative",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "H2LooP Telecom Model v1: From Telecom Comprehension to Autonomous Issue and PR Resolution",
+    "url": "https://arxiv.org/abs/2609.22241",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.22241v1 Announce Type: cross Abstract: We present H2LooP Telecom Model v1, a domain-specialized large language models fine-tuned for the telecommunications industry. We release two domain-adapted model variants serving complementary use cases: a comprehension-focused variant for telecom domain question answering and reasoning, and an agentic variant for autonomous telecom code\u2026",
+    "score": 5.508,
+    "matched": [
+      "agentic",
+      "fine-tun*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Initial Evaluation of Potential Bias in Coverage of Humans in Wikidata",
+    "url": "https://arxiv.org/abs/2609.22375",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.22375v1 Announce Type: cross Abstract: Introduction. Open collaborative knowledge graphs such as Wikidata increasingly ground agentic artificial intelligence, information retrieval, and language modeling systems, making systematic auditing of their demographic representation and overall equity a research imperative. Methods. Herein, we present an open-source auditing platform that\u2026",
+    "score": 5.508,
+    "matched": [
+      "artificial intelligence",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Capability to Assurance in Autonomous Penetration-Testing Harnesses: A Framework and Reference Implementation",
+    "url": "https://arxiv.org/abs/2609.22664",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.22664v1 Announce Type: cross Abstract: Research on large language model agents for penetration testing is evaluated almost entirely by capability: whether the agent captures a flag or reproduces a proof of concept. That metric suits a benchmark but is silent on the properties that decide whether an autonomous agent can be used in an authorized engagement: whether a reported finding is\u2026",
+    "score": 5.508,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Listen Then Reason: Perception-Grounded Test-Time Reinforcement Learning for Large Audio-Language Models",
+    "url": "https://arxiv.org/abs/2609.23589",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.23589v1 Announce Type: cross Abstract: Large audio-language models (LALMs) are increasingly used for a broader range of audio reasoning tasks. These models typically incorporate audio representations into a large language model (LLM) backbone to enable multimodal reasoning. Recent test-time reinforcement learning (TTRL) methods further improve LLM reasoning capability by leveraging\u2026",
+    "score": 5.508,
+    "matched": [
+      "llm",
+      "large language model",
+      "multimodal",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Federated Multilingual Speech-LLMs: Architecture and Aggregation Strategy Benchmarking",
+    "url": "https://arxiv.org/abs/2609.23825",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.23825v1 Announce Type: cross Abstract: We present a comprehensive benchmark of Federated Learning (FL) for multilingual Automatic Speech Recognition (ASR), evaluating four Speech-LLM architectures on the Multilingual LibriSpeech dataset. We compare FedAvg and FedProx across frozen and unfrozen encoder configurations, demonstrating that optimized learning rates are critical for\u2026",
+    "score": 5.508,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Bits to Beliefs: Recoverable Semantic Fingerprints for Black-Box Verification of Large Language Models",
+    "url": "https://arxiv.org/abs/2609.24084",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.24084v1 Announce Type: cross Abstract: Open-weight large language models (LLMs) can be copied, modified, and redeployed behind black-box APIs, making post-release ownership verification difficult. Existing black-box fingerprints often rely on secret query-key pairs that reproduce predefined responses, and can therefore be easily disrupted by fine-tuning, pruning, quantization, model\u2026",
+    "score": 5.508,
+    "matched": [
+      "fine-tun*",
+      "open-weight*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "WidgetVA: A Widget-Centric Framework and Benchmark for Agentic Visual Analytics",
+    "url": "https://arxiv.org/abs/2609.24094",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.24094v1 Announce Type: cross Abstract: Visual analytics (VA) enables sensemaking through interactive visualization, but effective analysis often requires experts to translate high-level intents into long sequences of interface operations and iteratively interpret visual feedback. We study whether modern vision-language models (VLMs) can take on this role as autonomous VA operators that\u2026",
+    "score": 5.508,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "url": "https://arxiv.org/abs/2609.25001",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2609.25001v1 Announce Type: cross Abstract: Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance\u2026",
+    "score": 5.508,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry",
+    "url": "https://arxiv.org/abs/2511.17909",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2511.17909v2 Announce Type: replace Abstract: Chemical reasoning inherently integrates visual, textual, and symbolic modalities, yet existing benchmarks rarely capture this complexity, often relying on simple image-text pairs with limited chemical semantics. As a result, the actual ability of Multimodal Large Language Models (MLLMs) to process and integrate chemically meaningful information\u2026",
+    "score": 5.508,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PTCG-Bench: Can LLM Agents Master Pok\\'emon Trading Card Game?",
+    "url": "https://arxiv.org/abs/2605.29653",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2605.29653v2 Announce Type: replace Abstract: Given a strategically complex board game, human players can quickly learn to devise strategies after playing a few rounds. Autonomous agents require similar capabilities in realistic interactive environments, yet existing agent benchmarks often fail to fully capture such strategic and evolving decision-making scenarios. We present PTCG-Bench, a\u2026",
+    "score": 5.508,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+    "url": "https://arxiv.org/abs/2606.05256",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2606.05256v2 Announce Type: replace Abstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to\u2026",
+    "score": 5.508,
+    "matched": [
+      "ai",
+      "llm"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Measure the Sim-to-Real Gap: Designing an Affordable Real-World Benchmark Platform for Reinforcement Learning in AIoT Systems",
+    "url": "https://arxiv.org/abs/2607.10309",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2607.10309v3 Announce Type: replace Abstract: Reinforcement learning (RL) is commonly employed to enhance the performance of autonomous systems, including the Autonomous Internet of Things (AIoT). However, the trial-and-error nature of RL, when conducted in real-world environments, is costly and hazardous in some scenarios. Consequently, the majority of RL research is conducted in\u2026",
+    "score": 5.508,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk",
+    "url": "https://arxiv.org/abs/2608.11234",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2608.11234v3 Announce Type: replace Abstract: Managing modern computing infrastructure has become a steadily harder problem due to the ever-increasing complexity. Recent advances in AI agents create a timely opportunity to automate infrastructure management tasks, but it remains unclear how well such agents can handle real-world infrastructure complexity. We present InfraBench, a benchmark\u2026",
+    "score": 5.508,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Discovery of Interpretable Surrogates via Agentic AI: Application to Gravitational Waves",
+    "url": "https://arxiv.org/abs/2605.11280",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-23T04:00:00+00:00",
+    "summary": "arXiv:2605.11280v2 Announce Type: replace-cross Abstract: Fast surrogate models for expensive simulations are now essential across the sciences, yet they typically operate as black boxes. We present \\texttt{GWAgent}, a large language model (LLM)-based workflow that constructs interpretable analytic surrogates directly from simulation data. Surrogate modeling is well suited to agentic workflows\u2026",
+    "score": 5.508,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.908,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  }
+]
