@@ -1,0 +1,740 @@
+[
+  {
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-24T09:04:18+00:00",
+    "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is [\u2026]",
+    "score": 7.446,
+    "matched": [
+      "ai",
+      "gemini",
+      "deepmind"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.546,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-24T11:52:32+00:00",
+    "summary": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the [\u2026]",
+    "score": 6.597,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.897,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "QUARTET: Quad-branch cross-Attention and Random-walk Traces for Enhancing Transformers on Relational Graphs",
+    "url": "https://arxiv.org/abs/2609.26855",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26855v1 Announce Type: cross Abstract: Relational Deep Learning (RDL) models multi-table databases as heterogeneous temporal graphs, and graph transformers currently achieve state-of-the-art performance on benchmarks like RelBench. However, the current leading model, RelGT, suffers from two key limitations: its random local sampler yields loosely connected subgraphs that hinder message\u2026",
+    "score": 6.412,
+    "matched": [
+      "deep learning",
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.9,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PotARCin: Multi-Dimensional Evaluation of Skill Acquisition in Abstract Reasoning Tasks",
+    "url": "https://arxiv.org/abs/2609.27288",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27288v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) has become a prominent benchmark for evaluating general abstract reasoning and fluid intelligence in AI models. Yet standard ARC evaluation considers only a single capability: producing the correct output grid for a test input. We argue that this narrow format fails to evaluate the diversity of abilities\u2026",
+    "score": 6.112,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Muse is coming to Meta smart glasses",
+    "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-23T23:40:56+00:00",
+    "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging [\u2026]",
+    "score": 5.972,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.372,
+      "keywords": 0.0,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+    "url": "https://arxiv.org/abs/2609.26836",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26836v1 Announce Type: new Abstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interaction, specifically in biology agentic workflow is limited. This study investigates specific failures\u2026",
+    "score": 5.812,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MolDesignBench: Evaluating LLM-based Agent for Scenario-grounded Molecular Design",
+    "url": "https://arxiv.org/abs/2609.27349",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27349v1 Announce Type: new Abstract: Real-world molecular design remains challenging for large language model (LLM)-based agents. It requires them to interpret design contexts, satisfy multiple constraints, identify infeasible specifications, and reason over multi-step tool outputs. Existing benchmarks do not capture this complexity, focusing instead on explicit and narrow constraints,\u2026",
+    "score": 5.812,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Learning the Cost of Reliable Inference",
+    "url": "https://arxiv.org/abs/2609.28322",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28322v1 Announce Type: new Abstract: Benchmarking and routing platforms increasingly act as intermediaries connecting large language model providers with end-users. However, providers on these platforms typically use a fixed price per token, preventing users from achieving the most competitive price for their tasks. % workloads. In this work, we design a procurement platform where\u2026",
+    "score": 5.812,
+    "matched": [
+      "large language model",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Spec2COBOLRot: An Agentic-AI Degradation Loop for Realistic COBOL Corpus Generation",
+    "url": "https://arxiv.org/abs/2609.26835",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26835v1 Announce Type: cross Abstract: COBOL remains widely deployed, yet representative corpora reflecting real production code are rarely available, limiting rigorous benchmarking of modernization approaches. We propose a systematic agentic AI pipeline for generating realistic COBOL programs, combining specification-driven generation with iterative degradation guided by patterns and\u2026",
+    "score": 5.812,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Schr\\\"odinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
+    "url": "https://arxiv.org/abs/2609.27891",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27891v1 Announce Type: cross Abstract: Repository-level coding benchmarks have become the standard for evaluating coding agents, yet they inherently suffer from data leakage because they are built upon popular open-source repositories repeatedly used for training. Consequently, strong performance may reflect memorization of canonical repository cues rather than robust repository\u2026",
+    "score": 5.812,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Systematic Benchmark of Explainable Methods for Temporal Attribution in Sequential Recommendation Systems",
+    "url": "https://arxiv.org/abs/2609.27201",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27201v1 Announce Type: new Abstract: Sequential RecSys are central to modern personalization, exploiting user's historical interaction sequences to drive next-step decisions. Deep learning models, particularly CNN and Transformer-based architectures, have proven highly effective at capturing temporal dependencies in these histories. For transparency and trust, understanding which past\u2026",
+    "score": 5.812,
+    "matched": [
+      "deep learning",
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MLSkip: Data Skipping for ML Filters via Lightweight Metadata",
+    "url": "https://arxiv.org/abs/2606.03946",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2606.03946v2 Announce Type: replace-cross Abstract: Database vendors recently released AI functions that can be used in filter predicates. As such functions often rely on costly, black-box ML models, they unveil new data management challenges. Concretely, traditional data skipping techniques for integer and string data fail to be applicable to the new filter type. Indeed, there is no known\u2026",
+    "score": 5.812,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta Connect 2026: The biggest news and announcements",
+    "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-23T22:45:00+00:00",
+    "summary": "It\u2019s about time for Meta Connect, the company\u2019s annual product launch event. This year, given the company\u2019s major focus on AI and wearables like smart glasses, it seems likely that we\u2019ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [\u2026]",
+    "score": 5.556,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.256,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Hunyuan-A13B Technical Report",
+    "url": "https://arxiv.org/abs/2609.27284",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27284v1 Announce Type: new Abstract: We present Hunyuan-A13B, an open-source large language model based on a Mixture-of-Experts architecture. It contains 80 billion total parameters but activates only 13 billion during inference, balancing model capability, computational efficiency, and deployment cost. The model is pretrained on a rigorously filtered 20T-token corpus with enhanced\u2026",
+    "score": 5.512,
+    "matched": [
+      "large language model",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
+    "url": "https://arxiv.org/abs/2609.27490",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27490v1 Announce Type: new Abstract: AI research agents need reliable knowledge of how their experiments change outcomes. We introduce WhatWorkedBench to measure experimental understanding, the accuracy of predictions about component changes after budgeted experimentation. Agents inspect code, select measurements, and submit a response surface, a table predicting scores for every\u2026",
+    "score": 5.512,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ask Which, Not How Good: Sizing Benchmarks Scored by an LLM",
+    "url": "https://arxiv.org/abs/2609.27787",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27787v1 Announce Type: new Abstract: Benchmarks scored by an LLM judge routinely adjudicate differences of a tenth of a point, but the resolution of those benchmarks has never been measured. Existing sample-complexity work covers accuracy benchmarks and leaves the judged case open. Treating the system as the object of measurement, we decompose 373,019 judgments into system, item, judge\u2026",
+    "score": 5.512,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What Makes a Terminal-Bench Task Hard? Separating Genuine Hardness from Fake-Hardness on an Adjudicated Agentic Corpus",
+    "url": "https://arxiv.org/abs/2609.26826",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26826v1 Announce Type: cross Abstract: Frontier benchmarks need tasks that current models cannot solve. But a task that no model solves is not automatically a hard task. The same zero pass rate can come from a real capability gap, but it can also come from missing context, a broken reference solution, infrastructure failure, or a verifier that can be bypassed. In this paper, we study\u2026",
+    "score": 5.512,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Validation and Simulation Catch Different Errors: Four Levels of Evaluation for LLM-Generated Circuits",
+    "url": "https://arxiv.org/abs/2609.26830",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26830v1 Announce Type: cross Abstract: Simulation success is not equivalent to structural correctness for LLM-generated circuits. We define and measure four evaluation levels -- schema validity, topological validity, backend executability, and component-set agreement -- on a 150-circuit trilingual benchmark, through a deployed pipeline built on a typed circuit interchange\u2026",
+    "score": 5.512,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An open benchmark for machine learning-based polymer property prediction",
+    "url": "https://arxiv.org/abs/2609.27036",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27036v1 Announce Type: cross Abstract: Polymer property prediction lacks open, standardized benchmarks that enable rigorous comparison of machine-learning methods, with existing resources covering only a narrow fraction of polymer architectures, such as homopolymers. We introduce Polymer Benchmark 2026 (PolyBench26), an open dataset comprising nearly 250,000 polymer-property datapoints\u2026",
+    "score": 5.512,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Phonemizing User-Generated Text: A Benchmark, Taxonomy, and Compositional Approach",
+    "url": "https://arxiv.org/abs/2609.27205",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27205v1 Announce Type: cross Abstract: Text-to-speech systems increasingly process user-generated text (UGT) such as ppl and imo, whose pronunciation must be inferred from the canonical rather than surface form. We introduce UGTPhon, the first grapheme-to-phoneme (G2P) benchmark for UGT in English, Vietnamese, and Korean, together with an inference-grounded taxonomy for fine-grained\u2026",
+    "score": 5.512,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Context Misleads: In-context Learning with Jurisdiction in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.27603",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27603v1 Announce Type: cross Abstract: In-Context Learning (ICL) has become a cornerstone of modern LLM deployment. However, existing ICL post-training methods have a critical blind spot: they excel at extracting patterns from demonstrations while often neglecting context authority, the ability to determine whether contextual information should govern the final answer. To benchmark\u2026",
+    "score": 5.512,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching",
+    "url": "https://arxiv.org/abs/2609.28107",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28107v1 Announce Type: cross Abstract: Advances in generative modeling have recently been extensively employed in robotics for policy learning. In particular, Conditional Flow Matching (CFM) trained with expert demonstrations has been shown to outperform existing methods on robot manipulation benchmarks. While prior work has mainly focused on single-task settings, we study the problem\u2026",
+    "score": 5.512,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+    "url": "https://arxiv.org/abs/2609.28449",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28449v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static code understanding and often rely on LLM-based evaluation, while execution-reasoning benchmarks are mostly limited to snippets or functions. We\u2026",
+    "score": 5.512,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TiAb Review Plugin: A Browser-Based Tool for AI-Assisted Study Selection in Systematic Reviews",
+    "url": "https://arxiv.org/abs/2604.08602",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2604.08602v2 Announce Type: replace-cross Abstract: Server-based screening tools impose subscription costs, while open-source alternatives require coding skills, and full-text screening has remained outside the scope of no-code open-source tools. We developed TiAb Review Plugin, an open-source Chrome browser extension that provides no-code, serverless artificial intelligence (AI)-assisted\u2026",
+    "score": 5.512,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Small Cues, Big Consequences: Learning Pivotal Cues for Multimodal Meme Classification",
+    "url": "https://arxiv.org/abs/2609.26907",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.26907v1 Announce Type: cross Abstract: Memes often derive their harmful, hateful, or sarcastic meaning from small but decisive visual, textual, or cross-modal cues. Existing multimodal classifiers can miss such evidence when relying mainly on global image-text representations. We introduce MemeCF, a cue-focused benchmark of 9,895 memes across harm, hate, and sarcasm, with annotations\u2026",
+    "score": 5.512,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
+    "url": "https://arxiv.org/abs/2609.28007",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28007v1 Announce Type: cross Abstract: Most Turkish-capable large language models (LLMs) are evaluated using general-purpose benchmarks rather than long, structurally complex domain documents. This paper evaluates five open-weight 7B-8B models for Turkish document question answering under a resource-constrained local deployment setting. The primary benchmark contains 100 systematically\u2026",
+    "score": 5.512,
+    "matched": [
+      "open-weight*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EvEMTBench: An Open Benchmark for Machine Learning in Power System Protection",
+    "url": "https://arxiv.org/abs/2609.28149",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28149v1 Announce Type: cross Abstract: Studies of machine-learning-based power system protection are difficult to compare because task definitions, measurement access, data partitions, metrics, and generalization conditions often differ. EvEMTBench addresses this gap with an open, executable, and versioned benchmark that fixes these evaluation choices while leaving model design open.\u2026",
+    "score": 5.512,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following",
+    "url": "https://arxiv.org/abs/2609.28395",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.28395v1 Announce Type: cross Abstract: Fine-tuning large language models on parallel data improves translation quality but can cause catastrophic forgetting. Mitigation methods are generally evaluated by retention on general benchmarks. We ask whether these findings transfer to machine translation (MT) fine-tuning and to MT-specific instruction following (MT-IF): instructions that\u2026",
+    "score": 5.512,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2607.21653",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2607.21653v3 Announce Type: replace Abstract: Agentic reinforcement learning requires rapid experimentation with agents and learning algorithms, yet large policies and long, multimodal trajectories demand substantial distributed infrastructure. We present MOLT, a lightweight, PyTorch- and Hugging Face-native framework that brings these goals together through four contributions. MOLT\u2026",
+    "score": 5.512,
+    "matched": [
+      "hugging face",
+      "agentic",
+      "multimodal",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "VMMU: A Vietnamese Multitask Multimodal Understanding and Reasoning Benchmark",
+    "url": "https://arxiv.org/abs/2508.13680",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2508.13680v5 Announce Type: replace-cross Abstract: We introduce VMMU, a Vietnamese Multitask Multimodal Understanding and Reasoning Benchmark designed to evaluate how vision-language models (VLMs) interpret and reason over visual and textual information beyond English. VMMU consists of 2.5k multimodal questions across 7 tasks, covering a diverse range of problem contexts, including STEM\u2026",
+    "score": 5.512,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents",
+    "url": "https://arxiv.org/abs/2609.27353",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27353v1 Announce Type: new Abstract: Web agents are usually evaluated in live environments, where environment state and judge models drift between runs, so the same checkpoint rarely reproduces the same score, making controlled studies of training phenomena impractical. We present WebMRE, an offline benchmark of 541 tasks and 5,293 steps derived from successful WebArena trajectories,\u2026",
+    "score": 5.512,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PRISM-VLM: A Multi-Axis Discriminative Benchmark for Compact Vision-Language Models",
+    "url": "https://arxiv.org/abs/2609.27395",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2609.27395v1 Announce Type: new Abstract: Compact vision-language models (VLMs) now power a growing share of multimodal applications. The benchmarks used to compare them, however, inherit a frontier-centric design: each model is reduced to a single accuracy number, narrowing the inter-model gap on saturated suites and pressing models into low-score bands on harder ones. We introduce\u2026",
+    "score": 5.512,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems",
+    "url": "https://arxiv.org/abs/2603.17373",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2603.17373v2 Announce Type: replace Abstract: Large language models are rapidly being deployed as AI tutors, yet current evaluation paradigms assess problem-solving accuracy and generic safety in isolation, failing to capture whether a model is simultaneously pedagogically effective and safe across student-tutor interaction. We argue that tutoring safety is fundamentally different from\u2026",
+    "score": 5.512,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Context-Aware Multimodal Claim Verification in Spoken Dialogues",
+    "url": "https://arxiv.org/abs/2606.11420",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-24T04:00:00+00:00",
+    "summary": "arXiv:2606.11420v2 Announce Type: replace Abstract: Spoken factual claims often occur within multi-turn conversations, where surrounding dialogue can provide context unavailable from the claim alone. Yet most fact-checking research evaluates isolated text, leaving conversational audio under-studied. We introduce MAD2, a synthetic Multi-turn Audio Dialogues benchmark for spoken claim verification\u2026",
+    "score": 5.512,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.912,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-24T10:46:56+00:00",
+    "summary": "The country\u2019s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "score": 5.46,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.76,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
