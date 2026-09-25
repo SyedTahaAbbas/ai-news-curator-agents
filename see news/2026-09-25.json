@@ -1,0 +1,751 @@
+[
+  {
+    "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T12:00:00+00:00",
+    "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [\u2026]",
+    "score": 7.206,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.906,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T09:16:25+00:00",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called \u201cPolygraph+\u201d or \u201cPolygraph Next,\u201d will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called \u201cstandoff sensing,\u201d which\u2026",
+    "score": 6.465,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "machine learning"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.565,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+    "url": "https://arxiv.org/abs/2609.29429",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29429v1 Announce Type: new Abstract: Detectors of alignment failures screen deployed language models and score alignment benchmarks. Most are generative judges that spend a decoding pass on every criterion, and classifiers that read token probabilities, such as Llama Guard, still score one fixed label per call. Jev, a model trained with reinforcement learning for calibrated decisions\u2026",
+    "score": 6.406,
+    "matched": [
+      "ai",
+      "llama",
+      "generative",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 1.5,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T11:00:28+00:00",
+    "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
+    "score": 5.882,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.782,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+    "url": "https://arxiv.org/abs/2609.28506",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it belong to the leaderboard's agentic category, multi-step systems that use agents or language models to reason about, generate or select forecasts. TW3Cast runs no agent and no\u2026",
+    "score": 5.806,
+    "matched": [
+      "agentic",
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RECLAIM: Can Agents Reproduce the Claims of Machine Learning Papers?",
+    "url": "https://arxiv.org/abs/2609.28850",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28850v1 Announce Type: new Abstract: Reproducing a machine learning paper involves most research steps, from installing software and debugging to running experiments, work that AI agents increasingly do. We introduce RECLAIM, a benchmark of 100 NeurIPS 2025 papers that can be rebuilt yearly from new conferences. For each paper we fix in advance the result to reproduce, what counts as a\u2026",
+    "score": 5.806,
+    "matched": [
+      "ai",
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Living Benchmark for Information Retrieval from Electronic Health Records",
+    "url": "https://arxiv.org/abs/2609.30205",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.30205v1 Announce Type: new Abstract: Large language model (LLM)-based clinical assistants are increasingly being integrated into electronic health record (EHR) systems, transforming how clinicians retrieve and synthesize information from patient records. Their safety and utility depend on rigorous evaluation, yet existing benchmarks are manually curated, costly to update, and rapidly\u2026",
+    "score": 5.806,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+    "url": "https://arxiv.org/abs/2609.30217",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.30217v1 Announce Type: cross Abstract: A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of completing ordinary tasks. We introduce EvasionBench, a benchmark of 50 diverse task-policy pairs in which\u2026",
+    "score": 5.806,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "IDRBench: Benchmarking the Interactive Capabilities of Deep Research Agents",
+    "url": "https://arxiv.org/abs/2601.06676",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2601.06676v3 Announce Type: replace-cross Abstract: Large Language Model (LLM)-based deep research agents perform multi-step reasoning, web exploration, and long-form report generation. In these long-horizon workflows, early deviations from user intent can misdirect research and propagate through planning, search, and synthesis, making timely interaction essential. However, existing\u2026",
+    "score": 5.806,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Language Specificity vs. Domain Diversity: Benchmarking Transformers for Bangla Medical NER",
+    "url": "https://arxiv.org/abs/2609.29101",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29101v1 Announce Type: new Abstract: Medical Named Entity Recognition (NER) for low-resource languages remains a challenging task due to high linguistic variability and a scarcity of domain-specific annotated corpora. This work presents a comprehensive empirical benchmark evaluating three fine-tuned transformer encoders-BanglaBERT, multilingual BERT (mBERT), and XLM-RoBERTa-against\u2026",
+    "score": 5.806,
+    "matched": [
+      "transformer*",
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Identical Rows Disagree: From Benchmark Identifiability to Replication-Robust Anomaly Detection",
+    "url": "https://arxiv.org/abs/2609.29580",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29580v1 Announce Type: new Abstract: A released table is often treated as an i.i.d. sample, although its repeated rows may encode business frequency, repeated entities, joins, resampling, or extraction errors. We show that this ambiguity creates a hidden measurement layer with three consequences: feature-identical rows impose an attained evaluation ceiling, row-weighted AUROC is\u2026",
+    "score": 5.806,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MLPerf Automotive",
+    "url": "https://arxiv.org/abs/2510.27065",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2510.27065v2 Announce Type: replace Abstract: We present MLPerf Automotive, the first standardized public performance benchmark for evaluating Machine Learning systems that are deployed for AI acceleration in automotive systems. Developed through a collaborative partnership within MLCommons, this benchmark addresses the need for standardized performance evaluation methodologies in\u2026",
+    "score": 5.806,
+    "matched": [
+      "ai",
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+    "url": "https://arxiv.org/abs/2609.28692",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28692v1 Announce Type: new Abstract: Artificial Intelligence agents based on large language models provide convenient natural language interfaces to scientific software, but reliability is not automatic. Here we introduce the Epydemix Agent Framework, an additive layer over Epydemix, an open-source Python library for stochastic compartmental epidemic modeling. The framework extends the\u2026",
+    "score": 5.506,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
+    "url": "https://arxiv.org/abs/2609.28876",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28876v1 Announce Type: new Abstract: We introduce Forecast-Dojo, a replayable environment for benchmarking and training LLM forecasting agents. It combines resolved prediction-market questions with dated news, allowing agents to research an event and revisit their predictions at successive historical dates. The same tasks and tools support repeated evaluation, collection of training\u2026",
+    "score": 5.506,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
+    "url": "https://arxiv.org/abs/2609.28919",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28919v1 Announce Type: new Abstract: Harnesses, the products that run AI coding agents, are multiplying, and enterprises are rolling them out to their employees: what started as pilots with a few hundred seats is scaling to tens of thousands. Most enterprises do not build these harnesses but buy them from large vendors, such as Anthropic's Claude Code or OpenAI's Codex. A harness\u2026",
+    "score": 5.506,
+    "matched": [
+      "ai",
+      "claude",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PFArena: Benchmarking Language Models for Protein Modification",
+    "url": "https://arxiv.org/abs/2609.28921",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28921v1 Announce Type: new Abstract: Protein modification requires navigating an immense sequence space, yet wet-lab validation remains low-throughput and costly. Although computational paradigms including protein language models (PLMs), large language models (LLMs), and LLM-based agents have shown promise in protein modification, their relative efficacy across realistic experimental\u2026",
+    "score": 5.506,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Baszta: Data-Centric Fine-Tuning of a Polish Multi-Label Safety Classifier",
+    "url": "https://arxiv.org/abs/2609.29266",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29266v1 Announce Type: new Abstract: We develop a multi-label Polish content-safety classifier by fine-tuning allegro/herbert-base-cased (124M) across five categories (hate, vulgarity, sexual content, crime, self-harm) using a Focal + R-Drop objective, and evaluate the resulting model against Bielik Guard (S\\'ojka) on the shared out-of-distribution Gadzi J\\k{e}zyk benchmark. Both\u2026",
+    "score": 5.506,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SkinAgent AI: A Safety-Grounded Multimodal Agentic Framework for Non-Diagnostic Skincare Support",
+    "url": "https://arxiv.org/abs/2609.29341",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29341v1 Announce Type: new Abstract: Consumer-facing skincare AI must coordinate visual evidence, product information, tool use, and user-facing actions within explicit evidence and safety boundaries. This study evaluates SkinAgent AI, a non-diagnostic multimodal framework that combines visual concern routing with grounded and auditable LLM-based orchestration. The architecture\u2026",
+    "score": 5.506,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SWE-Prometheus: Measuring Engineering Governance Improvements in Real-World Repositories",
+    "url": "https://arxiv.org/abs/2609.29465",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29465v1 Announce Type: new Abstract: Large language model based coding agents have made substantial progress on repository-level software engineering tasks. Existing repository benchmarks, however, usually start from a human-identified issue and evaluate whether a patch satisfies a functional signal. We present SWE-Prometheus, a benchmark for the broader task of improving repository\u2026",
+    "score": 5.506,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Delay-of-Gratification as a Multi-Agent Survival Micro-benchmark for Long-Horizon LLMs: Social Exposure, Personas, and Tool Use Budgets",
+    "url": "https://arxiv.org/abs/2609.29509",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29509v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as multi-turn agents that must sustain goals, use tools, and adapt to other agents over extended interactions. However, existing research lacks auditable, multi-turn, multi-factorial experiments that quantify LLM behavior under explicit constraints, with time-resolved statistics that reveal how\u2026",
+    "score": 5.506,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Is Reasoning Always Useful? Rethinking Reasoning Utility in Universal Multimodal Embeddings",
+    "url": "https://arxiv.org/abs/2609.29560",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29560v1 Announce Type: new Abstract: Reasoning-enhanced universal multimodal embeddings (UME) improve heterogeneous retrieval, but plausible rationales do not necessarily produce discriminative rankings. We study this gap by comparing the discriminative (DISC) and reasoning-driven generative (GEN) branches of UME-R1, a state-of-the-art reasoning UME method. We decompose reasoning\u2026",
+    "score": 5.506,
+    "matched": [
+      "generative",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Speculative Evaluation of Stochastic LLMs",
+    "url": "https://arxiv.org/abs/2609.28560",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28560v1 Announce Type: cross Abstract: Evaluating a stochastic large language model is costly: benchmark scores estimate expected performance from randomized rollouts, yet uniform repetition ignores sharp differences in task-level rollout variance. We ask how to minimize the variance of a fixed-benchmark mean under an exact rollout budget. We develop Speculative Evaluation with a\u2026",
+    "score": 5.506,
+    "matched": [
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Broadening Uncertainty Estimation for Audio Question Answering Across Methods, Formats, and Inputs",
+    "url": "https://arxiv.org/abs/2609.28879",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28879v1 Announce Type: cross Abstract: Audio-language models can produce confident answers unsupported by the audio, motivating uncertainty estimates that identify unreliable responses. We compare probability-based, sampling-based, self-verification, evidential, and contrastive measures across four open-weight models and five audio QA benchmarks. In multiple-choice evaluation,\u2026",
+    "score": 5.506,
+    "matched": [
+      "open-weight*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "On the Effectiveness of Kernel-Level Evidence for Agent Security",
+    "url": "https://arxiv.org/abs/2609.28915",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28915v1 Announce Type: cross Abstract: LLM agents are deployed into infrastructure that grants them broad host authority, yet existing agent-security benchmarks and defenses operate almost exclusively at the application telemetry layer: the served tool manifest, the user prompt, and the model's messages. Some threats, however, smuggle malicious instructions and actions past the\u2026",
+    "score": 5.506,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models",
+    "url": "https://arxiv.org/abs/2609.28991",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28991v1 Announce Type: cross Abstract: Video understanding is increasingly performed by multi-stage LLM agents that separate temporal grounding, visual observation, and reasoning. Yet these stages are typically evaluated on different benchmarks and distributions, making it difficult to determine where hallucinations originate. We first organize existing benchmarks around these stages\u2026",
+    "score": 5.506,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Design and Evaluation of LLM Chaining-Based Task Planning for General Purpose Service Robots",
+    "url": "https://arxiv.org/abs/2609.29043",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29043v1 Announce Type: cross Abstract: General Purpose Service Robot (GPSR) tasks, as defined in the RoboCup@Home benchmark, require robots to interpret diverse natural language commands and generate multi-step action sequences in real home environments. Conventional Single Prompt (SP) approaches suffer from context bloat and the \"Lost in the Middle\" phenomenon, leading to unreliable\u2026",
+    "score": 5.506,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning",
+    "url": "https://arxiv.org/abs/2609.29045",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29045v1 Announce Type: cross Abstract: Open-weight LLMs give downstream users control over the inference stack, but this flexibility can undermine post-release guarantees that sensitive knowledge has been modified or removed. Model editing and machine unlearning are used to modify or remove targeted knowledge without retraining models from scratch. However, existing security\u2026",
+    "score": 5.506,
+    "matched": [
+      "open-weight*",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence",
+    "url": "https://arxiv.org/abs/2609.29669",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29669v1 Announce Type: cross Abstract: Robot learning now advances along two tracks that rarely meet. On one side, direct Vision-Language-Action (VLA) policies map observations to actions and are scored by closed-loop task success. On the other, predictive and generative world models forecast future observations and are scored by open-loop prediction or generation quality. A natural\u2026",
+    "score": 5.506,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking and Domain Adaptation of Automatic Speech Recognition (ASR) for Adolescent Health Communication in Ghanaian Languages",
+    "url": "https://arxiv.org/abs/2609.29798",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.29798v1 Announce Type: cross Abstract: This paper presents an end-to-end study of automatic speech recognition (ASR) for adolescent health communication in three Ghanaian languages (Twi, Dagbani, and Ewe). The work proceeds in three connected stages; First, we benchmark five ASR systems (three language-specific Wav2Vec2 models and two multimodal LLMs, Gemma 3n and Gemma 4) on a\u2026",
+    "score": 5.506,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization",
+    "url": "https://arxiv.org/abs/2609.30059",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.30059v1 Announce Type: cross Abstract: Deep learning inference and training performance depends critically on GPU kernel efficiency. Modern compilers such as PyTorch Inductor automatically generate GPU kernels from high-level model code, but frequently underperform expert-written implementations by wide margins. Recent LLM-assisted kernel optimizers can close this gap for standalone\u2026",
+    "score": 5.506,
+    "matched": [
+      "deep learning",
+      "llm",
+      "agentic",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+    "url": "https://arxiv.org/abs/2609.30227",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.30227v1 Announce Type: cross Abstract: Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language\u2026",
+    "score": 5.506,
+    "matched": [
+      "retrieval augmented",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking the Limits of In-Context Reinforcement Learning for Ad-Hoc Teamwork",
+    "url": "https://arxiv.org/abs/2605.24423",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2605.24423v2 Announce Type: replace Abstract: In-Context Reinforcement Learning (ICRL) has enabled foundation agents to adapt instantaneously to novel tasks, yet its efficacy in Ad-Hoc Teamwork (AHT)-where coordination with unknown partners is required-remains unexplored. To rigorously evaluate this, we introduce a large-scale benchmark ICRL4AHT, built upon a high-throughput JAX\u2026",
+    "score": 5.506,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks",
+    "url": "https://arxiv.org/abs/2507.00938",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2507.00938v4 Announce Type: replace-cross Abstract: Foundation models now enable autonomous agents to interact with real-world websites, but existing benchmarks emphasize general-purpose browsing, underrepresent research-oriented environments and scholarly discovery workflows, and often depend on live sites whose changing content and structure undermine reproducibility. arXiv provides a\u2026",
+    "score": 5.506,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LiveMathematicianBench: A Live Benchmark for Research-Level Mathematical Reasoning with Proof Sketches",
+    "url": "https://arxiv.org/abs/2604.01754",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2604.01754v2 Announce Type: replace-cross Abstract: Mathematical reasoning is a hallmark of human intelligence, and whether large language models (LLMs) can meaningfully perform it remains a central question in artificial intelligence and cognitive science. As LLMs are increasingly integrated into scientific workflows, rigorous evaluation of their mathematical capabilities becomes a\u2026",
+    "score": 5.506,
+    "matched": [
+      "artificial intelligence",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "UltraBench 2: Towards Robust Evaluation of Vision Foundation Models on Ultrasound",
+    "url": "https://arxiv.org/abs/2609.28610",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-25T04:00:00+00:00",
+    "summary": "arXiv:2609.28610v1 Announce Type: cross Abstract: Benchmarking is an increasingly critical part of research in machine learning and the domains where it is applied, including healthcare. Yet, despite the steady development of new ultrasound foundation models in recent years, the development of well-designed benchmarks to evaluate them has lagged behind. This deficiency has led to fragmented and\u2026",
+    "score": 5.506,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.906,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
