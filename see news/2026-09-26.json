@@ -1,0 +1,700 @@
+[
+  {
+    "title": "Has anyone used the Forrester function?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wqm4no/has_anyone_used_the_forrester_functiond/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-26T09:24:09+00:00",
+    "summary": "Hey guys, I came across the Forrester function recently while studying mathematics, and I started wondering if there\u2019s more to it than just being a mathematical function. I have a feeling I\u2019ve seen it come up in machine learning or optimization, but I\u2019m not really sure what it\u2019s actually used for. Does anyone here have experience with it? Is it mostly something people use to test/benchmark ML or\u2026",
+    "score": 6.049,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.649,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta\u2019s Muse Is Adults-Only. Why Does It Look Like a Kids\u2019 Toy?",
+    "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-26T10:30:00+00:00",
+    "summary": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot\u2014and upcoming Tamagotchi-style AI device\u2014may be disarming for users of all ages.",
+    "score": 5.486,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.786,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta\u2019s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T18:22:47+00:00",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d maybe someone should have asked: what pace? Now it\u2019s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI\u2019s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT\u2019s\u2026",
+    "score": 5.271,
+    "matched": [
+      "ai",
+      "gpt",
+      "chatgpt",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.771,
+      "keywords": 1.5,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-09-25T19:00:00+00:00",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "score": 5.148,
+    "matched": [
+      "gpt"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.848,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T18:33:59+00:00",
+    "summary": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+    "score": 4.994,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.794,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T16:00:00+00:00",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d maybe someone should have asked: what pace? Now it\u2019s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI\u2019s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT\u2019s\u2026",
+    "score": 4.973,
+    "matched": [
+      "ai",
+      "gpt",
+      "chatgpt",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.473,
+      "keywords": 1.5,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T21:36:20+00:00",
+    "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+    "score": 4.874,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.174,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-26T07:10:45+00:00",
+    "summary": "Distributed Training and Inference both involves having a fundamental understanding of how distributed systems work in general Distributed Parallelism Tensor Parallelism Pipeline Parallelism Model Parallelism Reading and reading and reading or even worse, not knowing where to start ;( That\u2019s boring! We want to read what\u2019s just needed and quickly get started with applications and that\u2019s what\u2026",
+    "score": 4.871,
+    "matched": [
+      "inference"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.371,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T22:20:47+00:00",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "score": 4.867,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.267,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T23:11:10+00:00",
+    "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+    "score": 4.672,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.372,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
+    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-26T01:08:57+00:00",
+    "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+    "score": 4.617,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.617,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T15:39:48+00:00",
+    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [\u2026]",
+    "score": 4.431,
+    "matched": [
+      "ai",
+      "openai",
+      "anthropic",
+      "hugging face"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.431,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T19:13:38+00:00",
+    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "score": 4.177,
+    "matched": [
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.877,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta opens early access program for new Muse features",
+    "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T20:34:53+00:00",
+    "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
+    "score": 4.046,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.046,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Confused About job title [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc5ac/confused_about_job_title_r/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-26T00:11:06+00:00",
+    "summary": "ML jobs are confusing nowadays,it wraps up as \"AI/ML\" engineer and they want you to have software engineering skill and DSA skill to and on top of that they want you to have Fast API with AI API wrapping, they don't ask for data processing or maths skills , atleast 99% time I have seen, ML jobs are for phD level candidate I think submitted by /u/Ishaat_Rahman [link] [comments]",
+    "score": 3.996,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.496,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T19:11:05+00:00",
+    "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.\u201d",
+    "score": 3.971,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.871,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T17:29:46+00:00",
+    "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+    "score": 3.96,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.66,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Astra and Opus just passed Turing\u2019s other test",
+    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T17:24:36+00:00",
+    "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+    "score": 3.95,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.65,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T21:10:51+00:00",
+    "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+    "score": 3.921,
+    "matched": [],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.121,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T18:48:33+00:00",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "score": 3.824,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.824,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T16:16:52+00:00",
+    "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+    "score": 3.808,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.508,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "For months, OpenAI\u2019s agent swarms have been attacking online databases to find obscure facts",
+    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T15:48:14+00:00",
+    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+    "score": 3.749,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.449,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Thieves Stole \u2018Nvidia\u2019 Trailers. They Got 20 Tons of Sand",
+    "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T20:30:40+00:00",
+    "summary": "They wanted the silicon. They got the sand.",
+    "score": 3.737,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.037,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic\u2019s founders seek voting control ahead of IPO",
+    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T15:40:03+00:00",
+    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+    "score": 3.732,
+    "matched": [
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.432,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Medical student asked if they can match into Neurosurgery without an A* first author paper [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc6ci/medical_student_asked_if_they_can_match_into/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-26T00:12:30+00:00",
+    "summary": "This is how ridiculous things have become submitted by /u/Even-Inevitable-7243 [link] [comments]",
+    "score": 3.699,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.499,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T16:49:53+00:00",
+    "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [\u2026]",
+    "score": 3.677,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.577,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence\u2019s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T15:00:00+00:00",
+    "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+    "score": 3.648,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.348,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting John Gruber",
+    "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-25T17:22:01+00:00",
+    "summary": "Muse is getting a lot of attention \u2014 including mine \u2014 because it\u2019s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta\u2019s cloud) and because it\u2019s packaged in an easy-to-install easy-to-use way. It\u2019s literally presented as a cute mascot . It\u2019s the first consumer-accessible agentic AI system, and Meta has truly done an amazing job with that. But it\u2019s\u2026",
+    "score": 3.644,
+    "matched": [
+      "ai",
+      "agentic"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.644,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T16:58:20+00:00",
+    "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+    "score": 3.595,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.595,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+    "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T17:57:37+00:00",
+    "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+    "score": 3.518,
+    "matched": [],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.718,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Sony and UMG are suing Suno again",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T15:51:56+00:00",
+    "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign [\u2026]",
+    "score": 3.256,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.456,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T14:15:00+00:00",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "score": 3.255,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.255,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+    "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T14:00:00+00:00",
+    "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
+    "score": 3.223,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.223,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
+    "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-25T13:00:00+00:00",
+    "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [\u2026]",
+    "score": 3.198,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.098,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What are people building in computer vision, and what's still painful? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-25T18:21:22+00:00",
+    "summary": "I've built a lot of ML systems over the years, mainly computer vision models optimised to run on mobile phones. For example, my previous company built the food recognition model for MyFitnessPal. I'm interested in what people are actually deploying in industry now. Are edge models still a big part of your work, are you hosting your own models, or are you mostly sending requests to APIs? What's\u2026",
+    "score": 2.968,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.768,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
