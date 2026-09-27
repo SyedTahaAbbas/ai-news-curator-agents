@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-27T01:30:00+00:00",
+    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "score": 5.165,
+    "matched": [
+      "ai",
+      "gemini"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.565,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When do ICLR submissions and reviews become public? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-27T06:27:37+00:00",
+    "summary": "Hi everyone, I have a question about ICLR\u2019s open review process. I have experience with ICML/NeurIPS/AAAI, but this is my first time submitting to ICLR, and I understand that its public review process works differently. (1) The submission portal says that papers are made public to the community \u201cfrom the beginning of the review process.\u201d When exactly does this happen? Reviews start in October,\u2026",
+    "score": 4.385,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.185,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-27T03:38:07+00:00",
+    "summary": "Hey r/MachineLearning ! I\u2019ve been working on a new optimizer called Tauon (turns out there is already \"teon\" but well if you have better idea, - i will gladly accept it! Anyway the core idea of optimizer is about polynomials and orthogonalization just like muon, the whole difference is that i managed to lower total number of steps (first through spectral filtering down to 3 steps then through\u2026",
+    "score": 4.332,
+    "matched": [
+      "gpt"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.832,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-26T21:02:06+00:00",
+    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "score": 4.307,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.007,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Publication potential [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-26T18:23:31+00:00",
+    "summary": "Hi all, I may be being silly but I have just finished my masters thesis which benchmarked three deep learning architectures (one of which is novel), across varying preprocessing pipelines for the purpose of EEG motor imagery task classification SPECIFICALLY on a consumer grade EEG cap (OpenBCI\u2019s Galea). The novel architecture was built to be compact in param count as well as prevent overfitting,\u2026",
+    "score": 4.077,
+    "matched": [
+      "deep learning",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.677,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "K\u0101k\u0101p\u014d Party",
+    "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-09-26T23:39:06+00:00",
+    "summary": "Tool: K\u0101k\u0101p\u014d Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking k\u0101k\u0101p\u014d breeding season we had in 2026. For my closing slide I wanted to celebrate, and I had seen some buzz around how good Claude Opus 5.5 was at creating pixel art animations. So I rounded up three Kakapo photos\u2026",
+    "score": 4.034,
+    "matched": [
+      "claude"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.334,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Teaching Neural Nets to Fight with RL [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-27T03:10:39+00:00",
+    "summary": "In this project I wanted to see if any interesting emergent behaviors would appear if we trained two agents to play a streetfighter-like game using RL. Maybe obvious in retrospect, but the agents are really good at reward hacking. I had to shape the rewards a bit to get them to even approach each other. I eventually used league play to improve the agent further. Without it, the agents don\u2019t\u2026",
+    "score": 3.975,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.775,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-27T02:16:26+00:00",
+    "summary": "Hello everyone, I am currently a final-year undergrad and I luckily got my first first-author paper accepted to NeurIPS. I would really like to come to Sydney to present my work. However, I am not sure I can attend yet, since my final exam period is around the same time as the conference. As I was reading the registration process on the NeurIPS blog, they said: \"If the designated author has\u2026",
+    "score": 3.862,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.662,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI pauses training of its \u2018most capable models\u2019",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-26T16:34:59+00:00",
+    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [\u2026]",
+    "score": 3.551,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.451,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I created an interactive digital avatar of myself \u2014 and you can talk to it",
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-26T14:00:00+00:00",
+    "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "score": 3.428,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.128,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-26T14:00:00+00:00",
+    "summary": "Today, I\u2019m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet \u2014 and now it [\u2026]",
+    "score": 3.228,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.128,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "My paper got accepted at NeurIPS TAE Workshop 2026 \u2014 any advice on getting travel funding?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wquo3w/my_paper_got_accepted_at_neurips_tae_workshop/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-26T16:22:59+00:00",
+    "summary": "Hi everyone, I am happy to share that my paper has been selected for presentation at the TAE Workshop at NeurIPS 2026 , which will be held on December 11, 2026 . I am really excited about the opportunity to present my work and attend the workshop, but I am currently trying to figure out how to cover the airfare , which is a significant expense for me. I am a working professional , so I am not\u2026",
+    "score": 3.226,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.426,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-26T18:38:38+00:00",
+    "summary": "Hi everyone, I built an educational tool that shows what happens inside a small MLP while it trains, and I'd like some feedback from people who teach ML. Everything is plain NumPy, no autograd: manual backprop, SGD with momentum, L2, dropout, cosine decay and 4 activations. On MNIST it gets to about 98.5% with the full training set. During training you see the loss per mini-batch and per epoch,\u2026",
+    "score": 2.908,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.708,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
