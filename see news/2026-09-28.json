@@ -1,0 +1,726 @@
+[
+  {
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+    "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T13:36:06+00:00",
+    "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [\u2026]",
+    "score": 7.377,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.777,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T14:00:00+00:00",
+    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "score": 6.726,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.826,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T13:38:48+00:00",
+    "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+    "score": 6.682,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.782,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Next five VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T14:30:00+00:00",
+    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Startup Battlefield 200 is almost here, and with today\u2019s announcement, the judging panel is nearly complete. In just a couple of weeks, 200 carefully selected startups will gather at [\u2026]",
+    "score": 6.489,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.889,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T14:05:00+00:00",
+    "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
+    "score": 6.437,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.837,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen3-VL 8B on a laptop vs Opus 5.5 / Sonnet 5 / GPT-5.6 on 137 messy documents: beat GPT-5.6 on tax forms, lost badly on Indian date formats[R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-28T11:11:59+00:00",
+    "summary": "I benchmarked Qwen3-VL 8B Instruct (Q4_K_M, Ollama, M5 24GB, ~30s/doc) against Claude Opus 5.5, Sonnet 5 and GPT-5.6 Terra on: - receipts: CORD (Indonesia) and SROIE (Malaysia), 30 each - 20 scanned 1980s-90s invoices , answer keys human-verified - 32 real IRS forms, 4 damage levels (generated this week, so not in anyone's training data) - 10 synthetic Indian bank statements, 15 CUAD contracts\u2026",
+    "score": 6.176,
+    "matched": [
+      "gpt",
+      "claude",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.476,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+    "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T14:00:00+00:00",
+    "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors and tech leaders at San Francisco's Moscone West on Oct 13-15.",
+    "score": 5.826,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.826,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-28T05:49:38+00:00",
+    "summary": "AI Engineering from Scratch is an MIT-licensed curriculum: 523 lessons across 20 phases, from linear algebra and backprop to transformers, LLMs, agents, and production serving. The code is stdlib-first, so you see every step instead of calling a library. This month's edition: - six EPUB and PDF volumes built from the lessons, attached to the release - the site interface and lessons in eight\u2026",
+    "score": 5.805,
+    "matched": [
+      "ai",
+      "transformer*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.805,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T09:00:00+00:00",
+    "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "score": 5.801,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.201,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+    "url": "https://arxiv.org/abs/2609.30489",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30489v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal tasks. We assembled BioEVAL (BioEngineering Validation of AI and LLMs), a\u2026",
+    "score": 5.776,
+    "matched": [
+      "ai",
+      "llm",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Cheap, open agents make LLM pollution harder to mitigate",
+    "url": "https://arxiv.org/abs/2609.31054",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31054v1 Announce Type: new Abstract: Large Language Model (LLM) pollution occurs when synthetic responses contaminate data intended to capture human behavior. High deployment costs have so far limited the risk posed by autonomous survey agents. However, open-weight models paired with open-source agentic frameworks may have removed this barrier. We compared the performance and\u2026",
+    "score": 5.776,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "open-weight*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design",
+    "url": "https://arxiv.org/abs/2506.04734",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2506.04734v3 Announce Type: replace Abstract: Reasoning models represented by the Deepseek-R1-Distill series have been widely adopted by the open-source community due to their strong performance in mathematics, science, programming, and other domains. However, our study reveals that their benchmark evaluation results are subject to significant fluctuations caused by various factors. Subtle\u2026",
+    "score": 5.776,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Agentick: A Unified Benchmark for General Sequential Decision-Making Agents",
+    "url": "https://arxiv.org/abs/2605.06869",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2605.06869v3 Announce Type: replace Abstract: AI agent research spans a wide spectrum: from RL agents that learn from scratch to foundation model agents that leverage pre-trained knowledge, yet no unified benchmark enables fair comparison across these approaches. We present Agentick, a benchmark for sequential decision-making agents designed to evaluate RL, LLM, VLM, hybrid, and human\u2026",
+    "score": 5.776,
+    "matched": [
+      "ai",
+      "llm",
+      "foundation model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
+    "url": "https://arxiv.org/abs/2608.00008",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2608.00008v2 Announce Type: replace Abstract: The local deployment of large language models (LLMs) is gaining traction due to privacy concerns and the desire for on-premise inference. However, the energy costs on consumer hardware remain poorly characterized, as most benchmarks focus solely on accuracy. This paper presents a reproducible, hardware-level energy benchmark of 18 open-source\u2026",
+    "score": 5.776,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "HuPER: A Human-Inspired Framework for Phonetic Perception",
+    "url": "https://arxiv.org/abs/2602.01634",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2602.01634v2 Announce Type: replace-cross Abstract: We propose HuPER, a human-inspired framework that models phonetic perception as adaptive inference over acoustic-phonetics evidence and linguistic knowledge. With only 100 hours of training data, HuPER achieves state-of-the-art phonetic error rates on five English benchmarks and strong zero-shot transfer to 95 unseen languages. HuPER is\u2026",
+    "score": 5.776,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Who\u2019s liable when AI agents go rogue?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T08:06:22+00:00",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents\u2026",
+    "score": 5.69,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.09,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wsfkwg/browser_demo_of_our_clash_royale_rl_environment_a/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-28T14:06:42+00:00",
+    "summary": "Yesterday I shared our open-source Clash Royale simulator and its recurrent PPO agent here. A training loop is easier to understand when you can watch it, so we put a small interactive version online: https://itzik123.github.io/ClashRoyaleAi/lab/ The task is one decision. An attacker spawns at a random point on the enemy side, and the policy picks a legal cell for one defending card, then a delay\u2026",
+    "score": 5.64,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.84,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The SaaSpocalypse that wasn\u2019t, with Atlassian CEO Mike Cannon-Brookes",
+    "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T14:00:00+00:00",
+    "summary": "Today, I\u2019m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on \u2014 it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to [\u2026]",
+    "score": 5.626,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.826,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-09-28T09:44:05+00:00",
+    "summary": "",
+    "score": 5.293,
+    "matched": [],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.293,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T11:00:09+00:00",
+    "summary": "\u201cMicrosoft claims to want to be a good neighbor, but the jury is still out.\"",
+    "score": 5.252,
+    "matched": [],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.452,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T11:32:19+00:00",
+    "summary": "Sam Altman says the company \u201chave not been as fast as we would have liked\u201d at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+    "score": 5.219,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.519,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
+    "url": "https://arxiv.org/abs/2609.30550",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30550v1 Announce Type: new Abstract: Benchy is a semantic language and execution engine for benchmarking AI programs. A benchmark is completely specified by a program, a scoring function, and a dataset, B=(P,S,D), and is separate from the AI-system taking it; a run binds the two, R=(B,AI). Benchmarks are authored as canonical YAML in which each semantic concept has one valid syntax,\u2026",
+    "score": 5.176,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Backbone-Adaptive Evidence Routing for Robust Pairwise LLM Judging",
+    "url": "https://arxiv.org/abs/2609.30751",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30751v1 Announce Type: new Abstract: Pairwise language-model judges can gather evidence through direct comparison, reasoning, or reference-based verification, but no single protocol is best across benchmarks and judge backbones. We introduce Backbone-Adaptive Evidence Routing (BAER), which adapts the evidence mechanism while preserving candidate symmetry: swapping the two responses may\u2026",
+    "score": 5.176,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents",
+    "url": "https://arxiv.org/abs/2609.30971",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30971v1 Announce Type: new Abstract: Embodied agents offer a promising route to automating scientific experimentation, yet their progress is constrained by the lack of reliable and systematic evaluation environments. Existing simulation-based laboratory benchmarks rely heavily on manual task engineering, making it challenging to systematically compile diverse scientific protocols into\u2026",
+    "score": 5.176,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Game Arena: Strategic LLM Evaluation in Competitive Environments",
+    "url": "https://arxiv.org/abs/2609.31473",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31473v1 Announce Type: new Abstract: We introduce Kaggle Game Arena, an open and ever-expanding platform to evaluate large language models (LLMs) through competitive games. Different from static benchmarks, game arena enables models to play head-to-head matchups in structured environments where the gameplay strength naturally increases as models evolve, preventing performance\u2026",
+    "score": 5.176,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Mechanistic Study of AI-Text Detection Neurons in Frozen BERT: Sparse Probing and Activation Patching on RAID",
+    "url": "https://arxiv.org/abs/2609.30287",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30287v1 Announce Type: cross Abstract: AI-generated text detectors achieve high accuracy on standard benchmarks, yet the internal representations that drive these predictions remain poorly understood. We study which neurons in a frozen BERT-base-uncased encoder support AI-text detection, using the RAID benchmark across six generators spanning pure-base and instruction-tuned models. We\u2026",
+    "score": 5.176,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Werracle: Sub-Cent Intra-Block AI Reflex Oracles and Flash-Loan Circuit Breakers for EVM Smart Contracts",
+    "url": "https://arxiv.org/abs/2609.30719",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.30719v1 Announce Type: cross Abstract: Contemporary on-chain artificial intelligence (AI) encounters an intractable Von Neumann memory and latency wall. Storing static floating-point neural weight matrices inside Ethereum Virtual Machine (EVM) storage costs millions of gas, rendering direct on-chain inference impossible. While Zero-Knowledge Machine Learning (ZK-ML) offloads matrix\u2026",
+    "score": 5.176,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "machine learning",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "JevAdvBench: A Benchmark and Black-Box Attacks for Reinforcement Learning for Calibrated Decisions Models",
+    "url": "https://arxiv.org/abs/2609.31142",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31142v1 Announce Type: cross Abstract: Models trained with reinforcement learning for calibrated decisions (RLCD), such as Jev, answer a typed question about an input, the state, with a probability, a choice, or a score, and software acts on the answer without a person reading it. Their robustness has not been measured: adversarial benchmarks score what a model generates or executes,\u2026",
+    "score": 5.176,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
+    "url": "https://arxiv.org/abs/2609.31468",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.31468v1 Announce Type: cross Abstract: LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on a few comparable attributes, where the pick reveals those preferences. We\u2026",
+    "score": 5.176,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory",
+    "url": "https://arxiv.org/abs/2602.12316",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2602.12316v3 Announce Type: replace Abstract: Frontier AI systems are increasingly capable and deployed in high-stakes multi-agent environments. However, existing AI safety benchmarks largely evaluate single agents, leaving multi-agent risks such as coordination failure and conflict poorly understood. We introduce GT-HarmBench, a benchmark of 1,535 high-stakes scenarios spanning\u2026",
+    "score": 5.176,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SciR: A Controllable Benchmark for Scientific Reasoning in LLMs",
+    "url": "https://arxiv.org/abs/2606.13020",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2606.13020v3 Announce Type: replace Abstract: Three paradigmatic forms of inference recur across scientific reasoning: deduction, induction, and causal abduction. Reliably evaluating LLMs on these in scientific settings is currently out of reach: scientific benchmarks built on human annotations are costly and lack mechanistic ground truth, while synthetic logical-reasoning benchmarks do not\u2026",
+    "score": 5.176,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy",
+    "url": "https://arxiv.org/abs/2608.08163",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2608.08163v2 Announce Type: replace Abstract: The convergence of the Metaverse and Large Language Model (LLM)-based AI agent is catalyzing a shift toward autonomous, immersive, and personalized pedagogical frameworks in medical education. This paper presents a novel agentic AI-driven immersive simulation specifically designed for High Dose Rate (HDR) vaginal cylinder (VC) brachytherapy in\u2026",
+    "score": 5.176,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PhysElite: How Far Are LLMs from Solving Olympiad-Level Physics Problems?",
+    "url": "https://arxiv.org/abs/2608.25097",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2608.25097v2 Announce Type: replace Abstract: Understanding how (multimodal) large language models perform on physics problems requires benchmarks that reflect the difficulty and breadth of expert-level physical reasoning. Existing physics benchmarks remain limited in the following two important ways: (1) short of high-difficulty datasets, and (2) lack of comprehensive coverage of visual\u2026",
+    "score": 5.176,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark",
+    "url": "https://arxiv.org/abs/2606.30170",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2606.30170v2 Announce Type: replace-cross Abstract: Generative molecular design is shaped by simple proxy benchmarks for drug-like properties and models pretrained on large pharmaceutical datasets. This combination yields strong benchmark metrics but limits transferability to domains structurally distinct from drug discovery. To overcome this limitation and drive discovery toward real,\u2026",
+    "score": 5.176,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Apollo Restore: A Foundation LLM for Historical Greek Optimized for Fill-in-the-Middle Restoration of Ancient Greek Texts",
+    "url": "https://arxiv.org/abs/2609.22455",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-28T04:00:00+00:00",
+    "summary": "arXiv:2609.22455v3 Announce Type: replace Abstract: We present Apollo Restore, a 24-billion-parameter large language model for restoring lacunae---physical gaps---in fragmentary Ancient Greek texts. Fine-tuned from Mistral Small with a fill-in-the-middle objective, Apollo Restore reconstructs missing spans without requiring oracle knowledge of their length. To our knowledge, it is the first\u2026",
+    "score": 5.176,
+    "matched": [
+      "llm",
+      "large language model",
+      "mistral",
+      "fine-tun*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.576,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  }
+]
