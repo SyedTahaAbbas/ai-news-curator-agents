@@ -1,0 +1,715 @@
+[
+  {
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T12:30:00+00:00",
+    "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "score": 7.307,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.807,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T12:45:05+00:00",
+    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "score": 6.439,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.839,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T13:53:01+00:00",
+    "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+    "score": 6.28,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.98,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T13:47:30+00:00",
+    "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+    "score": 6.269,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.969,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T11:48:27+00:00",
+    "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [\u2026]",
+    "score": 6.121,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.721,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Making AI an asset, not an expense",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T10:43:45+00:00",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only\u2026",
+    "score": 5.886,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.586,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-09-29T13:07:00+00:00",
+    "summary": "",
+    "score": 5.884,
+    "matched": [],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.884,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T10:36:22+00:00",
+    "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+    "score": 5.87,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.57,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T12:00:00+00:00",
+    "summary": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with [\u2026]",
+    "score": 5.845,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.745,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Limited compute, targeting CVPR: rerun experiments for statistically strong numbers or focus on writing? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wt9w3s/limited_compute_targeting_cvpr_rerun_experiments/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-29T13:18:06+00:00",
+    "summary": "Hi everyone, I'm preparing a submission for CVPR and would appreciate your advice. I am happy with my current results, but compute is a real constraint. My institute isn't a research-focused one, and the systems available to me are slow and unreliable. A single set of runs already took a lot of time and effort to finish. I plan to release the code with the submission, and I'm confident the\u2026",
+    "score": 5.707,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.907,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+    "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T13:00:19+00:00",
+    "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+    "score": 5.67,
+    "matched": [],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.87,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-29T10:35:53+00:00",
+    "summary": "I\u2019ve spent the last few months writing something I wish I had when I started working on ML performance engineering. It\u2019s called How to Make Your Model Fast: A Systems View of Efficient Machine Learning, from Silicon to Agents . The basic idea is that reducing FLOPs doesn\u2019t necessarily make a model faster. Before optimising anything, you need to understand what the system is actually bounded by.\u2026",
+    "score": 5.669,
+    "matched": [
+      "machine learning"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.569,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Auditing System-1 Models on Biosecurity-Relevant Benchmarks: Calibration, Selective Prediction, and Permutation Instability in a Non-Generative Model",
+    "url": "https://arxiv.org/abs/2609.30454",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30454v1 Announce Type: new Abstract: Non-generative \"System-1\" models return structured probabilistic decisions in a single forward pass, without autoregressive decoding, at a small fraction of the inference cost of a generative model. This makes them of interest as inexpensive components in larger pipelines, but their reliability on biosecurity-relevant tasks has not been\u2026",
+    "score": 5.645,
+    "matched": [
+      "generative",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "source": "Microsoft Research",
+    "category": "Research",
+    "published": "2026-09-29T14:00:02+00:00",
+    "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results\u2026",
+    "score": 5.595,
+    "matched": [
+      "ai",
+      "multimodal"
+    ],
+    "feed_id": "microsoft-research",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.995,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T05:13:43+00:00",
+    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity.",
+    "score": 5.498,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.898,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T17:03:16+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what\u2026",
+    "score": 5.476,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.376,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NeurIPS Education Track [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wt77wj/neurips_education_track_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-09-29T11:08:09+00:00",
+    "summary": "Any other one have applied for the Education Track? It seems they'll announce the result soon. submitted by /u/Sufficient-Dream7676 [link] [comments]",
+    "score": 5.437,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.637,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The KV Cache Is the New Memory Wall",
+    "url": "https://arxiv.org/abs/2609.30854",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30854v1 Announce Type: cross Abstract: Autoregressive LLM inference at long context is bounded by memory bandwidth, not arithmetic throughput, and the binding resource shifts from model weights to the Key-Value (KV) cache as sequence length grows. For Llama-3-70B in BF16, the 140 GB weight footprint exceeds the 80 GB HBM of a single accelerator, and one 128k-token sequence adds 42 GB\u2026",
+    "score": 5.345,
+    "matched": [
+      "llm",
+      "llama",
+      "model weights",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do Location Encoders Capture Spatial Effects? A GeoShapley Benchmark Across Scales",
+    "url": "https://arxiv.org/abs/2606.23453",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2606.23453v2 Announce Type: replace Abstract: Location encoders transform geographic coordinates into high dimensional embeddings for downstream machine learning, but it is unclear how well these representations capture interpretable spatial effects. We benchmark whether GeoShapley, a game-theoretic explainer that treats all location features as a single joint player, can recover spatially\u2026",
+    "score": 5.345,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "One Capability or Many? Structural and Predictive Tests of Benchmark Validity Disagree About Economic Benchmarks for Frontier AI",
+    "url": "https://arxiv.org/abs/2608.29420",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2608.29420v2 Announce Type: replace Abstract: Frontier-model leaderboards now rank systems on economic benchmarks, and those rankings inform what organisations buy and what regulators scrutinise. Whether such benchmarks measure a capability distinct from general test-taking is a question of construct validity that a structural test and a predictive test can answer in opposite ways. We show\u2026",
+    "score": 5.345,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Timnit Gebru Believes There Is No \u2018Existential Threat\u2019 From AI",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T10:30:00+00:00",
+    "summary": "One of AI\u2019s fiercest critics believes the doom talk is about founders making money, not saving humanity.",
+    "score": 5.257,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.557,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-28T21:31:35+00:00",
+    "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [\u2026]",
+    "score": 5.235,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.935,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+    "url": "https://arxiv.org/abs/2609.30325",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Predicting Transmembrane Protein Topology from 3D Structure",
+    "url": "https://arxiv.org/abs/2609.30446",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30446v1 Announce Type: new Abstract: This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. The model is trained on the same dataset used to develop the recent DeepTMHMM model with 5-fold cross-validation. Unlike the conventional approaches based on using only the protein sequences or the $\\alpha$-carbons as\u2026",
+    "score": 5.045,
+    "matched": [
+      "neural network"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "HARDEN: Constrained Evolutionary Search for Harder, Answer-Preserving Evaluation Cases",
+    "url": "https://arxiv.org/abs/2609.30571",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30571v1 Announce Type: new Abstract: Language models are often evaluated on curated benchmarks that underrepresent the complexity of enterprise deployments. We introduce HARDEN, a constrained evolutionary search method to adapt the input of existing evaluation cases into more challenging variants while keeping their expected outputs fixed. HARDEN searches along generated\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Benchmark and Diagnostic Study of Epistemic Admission in Shared Agent Memory",
+    "url": "https://arxiv.org/abs/2609.30813",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30813v1 Announce Type: new Abstract: Evaluating claim admission in shared agent memory is challenging because repeated claims may be mistaken for independent evidence. An agent may copy or paraphrase a retrieved belief, while admitting a false claim exposes subsequent agents to it. To study this problem, we introduce the Correlated Promotion Benchmark (CPB), which evaluates whether\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms",
+    "url": "https://arxiv.org/abs/2609.30940",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30940v1 Announce Type: new Abstract: Individually protective decisions can produce avoidable collective failures. As large language model (LLM) agents take on greater roles in financial decision-making, financial AI safety must therefore be considered not only at the level of individual agents, but also at the level of the systems they jointly create. We study this problem with FRAIL,\u2026",
+    "score": 5.045,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency",
+    "url": "https://arxiv.org/abs/2609.31460",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.31460v1 Announce Type: new Abstract: Topic modeling is an effective technique for discovering hidden themes within documents and is widely used in text mining and data analysis across a variety of industry sectors. Recently, large language model (LLM)-based topic models have been emerged that prompt LLMs to generate topics then assign the topics to documents, producing more natural and\u2026",
+    "score": 5.045,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+    "url": "https://arxiv.org/abs/2609.31568",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.31568v1 Announce Type: new Abstract: AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive student data to foreign servers---violating data-sovereignty laws such as Vietnam's Decree 53---and, pre-trained on Western-centric corpora, are not\u2026",
+    "score": 5.045,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Benchmarking Framework for Context-aware XR Interfaces",
+    "url": "https://arxiv.org/abs/2609.30466",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30466v1 Announce Type: cross Abstract: Everyday Extended Reality (XR) systems aim to provide context-aware access to the right functionalities at the right time and place, with minimal manual reconfiguration as users switch context. Yet these interfaces are hard to evaluate: current prototyping and user-study workflows offer no systematic, repeatable way to compare adaptation methods\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CARGO: Context-Aware Retrieval-Gated Evaluation of Agentic AI in Production",
+    "url": "https://arxiv.org/abs/2609.30471",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30471v1 Announce Type: cross Abstract: Reference-based LLM-as-a-judge evaluation assumes the reference answer is the target. In deployed agentic systems that operate over dynamic entities (support cases, assets, accounts), the closest available reference typically applies the correct procedure to a different entity, so a literal judge penalizes different identifiers, dates, and\u2026",
+    "score": 5.045,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge",
+    "url": "https://arxiv.org/abs/2609.30604",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30604v1 Announce Type: cross Abstract: Existing computer-use agent benchmarks do not fully evaluate agents acting as assistants. A useful assistant retrieves information across complex, multi-step workflows, synthesizes it into artifacts (documents, presentations, spreadsheets), and navigates program interfaces to produce a coherent final product. Such workflows demand reasoning and\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TrafficImag: A Benchmark for Counterfactual Roadside Traffic Video Generation",
+    "url": "https://arxiv.org/abs/2609.30722",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30722v1 Announce Type: cross Abstract: Existing roadside traffic datasets support perception, forecasting, and visual question answering, but they do not evaluate counterfactual video generation, in which a selected actor is modified and the generated future should remain consistent with road topology and unrelated traffic. We introduce TrafficImag, the first benchmark for\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "UltraG-Bench: A Multi-task Benchmark for assessing Large Vision-Language Models on Pixel-level Evidence Grounding in Ultrasound",
+    "url": "https://arxiv.org/abs/2609.30928",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30928v1 Announce Type: cross Abstract: Ultrasound is one of the most widely used medical imaging modalities, and recent large vision-language models(VLMs) have shown increasing capabilities in ultrasound image understanding. However, these models fail to provide pixel-level visual evidence aligned with their semantic predictions, and their fine-grained grounding capability in\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MVVBench: Benchmarking 4D Reasoning in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2609.30952",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-29T04:00:00+00:00",
+    "summary": "arXiv:2609.30952v1 Announce Type: cross Abstract: Multi-view video understanding requires integrating spatial and temporal evidence across multiple, often non-overlapping camera streams: tracking entities as they transition between viewpoints, aligning events across time, and reasoning about latent 4D continuity rather than any single visible frame. We introduce MVVBench, a benchmark for\u2026",
+    "score": 5.045,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.745,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
