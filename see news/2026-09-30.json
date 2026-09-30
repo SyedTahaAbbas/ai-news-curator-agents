@@ -1,0 +1,755 @@
+[
+  {
+    "title": "Here\u2019s how tech leaders will self-police AI safety under Trump\u2019s deal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-30T12:24:32+00:00",
+    "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [\u2026]",
+    "score": 6.845,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.845,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Airbnb adds AI search, more social features",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-09-30T12:00:00+00:00",
+    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+    "score": 6.694,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.794,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-09-30T10:40:30+00:00",
+    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions\u2026",
+    "score": 6.529,
+    "matched": [
+      "ai",
+      "openai",
+      "hugging face"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.629,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Greenpixie's AI Token Methodology: Assessing the Energy, Water and CO2-eq Impact of AI Tokens for Open and Closed Weight Models",
+    "url": "https://arxiv.org/abs/2609.33965",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.33965v2 Announce Type: replace-cross Abstract: We describe a methodology for estimating the per-token energy cost of cloud-hosted large language model (LLM) inference, separating between input (prefill) and output (decode) tokens. Graphics processing unit (GPU) energy usage is measured during inference benchmarking with open-weights models on a wide range of text-based tasks. The\u2026",
+    "score": 6.294,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "open-weight*",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 1.5,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OmniVCBench: Benchmarking Evidence-Grounded Multimodal Reasoning Towards AI Virtual Cells",
+    "url": "https://arxiv.org/abs/2609.37773",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37773v1 Announce Type: new Abstract: Artificial Intelligence Virtual Cells (AIVCs) are envisioned as scientific agents that simulate cellular responses, explain underlying mechanisms, and support hypothesis-driven discovery. Existing AIVC benchmarks, however, operate primarily at the simulation layer, motivating complementary evaluation of how models interpret experimental evidence and\u2026",
+    "score": 5.994,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AgentBug-Smith: Automatically Reproducing Real-World Harness Bugs in Agentic Systems",
+    "url": "https://arxiv.org/abs/2609.37864",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37864v1 Announce Type: cross Abstract: Agent harness bugs exhibit unique characteristics and remain challenging for state-of-the-art software agents to repair. Progress in this area is further hindered by existing benchmarks, which contain only a small and fixed number of executable harness bugs while requiring hundreds of human hours to construct. This work presents AgentBug-Smith, an\u2026",
+    "score": 5.994,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PRISM: A Geometric Risk Bound for Decomposing Drift into Scale, Shape, and Head",
+    "url": "https://arxiv.org/abs/2605.11608",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2605.11608v2 Announce Type: replace-cross Abstract: A single base LLM now comes with dozens of post-training variants, quantized, LoRA-adapted, or distilled, and each has to be checked before release. Existing evaluations provide only a partial picture: benchmark scores and likelihood screens say that a variant has degraded, similarity scores such as CKA and SVCCA say how its features\u2026",
+    "score": 5.994,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GeoOutageBench: Benchmarking Ambiguity-aware, Ontology-grounded Geospatiotemporal KGQA for Multimodal Power Outage and Resilience Analysis",
+    "url": "https://arxiv.org/abs/2609.36082",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.36082v1 Announce Type: new Abstract: We introduce GeoOutageBench, a benchmark for assessing LLM-based geospatiotemporal KGQA for multimodal outage and resilience analysis. Unlike existing KGQA benchmarks for Web knowledge, GeoOutageBench considers a spatiotemporal KG that integrates visual, textual, and structured data from outage records, remote sensing, weather observations, storm\u2026",
+    "score": 5.694,
+    "matched": [
+      "llm",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training",
+    "url": "https://arxiv.org/abs/2609.38043",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.38043v1 Announce Type: new Abstract: Interactive agent benchmarks and multi-turn reinforcement learning increasingly place a second language model in the role of the user. This simulated user controls what information the agent receives and when, yet current benchmarks score only the agent and do not directly measure whether the user correctly executed its assigned role. We introduce\u2026",
+    "score": 5.694,
+    "matched": [
+      "llm",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can Multimodal Large Language Models Generate and Detect Multimodal Social Media Fake News?",
+    "url": "https://arxiv.org/abs/2609.35809",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.35809v1 Announce Type: cross Abstract: The rapid advancement of generative AI raises concerns about the misuse of Multimodal LLMs (MLLMs) for large-scale disinformation campaigns on social media. Despite existing research on textual disinformation, a fundamental question remains unanswered: can MLLMs be exploited to fabricate realistic multimodal fake news, and can they reliably detect\u2026",
+    "score": 5.694,
+    "matched": [
+      "ai",
+      "generative",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Benchmark & Dataset for Detecting AI-Manipulated Visual Evidence in the Court System",
+    "url": "https://arxiv.org/abs/2609.37783",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37783v1 Announce Type: cross Abstract: Photographic evidence is becoming increasingly vulnerable to forms of alteration and fabrication that existing legal and technical workflows are not well equipped to evaluate. Surveillance frames, dashcam stills, and phone photographs may be used to establish presence, sequence, causation, damage, or identity, yet contemporary generative systems\u2026",
+    "score": 5.694,
+    "matched": [
+      "ai",
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Proposed Rubric for Evaluating Expressed Clinical Reasoning in Large Language Model Responses",
+    "url": "https://arxiv.org/abs/2609.37788",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37788v1 Announce Type: cross Abstract: Rubrics support the structured evaluation of language models. We propose a rubric for assessing expressed clinical reasoning in model responses, drawing on three bodies of work: medical education assessment frameworks (ART, SCT, Key Feature Problems and OSCE); clinical LLM benchmarks (MedR-Bench, HealthBench, TIMER-Bench, DR.BENCH, PrIME-LLM and\u2026",
+    "score": 5.694,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TwinRouterBench: Fast Static and Live Dynamic Evaluation for Realistic Agentic LLM Routing",
+    "url": "https://arxiv.org/abs/2605.18859",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2605.18859v3 Announce Type: replace-cross Abstract: LLM routing matters most in long-horizon applications such as coding agents, deep research systems, and computer-use agents, where a single user request triggers many model calls. Routing each call to the cheapest sufficient model can cut costs without sacrificing quality, yet existing router benchmarks evaluate routers only on one-shot\u2026",
+    "score": 5.694,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Interpretable intrinsic dimension estimation through componentwise calibration of distance and angle",
+    "url": "https://arxiv.org/abs/2609.37114",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37114v1 Announce Type: new Abstract: DANCo (Dimensionality from Angle and Norm Concentration) jointly calibrates nearest-neighbor distance and angular statistics and consistently reaches state-of-the-art accuracy on clean intrinsic-dimension (ID) benchmarks. Practical data, however, introduce neighborhood-relative noise and sample-amplitude heterogeneity that can distort these\u2026",
+    "score": 5.694,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Multi-Class, Multi-Tier Network Intrusion Detection: A Comprehensive and Reproducible Benchmark",
+    "url": "https://arxiv.org/abs/2609.36039",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.36039v1 Announce Type: cross Abstract: Machine learning (ML) and deep learning (DL) have dominated Intrusion Detection System (IDS) research in recent years. Unfortunately, many existing studies have produced inflated results and unreliable benchmarks due to critical oversights and mistakes in the ML and DL pipeline, from data collection and labeling to feature engineering and model\u2026",
+    "score": 5.694,
+    "matched": [
+      "machine learning",
+      "deep learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Climbing the Hill: Prompt Injection Red-Teaming Against Frontier Models with Curriculum Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2609.33628",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.33628v2 Announce Type: replace Abstract: Prompt injection is a leading security risk for LLMs and LLM-based applications such as agents. State-of-the-art red-teaming methods for prompt injection leverage reinforcement learning (RL) to train an attacker LLM to generate effective injected prompts. However, when targeting frontier LLMs such as GPT-6-Luna, a major challenge is the\u2026",
+    "score": 5.694,
+    "matched": [
+      "llm",
+      "gpt",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "THEIA: A Multimodal Dataset and Benchmark for Vision-Language Analysis of Layout",
+    "url": "https://arxiv.org/abs/2609.35035",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.35035v2 Announce Type: replace Abstract: The integration of artificial intelligence into computer-aided design frameworks has sparked a shift in the design of analog integrated circuits (ICs), transitioning the field from using manual and algorithmic-based solutions to adopting automated and intelligent paradigms. In this scenario, the GDSII file represents the industry-standard\u2026",
+    "score": 5.694,
+    "matched": [
+      "artificial intelligence",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Pair Difficulty Matters: Rethinking Pairwise LLM-as-a-Judge Evaluation and Consistency",
+    "url": "https://arxiv.org/abs/2609.37577",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37577v1 Announce Type: new Abstract: Large Language Model judges are widely used to rank texts and text-generating systems through pairwise comparison, and their reliability is typically assessed via three proxies: position bias, transitivity, and pairwise agreement (self- or human-labeled). Because these proxies drive judge selection and benchmarking, a substantial literature\u2026",
+    "score": 5.694,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-09-29T17:15:00+00:00",
+    "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [\u2026]",
+    "score": 5.65,
+    "matched": [
+      "ai",
+      "gpt",
+      "openai",
+      "agentic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.45,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "O\u00eddo: speech recognition that beats Whisper-tiny, running on a $5 microcontroller (open source)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/o\u00eddo_speech_recognition_that_beats_whispertiny/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-09-30T11:34:48+00:00",
+    "summary": "I'm part of the Lokutor team that built this. Model: NVIDIA Conformer-CTC Small (13M params, int8). It runs on an ESP32-S3 with 8 MB PSRAM, no GPU or NPU. LibriSpeech WER is 3.7 / 8.2, versus 6.3 / 15.9 for Whisper tiny.en on a laptop. Under real noise (DEMAND: car, kitchen, cafeteria) plus babble and reverb, mean WER is 8.4 vs 12.1 for Whisper tiny.en. You can try the exact chip arithmetic on\u2026",
+    "score": 5.642,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.742,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PowerZooJax: A JAX-based Power System Benchmark for Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2609.36052",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.36052v1 Announce Type: new Abstract: Power system operation is a safety-critical sequential decision-making problem, making it a natural testbed for reinforcement learning (RL). However, existing RL environments for power systems are often narrow in scope and computationally limited by CPU-based simulation workflows, making large-scale evaluation difficult. We introduce PowerZooJax, a\u2026",
+    "score": 5.394,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An Exact Generate - Transform Decomposition of Small-LLM Team Scaling Across Orchestration Architectures",
+    "url": "https://arxiv.org/abs/2609.36104",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.36104v1 Announce Type: new Abstract: Replacing one LLM agent with a collaborating team can raise accuracy, but whether scaling the team helps, and which architecture to scale, is unclear. Sweeping eight agent orchestration architectures across five instruction-tuned 7-9B models, five short-answer benchmarks, and an executable-code benchmark up to 30 calls, we find that the returns to\u2026",
+    "score": 5.394,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MAADBench: The Refreshable Paradigm for Anomaly Detection in Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2609.36556",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.36556v1 Announce Type: new Abstract: Recent studies report that LLM-based multi-agent systems (MAS) fail at rates of 41%-87%, yet to our knowledge, no benchmark to date supports systematic anomaly detection (AD) for them. Building MAS AD benchmarks is hard because they must remain fresh as LLM systems evolve: tasks may leak into training data and thus be memorized by LLMs, traces and\u2026",
+    "score": 5.394,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can AI Scientists Change Their Minds? Prior-Evidence Conflict in Synthetic Universes",
+    "url": "https://arxiv.org/abs/2609.36726",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.36726v1 Announce Type: new Abstract: Can a scientific agent distinguish a law it inferred from evidence from one it merely recognizes? We introduce Synthetic Universes, a controlled benchmark that pairs canonical famous worlds with matched twisted twins governed by nearby noncanonical mechanisms. We evaluate each reported law twice: by executing it on held-out continuations and\u2026",
+    "score": 5.394,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows",
+    "url": "https://arxiv.org/abs/2609.37053",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37053v1 Announce Type: new Abstract: Multimodal GUI agents have achieved impressive results on general software benchmarks, yet their ability to operate professional scientific software remains largely unexplored. In materials science, sparse domain-specific web data, specialized interfaces, and tacit workflow conventions create blind spots that general-purpose pretraining cannot\u2026",
+    "score": 5.394,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Teaching LLMs to Generate Challenging MILP Instances via Solver Feedback",
+    "url": "https://arxiv.org/abs/2609.37356",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37356v1 Announce Type: new Abstract: Generating optimization instances that are both feasible and computationally challenging is crucial for benchmarking solvers and training learning-based optimization algorithms. Existing non-LLM generators rely on seed instances or parameter tuning, resulting in high test-time computational cost, while existing LLM generators lack explicit hardness\u2026",
+    "score": 5.394,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Pretrain Once, Route Anywhere: Towards a Foundation Model for LLM Routing",
+    "url": "https://arxiv.org/abs/2609.37362",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37362v1 Announce Type: new Abstract: Large language model (LLM) routing aims to assign each query to the most suitable model from a heterogeneous candidate pool, improving the quality--efficiency trade-off of LLM inference. Existing routers are typically learned through local fitting: a router is optimized for a particular query workload and candidate pool, and often requires\u2026",
+    "score": 5.394,
+    "matched": [
+      "llm",
+      "large language model",
+      "foundation model",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making",
+    "url": "https://arxiv.org/abs/2609.37658",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37658v1 Announce Type: new Abstract: LLM agents are increasingly expected to support enterprise workflows, where tasks often involve missing information, uncertainty, feedback, and long-term trade-offs. However, existing enterprise and financial benchmarks mainly test static capabilities such as information extraction, numerical calculation, domain knowledge, and financial QA, leaving\u2026",
+    "score": 5.394,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PE-EK-PINN: Physics Embedding with Evolving Kernel for Scalable Physics-Informed Neural Networks",
+    "url": "https://arxiv.org/abs/2609.38023",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.38023v1 Announce Type: new Abstract: Physics-Informed Neural Networks (PINNs) embed governing equations into deep learning, but enforce them only through loss residuals, leaving highly oscillatory wave behavior to be discovered by optimization. As a result, methods that achieve relative $L_2$ errors below $10^{-3}$ on standard manufactured Helmholtz benchmarks can fail on practical\u2026",
+    "score": 5.394,
+    "matched": [
+      "deep learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "HEAR: Real Voices, Real Bias: A Large-Scale Human-Recorded, Demographically Diverse Benchmark for Audio Language Models",
+    "url": "https://arxiv.org/abs/2609.35952",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.35952v1 Announce Type: cross Abstract: We introduce HEAR (Human-recorded Evaluation of Audio-LLM bias by Real speakers), a large-scale, ecologically valid benchmark comprising 87k real human audio samples from 843 demographically diverse participants. HEAR enables comprehensive evaluation through Multiple Choice Question Answering (MCQA) and open-ended long-form tasks. To our\u2026",
+    "score": 5.394,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "VISTA-Bench: Benchmarking Multilingual Image Translation with Image-Specific Rubrics",
+    "url": "https://arxiv.org/abs/2609.37287",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37287v1 Announce Type: cross Abstract: Image translation is a fundamental capability of multimodal models for multilingual applications, requiring visual understanding and meaning preservation across languages. However, existing benchmarks have limited language coverage and often lack explicit image-specific evaluation criteria, making it difficult to comprehensively assess this\u2026",
+    "score": 5.394,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PowerMarketJax: A JAX Benchmark Suite for Multi-Agent Reinforcement Learning in Power Markets",
+    "url": "https://arxiv.org/abs/2609.37321",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37321v1 Announce Type: cross Abstract: Power markets are a natural testbed for multi-agent reinforcement learning (MARL), where multiple self-interested participants repeatedly submit bids. A market-clearing mechanism then determines dispatch and prices subject to power grid constraints and market settlement rules. However, existing MARL environments typically focus on a single market\u2026",
+    "score": 5.394,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Complexity-Aware Evaluation of LLM Comprehension",
+    "url": "https://arxiv.org/abs/2609.37405",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37405v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for software engineering tasks that require understanding existing source code, including behavior prediction, function explanation, debugging, and code review. However, aggregate benchmark accuracy can conceal how model reliability changes as source code becomes structurally more complex. This\u2026",
+    "score": 5.394,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating and Benchmarking the System One Model Jev",
+    "url": "https://arxiv.org/abs/2609.37647",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37647v1 Announce Type: cross Abstract: Jev is a commercial System One model from TypeSafe AI that does not generate text: given a state and typed questions, it returns a choice from fixed options, a position on a rubric, or the probability that a statement is true, with probabilities the vendor describes as calibrated. Such models target small decisions in information access pipelines,\u2026",
+    "score": 5.394,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "VIF-Bench: Evaluating Visual Instruction Following in Multi-Reference Image Generation",
+    "url": "https://arxiv.org/abs/2609.37709",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-09-30T04:00:00+00:00",
+    "summary": "arXiv:2609.37709v1 Announce Type: cross Abstract: Recent multimodal image generation models can take multiple images and textual instructions as input, enabling reference-based generation guided not only by text but also by visual instructions such as layouts, arrows, and pose cues. However, existing benchmarks do not evaluate the joint setting in which multiple references must be composed under\u2026",
+    "score": 5.394,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.794,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
