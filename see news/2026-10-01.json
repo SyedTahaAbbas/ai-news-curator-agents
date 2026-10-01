@@ -1,0 +1,748 @@
+[
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-01T13:00:00+00:00",
+    "summary": "The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "score": 6.721,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.821,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-01T12:00:00+00:00",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "score": 6.596,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.696,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-01T14:00:00+00:00",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "score": 6.246,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.946,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Gemini 4 Argon - 1 Million Output Headroom. Hype or a Leap? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wuvmpo/gemini_4_argon_1_million_output_headroom_hype_or/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-01T10:12:56+00:00",
+    "summary": "I rarely write about benchmarks; a competitor always beats them next week. But I care about 'Leaps'. Gemini 4 Argon feels like one to me. While Opus 5.5 and Astra cap output at 128-300K tokens (~90-180 pages), Argon hits 1 Million (~1400 pages). \"Context glue\" ruins agentic workflows. On paper, this headroom fixes that. It means less contextual drift, no more breaking down long tasks, and zero\u2026",
+    "score": 6.173,
+    "matched": [
+      "gemini",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.473,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trustworthy Runtime Error Healing in Real-World Repositories: A Benchmark and Guardrail",
+    "url": "https://arxiv.org/abs/2609.39086",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39086v1 Announce Type: cross Abstract: Runtime error healing lets a crashed program continue by generating code that repairs its live runtime state. Recent work shows that LLMs can generate such healing code, but it is evaluated only on small competition programs, and executing LLM-generated code inside a live process raises safety concerns that remain unaddressed. In this paper, we\u2026",
+    "score": 5.896,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+    "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-10-01T13:00:49+00:00",
+    "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year [\u2026]",
+    "score": 5.823,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.823,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ArgGYM: A Procedural, Engine-Verified Benchmark for Structured Defeasible Reasoning",
+    "url": "https://arxiv.org/abs/2609.38409",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38409v1 Announce Type: new Abstract: Recent progress in large language model reasoning has been driven by benchmarks and reinforcement learning environments with automatically verifiable rewards, particularly in mathematics, code, and formal logic. These settings make model accuracy easier to evaluate and optimize, but it remains unclear how far success under fixed problem\u2026",
+    "score": 5.596,
+    "matched": [
+      "large language model",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AgBench: Agentic AI Benchmarks for Personal AI Devices",
+    "url": "https://arxiv.org/abs/2609.38652",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38652v1 Announce Type: new Abstract: Agentic AI systems increasingly rely on cloud-hosted large language models for planning, tool use, and iterative execution, raising concerns about API cost and data exposure. Advances in personal AI devices enable agents to execute locally, but limited resources on device may affect task success and performance. Existing benchmarks are inadequate\u2026",
+    "score": 5.596,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Talk2Agent: Benchmarking Voice Interfaces for Text Agents",
+    "url": "https://arxiv.org/abs/2609.38867",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38867v1 Announce Type: new Abstract: Large language model (LLM) computer-use agents are typically evaluated with clean written instructions, despite speech being an increasingly popular interface for interacting with such systems. Speech input introduces an additional failure point: transcription errors can alter task-critical entities, constraints, or targets before the agent begins\u2026",
+    "score": 5.596,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MADBench: Benchmarking the Security of Multi-Agent Debate",
+    "url": "https://arxiv.org/abs/2609.39146",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39146v1 Announce Type: new Abstract: Multi-agent debate (MAD) can improve large language model (LLM) reasoning by allowing multiple agents to exchange and critique their answers to the same task. However, the interactions that enable agents to correct mistakes can also spread adversarial errors and steer the agents toward an incorrect answer. Although some efforts have been made to\u2026",
+    "score": 5.596,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+    "url": "https://arxiv.org/abs/2609.39001",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39001v1 Announce Type: cross Abstract: LLM services are billed per token and context windows are measured in tokens, yet the number of tokens needed for the same content varies across languages. We measure this token premium on seven tokenizers of widely used 2026 models (OpenAI o200k, Llama 3, Qwen3, DeepSeek V3/V4, Gemma 3, Mistral Tekken, and the Claude generation-5 tokenizer via\u2026",
+    "score": 5.596,
+    "matched": [
+      "llm",
+      "claude",
+      "llama",
+      "mistral",
+      "openai"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A 3GPP-Compliant Benchmark Dataset for RIS-Aided Beyond 5G Networks",
+    "url": "https://arxiv.org/abs/2609.39058",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39058v1 Announce Type: cross Abstract: Reconfigurable Intelligent Surfaces (RIS) are emerging as a key technology for programmable wireless environments in the beyond the fifth generation (B5G) networks. However, data-driven RIS research remains bottleneck by the lack of standardized, high-fidelity and open-source datasets. In this paper, we introduce a large-scale 3GPP TR\u2026",
+    "score": 5.596,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DoGBench: Can Agents Meet Expert Standards for User-Facing Documentation?",
+    "url": "https://arxiv.org/abs/2609.39909",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39909v1 Announce Type: cross Abstract: We introduce DoGBENCH (Documentation Generation Benchmark), to our knowledge, the first benchmark for generating and maintaining real user-facing software documentation. It asks whether an agent can produce documentation that experienced technical writers would accept in review. The benchmark contains 292 items from open source projects, including\u2026",
+    "score": 5.596,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PhantomEnvironments: Training LLM Agents in Fictional Worlds",
+    "url": "https://arxiv.org/abs/2609.40221",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.40221v1 Announce Type: cross Abstract: Training LLM agents with reinforcement learning (RL) is bottlenecked by environments, which must provide verifiable rewards, support long-horizon interaction, and scale cheaply. Existing approaches rely on costly human-curated data or on LLM-generated environments that risk hallucinations and benchmark contamination. We show that LLMs can instead\u2026",
+    "score": 5.596,
+    "matched": [
+      "llm",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Space Filling Curves is All You Need: Communication-Avoiding Matrix Multiplication Made Simple",
+    "url": "https://arxiv.org/abs/2601.16294",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2601.16294v3 Announce Type: replace-cross Abstract: General Matrix Multiplication (GEMM) is the cornerstone of HPC workloads and Deep Learning. State-of-the-art (SOTA) vendor libraries tune tensor layouts, parallelization schemes and cache blocking to minimize data movement across the memory hierarchy and maximize throughput. However, optimal settings for these parameters depend on the\u2026",
+    "score": 5.596,
+    "matched": [
+      "deep learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+    "url": "https://arxiv.org/abs/2608.13786",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2608.13786v2 Announce Type: replace-cross Abstract: Large language model (LLM) chatbots are increasingly used to answer clinical questions with citations to relevant studies, yet the quality of retrieved evidence and factors influencing study selection remain unclear. We evaluated three general-purpose LLM chatbots (Claude Sonnet 5, Gemini 3.1 Pro, and ChatGPT GPT-5.5) using 20 clinical\u2026",
+    "score": 5.596,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "gpt",
+      "chatgpt",
+      "claude",
+      "gemini"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Sequential Bayesian Evaluation of Large Language Model Behavior",
+    "url": "https://arxiv.org/abs/2511.10661",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2511.10661v2 Announce Type: replace Abstract: It is increasingly important to evaluate the characteristics of systems based on large language models (LLMs). Evaluations in this context often rely on a curated benchmark set of input prompts provided to the LLM, where the output for each prompt may be assigned a binary or ordinal score and the aggregation of scores across prompts is then used\u2026",
+    "score": 5.596,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An Empirical Study of Reward Specification and Benchmark Reliability in GRPO-based LLM Unlearning",
+    "url": "https://arxiv.org/abs/2608.17804",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2608.17804v2 Announce Type: replace-cross Abstract: Practical LLM unlearning is usually evaluated through two objectives: suppress target-specific knowledge and preserve non-target utility. In generative QA, this leaves a third behavior underspecified: when a target-adjacent prompt admits a broader answer without target-specific leakage, the model should answer at that level rather than\u2026",
+    "score": 5.596,
+    "matched": [
+      "llm",
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Sense and Sensitivity: Benchmarking LLM Clinical Triage Recommendations with Physician Experts",
+    "url": "https://arxiv.org/abs/2609.38600",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38600v1 Announce Type: new Abstract: As large language models (LLMs) are increasingly used in clinical settings, it is critical to evaluate their reliability under realistic variation in clinical text. We study this question in clinical triage, comparing LLMs to practicing physicians under text perturbations that preserve the underlying clinical setting. We introduce a benchmark of\u2026",
+    "score": 5.296,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Where Scientific Search Agents Fail: Decision-Checkpoint Auditing of Exposure and Inspection Attempts",
+    "url": "https://arxiv.org/abs/2609.38670",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38670v1 Announce Type: new Abstract: Final-answer accuracy does not reveal whether a scientific-search agent failed to encounter a target paper, attempt to inspect it, or return an accepted answer after inspection. We introduce decision checkpoints that record observations and tool actions without benchmark labels during inference, then join target identities and evaluator labels to\u2026",
+    "score": 5.296,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenJev-RLCD: A Working RLCD Implementation",
+    "url": "https://arxiv.org/abs/2609.38850",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38850v1 Announce Type: new Abstract: Decision models such as Jev answer questions with probabilities, which are only useful if they are calibrated. Open-source reproductions rely on supervised fine-tuning plus temperature scaling, while reinforcement learning from verifiable rewards (RLVR) makes reasoning models overconfident. We present a working implementation of reinforcement\u2026",
+    "score": 5.296,
+    "matched": [
+      "fine-tun*",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Context Changes: Understanding Update Failures in LLMs",
+    "url": "https://arxiv.org/abs/2609.38866",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38866v1 Announce Type: new Abstract: As preferences, goals, and facts change, LLM agents must use the current state while earlier versions remain in context. Yet they can answer with an old value of the same variable, a failure that we call stale binding. To study when models use outdated information and why, we introduce Controlled In-Context Memory (CICM), a benchmark for tracking\u2026",
+    "score": 5.296,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Reasoning Externalization for Faithful Large Language Model Narratives of Stock Return Predictions",
+    "url": "https://arxiv.org/abs/2609.38869",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38869v1 Announce Type: new Abstract: In finance, interpreting machine learning predictions is essential, yet the numerical outputs of explainable AI can be difficult for non-experts to understand. While large language models (LLMs) can translate these outputs into natural language, they may produce errors when inferring numerical changes and feature relations. We propose an LLM\u2026",
+    "score": 5.296,
+    "matched": [
+      "ai",
+      "machine learning",
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SkillFM: Generating Skills for LLM Agents via Latent Flow Matching",
+    "url": "https://arxiv.org/abs/2609.39382",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39382v1 Announce Type: new Abstract: Textual skills provide reusable guidance for large language model agents, but existing approaches often rely on manually curated skill banks or reinforcement learning with indirect and delayed feedback. We introduce SkillFM (Skill Flow Matching), a generative framework that synthesizes task-conditioned textual skills directly without test-time skill\u2026",
+    "score": 5.296,
+    "matched": [
+      "llm",
+      "large language model",
+      "generative",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Divide and Collapse: MAPF-Collapse via Exact Decomposition into Independent Sub-Instances",
+    "url": "https://arxiv.org/abs/2609.39559",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39559v1 Announce Type: new Abstract: In this work we study the problem of MAPFC, a post-optimization step for Multi-Agent Path Finding (MAPF) plans where we are given a feasible plan produced by a modern MAPF solver and are tasked with removing avoidable moves while preserving feasibility. This NP-hard problem naturally arises when using learning-based state-of-the-art (SOTA) solvers\u2026",
+    "score": 5.296,
+    "matched": [],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.0,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ArchitectureIQ: On the Measure of Training Intuition",
+    "url": "https://arxiv.org/abs/2609.39714",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39714v1 Announce Type: new Abstract: Top researchers have good intuition, but do language models have as good intuition about model training as top AI researchers? To measure model intuition of LLMs and humans, we introduce the ArchitectureIQ benchmark. Each question presents a synthetic dataset and several training recipes, and the test-taker is asked to predict the recipe yielding\u2026",
+    "score": 5.296,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trust Is Not a Score: Runtime Assurance Contracts for High-Risk AI Agents",
+    "url": "https://arxiv.org/abs/2609.39717",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39717v1 Announce Type: new Abstract: Benchmarks, audits, and agent protocols describe performance, permissions, and repair, but not how observed evidence should change an agent's authority during a consequential task. We call this the assurance-transition gap. We propose a Runtime Assurance Contract (RAC), a policy-level formal schema binding autonomy boundaries, component eligibility,\u2026",
+    "score": 5.296,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Life-Bench: A Benchmark and Knowledge Graph Framework for Multimodal Personalization Beyond Concept Recognition",
+    "url": "https://arxiv.org/abs/2602.19001",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2602.19001v2 Announce Type: cross Abstract: As large language models increasingly power personal assistants, users expect them to reason over multimodal life histories, from recognizing people to understanding events to aggregating patterns, yet existing benchmarks primarily target concept-level recognition. We introduce Life-Bench, a fully synthetic, human-verified multimodal benchmark of\u2026",
+    "score": 5.296,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Aegis: Generative Gradient Masking for Privacy-Preserving Medical Federated Learning",
+    "url": "https://arxiv.org/abs/2609.38339",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38339v1 Announce Type: cross Abstract: Federated learning (FL) has become a foundational paradigm for multi-institutional medical AI, allowing hospitals and research centers to jointly train diagnostic models without exchanging patient records. This privacy promise, however, is increasingly contested: a malicious or honest-but-curious server can launch model inversion attacks (MIAs)\u2026",
+    "score": 5.296,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MM-FinEval: A Multi-Task Multimodal Benchmark for Real-World Financial Forecasting",
+    "url": "https://arxiv.org/abs/2609.38523",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38523v1 Announce Type: cross Abstract: Financial forecasting from earnings conference calls requires models to reason over complex corporate disclosures, market expectations, and subtle communication signals. However, existing financial benchmarks are often limited to unimodal inputs or single-task settings, making it difficult to evaluate whether multimodal large language models\u2026",
+    "score": 5.296,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Oracle Communication: Benchmarking Interactive Intent Alignment Under Miscommunication and Evolving User Intent",
+    "url": "https://arxiv.org/abs/2609.38604",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38604v1 Announce Type: cross Abstract: Modern LLM agents increasingly tackle complex tasks through interactive, long-horizon exchanges with users, while existing benchmarks generally assume that users always accurately and sufficiently communicate a fixed intent. However, this oracle communication assumption rarely holds in practice: users may miscommunicate, change their goals, and\u2026",
+    "score": 5.296,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "After a Decade: Bringing Shadow Removal into the Real World with Agentic Training Data",
+    "url": "https://arxiv.org/abs/2609.38607",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38607v1 Announce Type: cross Abstract: Shadow removal looks nearly solved on established benchmarks, yet remains brittle in the real world. Models have advanced; the paired training data they rely on have barely changed in nearly a decade. The reason is simple: obtaining a shadow-free target requires removing the occluder while keeping the scene, camera, and illumination otherwise\u2026",
+    "score": 5.296,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ChartDensity-Bench: Benchmarking MLLMs for Numerical Data Reconstruction under Visual Density",
+    "url": "https://arxiv.org/abs/2609.38781",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38781v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) offer a promising approach for recovering numerical data from scientific charts, but their ability to reconstruct chart data from visually dense figures remains poorly understood. Existing chart understanding benchmarks primarily evaluate question answering or chart-level reasoning and provide limited\u2026",
+    "score": 5.296,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SkillSeek: Revisiting Agent Skill Retrieval at Marketplace Scale",
+    "url": "https://arxiv.org/abs/2609.38822",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.38822v1 Announce Type: cross Abstract: Anthropic's Agent Skills package reusable procedural know-how for an LLM agent into SKILL.md directories, and open-source aggregations have grown past 230,000 skills, making selection rather than authoring the bottleneck. The standing answer in the literature outsources selection to the agent itself: an LLM-mediated retrieval loop that rewrites\u2026",
+    "score": 5.296,
+    "matched": [
+      "llm",
+      "anthropic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Masking Helps or Hurts Robustness in Compressed CLIP: A Pre-Deployment Diagnostic",
+    "url": "https://arxiv.org/abs/2609.39704",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-01T04:00:00+00:00",
+    "summary": "arXiv:2609.39704v1 Announce Type: cross Abstract: This paper demonstrate that whether masking-based token pruning helps or hurts worst-group robustness can be predicted before deployment, without labels or fine-tuning. A systematic study of semantic masking across 8 spurious-correlation benchmarks shows its effect on worst-group accuracy is highly unstable: it improves accuracy by up to 82.5\\%\u2026",
+    "score": 5.296,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
