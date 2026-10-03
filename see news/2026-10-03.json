@@ -1,0 +1,731 @@
+[
+  {
+    "title": "Same Reward, Different Skills: When Multimodal RL Learns to Look",
+    "url": "https://arxiv.org/abs/2610.01908",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01908v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) improves vision-language benchmark scores even without visual information during training. With images at test, blind-trained models recover roughly half of the real-image gain at 3B and nearly four fifths at 7B. Prolonged real-image training can erode grounding while benchmark gains persist.\u2026",
+    "score": 5.837,
+    "matched": [
+      "multimodal",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AIR-LLM: Broadcasting AI Weights over Radio for Memory-Free Edge LLM Inference via RF Computing",
+    "url": "https://arxiv.org/abs/2610.00465",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00465v1 Announce Type: cross Abstract: Next-generation large language models (LLMs) are expanding from the cloud to ubiquitous edge devices. However, edge devices typically either lack the memory to store increasingly large LLM weights or, even with enough memory, spend unaffordable energy on loading the weights. This raises our question: can an edge device run an LLM without storing\u2026",
+    "score": 5.837,
+    "matched": [
+      "ai",
+      "llm",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ScaffoldM3C: A Multimodal Sequential Monte Carlo Framework for Generative Stable Construction Planning",
+    "url": "https://arxiv.org/abs/2610.00487",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00487v1 Announce Type: cross Abstract: Autonomously constructing physically realizable 3D structures remains a significant challenge due to combinatorial action spaces, interchangeable components, equifinal assembly sequences, and strict stability requirements during construction. State-of-the-art methods fine-tune large language models for text-based generative construction. However,\u2026",
+    "score": 5.837,
+    "matched": [
+      "generative",
+      "fine-tun*",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T12:00:00+00:00",
+    "summary": "Millions have downloaded Meta\u2019s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+    "score": 5.637,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.937,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Null Is the Hard Part: Exact Tests for Memorization in Generative Models",
+    "url": "https://arxiv.org/abs/2610.00251",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00251v1 Announce Type: new Abstract: Memorization audits of generative models read similarity scores against thresholds, with no null distribution, and the conclusions they support can be wrong. By MemBench's rule, the benchmark's mitigations roughly halve Stable Diffusion's memorization; audited with false-discovery control, two thirds of the certified images are no longer detected\u2026",
+    "score": 5.537,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking System One decision models against trained classifiers and language models for automated decision gates",
+    "url": "https://arxiv.org/abs/2610.00346",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00346v1 Announce Type: new Abstract: Software that hands branching decisions to a model needs a declared option and a probability it can threshold. Typed decision models, also called System One models, return such probabilities without generating text, while supervised classifiers and generative language models are the established alternatives. Under matched conditions, one harness\u2026",
+    "score": 5.537,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Attention Kernels for Learning Maps Between Heavy-Tailed Measures",
+    "url": "https://arxiv.org/abs/2610.00564",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00564v1 Announce Type: new Abstract: Operator learning on probability measures can be accomplished with transformers. For measures with polynomial tails, the exponential weighting in softmax can make the corresponding measure-level attention integrals diverge. This motivates replacing the exponential with slower-growing functions. We construct two benchmarks for operator learning on\u2026",
+    "score": 5.537,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "WOMBAT: Whitebox Oracle for Molecular Benchmarking and Attribution Testing",
+    "url": "https://arxiv.org/abs/2610.00713",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00713v1 Announce Type: new Abstract: When a graph neural network (GNN) explainer produces an unexpected attribution on a molecule, the attribution alone cannot reveal whether the explainer has failed or the model has learned a shortcut. We introduce WOMBAT, a benchmark of 14 whitebox GNNs, each with message-passing weights set by hand to detect a specific SMARTS motif. Each model's\u2026",
+    "score": 5.537,
+    "matched": [
+      "neural network",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Do Biological Reasoning Models Use Their Biological Inputs?",
+    "url": "https://arxiv.org/abs/2610.00898",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00898v1 Announce Type: new Abstract: Biological reasoning models use post-training to connect LLMs to biological foundation model representations and biological text. Their benchmark accuracy is taken as evidence that LLMs reason over these inputs. We test this assumption in six biological reasoning models across DNA, protein, and single-cell tasks. We perturb one biological input\u2026",
+    "score": 5.537,
+    "matched": [
+      "foundation model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MECHVAR: Variance-Guided Mechanism Discrimination for Autonomous Machine Learning Experiment Selection",
+    "url": "https://arxiv.org/abs/2610.01819",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01819v1 Announce Type: new Abstract: Benchmark gains are often mechanism-ambiguous: reproducing an improvement does not by itself identify why it occurs. We study finite-library mechanism discrimination, where posterior-weighted candidate mechanisms, executable probes, and a limited experimental budget define a sequential experiment-selection problem. MECHVAR selects the next probe by\u2026",
+    "score": 5.537,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Faynt: Scaling and Optimizing Policies for Competitive Melee",
+    "url": "https://arxiv.org/abs/2610.02144",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.02144v1 Announce Type: new Abstract: We introduce Faynt, a family of 10M- and 75M-parameter Transformer policies for Super Smash Bros. Melee, each controlling all 26 characters with a single checkpoint. After reinforcement learning (RL), the 10M wins 240 of 244 same-character games (98.4%) against fourteen specialist and multi-character releases on their supported rosters, with a\u2026",
+    "score": 5.537,
+    "matched": [
+      "transformer*",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "VERITYGATE: A Four-Gate Schema-Level Faithfulness Framework and Paired Benchmark for Grounded LLM Narrations over Structured Evidence",
+    "url": "https://arxiv.org/abs/2610.00833",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00833v1 Announce Type: cross Abstract: Fluent LLM explanations may not follow the evidence from a structured system. We present VERITYGATE, a four-gate checker for declared evidence IDs, entities, numbers, and claim types. It checks a fixed schema; it does not verify every fact in the prose. At r=0 and r=1, we test 900 instances per setting (450 grounded-ungrounded pairs) with\u2026",
+    "score": 5.537,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Which LLM to pick? Online Active Model Selection for Large Language Models",
+    "url": "https://arxiv.org/abs/2610.01592",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01592v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly applied to process streaming data, with practitioners relying on benchmarks to select the best model even though these signals only approximate real performance. While oracle annotations can provide reliable feedback, they are often costly and difficult to obtain at scale. To address this challenge, we\u2026",
+    "score": 5.537,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Benchmarking Epistemology: Validity Theory for Evaluating Machine Learning Models",
+    "url": "https://arxiv.org/abs/2510.23191",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2510.23191v2 Announce Type: replace Abstract: Predictive benchmarking, evaluating machine learning models based on predictive performance and competitive ranking, is central to machine learning research and scientific inquiry. However, benchmark scores at best measure performance relative to a specific dataset and learning problem. Drawing substantial scientific inferences requires\u2026",
+    "score": 5.537,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Pepti-drift: Scalable Safe-Active Peptide Generation Without Inference-Time Guidance",
+    "url": "https://arxiv.org/abs/2606.27824",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2606.27824v3 Announce Type: replace Abstract: Therapeutic peptides are a promising drug modality, but their generation must satisfy multiple therapeutic constraints. We introduce BindSafe-PepBench, a fixed-budget benchmark that jointly evaluates target binding and four major safety metrics on the same generated candidates. We reveal that peptide length is a major confounder of joint\u2026",
+    "score": 5.537,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Spatial Atlas: Compute-Grounded Reasoning for Spatial-Aware Research Agent Benchmarks",
+    "url": "https://arxiv.org/abs/2604.12102",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2604.12102v3 Announce Type: replace-cross Abstract: We describe compute-grounded reasoning (CGR), a design pattern in which code computes selected sub-problems from explicit intermediate representations before a language model answers. Spatial Atlas implements CGR as an Agent2Agent (A2A) server with a spatial question-answering handler and a machine-learning engineering handler. The spatial\u2026",
+    "score": 5.537,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jev in Medicine: A Benchmark Evaluation",
+    "url": "https://arxiv.org/abs/2609.34024",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2609.34024v2 Announce Type: replace-cross Abstract: Jev is a non-generative \"System One\" model that assigns probabilities to predefined answer options and cannot answer outside them. Its accuracy and calibration on medical question-answering and case-based diagnostic-reasoning tasks are unknown. We evaluated Jev 1.13 on four medical benchmarks: MetaMedQA, PubMedQA, DiagnosisArena-MCQ and\u2026",
+    "score": 5.537,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
+    "url": "https://arxiv.org/abs/2610.00118",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00118v1 Announce Type: new Abstract: Customer churn prediction on the IBM Telco Customer Churn benchmark (n = 7,043) routinely reports test accuracies above 95%, with the most cited published study reporting 99.01%. We audit this benchmark for four trustworthiness failures invisible to the accuracy- and F1-centred reporting that dominates the literature. First, pre-split SMOTE inflates\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "M$^2$Weather: A Benchmark for Joint Multi-Station and Multi-Variable Weather Forecasting",
+    "url": "https://arxiv.org/abs/2610.00370",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00370v1 Announce Type: new Abstract: Station weather forecasting is fundamentally shaped by both complex spatial dependencies across stations and strong physical coupling among weather variables. However, existing studies often consider these relationships separately and use different datasets and experimental settings, hindering systematic assessment of their individual and joint\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Conflict Between Logic and Memory: Learning Higher-Order Interactions in Shallow MLPs",
+    "url": "https://arxiv.org/abs/2610.00403",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00403v1 Announce Type: new Abstract: A network can fit its training examples while failing to recover the rule that generated their labels. We examine this separation in single-hidden-layer multilayer perceptrons (MLPs), using synthetic tasks that control interaction order and the presence of nuisance inputs. We establish elementary benchmark properties: pure parity contains no\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "One-Step Generative Modeling via Training Dynamics Action",
+    "url": "https://arxiv.org/abs/2610.00518",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00518v1 Announce Type: new Abstract: One-step generative models construct a static generator through iterative training-time transport. Existing transport objectives primarily assess distributional motion, although a neural generator needs to realize the requested sample displacements jointly through shared parameter updates. The training-time construction raises the question:\u2026",
+    "score": 5.237,
+    "matched": [
+      "generative"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SimplexUQ: An Evaluation Framework and Benchmark for Conformal Uncertainty on Simplex-Valued Predictions",
+    "url": "https://arxiv.org/abs/2610.00523",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00523v1 Announce Type: new Abstract: Conformal prediction guarantees marginal coverage, but a single calibration threshold can still spread that coverage unevenly, over-covering easy regions and under-covering hard ones. SimplexUQ is, to our knowledge, the first benchmark and reproducible protocol for measuring this allocation problem on simplex-valued predictions; it compares existing\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation",
+    "url": "https://arxiv.org/abs/2610.00604",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00604v1 Announce Type: new Abstract: Vision-language-action policies often see only one or a few recent frames, which makes it difficult to evaluate how they use information that disappears during a task. We introduce MIKASA-Robo-VLA, a benchmark of 90 language-conditioned manipulation tasks. All but 10 hide the cue an action depends on. Those 10 are reactive controls. MIKASA-Robo, the\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SkillSpec: Consensus-Gated Agent Skill Evolution via Representation Specialization",
+    "url": "https://arxiv.org/abs/2610.00704",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00704v1 Announce Type: new Abstract: Natural-language skills are textual procedural memories through which large language model (LLM) agents retain reusable task knowledge without updating model weights. Existing methods typically treat skills as either static artifacts or monolithic documents optimized using aggregate validation scores as feedback. However, representing a skill as a\u2026",
+    "score": 5.237,
+    "matched": [
+      "llm",
+      "large language model",
+      "model weights"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TrueMuse: A Benchmark for Data Attribution in Text-to-Music Models",
+    "url": "https://arxiv.org/abs/2610.00835",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.00835v1 Announce Type: new Abstract: Text-to-music generation models are trained on massive music collections, creating a growing need for data attribution methods that can quantify the contribution of individual training samples. However, existing attribution methods are difficult to rigorously evaluate due to the lack of reliable ground truth, making it challenging to reliably assess\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SLIM: Simplex-Lattice Interpolation Merging",
+    "url": "https://arxiv.org/abs/2610.01037",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01037v1 Announce Type: new Abstract: Optimizing merging coefficients for large language models can require many costly benchmark evaluations. We propose \\textbf{Simplex-Lattice Interpolation Merging (SLIM)}, which constructs a quadratic surrogate of aggregate performance on the coefficient simplex using a classical mixture design. Evaluations of individual experts and equal-weight\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Dataset Identity, Not Novelty: The Source of an Inflated OOD Detection Gain",
+    "url": "https://arxiv.org/abs/2610.01096",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01096v1 Announce Type: new Abstract: A post-hoc out-of-distribution (OOD) detector reads the activations of a trained classifier and returns a score. It fits that score on in-distribution data, and the benchmarks that evaluate it supply a second piece of OOD data for the fitting itself. Some detectors tune a constant on it. Others fit a direction in feature space or train a flexible\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How Much Can Language Models Gain from Test-Time Computation?",
+    "url": "https://arxiv.org/abs/2610.01110",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01110v1 Announce Type: new Abstract: How much can test-time computation improve a language model, and at what cost? Test-time scaling is widely proposed as a substitute for larger models, but existing comparisons mostly evaluate one domain at a time and rarely charge selection to the budget. We introduce SELF-POT, a benchmark and evaluation framework that measures the test-time\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Detect, Explain, Interpret: An End-to-End Benchmark for Time Series Anomaly Detection, Explainability and Interpretability",
+    "url": "https://arxiv.org/abs/2610.01168",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01168v1 Announce Type: new Abstract: Time Series Anomaly Detection has received increasing attention, driven by the growing availability of complex time series data. This surge has led to the development of numerous detection methods, as well as a variety of benchmarks aimed at thoroughly evaluating their performance. However, most existing detectors remain largely agnostic to domain\u2026",
+    "score": 5.237,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "IQS-BO: In-Context Query Selection for Bayesian Optimisation",
+    "url": "https://arxiv.org/abs/2610.01269",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01269v1 Announce Type: new Abstract: Bayesian Optimisation (BO) is a powerful framework for the optimisation of expensive black-box functions, but typically requires refitting a surrogate and maximising an acquisition function at every evaluation step. In-context approaches based on Prior-data Fitted Networks (PFNs) amortise part of this cost by pre-training transformers on functions\u2026",
+    "score": 5.237,
+    "matched": [
+      "transformer*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Two Routes to the Middle: Placement Search and Brain Readouts Converge on Where Continual Learners Should Specialize",
+    "url": "https://arxiv.org/abs/2610.01590",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01590v1 Announce Type: new Abstract: Continual learners that keep a task-specific adapter in every block of a pre-trained vision transformer accumulate storage linearly with the number of tasks; keeping task-specific adapters in only a few blocks curbs this growth but raises the question of where to place them. We investigate this question from two perspectives. Algorithmically,\u2026",
+    "score": 5.237,
+    "matched": [
+      "transformer*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Flowing Faster to Coordinate: One-Step Online Multi-Agent Flow Policies",
+    "url": "https://arxiv.org/abs/2610.01882",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01882v1 Announce Type: new Abstract: Multi-agent reinforcement learning (MARL) provides a powerful framework for learning coordinated behaviors through interactions with the environment. Developing MARL policies requires balancing expressive modeling of complex and multimodal action distributions with efficient training and execution. Generative policies, particularly diffusionbased\u2026",
+    "score": 5.237,
+    "matched": [
+      "generative",
+      "multimodal",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Stochastic Rounding in Low-Precision Transformer Inference: A Variable-Precision Emulation Study of a Small GPT-2",
+    "url": "https://arxiv.org/abs/2610.01889",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01889v1 Announce Type: new Abstract: Should low-precision transformer inference use stochastic rounding (SR) or round-to-nearest (RN)? The answer depends on where in the network you look. We isolate this effect by holding the numerical format fixed and varying only the rounding rule at individual operation sites. To enable experiments at freely chosen precisions, we extend the PRISM\u2026",
+    "score": 5.237,
+    "matched": [
+      "gpt",
+      "transformer*",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Asynchronous LLM Post-Training: Group-Mass Capping and Convergence Analysis",
+    "url": "https://arxiv.org/abs/2610.01896",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.01896v1 Announce Type: new Abstract: Asynchronous reinforcement learning (RL) improves the efficiency of large language model post-training but introduces stale rollouts generated by earlier policies. Theoretical understanding of how this staleness affects convergence and how to mitigate its impact remains limited. We derive a convergence bound for GRPO-style algorithms that explicitly\u2026",
+    "score": 5.237,
+    "matched": [
+      "llm",
+      "large language model",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CARM: Cancellation-Aware Response Masking for LLM Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2610.02039",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-03T04:00:00+00:00",
+    "summary": "arXiv:2610.02039v1 Announce Type: new Abstract: Recent years have witnessed the rapid adoption of reinforcement learning (RL) in large language model (LLM) post-training, with substantial gains in mathematical reasoning and code generation. In practical systems, however, policy updates and differences between rollout and training engines can make sampled responses off-policy. Sequence-level\u2026",
+    "score": 5.237,
+    "matched": [
+      "llm",
+      "large language model",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.937,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  }
+]
