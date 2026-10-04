@@ -1,0 +1,477 @@
+[
+  {
+    "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-04T07:57:28+00:00",
+    "summary": "Nonobench measures how well LLMs solve nonograms (picross). Each model gets the row and column clues once and returns the full grid. No tools, one attempt per puzzle. Method: - Standard mode: 30 puzzles from 5x5 to 15x15 (from the Nonograms dataset by Moy\u00e0-Alcover, CC BY 4.0). - Hard mode: ten random 20x20s, each checked to have a single solution. Five can't be solved by line logic alone. Random\u2026",
+    "score": 6.048,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.348,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Top ARC-\u0391GI-3 scores on Kaggle just went from 7% to 56% [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arc\u03b1gi3_scores_on_kaggle_just_went_from_7_to/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-04T10:24:58+00:00",
+    "summary": "https://preview.redd.it/gkjgii48gfth1.png?width=575&format=png&auto=webp&s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (Kagglers can only use those), in a harness, just started beating average humans at a benchmark intentionally designed to show human superiority. I'm curious what people here think. (The leaderboard graphic is a little\u2026",
+    "score": 5.756,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.656,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-04T05:21:35+00:00",
+    "summary": "Purpose-built to stress-test computer vision models, depth cameras, and spatial AI against severe specular glare and geometric reflections. This 425-asset production archive features a custom faceted mirror suit captured in high-contrast outdoor environments to trigger bounding-box dropouts and segmentation failures. The dataset includes 100% proprietary uncompressed Camera-Master RAWs,\u2026",
+    "score": 5.424,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.024,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-04T12:15:28+00:00",
+    "summary": "i work on reference checking stuff so i was reading through the ICLR 2027 author guidelines and style files this week the sample .bib that ships with the template has the Deep Learning book as \"Goodfellow, Bengio, Courville, Bengio\" plus a volume 1 that doesn't exist checked their github and it's been like that since the 2019 template\u2026",
+    "score": 5.386,
+    "matched": [
+      "deep learning"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.886,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Working with an AI Company That Does Things You Disagree With [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-04T08:41:09+00:00",
+    "summary": "I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading project descriptions sent by the recruiters. I don't want to name the company but their marketing and product team does all kinds of 'using people insecurities' to sell the product - which I don't agree with. And their\u2026",
+    "score": 5.239,
+    "matched": [
+      "ai",
+      "machine learning"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.439,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wx1knr/jev_not_frontier_but_still_worth_your_attention_r/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-03T23:57:28+00:00",
+    "summary": "\"TypeSafe AI sells Jev as a frontier-class reasoner that cannot hallucinate, built by the co-inventor of ChatGPT - fast, and almost free. We ran it live on 16,379 benchmark requests, measured its latency and billing, and probed what it is underneath. The result is a smaller, humbler model that is nonetheless genuinely useful for a job that nobody else serves quite this way.\" submitted by\u2026",
+    "score": 5.048,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.348,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+    "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-04T10:00:00+00:00",
+    "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+    "score": 5.004,
+    "matched": [],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.604,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Religious scholars met with Anthropic",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-04T02:34:22+00:00",
+    "summary": "https://archive.is/y8FW0 Comments URL: https://news.ycombinator.com/item?id=49950052 Points: 103 # Comments: 239",
+    "score": 4.575,
+    "matched": [
+      "anthropic"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.675,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-03T22:18:13+00:00",
+    "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 264 # Comments: 3",
+    "score": 4.342,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.142,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TMLR desk rejecting two years of work [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wx7wc8/tmlr_desk_rejecting_two_years_of_work_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-04T05:43:15+00:00",
+    "summary": "TMLR desk rejected two years of work/efforts. What could be the possible reason? No reason was given in the desk rejection. The work is related to continual motion generation. submitted by /u/Intrepid_Discount_67 [link] [comments]",
+    "score": 4.269,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.069,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-10-03T22:56:48+00:00",
+    "summary": "",
+    "score": 4.222,
+    "matched": [],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.222,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T16:30:01+00:00",
+    "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "score": 4.016,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.416,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T14:31:56+00:00",
+    "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [\u2026]",
+    "score": 3.87,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.17,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T18:43:57+00:00",
+    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "score": 3.695,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.695,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T18:00:00+00:00",
+    "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+    "score": 3.604,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.604,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Capcom is preparing for a \u2018future where we create games together with AI\u2019",
+    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T16:49:10+00:00",
+    "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for [\u2026]",
+    "score": 3.556,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.456,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Pop!_OS bans AI-generated code from much of its codebase",
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-03T17:57:03+00:00",
+    "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/ Comments URL: https://news.ycombinator.com/item?id=49946321 Points: 107 # Comments: 159",
+    "score": 3.498,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.598,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-03T17:44:29+00:00",
+    "summary": "https://archive.ph/TyDPf Comments URL: https://news.ycombinator.com/item?id=49946228 Points: 193 # Comments: 290",
+    "score": 3.471,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.571,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "All the AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T14:00:00+00:00",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "score": 3.404,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.104,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-03T15:00:00+00:00",
+    "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles [\u2026]",
+    "score": 3.329,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.229,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wwz403/accepted_papers_must_be_imported_deadline_neurips/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-03T21:55:48+00:00",
+    "summary": "On the NeurIPS 2026 Dates site it says that there is 1 day remaining for the \"Accepted papers must be imported\" deadline. This is my first research paper ever and I couldn't find anything about how to do this on the internet. Could someone help me out on what to do? submitted by /u/TroyAndAbedInTheMor [link] [comments]",
+    "score": 3.295,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.095,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-03T18:04:32+00:00",
+    "summary": "I recently finished The Principles of Diffusion Models , and honestly I think it\u2019s exceptional. The authors strike a really good balance between mathematical rigor and intuition , with dedicated appendices for anyone who wants to go deeper into the math. It\u2019s aimed at researchers, graduate students, and practitioners with basic deep learning knowledge, so you don\u2019t need to already specialize in\u2026",
+    "score": 3.113,
+    "matched": [
+      "deep learning"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.613,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I quit OpenAI because its culture is broken",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-03T13:46:34+00:00",
+    "summary": "https://archive.ph/5GQx8 https://www.theguardian.com/technology/2026/oct/03/openai-sa... Comments URL: https://news.ycombinator.com/item?id=49944227 Points: 296 # Comments: 531",
+    "score": 2.976,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.076,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ICLR 2027 Reviewing Scores [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-03T16:10:08+00:00",
+    "summary": "I got my three papers to review, and it seems like they have changed the review score range again this year? It is now: \u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013 Based on your overall assessment of the submission, what is your recommended decision? Consider the paper\u2019s overall soundness, significance, clarity, and contribution. 1: Clear rejection 2: Weak rejection 3: Weak acceptance 4: Clear\u2026",
+    "score": 2.575,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.375,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
