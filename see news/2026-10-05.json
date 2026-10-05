@@ -1,0 +1,730 @@
+[
+  {
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-10-05T15:00:00+00:00",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "score": 7.18,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 2.88,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-10-05T10:00:00+00:00",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "score": 7.155,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 2.255,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T15:14:24+00:00",
+    "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+    "score": 6.81,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.91,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T14:00:00+00:00",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "score": 6.655,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.755,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+    "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T14:30:00+00:00",
+    "summary": "Today, I\u2019m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology \u2014 it\u2019s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this moment in [\u2026]",
+    "score": 6.518,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.818,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T13:47:14+00:00",
+    "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [\u2026]",
+    "score": 6.428,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.728,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T13:29:32+00:00",
+    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between\u2026",
+    "score": 6.292,
+    "matched": [
+      "ai",
+      "agentic"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.692,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T15:00:00+00:00",
+    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "score": 6.18,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.88,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T14:35:09+00:00",
+    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "score": 6.128,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.828,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meet the Startup Battlefield 200 judges who\u2019ll decide the winner at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T14:30:00+00:00",
+    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+    "score": 5.818,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.818,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI glasses face their first major government crackdown",
+    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T13:39:30+00:00",
+    "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+    "score": 5.812,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.712,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
+    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T12:00:00+00:00",
+    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "score": 5.805,
+    "matched": [
+      "genai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.505,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PaMIR: Open Benchmark of Public Credit-Default Datasets",
+    "url": "https://arxiv.org/abs/2610.03259",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03259v1 Announce Type: new Abstract: We release PaMIR (Public Arrival-ordered Measurement for Inference in Risk), an open benchmark for credit-default prediction when labels are scarce and arrive late. The field's reference benchmark studies use eight datasets each, only two or four of them public. PaMIR brings together 19 public datasets with binary default labels -- 1.24M loans,\u2026",
+    "score": 5.705,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ontological Instability and Statistical Amplification: The Paradox of \"Humanizing\" LLM-Generated Text",
+    "url": "https://arxiv.org/abs/2610.03110",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03110v1 Announce Type: new Abstract: Supervised AI-text detectors report high benchmark accuracy, but it is not clear what their decisions are based on. We analyze a RoBERTa-based detector under semantic, structural, and tokenizer-level perturbations, using the M4 dataset (N = 10,000) and controlled generations (N = 300). When Mistral-7B-Instruct was asked to make machine text sound\u2026",
+    "score": 5.705,
+    "matched": [
+      "ai",
+      "llm",
+      "mistral",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "People really hate AI, so why can\u2019t they get enough?",
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T08:00:00+00:00",
+    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019s been stuck in my head since: \u201cWe often say that we\u2019re a self-loathing AI\u2026",
+    "score": 5.605,
+    "matched": [
+      "ai",
+      "llm"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.005,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Dynamic LLM Routers are Often Misguided",
+    "url": "https://arxiv.org/abs/2610.02762",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02762v1 Announce Type: new Abstract: Dynamic LLM routers promise to cut inference costs by sending each query to the cheapest model that can answer it correctly. We analyze six commercial routers across 14 settings on a diverse benchmark spanning eight task categories, finding that none of them outperforms a router that randomly selects between two well-chosen models at matched cost.\u2026",
+    "score": 5.405,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PLCWorld: Benchmarking LLM-Generated PLC Programs in Closed-Loop Plant Simulation",
+    "url": "https://arxiv.org/abs/2610.02982",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02982v1 Announce Type: new Abstract: Programmable logic controllers (PLCs) coordinate industrial equipment by reading sensor inputs and issuing control commands. Evaluating whether large language model (LLM)-generated PLC programs satisfy task requirements and safety constraints requires observing how their commands affect device and workpiece states. We introduce PLCWorld, a common\u2026",
+    "score": 5.405,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ReFract: Benchmarking Perspective Awareness in Language Model Agents with Text World Models",
+    "url": "https://arxiv.org/abs/2610.03356",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03356v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed in high-stakes settings such as industrial maintenance and equipment fault troubleshooting, where workers occupy a variety of roles. A capable agent must therefore act in a way that is calibrated to user's role: taking actions and providing information that respect the role's knowledge and\u2026",
+    "score": 5.405,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NegT2IBench: When Negation Changes the Picture. A Polarity Benchmark for Text-to-Image Models",
+    "url": "https://arxiv.org/abs/2610.03084",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03084v1 Announce Type: cross Abstract: Text-to-image (T2I) models are judged by benchmarks that measure whether requested content appears, but these benchmarks largely overlook the complementary ability to satisfy negated constraints, for example, generating \"a non-red cup.\" Measuring negation raises challenges not faced by affirmation-based benchmarks and requires careful prompt and\u2026",
+    "score": 5.405,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?",
+    "url": "https://arxiv.org/abs/2610.03226",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03226v1 Announce Type: cross Abstract: GPU kernels generated by large language model (LLM) agents can remain less efficient than expert implementations, but runtime alone does not reveal how the gap relates to design discovery and implementation. We introduce D2K-Bench, a diagnostic benchmark of 26 tasks and 85 workloads that measures how effectively agents translate expert design\u2026",
+    "score": 5.405,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "FastKernels: Benchmarking GPU Kernel Generation in Production",
+    "url": "https://arxiv.org/abs/2605.23215",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2605.23215v2 Announce Type: replace-cross Abstract: LLM-based agents for GPU kernel generation are advancing rapidly, but the benchmarks they optimize against evaluate kernels in isolation, with synthetic inputs and weak baselines, rewarding sandbox speedups that break or vanish in real inference systems. We introduce FastKernels, a benchmark of 384 tasks drawn from 47 representative\u2026",
+    "score": 5.405,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How Far Can You Get Without a GPU? A Systematic Benchmark of Lightweight Hallucination Detection Across Question Answering, Dialogue, and Summarisation",
+    "url": "https://arxiv.org/abs/2606.29809",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2606.29809v2 Announce Type: replace-cross Abstract: Hallucination detection has become a pressing requirement for trustworthy AI deployment at scale. The most accurate detection methods depend on GPU-intensive inference, proprietary API calls, or white-box access to the generating model, putting them out of reach for resource-constrained researchers and practitioners. We explore a practical\u2026",
+    "score": 5.405,
+    "matched": [
+      "ai",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Does Physics Live in the Activations? Localizing Physical Quantities in Video Diffusion Models",
+    "url": "https://arxiv.org/abs/2610.03154",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03154v1 Announce Type: cross Abstract: Video generation models produce strikingly realistic sequences and are increasingly proposed as world models, yet recent benchmarks reveal pronounced deficits in their physical reasoning. This raises the question of whether these models internalize physical principles or merely reproduce familiar motion patterns. We address this by probing\u2026",
+    "score": 5.405,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can AI Understand the Language of Origami?",
+    "url": "https://arxiv.org/abs/2603.13856",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2603.13856v3 Announce Type: replace Abstract: Building AI systems that can plan, act, and create in the physical world requires more than pattern recognition. Such systems must reason about the generative mechanisms and constraints governing physical processes, using structured representations that connect observations, actions, and their effects. Yet, many existing benchmarks study these\u2026",
+    "score": 5.405,
+    "matched": [
+      "ai",
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "HakemBench: A Turkish Benchmark of Typed Decisions",
+    "url": "https://arxiv.org/abs/2610.02293",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02293v1 Announce Type: new Abstract: HakemBench is a Turkish benchmark of typed decisions, in which the model under test reads a text, a question and a fixed set of options and returns a probability for every option. Version 1.0 is released fully open under CC BY 4.0, with 2,346 items and 4,275 choice, yes/no and score questions in seven tracks (fact-check triage, education,\u2026",
+    "score": 5.405,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OLMo-Detect: A Multi-Stage, Confounder-Controlled Benchmark for Membership Inference on Large Language Models",
+    "url": "https://arxiv.org/abs/2610.02986",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02986v1 Announce Type: new Abstract: Membership inference on large language models (LLMs) aims to determine whether a given text sample was included in an LLM's training data, without access to its training corpus. Despite recent progress, existing benchmarks suffer from three limitations: limited coverage of training stages, insufficient distributional alignment between members and\u2026",
+    "score": 5.405,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Our minds aren\u2019t equipped to handle AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T10:00:00+00:00",
+    "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, [\u2026]",
+    "score": 5.355,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.255,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer\u2019s Deadliest Gaps",
+    "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-10-05T13:00:57+00:00",
+    "summary": "Breast cancer is the most commonly diagnosed cancer among American women \u2014 yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. [\u2026]",
+    "score": 5.332,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.632,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-05T13:58:31+00:00",
+    "summary": "This is related to my previous post where I shared an encoder-only transformer model trained on ohiot1dm + shanghait1dm + azt1d datasets. This time I trained the model on the outputs of my T1DM patient simulator and then measured its zero-shot performance on my real-world blood glucose traces. The above model has 31,251 parameters (16 layers, 1 attention head per layer, and a hidden dimension\u2026",
+    "score": 5.252,
+    "matched": [
+      "transformer*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.752,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods",
+    "url": "https://arxiv.org/abs/2610.02599",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02599v1 Announce Type: new Abstract: Sustainable protein discovery lacks the fast computational proxies, analogous to molecular docking or density functional theory, that accelerate drug and materials discovery. Evaluating whether a novel food tastes like its animal-based target requires expensive human sensory panels, bottlenecking the design-build-test loop. We introduce TasteBench,\u2026",
+    "score": 5.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MLCommons Jailbreak Benchmark v1.0",
+    "url": "https://arxiv.org/abs/2610.02827",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02827v1 Announce Type: new Abstract: Modern AI systems are designed to refuse hazardous requests. A jailbreak is a prompt crafted to bypass those safeguards and elicit outputs that the system would normally refuse to provide. The MLCommons Jailbreak Benchmark v1.0 provides an end-to-end methodology for evaluating the robustness of large language models to single-turn, text-based\u2026",
+    "score": 5.105,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+    "url": "https://arxiv.org/abs/2610.03574",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03574v1 Announce Type: new Abstract: We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficient speakers. Questions are designed to be extremely challenging. Each question targets a concise, publicly verifiable answer whose discovery requires\u2026",
+    "score": 5.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
+    "url": "https://arxiv.org/abs/2610.03639",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03639v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian legal system. The benchmark comprises 1,042 items\u2026",
+    "score": 5.105,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenGameEval: Benchmarking Agentic Programming and Exploration in a Stateful Game Engine",
+    "url": "https://arxiv.org/abs/2610.02563",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.02563v1 Announce Type: cross Abstract: We present OpenGameEval, a benchmark and evaluation framework for agentic game development inside Roblox Studio. It runs language models as agents in reproducible, stateful game-engine sessions and scores each run with executable checks, both on the edited scene and in a simulated play session. Most agentic coding benchmarks require exploration\u2026",
+    "score": 5.105,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Single Videos: Benchmarking and Active Evidence Seeking for E-Commerce Cross-Video Reasoning",
+    "url": "https://arxiv.org/abs/2610.03099",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-05T04:00:00+00:00",
+    "summary": "arXiv:2610.03099v1 Announce Type: cross Abstract: E-commerce videos are information-dense and frequently compared by consumers evaluating products and merchants assessing marketing strategies. However, existing multimodal models mainly focus on single-video understanding and have limited ability to compare information across videos. We introduce AdsCVR, the first e-commerce cross-video reasoning\u2026",
+    "score": 5.105,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.505,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
