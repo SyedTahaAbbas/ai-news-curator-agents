@@ -1,0 +1,707 @@
+[
+  {
+    "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
+    "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-06T13:15:23+00:00",
+    "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it\u2019s \u201cstill in the race\u201d to build frontier-level artificial intelligence.",
+    "score": 7.088,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "mistral",
+      "open-weight*"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.888,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google is about to remove free access to Gemini Flash and Pro",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-06T13:19:01+00:00",
+    "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a [\u2026]",
+    "score": 6.296,
+    "matched": [
+      "ai",
+      "gemini"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.896,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Pinterest\u2019s AI now turns beauty Pins into action plans",
+    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-06T14:00:49+00:00",
+    "summary": "Pinterest\u2019s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times and maintenance needs.",
+    "score": 6.283,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.983,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mistral Large 4 benchmarks",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz2bsn/mistral_large_4_benchmarks/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T13:15:39+00:00",
+    "summary": "Just dropped. submitted by /u/Informal-Trouble2183 [link] [comments]",
+    "score": 6.089,
+    "matched": [
+      "mistral",
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.889,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tencent releases Octop, a self-hosted AI assistant",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyzef4/tencent_releases_octop_a_selfhosted_ai_assistant/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T10:45:43+00:00",
+    "summary": "Octop is an open-source, self-hosted AI assistant. Through its multi-agent architecture, it builds an intelligent environment that is both independent and collaborative for teams, families, and individuals. Best of all, it runs entirely on your machine, the fully self-hosted design means privacy is never a compromise, while single-process startup makes the powerful web console, CLI, and IM\u2026",
+    "score": 6.076,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.576,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-06T14:00:00+00:00",
+    "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+    "score": 5.981,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.981,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-06T12:21:53+00:00",
+    "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+    "score": 5.877,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.777,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+    "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-10-06T13:00:19+00:00",
+    "summary": "Telecom operators are increasingly building their AI strategies on open models \u2014 and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads \u2014 from autonomous networks to customer care. NVIDIA\u2019s latest State of AI in Telecommunications report reflects this shift, with [\u2026]",
+    "score": 5.857,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.857,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Amazon Alexa Plus keeps creepily singing \u2018lalala\u2019 for minutes on end",
+    "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-06T10:53:11+00:00",
+    "summary": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing. The [\u2026]",
+    "score": 5.392,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.592,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-10-06T06:44:39+00:00",
+    "summary": "",
+    "score": 5.374,
+    "matched": [
+      "llm"
+    ],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.074,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Kevin Roose Didn\u2019t Use AI to Write His Book About AI",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-06T10:30:00+00:00",
+    "summary": "The author of The AGI Chronicles says his book \u201cwas written by a very tired, overworked, under-slept human being.\u201d",
+    "score": 5.244,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.544,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-06T07:03:22+00:00",
+    "summary": "We've been building a benchmark out of real concurrency bugs (race conditions, deadlocks, cancellation issues) taken from merged PRs in about 100 Python projects. Each task gets graded by the project's own tests, in a container with no network, and the repo is cut down to a single commit so the agent can't recover the fix from git history.\u2026",
+    "score": 5.213,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.113,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meet Mistral Large 4, aka Le Chonk.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz24v1/meet_mistral_large_4_aka_le_chonk/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T13:07:05+00:00",
+    "summary": "submitted by /u/cpldcpu [link] [comments]",
+    "score": 5.171,
+    "matched": [
+      "mistral"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.871,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mistral CEO says new AI model beats Chinese ones in some areas",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyz1y6/mistral_ceo_says_new_ai_model_beats_chinese_ones/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T10:24:42+00:00",
+    "summary": "submitted by /u/tengo_harambe [link] [comments]",
+    "score": 5.133,
+    "matched": [
+      "ai",
+      "mistral"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.533,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T18:08:39+00:00",
+    "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [\u2026]",
+    "score": 5.099,
+    "matched": [
+      "chatgpt",
+      "openai",
+      "anthropic",
+      "deepmind"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.499,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-06T10:50:30+00:00",
+    "summary": "Learning from data as we observe it is easy for humans, but most machine learning models have limited ability to learn from new data that they have not seen during training. Prior-fitted networks (the idea behind TabPFN) showed that a model trained only on synthetic data can learn from real tabular data entirely in context. I wanted to share our paper \"Learning to Learn a Language\" where we\u2026",
+    "score": 5.086,
+    "matched": [
+      "machine learning"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.586,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T20:14:57+00:00",
+    "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [\u2026]",
+    "score": 5.062,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.762,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "All the drama around AI\u2019s takeover of mathematics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T19:28:59+00:00",
+    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of \u2014 including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [\u2026]",
+    "score": 4.966,
+    "matched": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.666,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Le Chonk strikes back.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz2lte/le_chonk_strikes_back/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T13:28:00+00:00",
+    "summary": "submitted by /u/atape_1 [link] [comments]",
+    "score": 4.914,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.914,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NeurIPS 2026 Financial Assistance [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wz0fzf/neurips_2026_financial_assistance_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-06T11:44:36+00:00",
+    "summary": "Is anyone else unable to open the form for financial assistance despite the deadline still being in the future? submitted by /u/lcj29 [link] [comments]",
+    "score": 4.899,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.699,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen 4 apparently coming out at the end of October",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T12:48:19+00:00",
+    "summary": "Hey All, I spoke to a 0-day partner of Alibaba today and he casually mentioned (didnt know if he was allowed to) that Qwen 4 is apparently planned for the end of October. To me, this is way faster than expected as there was quite a gap between 3.6 and 3.8. I tried to get more information out of him regarding which variants will come first and he got a bit cagey. BUT: No matter the order of the\u2026",
+    "score": 4.832,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.832,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T20:36:48+00:00",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "score": 4.708,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.808,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Gemini Call for Me might tell your mom you\u2019re running late",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T23:09:55+00:00",
+    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [\u2026]",
+    "score": 4.527,
+    "matched": [
+      "ai",
+      "gemini"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.127,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting Felix Rieseberg",
+    "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-10-05T23:56:47+00:00",
+    "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM\u2026",
+    "score": 4.524,
+    "matched": [
+      "claude",
+      "anthropic",
+      "inference"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.224,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T18:54:30+00:00",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "score": 4.495,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.595,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I made a Chrome extension that filters your YouTube feed with a small local model running in the browser (WebGPU, no server)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyycbs/i_made_a_chrome_extension_that_filters_your/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T09:40:21+00:00",
+    "summary": "My YouTube feed was mostly songs, pranks and celebrity clips, so I built a filter that judges each video title with a small decision model running inside Chrome. Nothing is sent anywhere: no server, no API key, no account, and after one download it works offline. What it does - Hides the kinds of video you choose (11 kinds: music, gaming, comedy, vlogs, news, how-tos, and so on), or follows a\u2026",
+    "score": 4.44,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.44,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T19:33:53+00:00",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI system by training Reflection\u2019s AI models on their own proprietary data.",
+    "score": 4.277,
+    "matched": [
+      "ai",
+      "open-weight*"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.677,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "unsloth/Qwen3.8-Flash-Next-GGUF is being updated",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuoht/unslothqwen38flashnextgguf_is_being_updated/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T05:39:02+00:00",
+    "summary": "Looks like Unsloth is updating https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF to work with llama.cpp, so hopefully this will resolve the issue of having two different GGUF versions of Qwen Flash Next. submitted by /u/jacek2023 [link] [comments]",
+    "score": 4.237,
+    "matched": [
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.937,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen 3.8 27b just feels\u2026 ok?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyp4n2/qwen_38_27b_just_feels_ok/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T00:41:42+00:00",
+    "summary": "I\u2019ve seen posts here raving about how good Qwen 3.8 27b is. The benchmarks look incredible, and all the online discourse seems to deem it the best local model. I have 32GB VRAM and run Unsloth\u2019s Q6 version with OpenCode. For small tasks, it feels fine. I range 30-40 t/s decode and smaller sized tasks do finish, usually, without much issue or time. The issue stems when I give it anything with a\u2026",
+    "score": 4.218,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.318,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A benchmark for LLMs playing Civilization V. GLM-5.3 is ahead of Opus-5.5, and Qwen-3.8-27B holds up surprisingly well.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-05T23:16:48+00:00",
+    "summary": "A while ago, I posted here getting OSS-120B and GLM-4.6 playing full games of Civilization V . Since then, models have moved pretty far, and we wanted a better understanding about models' capabilities playing the game. Introducing the controlled version of CivBench on newer models: The controlled version of CivBench (Chen et al., 2026, extending our COLM 2026 work) We are currently testing\u2026",
+    "score": 4.041,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.141,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Wikipedia operator says OpenAI\u2019s \u2018rogue\u2019 bots may be linked to a May outage",
+    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T19:05:19+00:00",
+    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia\u2026",
+    "score": 4.017,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.617,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy \ud83d\udc80",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-05T22:37:19+00:00",
+    "summary": "So PewDiePie decides to fine-tune a local AI model called Ajax on his own computer. Pretty normal stuff for local model fans. To make his dataset, he uses OpenAI's API. OpenAI catches him using their outputs to train another model, flags his account for breaking their terms, and bans him. He files an appeal, gets unbanned, goes right back to pulling data from the API, and immediately gets banned\u2026",
+    "score": 3.959,
+    "matched": [
+      "ai",
+      "openai",
+      "fine-tun*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.059,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "We\u2019re using GLM-5.3 Flash instead of frontier models on a massive production codebase",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuqha/were_using_glm53_flash_instead_of_frontier_models/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-06T05:42:30+00:00",
+    "summary": "At my company, we\u2019re using GLM-5.3 Flash internally for software engineering work, and I\u2019ve been genuinely impressed by it. I work in a very large production environment with projects totaling **millions of lines of code**, and we\u2019re not relying on frontier models for this workflow \u2014 GLM-5.3 Flash is doing the actual day-to-day coding work. The model is extremely fast, but what\u2019s more impressive\u2026",
+    "score": 3.945,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.945,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T18:29:00+00:00",
+    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "score": 3.841,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.541,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-05T22:26:35+00:00",
+    "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+    "score": 3.836,
+    "matched": [],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.036,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
