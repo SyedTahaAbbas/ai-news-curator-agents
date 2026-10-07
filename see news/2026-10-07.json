@@ -1,0 +1,754 @@
+[
+  {
+    "title": "Google\u2019s new SynthID website can identify AI-generated media",
+    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-07T14:00:00+00:00",
+    "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+    "score": 6.842,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.942,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-07T14:12:37+00:00",
+    "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+    "score": 6.669,
+    "matched": [
+      "ai",
+      "mistral",
+      "open-weight*"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.969,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-07T14:15:00+00:00",
+    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+    "score": 6.573,
+    "matched": [
+      "anthropic",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.973,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Looking for developer-friendly inference providers who give you enough API credits to experiment [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wzqmka/looking_for_developerfriendly_inference_providers/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-07T07:51:07+00:00",
+    "summary": "I\u2019m hitting rate limits on Together AI. For context, I\u2019ve been working on an agentic repository indexing and benchmark generation tool, and I\u2019m running multiple agents in parallel across models like Llama 3.3 70B and Qwen 2.5. When I first started working on this, Together AI was great. But once I graduated from toy scripts to running multiple agents, I started running into RPM/TPM limits pretty\u2026",
+    "score": 6.474,
+    "matched": [
+      "ai",
+      "llama",
+      "agentic",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.174,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google rolls out improved SynthID AI content detector, now available globally",
+    "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-07T14:00:08+00:00",
+    "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+    "score": 6.343,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.943,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing Playground: Create and play custom games",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "source": "Google AI",
+    "category": "Labs & Releases",
+    "published": "2026-10-07T12:00:00+00:00",
+    "summary": "Overview of Playground",
+    "score": 6.292,
+    "matched": [],
+    "feed_id": "google-ai",
+    "breakdown": {
+      "feed_weight": 3.6,
+      "recency": 2.692,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-10-07T12:45:31+00:00",
+    "summary": "",
+    "score": 6.087,
+    "matched": [
+      "fine-tun*"
+    ],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.787,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-07T14:00:00+00:00",
+    "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026. If you\u2019re planning to be one of them, don\u2019t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+    "score": 5.942,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.942,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Understanding and Mitigating Inference-Time Overreliance Using Agentic Memory",
+    "url": "https://arxiv.org/abs/2610.07311",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07311v1 Announce Type: new Abstract: Agentic memory allows LLM agents to reuse past experience, yet retrieved memories can also distort inference even when they are benign, correctly stored, and appropriately retrieved. We study this failure mode, which we call memory over-reliance. Across benchmarks and memory architectures, we find that memory is useful when past experience transfers\u2026",
+    "score": 5.892,
+    "matched": [
+      "llm",
+      "agentic",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OTel: Open Telco AI Datasets, Benchmarks, and Models",
+    "url": "https://arxiv.org/abs/2610.07766",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07766v1 Announce Type: new Abstract: We present Open Telco (OTel), an open telecom AI resource that releases derived telecom datasets for retrieval, reranking, instruction tuning, and safety/abstention, together with 30 full-parameter post-trained baselines spanning 10 embedding models, 3 rerankers, and 17 language models. The community has already engaged substantially with the\u2026",
+    "score": 5.892,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "FactorBench: A Portfolio-Aware Benchmark for Automated Factor Mining",
+    "url": "https://arxiv.org/abs/2610.06947",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.06947v1 Announce Type: cross Abstract: Factor mining seeks to discover signals from financial data that predict future asset returns and guide portfolio construction. Automated factor mining now spans genetic programming, reinforcement learning, generative models, and large language model agents. Yet it remains unclear whether advances across these paradigms yield more generalizable,\u2026",
+    "score": 5.892,
+    "matched": [
+      "large language model",
+      "generative",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TabiBERT: A Large-Scale ModernBERT Foundation Model and A Unified Benchmark for Turkish",
+    "url": "https://arxiv.org/abs/2512.23065",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2512.23065v4 Announce Type: replace Abstract: The introduction of BERT established encoder-only transformer models as a foundational paradigm in natural language processing. Encoder-only models remain the standard tool for classification, tagging and retrieval, where contextual representations and low inference cost matter more than text generation, yet Turkish lacks a monolingual encoder\u2026",
+    "score": 5.892,
+    "matched": [
+      "transformer*",
+      "foundation model",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI could upend food delivery",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-07T12:00:00+00:00",
+    "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites [\u2026]",
+    "score": 5.792,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.692,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-07T09:00:00+00:00",
+    "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [\u2026]",
+    "score": 5.717,
+    "matched": [
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.317,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "BluffJAX: Adversarial Imperfect Information Games in JAX",
+    "url": "https://arxiv.org/abs/2610.07686",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07686v1 Announce Type: new Abstract: We introduce BluffJAX: an open-source suite of adversarial imperfect information games in JAX. We provide canonical implementations of games designed for high simulation throughputs and parallelization on GPU accelerators. Our suite consists of well-studied benchmarks such as Texas Hold'Em Poker and Kuhn Poker, as well as games that have not been\u2026",
+    "score": 5.592,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DSV-Mem: Evaluating Multimodal Memory in Professional Workflows for MLLM Agents",
+    "url": "https://arxiv.org/abs/2610.08102",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08102v1 Announce Type: new Abstract: Conversational MLLM agents are increasingly expected to assist in professional workflows, from AI research and engineering design to product management and business operations. Yet this capability remains underexplored: existing benchmarks largely focus on informal, everyday interactions and personal-life scenarios featuring photographic natural\u2026",
+    "score": 5.592,
+    "matched": [
+      "ai",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences",
+    "url": "https://arxiv.org/abs/2610.08691",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08691v1 Announce Type: new Abstract: Large language model agents are accelerating scientific automation, yet verified executions rarely become persistent program-level improvements, and existing evaluations do not examine this process across sequential tasks in both the natural and social sciences. We formalize ScienceClaw as fixed-parameter program self-evolution that unifies task\u2026",
+    "score": 5.592,
+    "matched": [
+      "ai",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Stateless Language Agents: Scaling Long-Horizon Automated Research",
+    "url": "https://arxiv.org/abs/2610.07625",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07625v1 Announce Type: cross Abstract: Automated research systems increasingly run LLM agents over long horizons, but more inference does not by itself produce more progress: agents replay growing histories, duplicate one another's work, or stop experimenting while token consumption continues. Yet most evaluations use short budgets or benchmarks that saturate early, leaving these\u2026",
+    "score": 5.592,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PuzzleJAX: A Benchmark for Reasoning and Learning",
+    "url": "https://arxiv.org/abs/2508.16821",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2508.16821v2 Announce Type: replace Abstract: We introduce PuzzleJAX, a GPU-accelerated puzzle game engine and description language designed to support rapid benchmarking of tree search, reinforcement learning, and LLM reasoning abilities. Unlike existing GPU-accelerated learning environments that provide hard-coded implementations of fixed sets of games, PuzzleJAX allows dynamic\u2026",
+    "score": 5.592,
+    "matched": [
+      "llm",
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DecepEval: A Benchmark for Evaluating Deception in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.07967",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07967v1 Announce Type: new Abstract: As large language model (LLM) agents become increasingly autonomous, they may pursue task performance through deception, raising concerns about their reliable deployment. Existing evaluations show that LLM agents can deceive, but often examine isolated scenarios or narrowly defined conditions, limiting systematic understanding of when deception\u2026",
+    "score": 5.592,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating Inference Compute for Generative AI: A Framework for Enterprise Workloads",
+    "url": "https://arxiv.org/abs/2610.07094",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07094v1 Announce Type: cross Abstract: LLM deployment is shifting from single-turn completion to agentic trajectories in which a model plans, calls tools, reads results and reasons at test time before acting. This inverts the economics of inference hardware: chat serving amortises weight reads across large batches, whereas agent trajectories are sequentially dependent, run at effective\u2026",
+    "score": 5.592,
+    "matched": [
+      "ai",
+      "llm",
+      "generative",
+      "agentic",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ZonoGPT: Towards An Abstract Domain for Verifying Large GPT Models",
+    "url": "https://arxiv.org/abs/2609.34457",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2609.34457v2 Announce Type: replace Abstract: Transformer-based models are widely used for reasoning, coding, and multimodal agentic tasks. To provide formal assurance of desirable behaviors, such as robustness, safety, and fairness, neural network verification techniques prove required properties and provide auditable guarantees before deployment. However, prior work remains limited to\u2026",
+    "score": 5.592,
+    "matched": [
+      "neural network",
+      "gpt",
+      "transformer*",
+      "agentic",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Failure Is in the Readout: Fine-Grained Emotion Recognition Benchmarks Measure Elicitation, Not Perception",
+    "url": "https://arxiv.org/abs/2610.08162",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.08162v1 Announce Type: cross Abstract: Fine-grained emotion recognition supports therapy tools and social robots, but it needs facial data, which raises privacy and data-protection concerns. EmoNet-Face-HQ answers that with generated portraits, expert-rated over a $40$-category taxonomy far finer than the usual six to eight basic emotions. Under the protocol it ships with,\u2026",
+    "score": 5.592,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating Large Language Model Raters for German Open-Response Clinical Questions: A Physician-Annotated Benchmark Study of Agreement, Evaluator Bias, and Abstention",
+    "url": "https://arxiv.org/abs/2607.01103",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2607.01103v3 Announce Type: replace Abstract: Background: Expert-annotated benchmarks for non-English open-response clinical questions are scarce. LLM-as-a-judge systems may scale evaluation but require validation. Objective: To introduce MedQADE, a standardized German open-response clinical benchmark with physician reference annotations, and evaluate LLM-as-a-judge alignment, self- and\u2026",
+    "score": 5.592,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking",
+    "url": "https://arxiv.org/abs/2601.17645",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2601.17645v2 Announce Type: replace-cross Abstract: Internet audio-visual clips convey meaning through time-varying sound and motion, which extend beyond what text alone can represent. To examine whether AI models can understand such signals in human cultural contexts, we introduce AVMeme Exam, a human-curated benchmark of over one thousand iconic Internet sounds and videos spanning speech,\u2026",
+    "score": 5.592,
+    "matched": [
+      "ai",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "llm-openai-decisions 0.1a0",
+    "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-10-06T23:04:13+00:00",
+    "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin for talking to Jev, I had GPT-6 Astra read the new OpenAI API documentation and build an llm-openai-decisions plugin inspired by llm-typesafe . Unlike Jev, the new gpt-6-luna decision model supports image input in\u2026",
+    "score": 5.576,
+    "matched": [
+      "llm",
+      "gpt",
+      "openai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.076,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+    "url": "https://arxiv.org/abs/2610.06923",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalities. This fragmentation contrasts with the longitudinal radiotherapy workflow from treatment decision-making through follow-up. Here we present RadOnc-Agent, an agentic\u2026",
+    "score": 5.292,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "llm",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+    "url": "https://arxiv.org/abs/2610.06986",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.06986v1 Announce Type: new Abstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing systems typically optimize evaluator feedback without adequately governing how that feedback is interpreted, challenged, and reused. As a result, promising but fragile candidates can be promoted as discoveries, while benchmark\u2026",
+    "score": 5.292,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment",
+    "url": "https://arxiv.org/abs/2610.07023",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07023v1 Announce Type: new Abstract: Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that elicit harmful or unsafe outputs. Existing safety alignment approaches, including Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF), often require substantial attack-specific supervision and\u2026",
+    "score": 5.292,
+    "matched": [
+      "llm",
+      "fine-tun*",
+      "reinforcement learning",
+      "rlhf"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+    "url": "https://arxiv.org/abs/2610.07026",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07026v1 Announce Type: new Abstract: The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first AI systems that operate fully offline. Designed for African language communities where speech is the dominant mode of interaction and internet connectivity is unreliable or absent, the workstream delivers three reinforcing components: a\u2026",
+    "score": 5.292,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Verified, not generated: expert-verified AI study materials and the distribution of learning gains in a university course",
+    "url": "https://arxiv.org/abs/2610.07097",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07097v1 Announce Type: new Abstract: Experimental studies of generative AI in education mostly report average effects, yet field evidence shows that AI can narrow attainment gaps or widen them. We argue that the direction depends on the judgement burden, the expertise a learner must supply to screen AI output before learning from it, and that expert verification before release moves\u2026",
+    "score": 5.292,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LOGIC: An LLM Benchmark for Intent-Grounded Change Impact in Aerospace Electrical Systems",
+    "url": "https://arxiv.org/abs/2610.07580",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07580v1 Announce Type: new Abstract: Aerospace electrical-design revisions can contain multiple genuine changes, although an engineering request may authorize only a subset. Propagating every detected difference can therefore produce overly broad impact reports. We present LOGIC, a controlled benchmark and evaluation framework in which locally deployable language models ground a\u2026",
+    "score": 5.292,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "BioStudyBench: Evaluating Agents on Post-Cutoff Biomedical Studies",
+    "url": "https://arxiv.org/abs/2610.07614",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07614v1 Announce Type: new Abstract: We evaluate whether AI agents can match the reported findings of published biomedical studies using public data. Existing evaluations do not consistently separate analysis from prior knowledge or retrieval of the published answer. We introduce BioStudyBench, a benchmark of 25 long-horizon analysis tasks drawn from studies first published between\u2026",
+    "score": 5.292,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AgentMemGate: Addressing Speculation Contamination in Conversational Assistant Memory",
+    "url": "https://arxiv.org/abs/2610.07707",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07707v1 Announce Type: new Abstract: Conversational AI assistants with long-term memory extract facts from user messages into a store consulted in later conversations. A stated plan can enter that store as fact: a user who might move to Seattle may be recorded as already living there. We call this speculation contamination. Final-state memory benchmarks miss this error because they do\u2026",
+    "score": 5.292,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ST-Bench: A Spatial-Temporal Benchmark for Multi-Agent System Generation on Scientific Research Tasks",
+    "url": "https://arxiv.org/abs/2610.07763",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-07T04:00:00+00:00",
+    "summary": "arXiv:2610.07763v1 Announce Type: new Abstract: The rapid progress of LLM-based multi-agent systems (MAS) has shown that they largely outperform single agents on coding, math, and QA tasks, where executable tests provide a binary success signal. Whether this advantage transfers to real scientific data analysis remains untested. We introduce ST-Bench, a benchmark designed to answer two questions:\u2026",
+    "score": 5.292,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.692,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
