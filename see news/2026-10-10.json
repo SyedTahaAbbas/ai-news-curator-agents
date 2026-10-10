@@ -1,0 +1,581 @@
+[
+  {
+    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-10T12:00:00+00:00",
+    "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+    "score": 5.499,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.799,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-10T10:51:44+00:00",
+    "summary": "I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -> data prep -> fit -> eval -> tune -> save model artefact and notebook. Lately, I have been thinking a lot about how agentic development and LLMs are changing the way data scientists work. Especially in classical ML applications,\u2026",
+    "score": 5.457,
+    "matched": [
+      "llm",
+      "agentic"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.657,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Help With Choosing Hardware [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-10T08:00:41+00:00",
+    "summary": "\u200b I am going to fine-tune a satire model, with the base model being `Qwen3.5-14B-Base`. The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they have incorrect answers to facts), so I needed to do a full fine tune rather than use LoRA. Today, I rented a cloud computer on vast.ai. It had 4x12GB GPUs and 48GB of system RAM, but I feel\u2026",
+    "score": 5.1,
+    "matched": [
+      "ai",
+      "fine-tun*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.3,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T21:15:38+00:00",
+    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [\u2026]",
+    "score": 4.956,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.956,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-10T00:18:32+00:00",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "score": 4.937,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.337,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T21:41:29+00:00",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "score": 4.91,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.01,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T19:36:56+00:00",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "score": 4.351,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.751,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-10T04:02:27+00:00",
+    "summary": "Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512\u00d7288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched. Pixel loss (L1+MSE) gave a washed-out \u201caverage\u201d because the teacher places snow/puddles differently per frame. A PatchGAN fine-tune on the same pairs fixed it: fat snow, real-looking\u2026",
+    "score": 4.304,
+    "matched": [
+      "fine-tun*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.804,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting The New York Times",
+    "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-10-10T02:04:12+00:00",
+    "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic\u2019s A.I. agents had submitted 20 visa applications through a form available on the State Department\u2019s website. All the applications were incomplete and were not processed, they said. \u2014 The New York Times , Anthropic Agents\u2026",
+    "score": 4.258,
+    "matched": [
+      "anthropic"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.558,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-09T22:00:35+00:00",
+    "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 180 # Comments: 130",
+    "score": 4.25,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.05,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T22:04:07+00:00",
+    "summary": "One damaged data center has supercomputers used for training Yandex\u2019s AI model.",
+    "score": 4.157,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.057,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T18:06:57+00:00",
+    "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [\u2026]",
+    "score": 3.963,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.563,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-09T17:02:31+00:00",
+    "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 391 # Comments: 311",
+    "score": 3.929,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.429,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T19:43:50+00:00",
+    "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+    "score": 3.865,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.765,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "\u2018Pure insanity\u2019: Mathematicians will need years to make sense of OpenAI\u2019s latest drop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T19:09:44+00:00",
+    "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [\u2026]",
+    "score": 3.794,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.694,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI disqualification yields new Nikon Small World in Motion winner",
+    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T18:44:06+00:00",
+    "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+    "score": 3.741,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.641,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T16:56:42+00:00",
+    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents\u2026",
+    "score": 3.717,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.417,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T16:53:02+00:00",
+    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents\u2026",
+    "score": 3.709,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.409,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
+    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T16:40:14+00:00",
+    "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+    "score": 3.683,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.383,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
+    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T15:43:33+00:00",
+    "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+    "score": 3.564,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.264,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting Matthew Green",
+    "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-10-09T15:02:29+00:00",
+    "summary": "Everyone is very concerned about being respectable, so I\u2019m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...] The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with\u2026",
+    "score": 3.479,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.179,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-09T18:59:11+00:00",
+    "summary": "Hi! I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules. It has a CLI so it is really easy to use (I hope!). It is open-source (MIT) and on PyPI, so sharing it here if somebody finds it useful. Code: https://github.com/alphadeepai/integrum Blog post:\u2026",
+    "score": 3.472,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.672,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T19:28:49+00:00",
+    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "score": 3.434,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.734,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-09T17:42:12+00:00",
+    "summary": "Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 146 # Comments: 39",
+    "score": 3.412,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.512,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Danu Robotics\u2019 fight to build a better recycling robot",
+    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T16:45:00+00:00",
+    "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+    "score": 3.393,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.393,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-09T19:52:54+00:00",
+    "summary": "Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions. The data is 45,000 maps from my own procedural generator (fBm/ridged noise, stream-power erosion, hillslope\u2026",
+    "score": 3.284,
+    "matched": [
+      "diffusion model"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.784,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Impactful scheduling for GPU clusters",
+    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-10-09T15:20:29+00:00",
+    "summary": "",
+    "score": 3.216,
+    "matched": [],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.216,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-09T14:25:43+00:00",
+    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [\u2026]",
+    "score": 3.202,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.102,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Clarification ARR Commitment [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-09T13:36:48+00:00",
+    "summary": "I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf. Should I address the reviewer comments/suggestions (minor things) in this version already or wait for camera ready if accepted? I thought I just had to provide the link to the reviews but now I am confused. submitted by /u/Mundane_Slice_8621 [link] [comments]",
+    "score": 2.2,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.0,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
