@@ -1,155 +1,95 @@
-# AI News Curator - Saturday, 10 October 2026
+# AI News Curator - Sunday, 11 October 2026
 
-*29 stories from the last 24 hours. Generated 2026-10-10 13:36 UTC.*
-
-## Labs & Releases
-
-### [Impactful scheduling for GPU clusters](https://huggingface.co/blog/allenai/impactful-scheduling)
-`Hugging Face` · 09 Oct 15:20 UTC · score 3.216
+*17 stories from the last 24 hours. Generated 2026-10-11 13:59 UTC.*
 
 ## Industry & Press
 
-### [AI Is Getting Really Good at Messing With Cybercriminals](https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/)
-`Wired AI` · 10 Oct 12:00 UTC · score 5.499
+### [Learning to use local AI is exciting, overwhelming, and frustrating](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress)
+`The Verge AI` · 11 Oct 11:00 UTC · score 5.726
 
-Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.
+I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful \[…\]
 
-### [Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip)
-`The Verge AI` · 09 Oct 21:15 UTC · score 4.956
+### [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/)
+`Wired AI` · 11 Oct 11:30 UTC · score 5.388
 
-An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as \[…\]
+A long day’s haul in the video game slop mines.
 
-### [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/)
-`TechCrunch AI` · 10 Oct 00:18 UTC · score 4.937
+### [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit)
+`The Verge AI` · 10 Oct 18:52 UTC · score 4.309
 
-Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an "AI-slop pipeline." Artists are saying that \[…\]
 
-### [The maker of non-text AI model Jev valued at $7.5B just weeks after launch](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
-`TechCrunch AI` · 09 Oct 21:41 UTC · score 4.91
+### [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
+`TechCrunch AI` · 10 Oct 21:47 UTC · score 4.275
 
-What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
 
-### [An Anthropic AI model sent a false homicide tip to Philadelphia police](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
-`TechCrunch AI` · 09 Oct 19:36 UTC · score 4.351
+### [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
+`The Verge AI` · 10 Oct 22:10 UTC · score 4.122
 
-Anthropic did not discover this behavior until over two months after its AI submitted the false tip.
+In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a "set of nested black boxes" whose advice and actions we simply accept or \[…\]
 
-### [Ukraine’s drones knock out AI data center belonging to "Russia’s Google"](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/)
-`Ars Technica AI` · 09 Oct 22:04 UTC · score 4.157
+### [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/)
+`TechCrunch AI` · 10 Oct 19:50 UTC · score 4.03
 
-One damaged data center has supercomputers used for training Yandex’s AI model.
+Is Apple hoping to get into the AI-generated podcast business?
 
-### [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)
-`The Verge AI` · 09 Oct 18:06 UTC · score 3.963
+### [Anthropic is cutting off its internal evaluations from the internet](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet)
+`The Verge AI` · 10 Oct 14:41 UTC · score 3.487
 
-Nikon says the video that originally won first place in its Small World in Motion contest "did not comply with the competition rules regarding generative AI." BBC reports that the original first place video from Dr. Ning Xu claimed to show "tiny, hair-like structures called cilia moving in the airway of a child with the \[…\]
+After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed "unintended model actions," including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal \[…\]
 
-### [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/)
-`Ars Technica AI` · 09 Oct 19:43 UTC · score 3.865
+### [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/)
+`TechCrunch AI` · 10 Oct 14:00 UTC · score 3.301
 
-Study finds coding efficiency gains get "absorbed" by human review "bottleneck."
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 
-### [‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos)
-`The Verge AI` · 09 Oct 19:09 UTC · score 3.794
+### [3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream](https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/)
+`TechCrunch AI` · 10 Oct 15:00 UTC · score 3.126
 
-"Staggering." "Overwhelming." "Unprecedented." "Surreal." "Pure insanity." Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the \[…\]
-
-### [AI disqualification yields new Nikon Small World in Motion winner](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/)
-`Ars Technica AI` · 09 Oct 18:44 UTC · score 3.741
-
-New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.
-
-### [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
-`TechCrunch AI` · 09 Oct 16:56 UTC · score 3.717
-
-Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents…
-
-### [Amazon drops data center NDAs, and AI agents want your credit card](https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/)
-`TechCrunch AI` · 09 Oct 16:53 UTC · score 3.709
-
-Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents…
-
-### [We can’t help treating AI like it’s human. But should we?](https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/)
-`TechCrunch AI` · 09 Oct 16:40 UTC · score 3.683
-
-"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."
-
-### [a16z’s Olivia Moore on the state of consumer AI](https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/)
-`TechCrunch AI` · 09 Oct 15:43 UTC · score 3.564
-
-Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.
-
-### [Book Publishers Are Quietly Using More AI. Staff Are Revolting](https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/)
-`Wired AI` · 09 Oct 19:28 UTC · score 3.434
-
-Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.
-
-### [Danu Robotics’ fight to build a better recycling robot](https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/)
-`TechCrunch AI` · 09 Oct 16:45 UTC · score 3.393
-
-For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
-
-### [Trump’s attempt to rename AI is looking awfully artificial](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding)
-`The Verge AI` · 09 Oct 14:25 UTC · score 3.202
-
-President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like "Little Marco" and "Crooked Hillary"; he changed "fake news" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided \[…\]
+TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.
 
 ## Community
 
-### [Are .ipynb notebooks already outdated in the agentic era? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/)
-`r/MachineLearning` · 10 Oct 10:51 UTC · score 5.457
+### [\[P\] Pecision models that score every allowed label from the logits: Jebadiah v2.1 (27B, 9B), open weights and self-run benchmark results \[P\]](https://www.reddit.com/r/MachineLearning/comments/1x33wgz/p_pecision_models_that_score_every_allowed_label/)
+`r/MachineLearning` · 11 Oct 09:33 UTC · score 5.545
 
-I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -\> data prep -\> fit -\> eval -\> tune -\> save model artefact and notebook. Lately, I have been thinking a lot about how agentic development and LLMs are changing the way data scientists work. Especially in classical ML applications,…
+I've been building open models that treat a decision as a closed-set scoring problem rather than text generation. The input is structured context plus a typed question with a fixed set of options. The output is a probability for each option, taken from the candidate-label logits, so there's no generation step to parse and no sampling. v2.1 updates the 27B and the 9B. On the Decision Index 0.3…
 
-### [Help With Choosing Hardware \[P\]](https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/)
-`r/MachineLearning` · 10 Oct 08:00 UTC · score 5.1
+### [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/)
+`Hacker News (AI, 100+ pts)` · 11 Oct 02:02 UTC · score 4.406
 
-​ I am going to fine-tune a satire model, with the base model being \`Qwen3.5-14B-Base\`. The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they have incorrect answers to facts), so I needed to do a full fine tune rather than use LoRA. Today, I rented a cloud computer on vast.ai. It had 4x12GB GPUs and 48GB of system RAM, but I feel…
+Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 117 # Comments: 83
 
-### [Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) \[P\]](https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/)
-`r/MachineLearning` · 10 Oct 04:02 UTC · score 4.304
+### [What ai is best to operate a system from screen video \[p\]](https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/)
+`r/MachineLearning` · 11 Oct 04:18 UTC · score 4.289
 
-Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric mod; the HUD stays untouched. Pixel loss (L1+MSE) gave a washed-out “average” because the teacher places snow/puddles differently per frame. A PatchGAN fine-tune on the same pairs fixed it: fat snow, real-looking…
+I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback. The control/feedback loop is already done. I need something that can learn from visual information, remember what it has seen and been taught, and get better at operating the system over time. recommendations? the AI I have tried so far it's memory is not good enough and it…
 
-### [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/)
-`Simon Willison` · 10 Oct 02:04 UTC · score 4.258
+### [Has machine learning research gotten more "wordy"? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/)
+`r/MachineLearning` · 11 Oct 00:39 UTC · score 4.132
 
-Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. — The New York Times , Anthropic Agents…
+I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is https://arxiv.org/pdf/2302.13971 I understand this is in the context of LLM but I've also noticed this trend outside of LLM, even in…
 
-### [Anthropic AI model submits false tip on unsolved Philly murder, police say](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/)
-`Hacker News (AI, 100+ pts)` · 09 Oct 22:00 UTC · score 4.25
+### [Do I need to do anything now to use an ARR August review for NAACL 2027? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/)
+`r/MachineLearning` · 11 Oct 04:48 UTC · score 4.052
 
-Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.com/item?id=50027118 Points: 180 # Comments: 130
+This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months. If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait and commit it when the NAACL commitment site opens? Thanks. submitted by /u/SillyNeuron \[link\]…
 
-### [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai)
-`Hacker News (AI, 100+ pts)` · 09 Oct 17:02 UTC · score 3.929
+### [Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/)
+`Simon Willison` · 10 Oct 23:58 UTC · score 3.947
 
-Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 391 # Comments: 311
+Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the stable 3.15 - then tell me about it Now that this has landed, you can add "3.15" to a GitHub Actions testing matrix to run tests against the new…
 
-### [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/)
-`Simon Willison` · 09 Oct 15:02 UTC · score 3.479
+### [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+`Hacker News (AI, 100+ pts)` · 10 Oct 18:48 UTC · score 3.802
 
-Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. \[...\] The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with…
+Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 169 # Comments: 107
 
-### [Integrum - Reflection based MCP server from any Python Module/Library \[P\]](https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/)
-`r/MachineLearning` · 09 Oct 18:59 UTC · score 3.472
+### [I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)\[P\]](https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/)
+`r/MachineLearning` · 10 Oct 18:08 UTC · score 2.719
 
-Hi! I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules. It has a CLI so it is really easy to use (I hope!). It is open-source (MIT) and on PyPI, so sharing it here if somebody finds it useful. Code: https://github.com/alphadeepai/integrum Blog post:…
-
-### [What mathematicians should know about the Lean Theorem Prover: reliability & AI](https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/)
-`Hacker News (AI, 100+ pts)` · 09 Oct 17:42 UTC · score 3.412
-
-Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycombinator.com/item?id=50024090 Points: 146 # Comments: 39
-
-### [Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU \[P\]](https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/)
-`r/MachineLearning` · 09 Oct 19:52 UTC · score 3.284
-
-Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions. The data is 45,000 maps from my own procedural generator (fBm/ridged noise, stream-power erosion, hillslope…
-
-### [Clarification ARR Commitment \[D\]](https://www.reddit.com/r/MachineLearning/comments/1x1lkln/clarification_arr_commitment_d/)
-`r/MachineLearning` · 09 Oct 13:36 UTC · score 2.2
-
-I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf. Should I address the reviewer comments/suggestions (minor things) in this version already or wait for camera ready if accepted? I thought I just had to provide the link to the reviews but now I am confused. submitted by /u/Mundane_Slice_8621 \[link\] \[comments\]
+ALHR- Adaptive learnable Hierarchical Routing is a static binary tree based system that uses learnable functions to REDUCE the amount of keys used. It takes less memory and SCALES much better VRAM with tokens submitted by /u/Alarming-Emotion-894 \[link\] \[comments\]
 
 ---
 
@@ -162,7 +102,7 @@ I want to commit my ARR paper to EACL 2027 and I see I have to attach a pdf. Sho
 - **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 34 days
-- ⚠️ VentureBeat AI has been unreachable for 34 days
+- ⚠️ Import AI has been unreachable for 35 days
+- ⚠️ VentureBeat AI has been unreachable for 35 days
 
 </details>
