@@ -1,0 +1,740 @@
+[
+  {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-12T15:31:19+00:00",
+    "summary": "Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "score": 6.752,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.852,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-12T13:00:00+00:00",
+    "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [\u2026]",
+    "score": 6.537,
+    "matched": [
+      "ai",
+      "agentic",
+      "nvidia",
+      "inference"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.537,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-12T12:47:59+00:00",
+    "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+    "score": 6.412,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.512,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-10-12T15:00:25+00:00",
+    "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at [\u2026]",
+    "score": 6.388,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.788,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-12T15:27:59+00:00",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "score": 6.145,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.845,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-12T14:00:00+00:00",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z\u2014 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+    "score": 5.662,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.662,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SqueezeBench: Saturation-Resilient Evaluation of Mathematical Capability",
+    "url": "https://arxiv.org/abs/2610.13461",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13461v1 Announce Type: new Abstract: AI systems are making rapid progress in mathematics, but this progress is hard to measure. Benchmarks of solved problems saturate, and in benchmarks of open problems each problem can be resolved for the first time only once. We present SqueezeBench, a benchmark that is resilient to saturation: a success raises the bar instead of removing the\u2026",
+    "score": 5.612,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces",
+    "url": "https://arxiv.org/abs/2609.08861",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2609.08861v3 Announce Type: replace Abstract: Benchmark scores are a central currency in model releases: they inform purchasing decisions, shape public trust, and influence policy. Yet, a key assumption underlying benchmark scores is that the model performance measured through APIs faithfully reflects the behavior of deployed systems. We challenge this assumption by auditing ChatGPT,\u2026",
+    "score": 5.612,
+    "matched": [
+      "chatgpt",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Benchmark to Bench: Can Agents Survive Real-World Drug Discovery?",
+    "url": "https://arxiv.org/abs/2610.06411",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.06411v2 Announce Type: replace Abstract: Agentic systems increasingly coordinate molecular-design tools, but it is unclear which layer of the stack limits outcomes on real projects. We developed MAGI, an open modular agent that authors objectives, launches and monitors optimization, interprets structure--activity relationships, and revises its strategy accordingly. MAGI generates\u2026",
+    "score": 5.612,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What Current AI Benchmarks Leave Unmeasured: Modality, Search, Citations, and Implications (for Safety Evaluations)",
+    "url": "https://arxiv.org/abs/2608.06202",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2608.06202v2 Announce Type: replace-cross Abstract: Large language model (LLM) benchmark evaluations are routinely used to support claims about model safety, reliability, and deployment readiness. Yet most evaluations rely on a single access modality (model APIs), perform a single run per prompt, and report accuracy as the primary outcome metric, without accounting for conditions such as\u2026",
+    "score": 5.612,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GeopoliticalQA: Benchmarking Retrieval and Generation over Intelligence Reports",
+    "url": "https://arxiv.org/abs/2610.12617",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12617v1 Announce Type: new Abstract: Geopolitical and strategic intelligence reports constitute a rich source of expert knowledge and have increasing value in the current political climate, but their heterogeneity and analytical complexity pose challenges for retrieval-augmented question answering. We introduce a benchmark for grounded question answering over 415 open-source\u2026",
+    "score": 5.612,
+    "matched": [
+      "retrieval augmented",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Evaluating LLM Creativity through Long-Tail Performance",
+    "url": "https://arxiv.org/abs/2610.12998",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12998v1 Announce Type: new Abstract: Creativity benchmarks for large language models (LLMs) vary widely in task and metric design. This raises the question of whether they capture a common notion of creativity. We propose that this shared target can be formalized as task-specific performance in the long tail of a reference input-output distribution, which describes how common\u2026",
+    "score": 5.612,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mind the Spatial Gap: A Benchmark for Geospatial Reasoning and Constrained Spatial Editing",
+    "url": "https://arxiv.org/abs/2610.12881",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12881v1 Announce Type: new Abstract: Understanding and manipulating spatial relations is fundamental to AI systems that reason about physical environments and construct grounded world models. However, existing evaluations of multimodal large language models (MLLMs) for spatial reasoning rely predominantly on static question-answering (QA) over small-scale or synthetic scenes, rarely\u2026",
+    "score": 5.312,
+    "matched": [
+      "ai",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
+    "url": "https://arxiv.org/abs/2610.12975",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12975v1 Announce Type: new Abstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer personas. Existing task-oriented dialogue benchmarks assume cooperative users and measure task completion; SmartSalesBench inverts this assumption, placing\u2026",
+    "score": 5.312,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DRYLAB-Bench: Benchmarking the Biosecurity Risk of Agentic LLM Mutation Design",
+    "url": "https://arxiv.org/abs/2610.13116",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13116v1 Announce Type: new Abstract: As large language models (LLMs) acquire advanced biological design capabilities, they offer substantial research benefits but simultaneously introduce severe dual-use risks, such as engineering enhanced pathogens or drug-resistant bacteria. While biosecurity frameworks recognize these threats, the actual risk of LLMs executing dangerous biological\u2026",
+    "score": 5.312,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Baseline Assessment for the Agentic Web Technology Stack",
+    "url": "https://arxiv.org/abs/2610.13703",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13703v1 Announce Type: new Abstract: The fast pace in which protocols, frameworks, and technologies are being proposed for LLM-based agents results in a complex scenario for anyone aiming to create state-of-the-art AI solutions. Without an assessment on how different protocols, frameworks, and libraries work together to compose an Agentic Web solution, developers and organizations face\u2026",
+    "score": 5.312,
+    "matched": [
+      "ai",
+      "llm",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Machine Learning and Time-Series Foundation Models for Day-Ahead Electricity Forecasting in a University Building",
+    "url": "https://arxiv.org/abs/2610.12638",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12638v1 Announce Type: cross Abstract: Day-ahead electricity forecasts can help building operators schedule heating, ventilation, and other services around anticipated demand. Choosing a forecasting model also requires balancing accuracy with its forecast-time inputs, local training, and computational requirements. We benchmark statistical, machine-learning, recurrent neural-network,\u2026",
+    "score": 5.312,
+    "matched": [
+      "machine learning",
+      "neural network",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SWE-DeceptionBench: Benchmarking Deceptive Behaviors of LLMs Across the Software Development Lifecycle",
+    "url": "https://arxiv.org/abs/2610.13626",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13626v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used throughout the software development lifecycle. This growing reliance on LLMs raises concerns about their trustworthiness, with deception posing a particularly important risk. Deceptive behavior takes the form of misleading responses or assistance in fabricating, concealing, or distorting\u2026",
+    "score": 5.312,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
+    "url": "https://arxiv.org/abs/2610.13823",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13823v1 Announce Type: cross Abstract: Semantic query engines ask a large language model (LLM) to judge individual rows, and benchmarks compare these engines on the quality of a few executions at temperature 0. We measure how much another execution changes. We re-execute the text and tabular workloads of SemBench, LRO-Bench, and UDA-Bench through their own harnesses, log every one of\u2026",
+    "score": 5.312,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation",
+    "url": "https://arxiv.org/abs/2603.07427",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2603.07427v3 Announce Type: replace Abstract: As Large Language Models (LLMs) evolve into autonomous agents, existing safety evaluations face a fundamental trade-off: manual benchmarks are costly, while LLM-based simulators are scalable but suffer from logic hallucination. We present AutoControl Arena, an automated framework for frontier AI risk evaluation built on the principle of\u2026",
+    "score": 5.312,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
+    "url": "https://arxiv.org/abs/2603.18048",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2603.18048v3 Announce Type: replace Abstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or rely on text-based semantic inference. To systematically study this question, we introduce DEAF (Diagnostic Evaluation of Acoustic Faithfulness), a\u2026",
+    "score": 5.312,
+    "matched": [
+      "multimodal",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MPMMine: Better Benchmarks for Constraint Acquisition",
+    "url": "https://arxiv.org/abs/2605.26279",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2605.26279v2 Announce Type: replace Abstract: Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models using domain knowledge artifacts are currently limited by inadequate benchmarks. The existing benchmarks are loosely organized, provide inconsistent types and formats of artifacts for individual problems, are designed for\u2026",
+    "score": 5.312,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Do More Agents Help? Evaluating Accuracy and Cost in LLM Multi-Agent Workflows",
+    "url": "https://arxiv.org/abs/2606.05670",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2606.05670v2 Announce Type: replace Abstract: Choosing whether to replace a single-agent controller requires evidence on both task performance and inference expenditure. We present BenchAgent, a shared evaluation framework, and compare six multi-agent workflow configurations against its single-agent reference, BenchAgent Core, across ten reasoning, coding, and tool-use benchmarks. All\u2026",
+    "score": 5.312,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Who&When Pro: Can LLMs Really Attribute Failures in AI Agents?",
+    "url": "https://arxiv.org/abs/2607.09996",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2607.09996v2 Announce Type: replace Abstract: Automated failure attribution uses LLMs to identify where and why agentic systems fail. As agents become more capable, their failures become subtler, making automated attribution increasingly important. We introduce Who&When Pro, a large-scale benchmark for automated failure attribution in agentic systems. Using a strictly controlled pipeline\u2026",
+    "score": 5.312,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SWE-Duel: Towards a Self-Scaling Arena for Coding Agents",
+    "url": "https://arxiv.org/abs/2610.12569",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release. Over time their tasks leak into training data, and stronger agents eventually saturate them. We argue that a benchmark should instead aim to be self-scaling: its tasks and oracles are created at evaluation time, so no content exists in advance to leak, and its difficulty is set by the participating\u2026",
+    "score": 5.312,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "perturber: A Stateless Service for Semantics-Preserving Text Perturbations",
+    "url": "https://arxiv.org/abs/2610.12667",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12667v1 Announce Type: new Abstract: Large language model (LLM) evaluations on clean benchmarks overstate model robustness: real inputs arrive perturbed, and these meaning-preserving variants routinely move model answers. Studying this systematically requires applying perturbations one at a time, reproducibly, and identically wherever they run, yet existing tools couple them to a\u2026",
+    "score": 5.312,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-12T15:10:34+00:00",
+    "summary": "If you build on open-weight reasoning models, you have probably wanted a \"how sure is the model about this answer?\" signal that does not cost 5x sampling, a judge model, or a labeled dataset. Hence, we built the U-Lens. In one line: score = (how strongly the hidden state points toward different \"doubt\" directions) x (mean token entropy over the reasoning tokens) Label-free: No correctness labels;\u2026",
+    "score": 5.309,
+    "matched": [
+      "open-weight*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.809,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-12T12:43:10+00:00",
+    "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+    "score": 5.302,
+    "matched": [],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.502,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Simulating student learning for better AI tutoring",
+    "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "source": "Microsoft Research",
+    "category": "Research",
+    "published": "2026-10-12T16:00:00+00:00",
+    "summary": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first on Microsoft Research .",
+    "score": 5.212,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "microsoft-research",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.912,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
+    "url": "https://arxiv.org/abs/2610.12596",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowledge, reasoning and luck. We introduce SpireBench, in which models play the complete commercial deck-builder Slay the\u2026",
+    "score": 5.012,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MathVis: Can AI Reason through Drawing? A Benchmark for Mathematical Figure Generation",
+    "url": "https://arxiv.org/abs/2610.12954",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.12954v1 Announce Type: new Abstract: This paper introduces MathVis, a benchmark designed to evaluate LLMs' ability to visualize frontier mathematical problems and perform diagram-assisted reasoning. The benchmark consists of 512 tasks, each comprising a mathematical statement, a reference diagram, executable TikZ or SVG code, a Gold Intermediate Representation (IR), atomic rubrics, and\u2026",
+    "score": 5.012,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DP-MIND: Differentially private memory-guided Long context Inference",
+    "url": "https://arxiv.org/abs/2610.13132",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13132v1 Announce Type: new Abstract: LLM-as-a-Service has become a dominant paradigm for accessing large language models without requiring local deployment. However, the process raises severe privacy concerns when user queries may include sensitive or confidential contexts. Differential privacy (DP) provides a principled approach to protecting such inputs, but existing DP inference\u2026",
+    "score": 5.012,
+    "matched": [
+      "llm",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quality, Not Just Outcome: A Structural Scoring Framework for Selecting Coding-Agent Trajectories for Supervised Fine-Tuning",
+    "url": "https://arxiv.org/abs/2610.13152",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13152v1 Announce Type: new Abstract: Open coding agents are commonly trained through supervised fine-tuning on interaction trajectories whose final patches pass the benchmark test suite. However, this outcome-level filtering criterion ignores process quality: trajectories that eventually succeed may still contain inefficient interaction patterns such as repetitive file inspection,\u2026",
+    "score": 5.012,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Rollout-Time Intervention: Unlocking Agentic Reinforcement Learning Beyond Policy Limits",
+    "url": "https://arxiv.org/abs/2610.13438",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13438v1 Announce Type: new Abstract: Reinforcement learning (RL) has emerged as a key paradigm for improving large language model (LLM) agents, enabling stronger reasoning, planning, and tool-use in interactive environments. However, existing agent RL methods remain fundamentally constrained by an on-policy reasoning bottleneck: when tasks exceed the model's current capability\u2026",
+    "score": 5.012,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Humanize Olympiad Agents: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify",
+    "url": "https://arxiv.org/abs/2610.13632",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-12T04:00:00+00:00",
+    "summary": "arXiv:2610.13632v1 Announce Type: new Abstract: Large language model (LLM) agents are rapidly improving on long-horizon scientific and olympiad tasks. Recent systems have produced a Lean-formalized resolution of the Navier--Stokes problem and autonomous solutions to four open questions in the Erd\\H{o}s Conjectures database. Yet neither system releases both its underlying model and complete\u2026",
+    "score": 5.012,
+    "matched": [
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.412,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
