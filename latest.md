@@ -1,189 +1,181 @@
-# AI News Curator - Tuesday, 13 October 2026
+# AI News Curator - Wednesday, 14 October 2026
 
-*35 stories from the last 24 hours. Generated 2026-10-13 14:59 UTC.*
+*35 stories from the last 24 hours. Generated 2026-10-14 12:50 UTC.*
 
 ## Labs & Releases
 
-### [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/)
-`NVIDIA` · 13 Oct 12:00 UTC · score 5.627
+### [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
+`Google DeepMind` · 14 Oct 02:00 UTC · score 6.545
 
-NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and \[…\]
+Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.
 
-### [From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/)
-`NVIDIA` · 13 Oct 05:00 UTC · score 5.051
+### [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
+`OpenAI` · 14 Oct 00:00 UTC · score 5.994
 
-Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments \[…\]
+New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
+
+### [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
+`Google DeepMind` · 13 Oct 19:43 UTC · score 5.159
+
+### [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](https://blogs.nvidia.com/blog/uk-ecosystem-deployment/)
+`NVIDIA` · 14 Oct 06:04 UTC · score 5.153
+
+Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety \[…\]
+
+### [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/)
+`NVIDIA` · 14 Oct 06:00 UTC · score 5.145
+
+Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make \[…\]
+
+### [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
+`Google DeepMind` · 13 Oct 16:01 UTC · score 4.698
+
+### [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
+`Google DeepMind` · 13 Oct 16:01 UTC · score 4.698
 
 ## Industry & Press
 
-### [The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/)
-`TechCrunch AI` · 13 Oct 13:28 UTC · score 6.709
+### [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
+`TechCrunch AI` · 14 Oct 11:00 UTC · score 6.669
 
-The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.
+Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.
 
-### [Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)
-`MIT Technology Review AI` · 13 Oct 10:00 UTC · score 6.275
+### [OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/)
+`Ars Technica AI` · 14 Oct 11:00 UTC · score 6.17
 
-MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…
+Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.
 
-### [DLSS 5 gets toned down for its Hogwarts Legacy debut next month](https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements)
-`The Verge AI` · 13 Oct 13:55 UTC · score 6.266
+### [My Friend Has No Soul](https://www.wired.com/story/my-friend-has-no-soul/)
+`Wired AI` · 14 Oct 11:00 UTC · score 5.469
 
-When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace from Resident Evil \[…\]
+The second iteration of the viral Friend AI necklace is louder and less interesting.
 
-### [SpaceXSI bundles X Premium, Grok, and Cursor into one subscription](https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/)
-`TechCrunch AI` · 13 Oct 13:50 UTC · score 6.155
+### [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/)
+`Wired AI` · 14 Oct 09:30 UTC · score 5.282
 
-The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.
+More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.
 
-### [Apple launches HomeView, its first smart display for the home](https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look)
-`The Verge AI` · 13 Oct 13:00 UTC · score 6.15
+### [AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity](https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/)
+`Wired AI` · 14 Oct 09:00 UTC · score 5.219
 
-It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple's \[…\]
+“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.
 
-### [Amex introduces a framework to prevent AI agents from making unauthorized purchases](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/)
-`TechCrunch AI` · 13 Oct 13:00 UTC · score 6.05
+### [Facebook is giving users more control over their algorithm](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)
+`TechCrunch AI` · 13 Oct 18:05 UTC · score 5.156
 
-American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.
+Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.
 
-### [Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/)
-`TechCrunch AI` · 13 Oct 12:23 UTC · score 5.975
+### [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
+`The Verge AI` · 13 Oct 16:00 UTC · score 4.994
 
-The startup will sell some of its assets to Disney for $20 million.
+After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers "frontier reasoning and improved performance across complex workflows," while cutting down on hedging, repetition, and the cliches that \[…\]
 
-### [TechCrunch Disrupt 2026: Day 1](https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/)
-`TechCrunch AI` · 13 Oct 14:00 UTC · score 5.875
+### [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
+`The Verge AI` · 13 Oct 19:42 UTC · score 4.858
 
-TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.
+More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists \[…\]
 
-### [Character.AI files for bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
-`The Verge AI` · 13 Oct 10:32 UTC · score 5.843
+### [Google makes it easier to launch your vibe-coded apps](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch)
+`The Verge AI` · 13 Oct 17:00 UTC · score 4.819
 
-Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing \[…\]
+The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code \[…\]
 
-### [AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/)
-`MIT Technology Review AI` · 13 Oct 09:00 UTC · score 5.55
+### [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
+`The Verge AI` · 13 Oct 20:45 UTC · score 4.689
 
-When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…
+An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department \[…\]
 
-### [Wikipedians Believed AI Would Come and Go. They Were Wrong](https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/)
-`Wired AI` · 13 Oct 11:00 UTC · score 5.2
+### [Epic shifts to ‘AI-accelerated development’ for upcoming Disney game](https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art)
+`The Verge AI` · 13 Oct 15:12 UTC · score 4.596
 
-In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.
+Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an "AI-first" mandate directing them to use tools like Anthropic's Claude more to finish the game. According \[…\]
 
-### [The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/)
-`Wired AI` · 13 Oct 10:00 UTC · score 5.075
+### [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
+`TechCrunch AI` · 13 Oct 23:05 UTC · score 4.581
 
-Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.
+Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
 
-## Research
+### [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
+`TechCrunch AI` · 13 Oct 22:36 UTC · score 4.521
 
-### [A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models](https://arxiv.org/abs/2610.13663)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 5.225
+Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.
 
-arXiv:2610.13663v1 Announce Type: new Abstract: Many machine learning approaches are two-level: an expert selects a class of methods, within this class the choice of key components is critical and usually manual. This paper addresses the automatic tuning of these components and proposes a framework transferable across models of different nature. The multi-agent large language model (LLM)…
+### [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
+`TechCrunch AI` · 13 Oct 17:18 UTC · score 4.458
 
-### [GeoFitBench-LLM: A Benchmark for Assessing Large Language Models' Capabilities in Geospatial Data Requirements Elicitation for Geo-Analytic Tasks](https://arxiv.org/abs/2610.12669)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 5.225
+The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.
 
-arXiv:2610.12669v1 Announce Type: cross Abstract: Large language models are becoming central to GeoAI systems, yet their evaluation rarely considers the elicitation of geospatial data requirements. This omission is critical as retrieval oriented geo-analytic tasks cannot be supported reliably without first identifying the necessary datasets and constraints. GeoFitBench-LLM is introduced as a…
+### [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
+`TechCrunch AI` · 13 Oct 23:13 UTC · score 4.297
 
-### [Unsupervised Multimodal Reward Modeling](https://arxiv.org/abs/2610.12707)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 5.225
+Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).
 
-arXiv:2610.12707v1 Announce Type: cross Abstract: Vision-language reward models are trained on annotated preference pairs, which are expensive to collect, can disagree, and are ranked by benchmark accuracy. We build one with no human preference label: a linear head on an intermediate layer of a frozen Qwen3-VL backbone, trained to score a web caption above a perturbed version of the same caption;…
+### [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
+`TechCrunch AI` · 13 Oct 20:36 UTC · score 4.271
 
-### [Can Agents Price a Reaction? Evaluating LLMs on Chemical Cost Reasoning](https://arxiv.org/abs/2605.07251)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 5.225
+A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.
 
-arXiv:2605.07251v2 Announce Type: replace Abstract: Large Language Models (LLMs) have become increasingly capable as tool-using agents, with benchmarks spanning diverse general agentic tasks. Yet rigorous evaluation of scientific tool use remains limited. In chemistry, recent agents can plan syntheses and invoke domain-specific tools, but evaluations often rely on curated demonstrations, expert…
+### [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
+`TechCrunch AI` · 13 Oct 23:00 UTC · score 4.269
 
-### [Agents' Last Exam](https://arxiv.org/abs/2606.05405)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 5.225
+Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
 
-arXiv:2606.05405v3 Announce Type: replace Abstract: Recent AI systems have achieved strong results on a wide range of benchmarks, yet these gains have not translated into economically meaningful deployment across many professional domains. We argue that this gap is largely an evaluation problem: widely used benchmarks lack sustained performance measurement on real and economically valuable…
+### [Facebook will let you customize your feed algorithm using AI](https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai)
+`The Verge AI` · 13 Oct 17:01 UTC · score 4.222
 
-### [Can escalation channels redirect reward hacking toward defect disclosure?](https://arxiv.org/abs/2608.29460)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 5.225
+Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you make updates using the new feature by hitting "interested" or "not interested" for different topics. Your Algorithm previously launched on Instagram earlier this \[…\]
 
-arXiv:2608.29460v3 Announce Type: replace Abstract: When coding agents encounter defective test infrastructure they may reward-hack: hardcoding outputs or editing test files to pass tests they cannot legitimately satisfy, a pattern that has now appeared outside benchmarks, in a coordinated multi-agent intrusion of a major AI platform's production infrastructure. The same capability that lets an…
+### [Google wants to host your personal vibe-coded apps in the Play Store](https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/)
+`Ars Technica AI` · 13 Oct 17:00 UTC · score 4.221
 
-### [Agentic Peer-to-Peer Networks: From Content Distribution to Capability and Action Sharing](https://arxiv.org/abs/2603.03753)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 5.225
-
-arXiv:2603.03753v2 Announce Type: replace-cross Abstract: The ongoing shift of Artificial Intelligence (AI) from centralized cloud application programming interfaces (APIs) to local inference on edge devices is enabling Client-Side Autonomous Agents (CSAAs) - persistent personal agents that can plan, access local context, and invoke tools on behalf of users. As these agents collaborate directly,…
-
-### [ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation](https://arxiv.org/abs/2602.01709)
-`arXiv cs.CL` · 13 Oct 04:00 UTC · score 5.225
-
-arXiv:2602.01709v3 Announce Type: replace Abstract: Current test-time scaling (TTS) techniques enhance large language model (LLM) performance by allocating additional computation at inference time, yet they remain insufficient for agentic settings, where actions directly interact with external environments and their effects can be irreversible and costly. We propose ARTIS, Agentic Risk-Aware…
-
-### [TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs](https://arxiv.org/abs/2607.28640)
-`arXiv cs.CL` · 13 Oct 04:00 UTC · score 5.225
-
-arXiv:2607.28640v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs) should exhibit cross-modal consistency, generating consistent responses given semantically equivalent inputs across modalities. However, we observe a systematic discrepancy in model predictions under such cross-modal variations. Specifically, we define the modality gap as the difference in model…
-
-### [Rethinking Entropy Allocation in LLM-based ASR: Understanding the Dynamics between Speech Encoders and LLMs](https://arxiv.org/abs/2604.08003)
-`arXiv cs.CL` · 13 Oct 04:00 UTC · score 5.225
-
-arXiv:2604.08003v2 Announce Type: replace-cross Abstract: Integrating large language models (LLMs) into automatic speech recognition (ASR) has become a dominant paradigm. Although recent LLM-based ASR models have shown promising performance on public benchmarks, it remains challenging to balance recognition quality with latency and overhead, while hallucinations further limit real-world…
-
-### [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance](https://arxiv.org/abs/2610.12493)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 4.925
-
-arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over the last decade points to an overall failure of this objective, instead promoting overreliance on incorrect predictions,…
-
-### [Benchmarking Embedding Geometries and Clustering Algorithms for Unsupervised Patent Claim Classification](https://arxiv.org/abs/2610.12997)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 4.925
-
-arXiv:2610.12997v1 Announce Type: new Abstract: Prior-art retrieval systems are structurally organized around classification codes, making cross-code discovery difficult. This paper asks if an unsupervised representation trained on patent text can recover relevant connections that code-restricted search cannot, and if hyperbolic space helps. We trained a hyperbolic and a matched Euclidean…
-
-### [EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents](https://arxiv.org/abs/2610.13021)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 4.925
-
-arXiv:2610.13021v1 Announce Type: new Abstract: Continual learning requires models to accumulate past experience and transfer it to new tasks. Despite substantial research on continual learning, existing work remains largely confined to non-embodied settings, without extending to embodied environments. To address this gap, we introduce EmbodiedCLBench, the first benchmark in embodied simulation…
-
-### [AlphaNIST: Emergent Assembly Skills from Binary Task Rewards](https://arxiv.org/abs/2610.13354)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 4.925
-
-arXiv:2610.13354v1 Announce Type: new Abstract: The NIST Assembly Task Board #1 remains a challenging benchmark for learning-based methods in robotic manipulation. Over short horizons, it demands precise, contact-rich control of small, tight-fitting parts. Over long horizons, it requires recovery and coordination across extended action sequences. Demonstrations, task decomposition, and dense…
-
-### [Web$hell: A Unified Interface for Agentic Web Access](https://arxiv.org/abs/2610.13416)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 4.925
-
-arXiv:2610.13416v1 Announce Type: new Abstract: Large language model (LLM) agents are becoming direct users of the open web. As they take on increasingly complex and information-intensive tasks, effective web access is becoming a core capability for agentic problem solving. Existing approaches have advanced agentic web access through different access models, including search-augmented agents,…
-
-### [Retrieval-Augmented Multimodal Language Model with Heterogeneous Evidence Integration for Clinical Prognosis](https://arxiv.org/abs/2610.13510)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 4.925
-
-arXiv:2610.13510v1 Announce Type: new Abstract: Clinical prognosis requires integrating structured measurements, physiological waveforms, longitudinal history, and population context. We introduce PRISM (Population-Retrieved Inference for Structured Multimodal Prognosis), a multimodal language model that combines per-feature numerical tokenization, recency-weighted aggregation of longitudinal…
-
-### [MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures](https://arxiv.org/abs/2610.13534)
-`arXiv cs.AI` · 13 Oct 04:00 UTC · score 4.925
-
-arXiv:2610.13534v1 Announce Type: new Abstract: Long-horizon embodied agents must maintain task-relevant information, coordinate heterogeneous robots, and adapt their decisions as execution unfolds. Existing benchmarks investigate dynamic task execution and embodied multi-agent coordination, but provide limited evaluation of their intersection. We introduce MAGMA-Bench, an architecture-agnostic…
+Google plans to help turn those personal AI-generated apps into wide releases.
 
 ## Community
 
-### [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
-`Hacker News (AI, 100+ pts)` · 13 Oct 10:08 UTC · score 5.593
+### [AI tools keeping up with the hype cycle, or already moving on?](https://www.reddit.com/r/artificial/comments/1x5paha/ai_tools_keeping_up_with_the_hype_cycle_or/)
+`r/artificial` · 14 Oct 11:58 UTC · score 5.391
 
-Article URL: https://pdftomp3.com/connect-ai/ Comments URL: https://news.ycombinator.com/item?id=50069337 Points: 111 # Comments: 56
+tried a new agent framework last week because the launch post made it sound like it would handle the boring parts of my SaaS admin. it worked for the first couple features then quietly stopped respecting the limits I set. had to go back and add the same guardrails I already had in the old version. the real issue is how fast these things get replaced. by the time I figure out whether one actually…
 
-### [NVIDIA’s 9-Year-Old Tesla V100 Still Packs Some Inference Muscle; 4 GPUs On An NVLink Board Can Outperform M5 Ultra, DGX Spark In Various AI Benchmarks By Up To 230%](https://www.reddit.com/r/LocalLLaMA/comments/1x4mtzx/nvidias_9yearold_tesla_v100_still_packs_some/)
-`r/LocalLLaMA` · 13 Oct 04:03 UTC · score 5.433
+### [Zoho pauses salary hikes amid AI costs](https://www.reddit.com/r/artificial/comments/1x5qaxy/zoho_pauses_salary_hikes_amid_ai_costs/)
+`r/artificial` · 14 Oct 12:47 UTC · score 4.892
 
-Didn't realize the V100 were still so fast, anyone have first hand experience on these? submitted by /u/chemist_slime \[link\] \[comments\]
+submitted by /u/LinkedInNews \[link\] \[comments\]
 
-### [Update: Converting dense models into Mixture-of-Experts](https://www.reddit.com/r/LocalLLaMA/comments/1x4uint/update_converting_dense_models_into/)
-`r/LocalLLaMA` · 13 Oct 11:50 UTC · score 5.205
+### [Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.](https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/)
+`r/artificial` · 14 Oct 07:55 UTC · score 4.885
 
-This is an update to my previous post which can be found here: https://www.reddit.com/r/LocalLLaMA/s/n7sgRZZc4z Since my last post I have continued working on the conversion process and also converting new models. My latest model is the Qwen2.5-1.5B-MoE-A0.9B . I have also released GGUF versions for both the 0.5B and the 1.5B models which can be found here bayliner1980/Qwen2.5-0.5B-MoE-A0.3B-GGUF…
+submitted by /u/esporx \[link\] \[comments\]
 
-### [Is everyone in here buying up smart TVs now?](https://www.reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now/)
-`r/LocalLLaMA` · 13 Oct 13:16 UTC · score 5.084
+### [llm-gemini 0.35](https://simonwillison.net/2026/Oct/13/llm-gemini/)
+`Simon Willison` · 13 Oct 22:28 UTC · score 4.805
 
-Anthropic says we can run Gemma4 26b a4b with only 14 smart tvs. submitted by /u/SporksInjected \[link\] \[comments\]
+Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically…
+
+### [The Age of Reason Is Safely Behind Us](https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/)
+`r/artificial` · 14 Oct 06:54 UTC · score 4.457
+
+What Anthropic is doing, and publicly boasting about, to “protect” the reasoning behind the AI answers we get when we use their models, really doesn’t sit right with me. submitted by /u/fivefilters \[link\] \[comments\]
+
+### [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people)
+`Hacker News (AI, 100+ pts)` · 14 Oct 01:09 UTC · score 4.439
+
+Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 105 # Comments: 69
+
+### [Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’](https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/)
+`r/artificial` · 14 Oct 08:11 UTC · score 4.318
+
+submitted by /u/beingmodest \[link\] \[comments\]
+
+### [Koboldcpp v1.123 released](https://www.reddit.com/r/artificial/comments/1x5ilq0/koboldcpp_v1123_released/)
+`r/artificial` · 14 Oct 05:03 UTC · score 4.227
+
+submitted by /u/Fcking_Chuck \[link\] \[comments\]
+
+### [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+`Hacker News (AI, 100+ pts)` · 13 Oct 23:13 UTC · score 4.197
+
+Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage…
 
 ---
 
@@ -191,11 +183,12 @@ Anthropic says we can run Gemma4 26b a4b with only 14 smart tvs. submitted by /u
 
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
+- **arXiv cs.AI** - no entries
+- **arXiv cs.CL** - no entries
 - **arXiv cs.LG** - no entries
+- **r/LocalLLaMA** - HTTP 429
 - **r/MachineLearning** - HTTP 429
-- **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 37 days
-- ⚠️ VentureBeat AI has been unreachable for 37 days
-- ⚠️ r/artificial has been unreachable for 3 days
+- ⚠️ Import AI has been unreachable for 38 days
+- ⚠️ VentureBeat AI has been unreachable for 38 days
 
 </details>
