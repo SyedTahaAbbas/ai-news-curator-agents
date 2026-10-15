@@ -1,194 +1,198 @@
-# AI News Curator - Wednesday, 14 October 2026
+# AI News Curator - Thursday, 15 October 2026
 
-*35 stories from the last 24 hours. Generated 2026-10-14 12:50 UTC.*
+*35 stories from the last 24 hours. Generated 2026-10-15 12:37 UTC.*
 
 ## Labs & Releases
 
-### [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/)
-`Google DeepMind` · 14 Oct 02:00 UTC · score 6.545
+### [NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute](https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/)
+`NVIDIA` · 15 Oct 10:00 UTC · score 5.972
 
-Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.
-
-### [The EU’s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
-`OpenAI` · 14 Oct 00:00 UTC · score 5.994
-
-New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
-
-### [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/)
-`Google DeepMind` · 13 Oct 19:43 UTC · score 5.159
-
-### [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](https://blogs.nvidia.com/blog/uk-ecosystem-deployment/)
-`NVIDIA` · 14 Oct 06:04 UTC · score 5.153
-
-Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety \[…\]
-
-### [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/)
-`NVIDIA` · 14 Oct 06:00 UTC · score 5.145
-
-Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make \[…\]
-
-### [Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)
-`Google DeepMind` · 13 Oct 16:01 UTC · score 4.698
-
-### [Gemini 4 Argon: Built to solve your hardest problems](https://deepmind.google/blog/introducing-gemini-4-argon/)
-`Google DeepMind` · 13 Oct 16:01 UTC · score 4.698
+Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes…
 
 ## Industry & Press
 
-### [Scimplify raises $25M to challenge China’s grip on critical materials with AI](https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/)
-`TechCrunch AI` · 14 Oct 11:00 UTC · score 6.669
+### [Amazon’s Bee launches two new personal AI devices, starting at $75](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)
+`TechCrunch AI` · 15 Oct 12:00 UTC · score 7.421
 
-Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.
+Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.
 
-### [OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/)
-`Ars Technica AI` · 14 Oct 11:00 UTC · score 6.17
+### [Amazon’s always-listening Bee wearable can now help you buy stuff](https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs)
+`The Verge AI` · 15 Oct 12:00 UTC · score 6.021
 
-Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.
+Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And \[…\]
 
-### [My Friend Has No Soul](https://www.wired.com/story/my-friend-has-no-soul/)
-`Wired AI` · 14 Oct 11:00 UTC · score 5.469
+### [Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked](https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab)
+`The Verge AI` · 15 Oct 11:00 UTC · score 5.896
 
-The second iteration of the viral Friend AI necklace is louder and less interesting.
+There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to "Eiliko" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where \[…\]
 
-### [Men Can’t Stop Faking How Much They Know About AI](https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/)
-`Wired AI` · 14 Oct 09:30 UTC · score 5.282
+## Research
 
-More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.
+### [AgentStripes: An Evidence-Graded Maturity Model for AI Agents](https://arxiv.org/abs/2610.18603)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.421
 
-### [AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity](https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/)
-`Wired AI` · 14 Oct 09:00 UTC · score 5.219
+arXiv:2610.18603v1 Announce Type: new Abstract: Benchmarks report what an Artificial Intelligence (AI) agent can do on a task suite, but not whether one released version has been engineered with the controls that make it reliable, safe and observable, or how strongly that is shown. This paper proposes AgentStripes, an evidence-graded maturity model for AI agents. It defines levels (0 to 7…
 
-“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.
+### [MS-Exam-Gen: An Automatic Benchmark Construction Toolkit for Evaluating LLMs on Multiple Sclerosis-MRI Imaging Knowledge](https://arxiv.org/abs/2610.06170)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.421
 
-### [Facebook is giving users more control over their algorithm](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/)
-`TechCrunch AI` · 13 Oct 18:05 UTC · score 5.156
+arXiv:2610.06170v2 Announce Type: replace Abstract: Biomedical large language model (LLM) evaluation requires auditable assessment of narrow, evolving, source-grounded subspecialty knowledge. Multiple sclerosis MRI (MS-MRI) provides a high-stakes textual-knowledge test case because correct reasoning requires current diagnostic criteria, standardized acquisition and reporting knowledge,…
 
-Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.
+### [Measuring the Inference Energy Efficiency of Open-Weight LLMs across Benchmarks, Reasoning Modes, and Hardware](https://arxiv.org/abs/2610.14389)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.121
 
-### [Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon)
-`The Verge AI` · 13 Oct 16:00 UTC · score 4.994
+arXiv:2610.14389v1 Announce Type: new Abstract: Benchmark scores tell us what an LLM can do, but not how much energy is required to deliver that capability. We directly measure this trade-off for 86 open-weight model checkpoints, evaluated on seven benchmarks and six hardware platforms ranging from a consumer GPU to an eight-GPU server. We find large differences in energy efficiency even among…
 
-After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers "frontier reasoning and improved performance across complex workflows," while cutting down on hedging, repetition, and the cliches that \[…\]
+### [AuthGateBench: Benchmarking LLMs as Authorization Gate](https://arxiv.org/abs/2610.16426)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.121
 
-### [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents)
-`The Verge AI` · 13 Oct 19:42 UTC · score 4.858
+arXiv:2610.16426v1 Announce Type: new Abstract: Automated approval systems let coding agents execute high-risk actions with minimal human oversight by delegating the authorization decision to a classifier, typically a large language model (LLM). Such systems, adopted in tools like Claude Code and Codex, remain vulnerable to failure modes such as scope escalation, where the agent takes actions…
 
-More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists \[…\]
+### [Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery](https://arxiv.org/abs/2610.18449)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.121
 
-### [Google makes it easier to launch your vibe-coded apps](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch)
-`The Verge AI` · 13 Oct 17:00 UTC · score 4.819
+arXiv:2610.18449v1 Announce Type: new Abstract: AI agents for autonomous scientific discovery must decide which experiments to run under a limited budget. Most benchmarks for science agents provide fixed datasets, while others that support active experimentation largely rely on simulation. We introduce Autonomous Science Bench, an initial release comprising six budgeted design-build-test-learn…
 
-The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code \[…\]
+### [WildTrace: Evaluating Training Data Detection in Realistic Large-Scale LLM Post-Training](https://arxiv.org/abs/2610.16152)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.121
 
-### [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device)
-`The Verge AI` · 13 Oct 20:45 UTC · score 4.689
+arXiv:2610.16152v1 Announce Type: cross Abstract: Although post-training significantly enhances model performance, the use of massive undisclosed data raises concerns about benchmark contamination and copyright infringement. This drives growing interest in training data detection for post-trained models. Existing evaluations for training data detection often leverage benchmarks constructed post…
 
-An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department \[…\]
+### [ProtoArena: Can AI Agents Discover and Exploit Real-World Cross-Component Protocol Vulnerabilities?](https://arxiv.org/abs/2610.17837)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.121
 
-### [Epic shifts to ‘AI-accelerated development’ for upcoming Disney game](https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art)
-`The Verge AI` · 13 Oct 15:12 UTC · score 4.596
+arXiv:2610.17837v1 Announce Type: cross Abstract: Large language model (LLM) agents are increasingly used for vulnerability analysis, yet existing benchmarks provide limited coverage of exploitation that depends on interactions among network protocol components. Such vulnerabilities arise from inconsistencies in message interpretation, timing, state, or trust assumptions across participants. We…
 
-Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an "AI-first" mandate directing them to use tools like Anthropic's Claude more to finish the game. According \[…\]
+### [Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems](https://arxiv.org/abs/2605.22883)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 6.121
 
-### [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
-`TechCrunch AI` · 13 Oct 23:05 UTC · score 4.581
+arXiv:2605.22883v2 Announce Type: replace Abstract: Current AI energy benchmarks measure consumption per model invocation. For agentic systems, where a single user goal may trigger multistep orchestration, tool calls, retries, and failure recovery, the invocation count is an implementation artifact rather than a task property, and per inference normalization misrepresents the energy cost of…
 
-Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+### [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](https://arxiv.org/abs/2610.14005)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-### [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/)
-`TechCrunch AI` · 13 Oct 22:36 UTC · score 4.521
+arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive…
 
-Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.
+### [Are Multimodal Benchmarks Really Useful? Item-Level Multimodal Benchmark Diagnosis via Structure-Response Co-Calibration](https://arxiv.org/abs/2610.14542)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-### [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/)
-`TechCrunch AI` · 13 Oct 17:18 UTC · score 4.458
+arXiv:2610.14542v1 Announce Type: new Abstract: Multimodal benchmarks are central to evaluating whether models can reason over information from multiple modalities. However, existing literature has revealed that some benchmarks may contain shortcut items that can be answered from a single modality or from answer-option regularities alone, thus failing to reflect models' true cross-modal inference…
 
-The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.
+### [GesBench: When and Where Do Multimodal Language Models Perceive Social Meaning?](https://arxiv.org/abs/2610.15129)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-### [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
-`TechCrunch AI` · 13 Oct 23:13 UTC · score 4.297
+arXiv:2610.15129v1 Announce Type: new Abstract: Human social perception is incremental: we infer intent before an utterance is complete, revise our interpretation as new cues arrive, and attend to specific facial, gestural, or prosodic signals that shape social meaning. Current multimodal LLM benchmarks largely evaluate final-answer understanding over complete episodes, rewarding post-hoc…
 
-Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).
+### [Large language model-generated patterns for epidemiological modeling: a multi-benchmark evaluation framework](https://arxiv.org/abs/2610.15994)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-### [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/)
-`TechCrunch AI` · 13 Oct 20:36 UTC · score 4.271
+arXiv:2610.15994v1 Announce Type: new Abstract: Representing individual-level behavioral heterogeneity is challenging in epidemiological modeling, particularly when empirical behavioral data are sparse. We assess the potential of large language model (LLM)-generated behavioral outputs in addressing this challenge, using hepatitis C virus-related behaviors among people who inject drugs as a case…
 
-A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.
+### [REVEAL: Reverse Engineering Agentic Latents from Frontier-Model Traces](https://arxiv.org/abs/2610.16288)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-### [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
-`TechCrunch AI` · 13 Oct 23:00 UTC · score 4.269
+arXiv:2610.16288v2 Announce Type: new Abstract: Frontier LLM agents perform complex interactive tasks, but their inference costs motivate transferring their experience to smaller open-source agents. Distillation and latent communication typically require target-model training or access to source-model internals. We study how textual frontier-model trajectories can provide reusable local controls…
 
-Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+### [Audit tools of the trade: Automated Auditor Elicitation Can Be Sensitive to the Context the Auditor Is Given](https://arxiv.org/abs/2610.16911)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-### [Facebook will let you customize your feed algorithm using AI](https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai)
-`The Verge AI` · 13 Oct 17:01 UTC · score 4.222
+arXiv:2610.16911v1 Announce Type: new Abstract: Does providing additional context to automated AI auditors improve their effectiveness? Using the Petri tool to audit LLM coding agents, we test the impact of providing two types of resources (an external codebase and benchmark transcripts) to LLM auditors, across four auditor-target LLM pairs and three behaviours (harmful compliance, reward…
 
-Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you make updates using the new feature by hitting "interested" or "not interested" for different topics. Your Algorithm previously launched on Instagram earlier this \[…\]
+### [Get In, Decide, Prove: A Merchant-Side Readiness Benchmark for Agentic Commerce](https://arxiv.org/abs/2610.17378)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-### [Google wants to host your personal vibe-coded apps in the Play Store](https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/)
-`Ars Technica AI` · 13 Oct 17:00 UTC · score 4.221
+arXiv:2610.17378v1 Announce Type: new Abstract: AI agents now browse and buy on people's behalf, and benchmarks measure how well the agents perform. Far less is known about the other side of the transaction: whether a merchant's website lets an agent in, publishes terms precise enough to decide a purchase, and leaves evidence of what was agreed. This paper presents a merchant-side benchmark built…
 
-Google plans to help turn those personal AI-generated apps into wide releases.
+### [OpenDepth: Repurposing Image Editing Priors for Robust Open-World Monocular Depth Estimation](https://arxiv.org/abs/2610.17610)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-## Community
+arXiv:2610.17610v2 Announce Type: new Abstract: Recently, the integration of generative priors has revolutionized Monocular Depth Estimation (MDE), achieving state-of-the-art (SOTA) performance with remarkably high data efficiency. However, although methods based on Text-to-Image (T2I) models excel in general scenes, their efficacy degrades sharply when confronted with open-world environmental…
 
-### [AI tools keeping up with the hype cycle, or already moving on?](https://www.reddit.com/r/artificial/comments/1x5paha/ai_tools_keeping_up_with_the_hype_cycle_or/)
-`r/artificial` · 14 Oct 11:58 UTC · score 5.391
+### [Can Agents Forget When Asked? A Benchmark for Memory Unlearning in LLM Agents](https://arxiv.org/abs/2610.18052)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-tried a new agent framework last week because the launch post made it sound like it would handle the boring parts of my SaaS admin. it worked for the first couple features then quietly stopped respecting the limits I set. had to go back and add the same guardrails I already had in the old version. the real issue is how fast these things get replaced. by the time I figure out whether one actually…
+arXiv:2610.18052v1 Announce Type: new Abstract: Long-term memory has become a core component of large language model (LLM) agents. As agents accumulate personal information over long-term use, users increasingly ask them to delete sensitive or outdated facts. A memory system should honor such requests. It should remove exactly what was requested and keep the rest of its memory intact. However,…
 
-### [Zoho pauses salary hikes amid AI costs](https://www.reddit.com/r/artificial/comments/1x5qaxy/zoho_pauses_salary_hikes_amid_ai_costs/)
-`r/artificial` · 14 Oct 12:47 UTC · score 4.892
+### [Choosing LLMs for Strategic Agent Interactions](https://arxiv.org/abs/2610.18354)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-submitted by /u/LinkedInNews \[link\] \[comments\]
+arXiv:2610.18354v1 Announce Type: new Abstract: Game-theoretic benchmarks claim that large language model (LLM) strategic decision-making varies across game types, interaction structures, and capability dimensions. However, they only evaluate strategic performance across individual fixed models. In parallel, contemporary LLM routers pick models under quality-cost trade-offs, but with no notion of…
 
-### [Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist. Thiel's 'Antichrist' lecture series in Nashville is reportedly focused on casting AI regulation advocates as antichrist enablers.](https://www.reddit.com/r/artificial/comments/1x5lboy/peter_thiel_you_know_who_else_wants_to_regulate/)
-`r/artificial` · 14 Oct 07:55 UTC · score 4.885
+### [EmoXpt: Analyzing Emotional Variances in Human Comments and LLM-Generated Responses](https://arxiv.org/abs/2501.06597)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-submitted by /u/esporx \[link\] \[comments\]
+arXiv:2501.06597v1 Announce Type: cross Abstract: The widespread adoption of generative AI has generated diverse opinions, with individuals expressing both support and criticism of its applications. This study investigates the emotional dynamics surrounding generative AI by analyzing human tweets referencing terms such as ChatGPT, OpenAI, Copilot, and LLMs. To further understand the emotional…
 
-### [llm-gemini 0.35](https://simonwillison.net/2026/Oct/13/llm-gemini/)
-`Simon Willison` · 13 Oct 22:28 UTC · score 4.805
+### [AI Representations of Mental Health Stigma: Quantifying the Gap Between AI Estimations and Human Perceptions Across Gender Groups Using GPT-Based LLMs](https://arxiv.org/abs/2610.16042)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically…
+arXiv:2610.16042v1 Announce Type: cross Abstract: The increasing use of artificial intelligence (AI) in mental health applications raises concerns about its potential to internalize and perpetuate societal biases. This research evaluates both disparities and misalignment in how large language models (LLMs), GPT-4 and GPT-5, represent perceptions of mental health across gender groups. The research…
 
-### [The Age of Reason Is Safely Behind Us](https://www.reddit.com/r/artificial/comments/1x5ke53/the_age_of_reason_is_safely_behind_us/)
-`r/artificial` · 14 Oct 06:54 UTC · score 4.457
+### [CWE-bench: Refocusing Agentic Security from Exploitation to Defense](https://arxiv.org/abs/2610.17020)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-What Anthropic is doing, and publicly boasting about, to “protect” the reasoning behind the AI answers we get when we use their models, really doesn’t sit right with me. submitted by /u/fivefilters \[link\] \[comments\]
+arXiv:2610.17020v1 Announce Type: cross Abstract: Cybersecurity evaluations of AI agents have focused largely on offense, yet a working exploit does not show that an agent can make software safe. An attacker needs to exploit only one vulnerability; a defender must find and fix all of them. We introduce CWE-bench, a private benchmark of 120 held-out repository audit-and-repair tasks spanning 73…
 
-### [Show HN: I built a tool to track what AI leaders say and how their views change](https://blumify.io/people)
-`Hacker News (AI, 100+ pts)` · 14 Oct 01:09 UTC · score 4.439
+### [PseudoBench: Measuring How Agentic Auto-Research Fuels Pseudoscience](https://arxiv.org/abs/2606.18060)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 105 # Comments: 69
+arXiv:2606.18060v2 Announce Type: replace Abstract: As Large Language Model based agents enter autonomous scientific research, their ability to resist pseudoscience becomes increasingly important. Otherwise, such systems may rapidly generate plausible yet misleading studies that contaminate academic literature and erode trust in science. We present PseudoBench, an adversarial benchmark for…
 
-### [Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’](https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/)
-`r/artificial` · 14 Oct 08:11 UTC · score 4.318
+### [What a Pooled Leaderboard Does Not Say: Auditing the Scope and Provenance of Method Comparisons in Microservice RCA Benchmarks](https://arxiv.org/abs/2606.29159)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-submitted by /u/beingmodest \[link\] \[comments\]
+arXiv:2606.29159v2 Announce Type: replace Abstract: Offline benchmarks for microservice root cause analysis (RCA) rank methods by a score pooled over several applications, and a pooled lead leaves two things unstated: on which of the systems it holds, and how the score was produced. We audit both on three public benchmark families (OpenRCA, RCAEval, and PetShop), running the released…
 
-### [Koboldcpp v1.123 released](https://www.reddit.com/r/artificial/comments/1x5ilq0/koboldcpp_v1123_released/)
-`r/artificial` · 14 Oct 05:03 UTC · score 4.227
+### [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](https://arxiv.org/abs/2607.20064)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-submitted by /u/Fcking_Chuck \[link\] \[comments\]
+arXiv:2607.20064v3 Announce Type: replace Abstract: Long-horizon tasks require sustained perception, reasoning, and exploration, and are a persistent challenge for large language model (LLM) agents. This gap is reflected in their limited performance on continual learning benchmarks such as ARC-AGI-3 and NetHack, especially when evaluated without specialized harnesses. Various agent harnesses have…
 
-### [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
-`Hacker News (AI, 100+ pts)` · 13 Oct 23:13 UTC · score 4.197
+### [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/abs/2308.12241)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
 
-Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage…
+arXiv:2308.12241v2 Announce Type: replace-cross Abstract: Recently, the fast development of Large Language Models (LLMs) such as ChatGPT has significantly advanced NLP tasks by enhancing the capabilities of conversational models. However, the application of LLMs in the recommendation domain has not been thoroughly investigated. To bridge this gap, we propose LLMRec, a LLM-based recommender system…
+
+### [Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems](https://arxiv.org/abs/2604.14228)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
+
+arXiv:2604.14228v3 Announce Type: replace-cross Abstract: Claude Code is an agentic coding tool that can run shell commands, edit files, and call external services on behalf of the user. This study describes its architecture by analyzing the publicly available source code and comparing it with two independent open-source AI agent systems, OpenClaw and Hermes Agent, that answer many of similar or…
+
+### [ThreadBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions](https://arxiv.org/abs/2606.14715)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
+
+arXiv:2606.14715v2 Announce Type: replace-cross Abstract: LLM agents are increasingly used to simulate real-world interactions, but it remains unclear whether simulated behaviors preserve the content patterns and interaction dynamics of real human behaviors. Existing evaluations often focus on individual comments or task performance, rather than whether simulated behaviors match human behavior at…
+
+### [ScholarQuest: A Taxonomy-Guided Benchmark for Agentic Academic Paper Search in Open Literature Environments](https://arxiv.org/abs/2606.20235)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
+
+arXiv:2606.20235v2 Announce Type: replace-cross Abstract: Academic paper search is a core step in scientific research, and LLM-based search agents are emerging as a promising paradigm for iterative, intent-driven literature exploration. However, existing benchmarks offer limited coverage of research intents and insufficient support for scalable answer construction and reproducible multi-turn…
+
+### [TabQueryBench: A Query-Centric Benchmark for Synthetic Tabular Data](https://arxiv.org/abs/2607.03926)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
+
+arXiv:2607.03926v2 Announce Type: replace-cross Abstract: Synthetic tabular data support use cases like data sharing, model development under access restrictions, and rapid prototyping of analytical workflows. Modern generative models are evaluated by their statistical similarity, correlation structure, privacy, and downstream machine-learning utility. However, such evaluations leave a gap: they…
+
+### [ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models](https://arxiv.org/abs/2607.26455)
+`arXiv cs.AI` · 15 Oct 04:00 UTC · score 5.821
+
+arXiv:2607.26455v2 Announce Type: replace-cross Abstract: Large language models (LLMs) have demonstrated strong capabilities in knowledge acquisition and reasoning, yet their ability to retain previously acquired knowledge under repeated updates remains insufficiently understood. Existing evaluation paradigms primarily focus on single-step reasoning or static knowledge editing, which fail to…
+
+### [FinGREAT: Evaluating LLMs on Financial Graph-guided Retrieval And Typing](https://arxiv.org/abs/2610.19240)
+`arXiv cs.LG` · 15 Oct 04:00 UTC · score 5.821
+
+arXiv:2610.19240v1 Announce Type: new Abstract: Financial disclosures express the underlying relationships of double-entry accounting through unstructured text. While financial LLM benchmarks predominantly emphasize question answering and classification, schema-guided evidence discovery remains relatively under-explored. We investigate whether open-weight LLMs can extract and classify evidence…
 
 ---
 
 <details><summary>Feeds that did not respond</summary>
 
+- **Hacker News (AI, 100+ pts)** - HTTP 502
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
-- **arXiv cs.AI** - no entries
-- **arXiv cs.CL** - no entries
-- **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
-- **r/MachineLearning** - HTTP 429
-- ⚠️ Import AI has been unreachable for 38 days
-- ⚠️ VentureBeat AI has been unreachable for 38 days
+- **r/artificial** - HTTP 429
+- ⚠️ Import AI has been unreachable for 39 days
+- ⚠️ VentureBeat AI has been unreachable for 39 days
 
 </details>
