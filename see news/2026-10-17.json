@@ -1,0 +1,698 @@
+[
+  {
+    "title": "How Ita\u00fa is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-10-16T19:00:00+00:00",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
+    "score": 5.529,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.929,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T21:22:28+00:00",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "score": 5.426,
+    "matched": [
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.226,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-17T08:17:31+00:00",
+    "summary": "Basically the title. Due to the nonsensical situation of NeurIPS being fully sold out before the results were even released, I couldn't get workshop registration (my paper is in the main track, which apparently doesn't have any sort of gaurantee for registrations in other parts of the conference like workshops). My experience with conferences has been with full registrations, so I don't really\u2026",
+    "score": 5.39,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.59,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why AI Isn\u2019t Ready to Tackle Our Convoluted Genomes",
+    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-17T09:00:00+00:00",
+    "summary": "The DNA inside our cells isn\u2019t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "score": 5.379,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.679,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 \u00b7 Hugging Face",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-17T08:09:21+00:00",
+    "summary": "submitted by /u/Bestlife73 [link] [comments]",
+    "score": 5.173,
+    "matched": [
+      "ai",
+      "hugging face"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.573,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Go to neurIPS just for a workshop. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-17T09:56:53+00:00",
+    "summary": "Hi, I just finished my masters and got a neurIPS workshop acception. Unfortunately the lab I did it with do not want to fund neither the registration nor flights and accommodation. I am thinking about getting the workshop only ticket and pay for it myself. Would you say it is worth it, if I just have a workshop poster? Thanks submitted by /u/strammerrammer [link] [comments]",
+    "score": 4.997,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.797,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x82yxx/qwen3827bdefianceuncensoredmtpgguf/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-17T06:23:41+00:00",
+    "summary": "Defiance puts DavidAU's Turbo-Brilliance \"AI Construct\" modes on HauhauCS's uncensored Qwen3.8-27B. You pick a mode (Joker, Dr. House, a 20-agent Einstein panel, a Socratic tutor) per request, and the uncensored weights answer it without hedging. Weights: HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF , byte for byte. I checked all 866 tensors against the upstream files. Modes: the\u2026",
+    "score": 4.653,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.353,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-17T05:34:11+00:00",
+    "summary": "Was waiting for this. Edit: And it just dropped: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 submitted by /u/chemist_slime [link] [comments]",
+    "score": 4.55,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.25,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T16:30:00+00:00",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [\u2026]",
+    "score": 4.516,
+    "matched": [
+      "chatgpt",
+      "foundation model",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.616,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T16:30:00+00:00",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [\u2026]",
+    "score": 4.516,
+    "matched": [
+      "ai",
+      "foundation model",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.616,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM \u2014 Introducing ORL (fully open source) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-16T20:03:32+00:00",
+    "summary": "Hey r/MachineLearning ! We're excited to share ORL (On-Policy Residual Learning) , our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality. With ORL and our custom inference engine dlmrt , we've achieved: 2,788 tokens/s on a single RTX 5090 \u2014 LLaDA-2.1-mini + ORL, NVFP4 7,708 tokens/s on 8\u00d7 B200 \u2014 DiffusionGemma 26B MoE + ORL, NVFP4\u2026",
+    "score": 4.461,
+    "matched": [
+      "llm",
+      "inference"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.061,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nvdia\u2019s Nemotron is guard railed to uselessness.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x83hz1/nvdias_nemotron_is_guard_railed_to_uselessness/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-17T06:56:15+00:00",
+    "summary": "I was running 120B model, I asked to do a UI overhaul for a page, to access the page it needs to login into Dev server, I provided creds. It refuses to log in. submitted by /u/Shadow_s_Bane [link] [comments]",
+    "score": 4.421,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.421,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T18:00:00+00:00",
+    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but that could be next. Watch\u2026",
+    "score": 4.404,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.804,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How many of you have seen this honest ICLR submission? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-17T04:43:32+00:00",
+    "summary": "Makes me think how many submissions are just better than this one by quietly removing that line... submitted by /u/fighraccoon [link] [comments]",
+    "score": 4.345,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.145,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "llama.cpp has come a long way",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-17T01:08:07+00:00",
+    "summary": "Hey everyone, English is not my native language (Dutch), but I write in my own words without assistance. So please let me know if any sentence flows weird, etc. A mate of mine told me how amazing local AI was in January 2025, but I was a skeptic who took pride in writing my own code for 10 years. Knowing I can be quite stubborn and wanting to at least explore the idea, I decided to give it a try.\u2026",
+    "score": 4.296,
+    "matched": [
+      "ai",
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.696,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T20:59:01+00:00",
+    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "score": 4.277,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.177,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
+    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T20:20:07+00:00",
+    "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+    "score": 4.196,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.096,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 \u00b7 Hugging Face",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-17T00:11:45+00:00",
+    "summary": "submitted by /u/coder543 [link] [comments]",
+    "score": 4.178,
+    "matched": [
+      "hugging face",
+      "nvidia"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.578,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T16:01:37+00:00",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "score": 4.157,
+    "matched": [
+      "ai",
+      "gpt"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.557,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T17:52:24+00:00",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "score": 4.088,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.788,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What do you guys use for chat interface?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x80ci1/what_do_you_guys_use_for_chat_interface/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-17T03:51:15+00:00",
+    "summary": "I use Pi/OpenCode for coding tasks which still seems to be the most popular, but I'm wondering what you guys use for normal chat interface. It's been a few months since I've seen discussions about harness and at the time the popular non-coding choices seem to be: - OpenWebUI for general use - SillyTavern for roleplay - Hermes Agent for autonomous assistant I'm personally looking for something\u2026",
+    "score": 4.036,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.036,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-16T21:35:36+00:00",
+    "summary": "I know everyone's excited about 3.8, but honestly I'm still refining 3.6. And I hate the way 3.8 talks, so... I keep seeing all these posts about what's the use of open source, so I figured I'd submit my own answer with this post. Qwen 3.5 27B was my first agent, starting my journey around May 31st, and I've learned a lot in these 4+ months, so I wanted to share with other people just starting\u2026",
+    "score": 3.853,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.253,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Dario: \u201cWith open source you can see the source code. Here we can\u2019t see inside the model.\u201d My 0.646 t/s MiMo-2.6-Pro crammed thru 128GB of Jetson AGX Thor: \u201cYeah, well, that\u2019s just, like, your opinion, man.\u201d",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sbxs/dario_with_open_source_you_can_see_the_source/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-16T21:18:51+00:00",
+    "summary": "Tracked my first run of MiMo Pro on a Jetson AGX Thor at a scorching 0.646 tokens/sec,.. but it DID technically load and run, so it counts. Every decoder layer, routed expert, SSD read (..a good bit more) traced and replayable step by step. Here we can't what-now?.. it's ~566GB of model (FP8), at the blinding speed and architecture of hand-extruded hotdog manufacturing, read from disk\u2026",
+    "score": 3.818,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.218,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T15:33:49+00:00",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "score": 3.799,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.499,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T20:05:08+00:00",
+    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem\u2013linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "score": 3.765,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.065,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I don't get the qwen 3.8 flash next hype",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7uf15/i_dont_get_the_qwen_38_flash_next_hype/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-16T22:48:28+00:00",
+    "summary": "My experience is based on running Qwen 3.8 Flash Next UD-Q4_K_XL on 4x 3090's Compared directly to Qwen 3.8 27b Q8 it is not even close. To add to this, strata results were even worse than llama.cpp even thought generation speeds were faster. I left 1 run for 4 hours in strata and it did not produce a playable exe. After that all runs were capped per 1 hour on the first prompt As you can see\u2026",
+    "score": 3.705,
+    "matched": [
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.405,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Improved Qwen3.8-Flash Chat Template (w/ Sharp Template terse option)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7qs31/improved_qwen38flash_chat_template_w_sharp/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-16T20:15:50+00:00",
+    "summary": "I've been maintaining my own chat template for Qwen3.8-Flash-Next since it released, and after a discussion in another thread I decided to share it. I made a repo with my v1.4 template, the original Unsloth fixed stock template, and now a \"Sharp\" terseness mode version (based on /u/peculiar-ragdoll 's original). On top of Unsloth's improved template I fixed the requests that still fail or render\u2026",
+    "score": 3.687,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.087,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T14:26:51+00:00",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "score": 3.66,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.36,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T15:41:00+00:00",
+    "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.",
+    "score": 3.614,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.514,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Crashing out after ICLR desk rejection: \"content exceeds the 9-page limit.\" [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-16T17:50:55+00:00",
+    "summary": "Half of one sentence in my paper trails onto page 10... This must have happened after a small edit and recompile of the pdf on resubmission? but this got me desk rejected??? Is this normal?? This wasn't even flagged by the official LLM feedback? Like whats the point of providing LLM feedback if it can't catch this. I don't need an AI slop breakdown of my papers strengths and weaknesses, I need to\u2026",
+    "score": 3.585,
+    "matched": [
+      "ai",
+      "llm"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.785,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T15:00:00+00:00",
+    "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [\u2026]",
+    "score": 3.529,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.429,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-10-16T22:09:10+00:00",
+    "summary": "For the past 4 weeks I\u2019ve been training models of the Drosophila brain to control a car in a drag racing simulator. To make the training watchable, I turned it into a racing league and stream it live on Twitch. How it works Each \u201cpilot\u201d is a fly brain model of ~2,400 neurons [based on: FlyWire connectome / own architecture / spiking network?] Training: [RL algorithm / evolutionary strategy /\u2026",
+    "score": 3.523,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.323,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Kimi K3, three months after the hype: too big for almost anyone to run locally, and smaller models have already caught it",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7s89u/kimi_k3_three_months_after_the_hype_too_big_for/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-16T21:14:31+00:00",
+    "summary": "K3 came out in July hyped as the best open model you could download, and it scored 57 on Artificial Analysis, right up there with Opus 4.8 and GPT-5.5. I went back to see what running it actually looks like now, using Unsloth's quant docs, the model card, AA and the license. Short version: it's still a monster, and the field caught up. Full model is 1.56 TB. 104B active doesn't save you any\u2026",
+    "score": 3.509,
+    "matched": [
+      "gpt"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.209,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-16T12:55:09+00:00",
+    "summary": "Replit CEO Amjad Masad envisions a future of \u201cself-driving companies,\u201d where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "score": 3.469,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.169,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "reflection/Beam-1.0-501B-A23B \u00b7 Hugging Face",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-16T13:23:33+00:00",
+    "summary": "UPDATE llama.cpp support merged https://github.com/ggml-org/llama.cpp/pull/30670 Beam is an open model built by Reflection. Beam takes text as input and generates text as output. This release includes the instruction-tuned model in BF16, FP8, and NVFP4 numerics. Beam uses a sparse mixture-of-experts (MoE) architecture with 501B total parameters and 23B active parameters. It supports a context\u2026",
+    "score": 3.428,
+    "matched": [
+      "llama",
+      "hugging face"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.228,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  }
+]
