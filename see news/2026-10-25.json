@@ -1,0 +1,690 @@
+[
+  {
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-10-25T10:00:00+00:00",
+    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what\u2019s happened everywhere from Ireland to New Zealand.",
+    "score": 5.082,
+    "matched": [],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.682,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-24T19:00:00+00:00",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "score": 5.007,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.807,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "[Benchmark] Strata/Basalt runs Qwen3.8 Flash Next IQ3_S with 16GB VRAM and 55GB RAM with up to 250 tok/s generation and 5,600 tok/s prompt processing (5080, Concurrency 1)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T03:59:23+00:00",
+    "summary": "Qwen3.8-Flash-Next IQ3_S on Basalt | RTX 5080 16 GB, Core Ultra 9 285K, 62 GB DDR5-6800 | 262K context, int8 KV Workload (prompts 5K+) PP avg (t/s) PP peak (t/s) TG avg (t/s) TG peak (t/s) VRAM RAM (engine / left free) Agent coding session (opencode, 103 requests, up to 130K ctx) 5,011 5,118 153.0 262 15.7 GB 54.1 GB / 5.2 GB Context sweep (fresh prompts 15K-207K) 5,475 5,662 154.9 186.6 15.7 GB\u2026",
+    "score": 4.83,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.93,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T03:48:25+00:00",
+    "summary": "Has anyone tried ISTA's GSQ-RCO GGUFs for DeepSeek-V4.1-Flash? Does the quality feel as good as their benchmarks show (IQ2_XXS matching the base)? Their benchmarks are saturated (90%+, and AIME25 is 100 for every version), so they probably can't show the degradation, and I couldn't find any KLD for GSQ-RCO models. Has anyone measured KLD or PPL? What KLD would you expect at ~2 bpw?\u2026",
+    "score": 4.808,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.908,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T02:51:18+00:00",
+    "summary": "REA (Reserve Engineer Anything) was blocked by Claude one day later... https://x.com/AbhinavXJ/status/2113590263373508704 Time for the pebbles to own the weights submitted by /u/kroggens [link] [comments]",
+    "score": 4.689,
+    "matched": [
+      "claude",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.789,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-25T01:33:49+00:00",
+    "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 214 # Comments: 67",
+    "score": 4.527,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.627,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A 4B coding model that can generate 3D scenes",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T06:10:59+00:00",
+    "summary": "I\u2019m sharing an early version of a 4B model I\u2019m training for general coding and 3D scene generation. Small models have been pretty rough at 3D in my tests. I\u2019ve finally made enough progress to get results like the ones in this video, so I wanted to share a preview with the community. It\u2019s an independent fine-tune of Qwen3.5-4B, and both Q4_K_M and Q8_0 GGUFs are available here: Download the model\u2026",
+    "score": 4.505,
+    "matched": [
+      "fine-tun*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.205,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xewcs8/kimi_k31_pro_tech_blog_advancing_open_intelligence/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T07:51:59+00:00",
+    "summary": "Open weight on Nov 4. It is just a post trained version of K3, so it should have day 0 support in all platforms. submitted by /u/Ok_Warning2146 [link] [comments]",
+    "score": 4.415,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.415,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "model: DSV4.1 flash by am17an \u00b7 Pull Request #31086 \u00b7 ggml-org/llama.cpp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T02:16:43+00:00",
+    "summary": "only 763B params! :) https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf submitted by /u/jacek2023 [link] [comments]",
+    "score": 4.317,
+    "matched": [
+      "ai",
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.717,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T06:41:28+00:00",
+    "summary": "Hey everyone, Most current setups for Qwen3.8-Flash-Next (like Strata) keep all 24k experts pinned in system RAM (~48\u201364 GB) and compute cache misses on the CPU. That works great on high-spec workstations, but not on normal machines or laptops with limited RAM. A few weeks ago, I noticed that https://github.com/sybil-solutions/glm-flash-lite was running GLM-5.3 with surprisingly low memory\u2026",
+    "score": 4.268,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.268,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-24T23:11:54+00:00",
+    "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 390 # Comments: 404",
+    "score": 4.232,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.332,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-24T21:29:12+00:00",
+    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [\u2026]",
+    "score": 4.218,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 1.118,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-24T15:00:00+00:00",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "score": 4.207,
+    "matched": [
+      "ai",
+      "gpt",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.307,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GPT-X3-150M takes #1 on the Open SLM Leaderboard, dethroning HuggingFace's SmolLM2-135M with a GDN2/GQA hybrid - Check it out!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-25T03:36:15+00:00",
+    "summary": "submitted by /u/datdanboi25 [link] [comments]",
+    "score": 4.182,
+    "matched": [
+      "gpt"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.882,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-24T18:32:21+00:00",
+    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as [\u2026]",
+    "score": 4.149,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.749,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T19:59:11+00:00",
+    "summary": "not an llm post exactly, but it's all local inference so i figured people here might like it i made a browser rhythm runner where the song builds the world you run through. you can throw in your own mp3s and the whole \"listening\" happens on your device, inside the tab. nothing gets uploaded the models, all running locally on onnxruntime-web (wasm, each in its own web worker), and what the game\u2026",
+    "score": 4.13,
+    "matched": [
+      "llm",
+      "inference"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.93,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Is it just me or Kimi K3.1 Pro don\u2019t look much better than DeepSeek 4.1 Flash?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T23:24:59+00:00",
+    "summary": "Personally I am quite fond of the Kimi models, especially them taking a gamble pushing the 2.8b parameter models. But that\u2019s just it, you\u2019d figure that the results would be representative of its size. However, the recent release of DeepSeek 1017 has put things in perspective for me. kimi k3 is a great model but realistically very hard to run locally, even when quantized, and even if managing to\u2026",
+    "score": 3.959,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.359,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T22:16:55+00:00",
+    "summary": "Your move everyone, buy, sell, but hurry... submitted by /u/chemist_slime [link] [comments]",
+    "score": 3.817,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.217,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "No signs of AI payoff outside the tech sector",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-24T19:47:19+00:00",
+    "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 566 # Comments: 596",
+    "score": 3.805,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.905,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Why is AI generated language so hard to understand?",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-24T18:04:57+00:00",
+    "summary": "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 209 # Comments: 174",
+    "score": 3.592,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.692,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xem3kc/uk_to_invest_100m_in_world_first_ai_biosecurity/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T22:45:29+00:00",
+    "summary": "submitted by /u/MerePotato [link] [comments]",
+    "score": 3.577,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.277,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "High-Performance llama.cpp fork for Legacy GPUs: Kepler Support, CUDA Graphs & Windows NCCL!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeicw2/highperformance_llamacpp_fork_for_legacy_gpus/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T20:01:46+00:00",
+    "summary": "I've been working on improving llama.cpp support and performance on older NVIDIA GPUs, particularly Kepler and other pre-Ampere architectures. The goal is simple: get more life out of older CUDA hardware instead of treating it as e-waste. Achieved Performance On MTP Qwen3.6-35B-A3B with Q8_0 quantization , I've observed the following (generation) speeds using 4x Tesla K40c GPUs (Kepler, compute\u2026",
+    "score": 3.535,
+    "matched": [
+      "llama",
+      "nvidia"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.935,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-24T14:00:00+00:00",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "score": 3.482,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.182,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Block\u2019s new voice model sounds eerily human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-10-24T16:00:00+00:00",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "score": 3.432,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.432,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AbliteratedOutTheBox Strata Announcement",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T13:38:58+00:00",
+    "summary": "I\u2019ve been working on an inference-time abliteration engine as a fork of llama.cpp, and I\u2019ve now ported the hook to Strata. It acts as an easy way to use abliterated models without huge amounts of vram or finetuning. For the Strata Branch https://github.com/heterodoxin/AbliteratedOutTheBox/tree/strata For the llama.cpp branch https://github.com/heterodoxin/AbliteratedOutTheBox A star or upvote\u2026",
+    "score": 3.338,
+    "matched": [
+      "llama",
+      "inference"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.138,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T21:05:21+00:00",
+    "summary": "ANEMLL Forge 0.2.1: Qwen3.8-27B on the M6 Neural Engine now runs up to 192K context (M6 32GB). New: INT8 K/V cache (half of FP16) and a smaller drafter sharing the target's output head \u2014 0.86 GB less ANE memory, same speed. Decode depends on content: JSON 35\u201362 tok/s, code 18\u201332, prose 10\u201317. Prefill 260 tok/s at short context, 62 at 192K. 128K\u2013192K use a smaller prefill batch (32 vs 64 rows) to\u2026",
+    "score": 3.068,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.068,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Kimi K3.1 removes cyberattack training data from open weight release",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T16:05:18+00:00",
+    "summary": "This is due to China's new export restrictions primarily but also the growing caution around cybersecurity exploits popping up. submitted by /u/zxyzyxz [link] [comments]",
+    "score": 3.043,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.443,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Small model good for reverse engineering that can run on a 3090 and 32GB RAM.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeipmm/small_model_good_for_reverse_engineering_that_can/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T20:16:36+00:00",
+    "summary": "Anyone knows of a good model that does not say no to reverse engineering? Cloud models will even terminate your account by snitching on you and GLM 5.3 is too big to run on my potato. Help would be greatly appreciated. Thanks. submitted by /u/politefella0 [link] [comments]",
+    "score": 2.966,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.966,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "KLD is misunderstood",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T20:12:28+00:00",
+    "summary": "I see a lot of people here on Reddit treating the KLD number as some holy metric that can distinguish every quantized model out there and rank them by quality. TL;DR: It can't. So what does KLD actually measure? If you feed the same text to both the base model and the quantized model, you can compare the probability distributions obtained from their logits at each token. KLD basically measures\u2026",
+    "score": 2.958,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.958,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Raon is better than Flint.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xehs52/raon_is_better_than_flint/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T19:38:27+00:00",
+    "summary": "Idk why everyone keeps posting about Flint! Raon is hundreds of times better, and it\u2019s not even the best, which is really saying something about Flint lmao https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf submitted by /u/Borkato [link] [comments]",
+    "score": 2.887,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.887,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Silero VAD v6 being used by Chatgpt voice mode",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xedp2t/silero_vad_v6_being_used_by_chatgpt_voice_mode/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T16:54:54+00:00",
+    "summary": "https://preview.redd.it/xwljokv33gxh1.png?width=1062&format=png&auto=webp&s=3e5991de1569ba994b448d0bb17818fe3d2773ab Interesting they chose an opensource model instead of building their own submitted by /u/ObnoxiouslyVivid [link] [comments]",
+    "score": 2.846,
+    "matched": [
+      "chatgpt"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.546,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T13:08:49+00:00",
+    "summary": "https://arxiv.org/pdf/2609.12303 this paper suggests a model that skips models reading tokens that and has the model read raw bytes, basically one letter at a time. what they did: trained small models (~1B params), some on tokens and some on bytes trained them partly by copying a bigger model (llama 3 8b), aka distillation the tricky part is that the teacher thinks in tokens and the student reads\u2026",
+    "score": 2.675,
+    "matched": [
+      "ai",
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.075,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T15:21:50+00:00",
+    "summary": "The methodology Qwen-Flash-Next has n-gram, MOE packing above its weight but it's still 6B active params. We exploit this by keeping most MOEs in RAM (Smallest MOEs go in VRAM for speedup) and n-gram on disk - ensure you put the model on your fastest SSD. 8 GB VRAM, 24 GB RAM cost. You can run this fine if you've ~32 GB total memory too, but you'd have to turn down context size . Customize the\u2026",
+    "score": 2.652,
+    "matched": [
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.352,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Are there any good finetunes for Blender and/or 3D modeling?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeeorp/are_there_any_good_finetunes_for_blender_andor_3d/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T17:34:26+00:00",
+    "summary": "Is there any good finetunes based on modern models, in the size range of Qwen 3.8 27B or Qwen 3.8 Flash Next that substantially improve it's 3D modeling capabilities for creating .glb / gltf assets (mainly for say making video games)? Mainly thinking about two use cases: * Making a 3D model from a set of descriptive requirements (like a spec in an markdown file) plus a bunch of reference images\u2026",
+    "score": 2.628,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.628,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "10 tok/s Deepseek V4.1 Flash 8K with Strata on a 5090 with 64GB DDR5 Ram",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xed2xx/10_toks_deepseek_v41_flash_8k_with_strata_on_a/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-24T16:29:59+00:00",
+    "summary": "https://preview.redd.it/6ty7xuyjyfxh1.png?width=721&format=png&auto=webp&s=ee2bbd9530cf60f1dd80444e646a179a54f1d1cb Ran it on my RTX 5090 with Lexar 4TB NVMe and 64 GB of DDR5 Ram. At this speed it is cheaper to use the API than to pay the electricity for this, unfortunately. So if anyone is wondering what the speed is for a similar setup, there you have it. But anyway, i am excited that it runs\u2026",
+    "score": 2.494,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.494,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]

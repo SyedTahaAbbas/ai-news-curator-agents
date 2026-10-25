@@ -1,191 +1,190 @@
-# AI News Curator - Saturday, 24 October 2026
+# AI News Curator - Sunday, 25 October 2026
 
-*35 stories from the last 24 hours. Generated 2026-10-24 11:58 UTC.*
-
-## Labs & Releases
-
-### [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two)
-`OpenAI` · 23 Oct 17:00 UTC · score 5.227
-
-Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
-
-### [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot)
-`Hugging Face` · 23 Oct 16:15 UTC · score 3.535
+*35 stories from the last 24 hours. Generated 2026-10-25 12:32 UTC.*
 
 ## Industry & Press
 
-### [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
-`TechCrunch AI` · 23 Oct 23:05 UTC · score 4.99
+### [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/)
+`Wired AI` · 25 Oct 10:00 UTC · score 5.082
 
-OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
+Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.
 
-### [Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech)
-`The Verge AI` · 23 Oct 19:32 UTC · score 4.645
+### [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
+`TechCrunch AI` · 24 Oct 19:00 UTC · score 5.007
 
-Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between \[…\]
+From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
 
-### [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
-`TechCrunch AI` · 23 Oct 21:59 UTC · score 4.551
+### [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+`The Verge AI` · 24 Oct 21:29 UTC · score 4.218
 
-The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
+BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue \[…\]
 
-### [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)
-`The Verge AI` · 23 Oct 21:11 UTC · score 4.551
+### [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)
+`TechCrunch AI` · 24 Oct 15:00 UTC · score 4.207
 
-OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier \[…\]
+A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
 
-### [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
-`TechCrunch AI` · 23 Oct 19:06 UTC · score 4.191
+### [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+`The Verge AI` · 24 Oct 18:32 UTC · score 4.149
 
-Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.
+On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as \[…\]
 
-### [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/)
-`Ars Technica AI` · 23 Oct 20:19 UTC · score 3.844
+### [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/)
+`TechCrunch AI` · 24 Oct 14:00 UTC · score 3.482
 
-Turning on Personal Intelligence gives the company more data for ad targeting.
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 
-### [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
-`The Verge AI` · 23 Oct 16:52 UTC · score 3.713
+### [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)
+`TechCrunch AI` · 24 Oct 16:00 UTC · score 3.432
 
-Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous \[…\]
-
-### [Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs](https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/)
-`Ars Technica AI` · 23 Oct 17:18 UTC · score 3.466
-
-Company says foreign-made robotic vehicles are crucial to US chip production.
-
-### [Meta delays new business terms after publisher pushback on AI scraping](https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping)
-`The Verge AI` · 23 Oct 14:47 UTC · score 3.452
-
-Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow \[…\]
-
-### [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast)
-`The Verge AI` · 23 Oct 17:00 UTC · score 3.428
-
-We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay \[…\]
-
-### [Retro gaming is being overrun with AI](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port)
-`The Verge AI` · 23 Oct 12:00 UTC · score 3.102
-
-Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as \[…\]
+Block said that the voice model can run locally on a MacBook M4 Max
 
 ## Community
 
-### [\[Release\] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017](https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/)
-`r/LocalLLaMA` · 24 Oct 08:05 UTC · score 5.113
+### [\[Benchmark\] Strata/Basalt runs Qwen3.8 Flash Next IQ3_S with 16GB VRAM and 55GB RAM with up to 250 tok/s generation and 5,600 tok/s prompt processing (5080, Concurrency 1)](https://www.reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3/)
+`r/LocalLLaMA` · 25 Oct 03:59 UTC · score 4.83
 
-We have released DeepSeek-V4.1-Flash-1017 quantized with GSQ and RCO, at 1.75 to 2.25 bits per weight. DeepSeek-V4.1-Flash-1017 is a sparse mixture-of-experts model: 384 routed experts per layer, of which 6 are active per token, 763.2B parameters and a 1M-token context window. It is released with FP8 dense weights and FP4 routed experts. What's inside Three quantized GGUFs: IQ1_M (1.75 bpw),…
+Qwen3.8-Flash-Next IQ3_S on Basalt | RTX 5080 16 GB, Core Ultra 9 285K, 62 GB DDR5-6800 | 262K context, int8 KV Workload (prompts 5K+) PP avg (t/s) PP peak (t/s) TG avg (t/s) TG peak (t/s) VRAM RAM (engine / left free) Agent coding session (opencode, 103 requests, up to 130K ctx) 5,011 5,118 153.0 262 15.7 GB 54.1 GB / 5.2 GB Context sweep (fresh prompts 15K-207K) 5,475 5,662 154.9 186.6 15.7 GB…
 
-### [Sam Altman: OpenAI's best model "can't responsibly be open-sourced" until the world builds better cyberdefense and bio-security](https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/)
-`r/LocalLLaMA` · 24 Oct 05:41 UTC · score 4.814
+### [Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model](https://www.reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit/)
+`r/LocalLLaMA` · 25 Oct 03:48 UTC · score 4.808
 
-OpenAI co-founder and CEO Sam Altman recently sat down for an in-depth conversation at Stanford Graduate School of Business's "View from the Top" series, covering AI's development trajectory, safety challenges, organizational transformation, and personal growth. Altman admitted that OpenAI originally envisioned itself as a pure research lab, with the team naively believing that once…
+Has anyone tried ISTA's GSQ-RCO GGUFs for DeepSeek-V4.1-Flash? Does the quality feel as good as their benchmarks show (IQ2_XXS matching the base)? Their benchmarks are saturated (90%+, and AIME25 is 100 for every version), so they probably can't show the degradation, and I couldn't find any KLD for GSQ-RCO models. Has anyone measured KLD or PPL? What KLD would you expect at ~2 bpw?…
 
-### [The RTX 5090 Isn't Gone, It's In Chinese Labs, Where Technicians Rip Off Its Die And 32GB VRAM For AI Servers](https://www.reddit.com/r/LocalLLaMA/comments/1xe1zsr/the_rtx_5090_isnt_gone_its_in_chinese_labs_where/)
-`r/LocalLLaMA` · 24 Oct 07:09 UTC · score 4.697
+### [OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us](https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/)
+`r/LocalLLaMA` · 25 Oct 02:51 UTC · score 4.689
 
-submitted by /u/chemist_slime \[link\] \[comments\]
+REA (Reserve Engineer Anything) was blocked by Claude one day later... https://x.com/AbhinavXJ/status/2113590263373508704 Time for the pebbles to own the weights submitted by /u/kroggens \[link\] \[comments\]
 
-### [Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.](https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/)
-`r/LocalLLaMA` · 24 Oct 09:17 UTC · score 4.663
+### [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+`Hacker News (AI, 100+ pts)` · 25 Oct 01:33 UTC · score 4.527
 
-Recently this new quant has popped up called Gyro. It is gaining popularity because it's being inserted into many different engines, especially the recently popular Strata. So i took a dive into the code to see the differences between Gyro and EXL3, to me it looks like simply a different flavor of EXL3 quantization, but it's not interoperable and the recipe to make it is closed source for now.…
+Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 214 # Comments: 67
 
-### [ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO](https://www.reddit.com/r/LocalLLaMA/comments/1xdtk7m/istadaslabdeepseekv41flash1017gsqrco/)
-`r/LocalLLaMA` · 23 Oct 23:37 UTC · score 4.356
+### [A 4B coding model that can generate 3D scenes](https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/)
+`r/LocalLLaMA` · 25 Oct 06:10 UTC · score 4.505
 
-A brand-new release from ISTA-DASLab with their GSQ-RCO smart quantization approach. Now DeepSeek-V4.1-Flash-1017 The quants are available on Hugginface: https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF Llama.cpp is not supported because the original architecture support is not yet merged: https://github.com/ggml-org/llama.cpp/pull/28696…
+I’m sharing an early version of a 4B model I’m training for general coding and 3D scene generation. Small models have been pretty rough at 3D in my tests. I’ve finally made enough progress to get results like the ones in this video, so I wanted to share a preview with the community. It’s an independent fine-tune of Qwen3.5-4B, and both Q4_K_M and Q8_0 GGUFs are available here: Download the model…
 
-### [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)
-`Simon Willison` · 23 Oct 19:40 UTC · score 4.263
+### [Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.reddit.com/r/LocalLLaMA/comments/1xewcs8/kimi_k31_pro_tech_blog_advancing_open_intelligence/)
+`r/LocalLLaMA` · 25 Oct 07:51 UTC · score 4.415
 
-Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise "Full model weights will be released by Nov 4, 2026". They're also offering a "Highspeed" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for…
+Open weight on Nov 4. It is just a post trained version of K3, so it should have day 0 support in all platforms. submitted by /u/Ok_Warning2146 \[link\] \[comments\]
 
-### [I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers](https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/)
-`r/LocalLLaMA` · 23 Oct 18:22 UTC · score 4.0
+### [model: DSV4.1 flash by am17an · Pull Request #31086 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086/)
+`r/LocalLLaMA` · 25 Oct 02:16 UTC · score 4.317
 
-Before you read: I'm the developer of Basalt, one of the engines benchmarked below. I tried to keep this as fair as possible: same checkpoint, GPU and requests, and every engine set up the way its own docs recommend. How it was run is at the bottom. This post has had some AI cleanup from my own wording. I wanted to get a comparison on all of the Qwen 3.8 FN engines I hear people talking about, so…
+only 763B params! :) https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf submitted by /u/jacek2023 \[link\] \[comments\]
 
-### [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/)
-`Simon Willison` · 23 Oct 21:35 UTC · score 3.901
+### [Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading](https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20/)
+`r/LocalLLaMA` · 25 Oct 06:41 UTC · score 4.268
 
-Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts.…
+Hey everyone, Most current setups for Qwen3.8-Flash-Next (like Strata) keep all 24k experts pinned in system RAM (~48–64 GB) and compute cache misses on the CPU. That works great on high-spec workstations, but not on normal machines or laptops with limited RAM. A few weeks ago, I noticed that https://github.com/sybil-solutions/glm-flash-lite was running GLM-5.3 with surprisingly low memory…
 
-### [Qwen4-27B PR found](https://www.reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found/)
-`r/LocalLLaMA` · 24 Oct 02:16 UTC · score 3.786
+### [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+`Hacker News (AI, 100+ pts)` · 24 Oct 23:11 UTC · score 4.232
 
-PR: https://github.com/analytics-zoo/vllm-xpu-kernels/pull/22 The PR author seems to have contributed to intel repos a lot and VLLM. He also shares his name (might be the same person?) with a person who is either a CTO somewhere at alibaba or the Director of Zhejiang Lab. He has worked on Qwen3.8 before this. The PR also implies the KV cache size for Qwen4-27B is not decreasing. submitted by…
+Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 390 # Comments: 404
 
-### [New Nvidia unlock works on Chinese 3080 20GB too](https://www.reddit.com/r/LocalLLaMA/comments/1xdn33h/new_nvidia_unlock_works_on_chinese_3080_20gb_too/)
-`r/LocalLLaMA` · 23 Oct 19:09 UTC · score 3.497
+### [GPT-X3-150M takes #1 on the Open SLM Leaderboard, dethroning HuggingFace's SmolLM2-135M with a GDN2/GQA hybrid - Check it out!](https://www.reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard/)
+`r/LocalLLaMA` · 25 Oct 03:36 UTC · score 4.182
 
-Just ran my own tests of the new GPU performance unlock by Zaggita . If you missed it: Nvidia locked down compute speed on consumer cards for some specific hardware instructions needed for AI; the unlock fixes it. TLDR: got +20% prefill impovement, 0% decode change after unlock. Details: Test bench: my two old 2x RTX3080 20GB , this time paired with Threadripper 1920x, both running PCIe 3.0 x16.…
+submitted by /u/datdanboi25 \[link\] \[comments\]
 
-### [🌋 Pushing PCIe x1 to the limit: lvgale concurrently serving 27B, 9B, and 2B LLMs on a hardware abomination 📈](https://www.reddit.com/r/LocalLLaMA/comments/1xdq2cj/pushing_pcie_x1_to_the_limit_lvgale_concurrently/)
-`r/LocalLLaMA` · 23 Oct 21:05 UTC · score 3.439
+### [Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)](https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/)
+`r/LocalLLaMA` · 24 Oct 19:59 UTC · score 4.13
 
-Everyone loves a clean, unified server rack, but my standby node ( lvgale ) is an absolute physical abomination. It is a Frankenstein collection of mismatched parts and bolted-together VRAM that has no business running efficiently. The Hardware Setup (lvgale) CPU: Intel Core i7-6700K. GPUs: AMD RX 580 8GB VRAM (PCIe x16) AMD RX 570 8GB VRAM (PCIe x1) NVIDIA GTX 1660 Super 6GB VRAM (PCIe x2)…
+not an llm post exactly, but it's all local inference so i figured people here might like it i made a browser rhythm runner where the song builds the world you run through. you can throw in your own mp3s and the whole "listening" happens on your device, inside the tab. nothing gets uploaded the models, all running locally on onnxruntime-web (wasm, each in its own web worker), and what the game…
 
-### [Probability of backdoors in popular harnesses and LLM inference engines](https://www.reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and/)
-`r/LocalLLaMA` · 23 Oct 13:44 UTC · score 3.42
+### [Is it just me or Kimi K3.1 Pro don’t look much better than DeepSeek 4.1 Flash?](https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/)
+`r/LocalLLaMA` · 24 Oct 23:24 UTC · score 3.959
 
-Let's put things into perspective: Remember, for example, the xz utils ssh backdoor in 2024? They almost managed to pull it off, and that was in the most observed codebase of the planet. It was caught almost by chance by someone working on something unrelated. Read about it if you don't realize how fragile the whole ecosystem is, open source or not. Now imagine what can happen, and possibly have…
+Personally I am quite fond of the Kimi models, especially them taking a gamble pushing the 2.8b parameter models. But that’s just it, you’d figure that the results would be representative of its size. However, the recent release of DeepSeek 1017 has put things in perspective for me. kimi k3 is a great model but realistically very hard to run locally, even when quantized, and even if managing to…
 
-### [qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/)
-`r/LocalLLaMA` · 23 Oct 18:43 UTC · score 3.144
+### [CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --\> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too](https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/)
+`r/LocalLLaMA` · 24 Oct 22:16 UTC · score 3.817
 
-gigabytes of VRAM saved (Qwen Flash Next) "This is one of the things Strata does to squeeze the most juice from the experts' cache." submitted by /u/jacek2023 \[link\] \[comments\]
+Your move everyone, buy, sell, but hurry... submitted by /u/chemist_slime \[link\] \[comments\]
 
-### [nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xdiecx/nvidianvidianemotron35bolte4b4gb_hugging_face/)
-`r/LocalLLaMA` · 23 Oct 16:13 UTC · score 3.13
+### [No signs of AI payoff outside the tech sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+`Hacker News (AI, 100+ pts)` · 24 Oct 19:47 UTC · score 3.805
 
-NVIDIA-Nemotron-3.5-Bolt-E4B-4GB is a small language model (SLM) further post-trained from Gemma-4-E4B-it by NVIDIA. Nemotron-3.5-Bolt-E4B carries forward Gemma’s strong conversational capabilities and further improves multi-turn tool use, instruction following, and input grounding for fast local voice/device assistants, interactive personas, and embedded/edge interfaces. Designed for low-memory,…
+Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 566 # Comments: 596
 
-### [Here's where the last RTX 5090 cards are going: Massive AI conversion factory exposed in China, Founders Edition included](https://www.reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going/)
-`r/LocalLLaMA` · 23 Oct 18:10 UTC · score 3.075
+### [Why is AI generated language so hard to understand?](https://arxiv.org/abs/2610.29162)
+`Hacker News (AI, 100+ pts)` · 24 Oct 18:04 UTC · score 3.592
 
-submitted by /u/fallingdowndizzyvr \[link\] \[comments\]
+Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 209 # Comments: 174
 
-### [Vibecoding your own inference engine is easy they said](https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/)
-`r/LocalLLaMA` · 23 Oct 15:26 UTC · score 3.033
+### [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.reddit.com/r/LocalLLaMA/comments/1xem3kc/uk_to_invest_100m_in_world_first_ai_biosecurity/)
+`r/LocalLLaMA` · 24 Oct 22:45 UTC · score 3.577
 
-guys, you better just clone llama.cpp I swear. this thing is running gguf q4 paged into webgl2 embedded compute buffers via glsl right inside html, and tokenizer/vocab is just part of the endless debug hell. submitted by /u/CodeMichaelD \[link\] \[comments\]
+submitted by /u/MerePotato \[link\] \[comments\]
 
-### [Been tracking intel b60 b65 b70 prices, they jumped 30% today.](https://www.reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they/)
-`r/LocalLLaMA` · 23 Oct 20:04 UTC · score 3.011
+### [High-Performance llama.cpp fork for Legacy GPUs: Kepler Support, CUDA Graphs & Windows NCCL!](https://www.reddit.com/r/LocalLLaMA/comments/1xeicw2/highperformance_llamacpp_fork_for_legacy_gpus/)
+`r/LocalLLaMA` · 24 Oct 20:01 UTC · score 3.535
 
-Amazon prices just jumped today, I still see deals at local microcenter. When that batch is gone $1840 for a b70 will likely be the new normal. b60 went from $650 to $980. b65 $1150 to $1420 does make a lot more sense as the price per GB was low in comparison to the competitors. Still probably the best value per GB, but gap is shrinking fast submitted by /u/SamSausages \[link\] \[comments\]
+I've been working on improving llama.cpp support and performance on older NVIDIA GPUs, particularly Kepler and other pre-Ampere architectures. The goal is simple: get more life out of older CUDA hardware instead of treating it as e-waste. Achieved Performance On MTP Qwen3.6-35B-A3B with Q8_0 quantization , I've observed the following (generation) speeds using 4x Tesla K40c GPUs (Kepler, compute…
 
-### [Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.](https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/)
-`r/LocalLLaMA` · 23 Oct 14:44 UTC · score 2.945
+### [AbliteratedOutTheBox Strata Announcement](https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/)
+`r/LocalLLaMA` · 24 Oct 13:38 UTC · score 3.338
 
-Hello guys, hoping you're doing fine! Small post I want to make since seeing a lot of posts about the unlocks and such. What is the unlock in simple terms? NVIDIA on purpose, neutered the performance of operations that use FP32 accumulation with GEMMs, with the objective of market segmentation and making consumer GPUs slower to train, or do some inference tasks slowly as well when compute is…
+I’ve been working on an inference-time abliteration engine as a fork of llama.cpp, and I’ve now ported the hook to Strata. It acts as an easy way to use abliterated models without huge amounts of vram or finetuning. For the Strata Branch https://github.com/heterodoxin/AbliteratedOutTheBox/tree/strata For the llama.cpp branch https://github.com/heterodoxin/AbliteratedOutTheBox A star or upvote…
 
-### [Mysterious Qwen4 Appearance by New GitHub Accounts](https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/)
-`r/LocalLLaMA` · 23 Oct 18:59 UTC · score 2.875
+### [M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine](https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/)
+`r/LocalLLaMA` · 24 Oct 21:05 UTC · score 3.068
 
-(Post Updated) PR: https://github.com/t-head/pla/pull/12 PR title: feat(gdn): support Qwen4.0-Max prefill heads T-head itself is alibaba oss: https://github.com/alibaba-oss Processing img 71x75uagq9xh1... Original Post: The accounts are \<1 month old, these are either troll accounts or secret alibaba accounts. My agent in deep research found this. submitted by /u/brainExploded99 \[link\] \[comments\]
+ANEMLL Forge 0.2.1: Qwen3.8-27B on the M6 Neural Engine now runs up to 192K context (M6 32GB). New: INT8 K/V cache (half of FP16) and a smaller drafter sharing the target's output head — 0.86 GB less ANE memory, same speed. Decode depends on content: JSON 35–62 tok/s, code 18–32, prose 10–17. Prefill 260 tok/s at short context, 62 at 192K. 128K–192K use a smaller prefill batch (32 vs 64 rows) to…
 
-### [\[Paper\] Continuum Attention](https://www.reddit.com/r/LocalLLaMA/comments/1xdhzi2/paper_continuum_attention/)
-`r/LocalLLaMA` · 23 Oct 15:58 UTC · score 2.8
+### [Kimi K3.1 removes cyberattack training data from open weight release](https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/)
+`r/LocalLLaMA` · 24 Oct 16:05 UTC · score 3.043
 
-We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponential relevance density along the curve. Integrating the density and interpolated values yields exact normalized attention from closed form exponential moments, including half token…
+This is due to China's new export restrictions primarily but also the growing caution around cybersecurity exploits popping up. submitted by /u/zxyzyxz \[link\] \[comments\]
 
-### [Strata now supports Qwen 3.6 35B](https://www.reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b/)
-`r/LocalLLaMA` · 23 Oct 17:44 UTC · score 2.72
+### [Small model good for reverse engineering that can run on a 3090 and 32GB RAM.](https://www.reddit.com/r/LocalLLaMA/comments/1xeipmm/small_model_good_for_reverse_engineering_that_can/)
+`r/LocalLLaMA` · 24 Oct 20:16 UTC · score 2.966
 
-Tried it on a build for gfx906(mi50 16gb) and ran worse than llamacpp on decode speed. submitted by /u/JsThiago5 \[link\] \[comments\]
+Anyone knows of a good model that does not say no to reverse engineering? Cloud models will even terminate your account by snitching on you and GLM 5.3 is too big to run on my potato. Help would be greatly appreciated. Thanks. submitted by /u/politefella0 \[link\] \[comments\]
 
-### [NanoStories Releases!](https://www.reddit.com/r/LocalLLaMA/comments/1xdc991/nanostories_releases/)
-`r/LocalLLaMA` · 23 Oct 12:09 UTC · score 2.622
+### [KLD is misunderstood](https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/)
+`r/LocalLLaMA` · 24 Oct 20:12 UTC · score 2.958
 
-It is a Tinystories style dataset, that contains 50M stories, about 25x that of Tinystories, it was generated using a rule based algorithm, instead of a language model. It took just under 10 Minutes to generate and a few minutes to convert to parquet and upload to huggingface on a phone CPU. Any questions, feedback, or criticism is welcome! submitted by /u/Tall_Abrocoma_3533 \[link\] \[comments\]
+I see a lot of people here on Reddit treating the KLD number as some holy metric that can distinguish every quantized model out there and rank them by quality. TL;DR: It can't. So what does KLD actually measure? If you feed the same text to both the base model and the quantized model, you can compare the probability distributions obtained from their logits at each token. KLD basically measures…
+
+### [Raon is better than Flint.](https://www.reddit.com/r/LocalLLaMA/comments/1xehs52/raon_is_better_than_flint/)
+`r/LocalLLaMA` · 24 Oct 19:38 UTC · score 2.887
+
+Idk why everyone keeps posting about Flint! Raon is hundreds of times better, and it’s not even the best, which is really saying something about Flint lmao https://huggingface.co/KRAFTON/Raon-1-mini-preview-gguf submitted by /u/Borkato \[link\] \[comments\]
+
+### [Silero VAD v6 being used by Chatgpt voice mode](https://www.reddit.com/r/LocalLLaMA/comments/1xedp2t/silero_vad_v6_being_used_by_chatgpt_voice_mode/)
+`r/LocalLLaMA` · 24 Oct 16:54 UTC · score 2.846
+
+https://preview.redd.it/xwljokv33gxh1.png?width=1062&format=png&auto=webp&s=3e5991de1569ba994b448d0bb17818fe3d2773ab Interesting they chose an opensource model instead of building their own submitted by /u/ObnoxiouslyVivid \[link\] \[comments\]
+
+### [Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better](https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/)
+`r/LocalLLaMA` · 24 Oct 13:08 UTC · score 2.675
+
+https://arxiv.org/pdf/2609.12303 this paper suggests a model that skips models reading tokens that and has the model read raw bytes, basically one letter at a time. what they did: trained small models (~1B params), some on tokens and some on bytes trained them partly by copying a bigger model (llama 3 8b), aka distillation the tricky part is that the teacher thinks in tokens and the student reads…
+
+### [8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/)
+`r/LocalLLaMA` · 24 Oct 15:21 UTC · score 2.652
+
+The methodology Qwen-Flash-Next has n-gram, MOE packing above its weight but it's still 6B active params. We exploit this by keeping most MOEs in RAM (Smallest MOEs go in VRAM for speedup) and n-gram on disk - ensure you put the model on your fastest SSD. 8 GB VRAM, 24 GB RAM cost. You can run this fine if you've ~32 GB total memory too, but you'd have to turn down context size . Customize the…
+
+### [Are there any good finetunes for Blender and/or 3D modeling?](https://www.reddit.com/r/LocalLLaMA/comments/1xeeorp/are_there_any_good_finetunes_for_blender_andor_3d/)
+`r/LocalLLaMA` · 24 Oct 17:34 UTC · score 2.628
+
+Is there any good finetunes based on modern models, in the size range of Qwen 3.8 27B or Qwen 3.8 Flash Next that substantially improve it's 3D modeling capabilities for creating .glb / gltf assets (mainly for say making video games)? Mainly thinking about two use cases: * Making a 3D model from a set of descriptive requirements (like a spec in an markdown file) plus a bunch of reference images…
+
+### [10 tok/s Deepseek V4.1 Flash 8K with Strata on a 5090 with 64GB DDR5 Ram](https://www.reddit.com/r/LocalLLaMA/comments/1xed2xx/10_toks_deepseek_v41_flash_8k_with_strata_on_a/)
+`r/LocalLLaMA` · 24 Oct 16:29 UTC · score 2.494
+
+https://preview.redd.it/6ty7xuyjyfxh1.png?width=721&format=png&auto=webp&s=ee2bbd9530cf60f1dd80444e646a179a54f1d1cb Ran it on my RTX 5090 with Lexar 4TB NVMe and 64 GB of DDR5 Ram. At this speed it is cheaper to use the API than to pay the electricity for this, unfortunately. So if anyone is wondering what the speed is for a similar setup, there you have it. But anyway, i am excited that it runs…
 
 ---
 
 <details><summary>Feeds that did not respond</summary>
 
-- **Hacker News (AI, 100+ pts)** - HTTP 502
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
 - **arXiv cs.AI** - no entries
@@ -193,8 +192,8 @@ It is a Tinystories style dataset, that contains 50M stories, about 25x that of 
 - **arXiv cs.LG** - no entries
 - **r/MachineLearning** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 48 days
-- ⚠️ VentureBeat AI has been unreachable for 48 days
-- ⚠️ r/artificial has been unreachable for 8 days
+- ⚠️ Import AI has been unreachable for 49 days
+- ⚠️ VentureBeat AI has been unreachable for 49 days
+- ⚠️ r/artificial has been unreachable for 9 days
 
 </details>
