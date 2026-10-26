@@ -1,0 +1,752 @@
+[
+  {
+    "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-26T13:32:49+00:00",
+    "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC [\u2026]",
+    "score": 6.917,
+    "matched": [
+      "ai",
+      "claude",
+      "openai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.917,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can AI help solve the COBOL code crisis?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-10-26T13:15:00+00:00",
+    "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' [\u2026]",
+    "score": 6.28,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.88,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
+    "url": "https://arxiv.org/abs/2610.31685",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.31685v1 Announce Type: cross Abstract: LLM-based multimodal emotion reasoning systems perform well on standard benchmarks, but improving them through instruction tuning can be computationally expensive. Agentic pipelines built from frozen models avoid this cost, but introduce a different challenge: when a prediction is wrong, the system must identify which agent or stage caused the\u2026",
+    "score": 5.924,
+    "matched": [
+      "llm",
+      "agentic",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "BabelArena: A Large-Scale Multilingual Benchmark for LLM Agents",
+    "url": "https://arxiv.org/abs/2609.23490",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2609.23490v2 Announce Type: replace Abstract: Large language model (LLM) agents increasingly execute multi-step workflows through tool use and interaction with users and environments. However, current agent evaluations are largely English-centric, limiting our understanding of agent capabilities in multilingual settings. We introduce BabelFlow, a benchmark-general agentic workflow that\u2026",
+    "score": 5.924,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 1.2,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen3.8-Flash-Next: Swift 1.5 vs Unsloth on Strix Halo (Halogen, gufo, llama.cpp, UD-Q4_K_XL and IQ4_XS)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfrek0/qwen38flashnext_swift_15_vs_unsloth_on_strix_halo/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-26T08:47:16+00:00",
+    "summary": "Here I am with another benchmark/comparison. I was curious about the efficiency claims of Swift 1.5 , UkisAI's fine-tune of Qwen3.8-Flash-Next that thinks for a shorter time. UkisAI says Swift uses 63% fewer thinking tokens with under 1% accuracy loss. I compared it with my current setup ( Halogen ) and Unsloth's UD-Q4_K_XL on my Asus ROG Flow Z13 (128 GB, 70 W). I ran the models on Halogen, gufo\u2026",
+    "score": 5.823,
+    "matched": [
+      "llama",
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.323,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-10-26T13:04:50+00:00",
+    "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 379 # Comments: 316",
+    "score": 5.759,
+    "matched": [
+      "anthropic"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 2.859,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-10-26T10:26:48+00:00",
+    "summary": "First, this isn\u2019t clickbait - these are real results. I managed to run Qwen 3.8 Flash Next Q2 and got better results in benchmarks and real-world tests than I did with any Qwen 3.6 35B A3B fine-tune or Qwen 3.8 27B model I tested. It is also faster than my current Qwen 3.6 35B A3B setup. Here are the details. About a week ago, I learned about Strata and what it can do from this subreddit. Its\u2026",
+    "score": 5.73,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.53,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-10-26T09:01:00+00:00",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products\u2026",
+    "score": 5.651,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.351,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+    "url": "https://arxiv.org/abs/2610.32285",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32285v1 Announce Type: new Abstract: LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benchmarks focus on model capabilities and overall agent performance, with limited attention to the evaluation of agent harnesses. To address this gap, we\u2026",
+    "score": 5.624,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Async-RBench: Benchmarking Asynchronous Task Execution in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.32429",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32429v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly execute tasks asynchronously: a main agent continues working while its subagents run, and the task state may change before their results arrive. The main agent must decide which work to update or preserve and which checks to repeat, while avoiding prohibited changes. Final task success alone does not\u2026",
+    "score": 5.624,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Agents Fail: Model or Harness--Who's to Blame?",
+    "url": "https://arxiv.org/abs/2610.32483",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32483v1 Announce Type: new Abstract: LLM agents combine models with execution harnesses, so agentic benchmark performance reflects their joint behavior. We argue that harnesses should therefore be evaluated through their interactions with underlying models. We develop a framework combining five complementary measures: (i) Valid Completion Rate (VCR), how reliably agents finish normally\u2026",
+    "score": 5.624,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MBABench-2.0: Evaluating AI Agents on Constructing Financial Spreadsheets Beyond Simple Verifiability",
+    "url": "https://arxiv.org/abs/2610.31711",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.31711v1 Announce Type: cross Abstract: Spreadsheets are the lingua franca of modern finance, driving valuation, forecast, audit, and many other core workflows of the industry. As LLM agents advance to automate knowledge work, spreadsheet construction is a natural and pertinent testbed. However, most existing spreadsheet benchmarks evaluate agents on fill-in-the-blank style tasks, where\u2026",
+    "score": 5.624,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarks Are Surprisingly Compaction-Friendly",
+    "url": "https://arxiv.org/abs/2610.31778",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.31778v1 Announce Type: cross Abstract: Long horizon agentic tasks are now pushing LLM agents past their context window. To continue the task, the agent scaffold has to free up the context window, a process known as context compaction. Compaction is generally lossy by design: agents can silently lose task constraints, instructions, or their reasoning behind earlier decisions. Although\u2026",
+    "score": 5.624,
+    "matched": [
+      "llm",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MEDMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph",
+    "url": "https://arxiv.org/abs/2505.17214",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2505.17214v2 Announce Type: replace Abstract: Medical deep learning models depend heavily on domain-specific knowledge to perform well on knowledge-intensive clinical tasks. Prior work has primarily leveraged unimodal knowledge graphs, such as the Unified Medical Language System (UMLS), to enhance model performance. However, integrating multimodal medical knowledge graphs remains largely\u2026",
+    "score": 5.624,
+    "matched": [
+      "deep learning",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks",
+    "url": "https://arxiv.org/abs/2610.32441",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32441v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly capable of supporting scientific workflows, but their capabilities across diverse research activities remain difficult to assess systematically. Existing benchmarks often focus on selected scientific capabilities or task types, limiting a comprehensive characterization of scientific agents'\u2026",
+    "score": 5.624,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability",
+    "url": "https://arxiv.org/abs/2610.31713",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.31713v1 Announce Type: cross Abstract: Advances in Omni-modal Large Language Models (OLLMs) have enabled increasingly seamless human-AI interaction, but their unified processing of heterogeneous modalities also expands the attack surface, allowing adversaries to exploit richer input compositions to circumvent safety alignment. To counter such risks, omni-modal guardrails have been\u2026",
+    "score": 5.624,
+    "matched": [
+      "ai",
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+    "url": "https://arxiv.org/abs/2610.31882",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "large language model",
+      "claude",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RxnExBench: Benchmarking Vision-Language Models for Structured Chemical Reaction Extraction from Scientific Literature",
+    "url": "https://arxiv.org/abs/2610.32221",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32221v1 Announce Type: new Abstract: Screen Tables and Substrate Scopes are information-dense figures widely used in synthetic chemistry literature, yet automated extraction of structured reaction data from them remains challenging. We introduce RxnExBench, a multimodal benchmark for fine-grained reaction-level evaluation. Built from high-impact chemistry journals, it contains 3,565\u2026",
+    "score": 5.324,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Training an MoE LLM in MXFP4: How We Closed the Gap to BF16",
+    "url": "https://arxiv.org/abs/2610.32229",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32229v1 Announce Type: new Abstract: Training large language models (LLMs) in sub-8-bit arithmetic promises substantial gains in memory bandwidth and compute throughput, yet FP4 formats introduce quantization error severe enough to destabilize optimization if left unaddressed. We present ALTO, an open-source training recipe for GPT-OSS-20B, a 20-billion-parameter mixture-of-experts\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "gpt"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DMAIC-Bench: From Self-Reflection to Self-Restraint for Agents in Multi-Stage Analytical Tasks",
+    "url": "https://arxiv.org/abs/2610.32305",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32305v1 Announce Type: new Abstract: Multi-stage analytical tasks require LLM agents to use intermediate evidence to decide whether to continue, redirect or stop. Self-reflection, in which an agent critiques its output, is widely studied, yet a critique does not show whether evidence changed the next action. We call that capability self-restraint. Existing agent benchmarks largely\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Astro2Method: Benchmarking LLMs on Machine Learning Method Selection in Astronomy",
+    "url": "https://arxiv.org/abs/2610.30282",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.30282v1 Announce Type: cross Abstract: Machine learning (ML) is increasingly used in astronomy, but choosing a suitable method for a scientific problem often requires expertise in both astronomy and ML. Large language models (LLMs) could help astronomers make such choices, yet this ability remains underexplored in existing benchmarks. We introduce Astro2Method, a benchmark of 500\u2026",
+    "score": 5.324,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "4DMemory: Benchmarking Long-Horizon Spatiotemporal Memory with Harness-Augmented Agents",
+    "url": "https://arxiv.org/abs/2610.32332",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32332v1 Announce Type: cross Abstract: Humans efficiently process multimodal streams spanning hours to years, building persistent, fine-grained spatiotemporal memories that support reasoning about and predicting long-horizon events. In contrast, existing benchmarks focus on short- and medium-context tasks, and most foundation models struggle to preserve fine-grained information over\u2026",
+    "score": 5.324,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tool-Calling LLM Agents Under Realistic MCP Faults: Scale Does Not Purchase Fault Tolerance",
+    "url": "https://arxiv.org/abs/2610.32555",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32555v1 Announce Type: cross Abstract: LLM agents increasingly rely on external tools exposed via the Model Context Protocol (MCP), yet current benchmarks assume tools respond correctly and on time, leaving agent resilience to realistic tool failures untested. We introduce MCP-Injector, a drop-in, protocol-aware fault-injection middleware that interposes on the MCP tool-call path with\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms",
+    "url": "https://arxiv.org/abs/2610.32945",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32945v1 Announce Type: cross Abstract: Large language model (LLM) platforms introducing advertising must decide how much capability ad revenue should fund and what consumers should pay to avoid ads. We study a monopolistic platform that jointly chooses costly response quality, advertising intensity, and subscription prices when advertising reduces user value but better service raises\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "url": "https://arxiv.org/abs/2610.32971",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32971v1 Announce Type: cross Abstract: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limited algorithm reusability and an unclear empirical capability\u2026",
+    "score": 5.324,
+    "matched": [
+      "reinforcement learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
+    "url": "https://arxiv.org/abs/2604.05116",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2604.05116v2 Announce Type: replace Abstract: Clinical diagnosis requires sequential evidence acquisition under uncertainty. However, most Large Language Model (LLM) based diagnostic systems assume fully observed patient information and therefore do not explicitly model how clinical evidence should be sequentially acquired over time. Even when diagnosis is formulated as a sequential\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DeepSafe-SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring",
+    "url": "https://arxiv.org/abs/2607.18665",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2607.18665v2 Announce Type: replace Abstract: Large language models (LLMs) increasingly support science, but they can also convert hazardous scientific knowledge into actionable misuse guidance. Existing benchmarks often rely on templated queries disconnected from real-world hazards, and employ LLM-as-a-Judge paradigms without domain grounding. To address this, we introduce SciHazard, a\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MirrorCraft: Paired Evaluation under Hidden Rule Changes in Minecraft",
+    "url": "https://arxiv.org/abs/2607.29218",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2607.29218v2 Announce Type: replace Abstract: With the rapid progress of large language models (LLMs), an interesting question has emerged: how do LLM-based agents perform in Minecraft? To date, most Minecraft benchmarks evaluate them under fixed game mechanics, which are extensively documented online. High performance in these settings does not show whether an agent can continue making\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Symbolic Guidance for LLM Agents in Distributed Multiagent Coordination",
+    "url": "https://arxiv.org/abs/2609.31963",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2609.31963v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in multi-agent systems, yet their ability to reliably execute distributed coordination protocols remains poorly understood. While AgentsNet, a benchmark framework for distributed coordination among LLM agents, enables such coordination, granting full reasoning autonomy\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EvoSkill v2: Fully Agentic Skill Evolution from Benchmark Adaptation to a Stateful Evolver",
+    "url": "https://arxiv.org/abs/2610.25931",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.25931v2 Announce Type: replace Abstract: EvoSkill v2 is a three-agent system that edits the instructions (skills) an agent is given, leaving its model and harness intact. The user starts a run by describing a benchmark and supplying a grader, which a benchmark adaptor turns into a benchmark-specific plugin. A solver attempts the tasks, and an evolver reads the solver's training\u2026",
+    "score": 5.324,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Role of Quantum in Hybrid Quantum-Classical Neural Networks: An Empirical Assessment",
+    "url": "https://arxiv.org/abs/2601.04732",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2601.04732v2 Announce Type: replace-cross Abstract: Quantum machine learning has emerged as a promising application domain for near-term quantum hardware, particularly through hybrid quantum-classical models that leverage both classical and quantum processing. Although numerous hybrid architectures have been proposed and demonstrated successfully on benchmark tasks, a significant open\u2026",
+    "score": 5.324,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Better Reward Models Are Not Always Less Biased: Social Alignment Beyond Standard Reward Benchmarks",
+    "url": "https://arxiv.org/abs/2605.05003",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2605.05003v2 Announce Type: replace-cross Abstract: Reward models are central to LLM alignment, yet current benchmarks reveal little about how they represent diverse and sometimes competing social preferences. We extend reward model evaluation to four socially consequential domains: bias, safety, morality, and ethical reasoning. Our analysis shows that strong benchmark performance can\u2026",
+    "score": 5.324,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "VLMs Trace Without Tracking: Diagnosing Failures in Visual Path Following",
+    "url": "https://arxiv.org/abs/2605.15672",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2605.15672v2 Announce Type: replace-cross Abstract: Vision-language models (VLMs) perform strongly on multimodal benchmarks, yet their ability to reliably follow continuous visual structure remains unclear. We focus on path following, a basic operation that requires following a selected path through successive visual continuations. Before considering complex factors such as crossings or\u2026",
+    "score": 5.324,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning",
+    "url": "https://arxiv.org/abs/2606.00148",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2606.00148v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) often know the rule but pick the wrong answer: on abstract visual reasoning (AVR) tasks, a model can describe what it sees and name the underlying pattern, yet still fail to choose the matching candidate. Existing AVR benchmarks cannot detect this because they collapse perception, rule induction,\u2026",
+    "score": 5.324,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation",
+    "url": "https://arxiv.org/abs/2610.09163",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.09163v2 Announce Type: replace-cross Abstract: Task-oriented conversational agents remain fragile under real world conversation scenarios as they rarely follow a predictable script, especially when users exhibit non-cooperative behavior. Existing function-calling benchmarks often emphasize successful, cooperative interactions and underrepresent adversarial conversation trajectories,\u2026",
+    "score": 5.324,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.724,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
