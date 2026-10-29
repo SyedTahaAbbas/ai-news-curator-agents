@@ -1,187 +1,181 @@
-# AI News Curator - Wednesday, 28 October 2026
+# AI News Curator - Thursday, 29 October 2026
 
-*35 stories from the last 24 hours. Generated 2026-10-28 13:58 UTC.*
+*35 stories from the last 24 hours. Generated 2026-10-29 14:13 UTC.*
 
 ## Labs & Releases
 
-### [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
-`OpenAI` · 28 Oct 09:30 UTC · score 7.34
+### [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
+`Hugging Face` · 29 Oct 13:37 UTC · score 5.924
 
-See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
+### [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)
+`Google DeepMind` · 28 Oct 17:00 UTC · score 4.649
 
-### [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)
-`OpenAI` · 27 Oct 15:00 UTC · score 5.628
-
-GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
+### [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
+`Hugging Face` · 29 Oct 00:00 UTC · score 4.222
 
 ## Industry & Press
 
-### [Meta quietly launched an ‘AI pet journal’ app](https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world)
-`The Verge AI` · 28 Oct 11:27 UTC · score 6.385
+### [Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race](https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/)
+`Wired AI` · 29 Oct 14:00 UTC · score 6.872
 
-Meta has launched a "tamagotchi-style" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the "16-bit pet care game" is not really a game, but "a daily journal disguised as a pet." Users should talk, not type, with \[…\]
+The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.
 
-### [Pairing industrial AI autonomy and human control](https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/)
-`MIT Technology Review AI` · 28 Oct 12:00 UTC · score 6.053
+### [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)
+`The Verge AI` · 28 Oct 20:03 UTC · score 6.828
 
-### [7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open](https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/)
-`TechCrunch AI` · 28 Oct 13:00 UTC · score 5.878
+Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over \[…\]
 
-In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.
+### [Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/)
+`TechCrunch AI` · 29 Oct 13:00 UTC · score 6.747
 
-### [Voters in Texas agree: They hate data centers](https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas)
-`The Verge AI` · 28 Oct 12:00 UTC · score 5.553
+Deepgram said that it is committed to keep Pipecat open source.
 
-Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. \[…\]
+### [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
+`MIT Technology Review AI` · 29 Oct 10:11 UTC · score 6.395
 
-## Research
+This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…
 
-### [Performance of Neural Operator Baselines on 'The Well' Dataset](https://arxiv.org/abs/2610.33967)
-`arXiv cs.LG` · 28 Oct 04:00 UTC · score 5.953
+### [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview)
+`The Verge AI` · 29 Oct 14:00 UTC · score 6.372
 
-arXiv:2610.33967v1 Announce Type: new Abstract: The Well, a 15-terabyte dataset spanning 16 physical simulation domains, provides an extensive benchmark for developing and evaluating machine learning surrogate models for complex physical systems. The baselines released with the benchmark were presented by their authors as illustrative examples obtained at small computational cost, trained with…
+Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start \[…\]
 
-### [CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments](https://arxiv.org/abs/2610.36484)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions](https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/)
+`TechCrunch AI` · 29 Oct 13:00 UTC · score 6.147
 
-arXiv:2610.36484v1 Announce Type: new Abstract: Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like…
+The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.
 
-### [AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations](https://arxiv.org/abs/2610.36980)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)
+`The Verge AI` · 29 Oct 13:30 UTC · score 6.009
 
-arXiv:2610.36980v1 Announce Type: new Abstract: Large language model (LLM) agents are extending agent-mediated commerce on the Web from shopping for consumers to operating businesses for sellers. In online-to-offline (O2O) commerce, decisions are issued through Web-based platforms but realized through costly physical execution. Evaluating such agents requires going beyond individual transactions…
+The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT \[…\]
 
-### [Reliability-Aware Short-Term Glycemic Risk Prediction Using an Anchor-Based Comparative Framework of Sequence, Multimodal, and State-Updating Digital-Twin Models](https://arxiv.org/abs/2610.36363)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [AI has come for Arizona’s water](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc)
+`The Verge AI` · 29 Oct 10:00 UTC · score 5.572
 
-arXiv:2610.36363v1 Announce Type: cross Abstract: Anticipating short-term hypoglycemic and hyperglycemic risk is essential for proactive diabetes management. However, existing machine learning approaches often use inconsistent evaluation protocols and emphasize predictive performance over reliability. This study introduces an anchor-based benchmarking framework integrating longitudinal glucose…
+A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one \[…\]
 
-### [Benchmarking LLM Agents for Behaviorally Adequate Test Generation from Software Requirements](https://arxiv.org/abs/2610.36584)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [I Gave My Blood to the AI Death Clock](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/)
+`Wired AI` · 29 Oct 10:00 UTC · score 5.172
 
-arXiv:2610.36584v1 Announce Type: cross Abstract: As large language model agents increasingly compile natural-language requirements into repository-level code, requirement-to-test generation grows in importance to provide validation constraints (or harness) to guide code generation. Yet it remains unclear whether current agents can generate tests that validate the required behavior when the…
+Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.
 
-### [Interpretable Deep Learning Models for Breast Cancer Diagnosis Using Medical Imaging](https://arxiv.org/abs/2610.37026)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key)
+`The Verge AI` · 28 Oct 21:34 UTC · score 4.918
 
-arXiv:2610.37026v1 Announce Type: cross Abstract: Deep learning shows promise for breast cancer diagnosis, but limited interpretability hinders clinical adoption. We benchmark ten ImageNet-pretrained models (ResNet50, VGG19, InceptionV3, DenseNet121, Xception, MobileNetV2, EfficientNet, ConvNeXt, ViT, and Swin Transformer) for benign-versus-malignant classification on the BreakHis histopathology…
+The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run \[…\]
 
-### [HOLogicBench: Evaluating Higher-Order Logical Reasoning in LLMs](https://arxiv.org/abs/2606.23238)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
+`TechCrunch AI` · 28 Oct 21:48 UTC · score 4.848
 
-arXiv:2606.23238v3 Announce Type: replace Abstract: Existing LLM logical-reasoning benchmarks largely focus on object-level inference under fixed predicates and rules, leaving higher-order reasoning over rules and policies underexplored. We introduce HOLogicBench, a 1,379-instance benchmark that systematically evaluates five representative higher-order reasoning operations, with Isabelle/HOL…
+The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
 
-### [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
+`TechCrunch AI` · 28 Oct 19:19 UTC · score 4.838
 
-arXiv:2609.11115v4 Announce Type: replace Abstract: Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behind reported scores. We present Benchmark Radar, a living database and search engine for retrieval and discovery of AI benchmarks, covering LLM…
+The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.
 
-### [BoLT: A Benchmark to Democratize Black-box Optimization Research for Expensive LLM Tasks](https://arxiv.org/abs/2605.17000)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.653
+### [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)
+`The Verge AI` · 28 Oct 23:05 UTC · score 4.809
 
-arXiv:2605.17000v2 Announce Type: replace-cross Abstract: Optimization of LLM training and inference configurations, such as hyperparameters, data mixtures, and prompts, is critical to performance, but it is often approached heuristically in practice, leading to potentially suboptimal outcomes. By framing them as noisy, expensive, and derivative-free optimization problems, Bayesian optimization…
+Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and \[…\]
 
-### [Satellite-derived bathymetry of Arabian Gulf ports under leakage-free validation: a multi-site benchmark of empirical, machine-learning and deep-learning models against 285,000 multibeam soundings, with an outlook for UAE waters](https://arxiv.org/abs/2610.33609)
-`arXiv cs.LG` · 28 Oct 04:00 UTC · score 5.653
+### [Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use](https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/)
+`Ars Technica AI` · 28 Oct 18:47 UTC · score 4.571
 
-arXiv:2610.33609v1 Announce Type: new Abstract: Satellite-derived bathymetry (SDB) is often proposed as a low-cost complement to multibeam surveys of ports, but its accuracy is seldom measured on an area the model has never seen. We test SDB in the turbid, shallow and tidal waters of the Abu Dhabi coast against 285,619 multibeam soundings from twelve surveys at six port areas, reduced to Lowest…
+Gemini 4 Carbon is essentially a slightly better version of Argon.
 
-### [Vib2ECG: A Co-Located Chest-Lead SCG-ECG Dataset and Benchmark for ECG Reconstruction](https://arxiv.org/abs/2603.15539)
-`arXiv cs.LG` · 28 Oct 04:00 UTC · score 5.653
+### [Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/)
+`TechCrunch AI` · 28 Oct 15:00 UTC · score 4.297
 
-arXiv:2603.15539v2 Announce Type: replace Abstract: Twelve-lead electrocardiography (ECG) is essential for cardiovascular diagnosis, but its long-term acquisition in daily life is constrained by complex and costly hardware. Recent efforts have explored reconstructing ECG from low-cost cardiac vibrational signals such as seismocardiography (SCG), with prior studies primarily focusing on limb…
+Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.
 
-### [Bayesian Anytime Pareto Set Identification for Multi-Objective Multi-Armed Bandits](https://arxiv.org/abs/2606.18785)
-`arXiv cs.LG` · 28 Oct 04:00 UTC · score 5.653
+### [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)
+`The Verge AI` · 28 Oct 18:36 UTC · score 4.248
 
-arXiv:2606.18785v2 Announce Type: replace Abstract: Identifying Pareto optimal solutions is critical to support multi-objective decision-making. In this work, we present Top-Two Pareto Front Thompson Sampling (TTPFTS), the first anytime algorithm for Pareto Set Identification in Multi-Objective Multi-Armed Bandits (MOMABs), taking a Bayesian approach. We benchmark TTPFTS against state-of-the-art…
+Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, \[…\]
 
-### [From Simulation to Experiment: Benchmarking Machine-Learning Models for Quantum-Dot State Recognition](https://arxiv.org/abs/2511.22451)
-`arXiv cs.LG` · 28 Oct 04:00 UTC · score 5.653
+### [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
+`TechCrunch AI` · 28 Oct 21:34 UTC · score 4.219
 
-arXiv:2511.22451v3 Announce Type: replace-cross Abstract: Machine-learning models for quantum-dot state recognition are commonly trained using synthetic data, where large labeled datasets can be generated efficiently. However, strong performance on simulated data does not guarantee equally strong performance in experiments. Here, we benchmark five neural network architectures for quantum-dot…
+Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.
 
-### [Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks](https://arxiv.org/abs/2610.36298)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
+### [Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’](https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/)
+`TechCrunch AI` · 28 Oct 19:05 UTC · score 4.209
 
-arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model that replicates the decision behavior of a target through black-box queries alone, without access to…
+The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the \[…\]
 
-### [How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation](https://arxiv.org/abs/2610.36328)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
+### [Microsoft hits 10 quarters of record-breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)
+`TechCrunch AI` · 28 Oct 21:25 UTC · score 4.2
 
-arXiv:2610.36328v1 Announce Type: new Abstract: Benchmarks for verifiable code generation usually test a proof against one fixed implementation. We ask whether the same proof remains valid after a program refactoring that preserves behavior. We introduce RefactorProof, which derives 458 Lean-certified variants from the 185 VERINA tasks that compile in our pinned environment while holding the…
+Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.
 
-### [InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?](https://arxiv.org/abs/2610.36589)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
+### [The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO](https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/)
+`TechCrunch AI` · 28 Oct 18:50 UTC · score 4.177
 
-arXiv:2610.36589v1 Announce Type: new Abstract: Coding agents are beginning to develop the production-grade AI infrastructure that trains and serves large models, yet existing benchmarks cover only single kernels or single-GPU tasks, and grade with tests and prompts that misjudge both correct and incorrect patches. We introduce InfraDev, a benchmark of 36 tasks built from real-world pull requests…
+The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the \[…\]
 
-### [TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information](https://arxiv.org/abs/2610.37571)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
+### [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
+`MIT Technology Review AI` · 28 Oct 20:32 UTC · score 4.088
 
-arXiv:2610.37571v1 Announce Type: new Abstract: Many real-world decisions require teams to integrate information distributed across participants. Yet AI agents are still primarily trained and benchmarked in isolation. We introduce TeamGym, an environment for evaluating and training language model-based agents on team decision-making problems constructed from real-world legal, finance, medical,…
+Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…
 
-### [UnityBench-Mini3D: Evaluating LLM Agents for 3D Game Development in Unity](https://arxiv.org/abs/2610.35980)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
+### [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
+`TechCrunch AI` · 28 Oct 21:58 UTC · score 3.969
 
-arXiv:2610.35980v1 Announce Type: cross Abstract: Game development stresses coding agents in ways general software engineering does not: correctness depends on how engine APIs, serialized scene state, and runtime behavior interact, not on source code alone. Existing benchmarks mainly target platforms such as Godot and heavily rely on LLM judges or coarse task-level outcomes. We present…
+Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.
 
-### [Agent or Human? Detecting Commits by AI Coding Agents in the Absence of Authorship Signatures](https://arxiv.org/abs/2610.36229)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
+### [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
+`TechCrunch AI` · 28 Oct 17:00 UTC · score 3.947
 
-arXiv:2610.36229v1 Announce Type: cross Abstract: AI coding agents such as Claude Code, GitHub Copilot coding agent, and Cursor now commit directly to open-source repositories. Empirical studies of these agents identify their commits through authorship signatures, such as bot accounts and Co-authored-by trailers. These signatures are optional, can be removed, and are often attached to pull…
+A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
 
-### [SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding](https://arxiv.org/abs/2610.36384)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
+### [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
+`TechCrunch AI` · 28 Oct 17:00 UTC · score 3.647
 
-arXiv:2610.36384v1 Announce Type: cross Abstract: Perceiving human body motion is critical for multimodal systems that understand and assist people. Yet current evaluations of Multimodal Large Language Models (MLLMs) largely focus on objects, scenes, and coarse actions, leaving their ability to reason about the body itself poorly assessed. This is especially challenging from the egocentric…
-
-### [HiMA-Ecom: A Long-Horizon Memory Benchmark for Hierarchical Multi-Agent E-commerce Assistants](https://arxiv.org/abs/2506.19846)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
-
-arXiv:2506.19846v3 Announce Type: replace Abstract: Long-horizon agentic systems become long-context systems by accumulation rather than through a single long document, since every step reassembles a prompt from role instructions, tool and sub-agent descriptions, recalled memories, dialogue history, and previous tool outputs, separately for every agent. This paper studies how such accumulated…
-
-### [Hedge-Bench: Benchmarking Agents on Hard, Realistic Tasks Pertaining to Financial Reasoning](https://arxiv.org/abs/2606.03918)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
-
-arXiv:2606.03918v2 Announce Type: replace Abstract: Modern AI agents are increasingly capable of routine financial-analysis tasks such as retrieving documents and updating spreadsheets. A harder challenge is forecasting an unknown future from incomplete information. Public markets provide a natural testbed: analysts routinely predict discrete events with information from that point in time. We…
-
-### [Counting Clues: A Lightweight Probabilistic Baseline Can Match an LLM](https://arxiv.org/abs/2512.12868)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
-
-arXiv:2512.12868v2 Announce Type: replace-cross Abstract: Large language models (LLMs) excel on multiple-choice clinical diagnosis benchmarks, yet it is unclear how much of this performance reflects underlying probabilistic reasoning. We study this through questions from MedQA that ask for the most likely diagnosis. We introduce Frequency-Based Probabilistic Ranker (FBPR), a lightweight method…
-
-### [One-Shot Localisation of the Global Minimum of a Noisy One-Dimensional Function: A Controlled Comparison of an Iterative Neural Minimizer, Set Transformers and Classical Estimators](https://arxiv.org/abs/2604.03614)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
-
-arXiv:2604.03614v5 Announce Type: replace-cross Abstract: We study passive global optimisation: from twenty noisy samples of an unknown one-dimensional function, with no further queries, estimate where its global minimum lies. We build a benchmark and a self-checking harness and use them for a controlled comparison. The Neural Function Minimizer (NFM), which we introduce, moves a position across…
-
-### [Scoring-Rule Sensitivity in LLM Evaluation: Evidence from Indian Financial Regulatory Text](https://arxiv.org/abs/2604.19298)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
-
-arXiv:2604.19298v3 Announce Type: replace-cross Abstract: A benchmark leaderboard reports one accuracy number, but that number is a joint product of a model and a scoring rule. We ask what changes when only the rule changes, and find that model ordering is highly sensitive to it. IndiaFinBench is a 406-item expert-annotated benchmark over SEBI and RBI regulatory text covering regulatory…
-
-### [CalArena: A Large-Scale Post-Hoc Calibration Benchmark](https://arxiv.org/abs/2605.30188)
-`arXiv cs.AI` · 28 Oct 04:00 UTC · score 5.353
-
-arXiv:2605.30188v3 Announce Type: replace-cross Abstract: Reliable probability estimates are critical in many machine learning applications, yet modern classifiers are often poorly calibrated. Post-hoc calibration provides a simple and widely used solution, but the large number of proposed methods, combined with small-scale and inconsistent evaluations, makes it difficult to determine which…
+The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.
 
 ## Community
 
-### [Diffuspace/Clover-35B-A3B-Preview · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face/)
-`r/LocalLLaMA` · 28 Oct 08:43 UTC · score 6.743
+### [A (lukewarm) defense of Minsky and Papert \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/)
+`r/MachineLearning` · 29 Oct 10:20 UTC · score 5.015
 
-Clover-35B-A3B-Preview is the first model released by DiffuSpace , delivering state-of-the-art performance among open-source diffusion language models at release on the benchmarks reported in our launch blog . Clover combines a 35B-parameter mixture-of-experts backbone with approximately 3B active parameters per token, block diffusion generation, and a 128K context window . Blog · Code &…
+TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts? submitted by /u/Seretur99 \[link\] \[comments\]
 
-### [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
-`Simon Willison` · 28 Oct 13:55 UTC · score 5.693
+### [Leaving a job to pursue a PhD \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/)
+`r/MachineLearning` · 29 Oct 09:28 UTC · score 4.606
 
-I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones…
+I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting. What I don't like about the job is that I'm actually not doing any real data science and modeling. I guess…
 
-### [Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!](https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/)
-`r/LocalLLaMA` · 28 Oct 12:26 UTC · score 5.408
+### [Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/)
+`r/MachineLearning` · 29 Oct 08:51 UTC · score 4.529
 
-This might have implications for tool calling and computer use. Write-up: https://divagr.com/blog/qwenputer HF: https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer Live demo: https://modelscope.ai/studios/Spartan1925/Qwenputer submitted by /u/LatentSpacer \[link\] \[comments\]
+I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs but they're all failing submitted by /u/subhashg547 \[link\] \[comments\]
+
+### [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
+`Simon Willison` · 28 Oct 23:23 UTC · score 3.845
+
+In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c)…
+
+### [Using compute to verify paper results \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/)
+`r/MachineLearning` · 29 Oct 02:01 UTC · score 3.675
+
+I’m not a reviewer yet, but I likely will be by next year. As a reviewer, how do you decide to allocate compute to verify paper results? (and is the code in the papers you’re reviewing usually easy to run?) submitted by /u/Relative_Wallaby_823 \[link\] \[comments\]
+
+### [any fun casual podcasts? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/)
+`r/MachineLearning` · 29 Oct 01:55 UTC · score 3.663
+
+Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts submitted by /u/Upstairs-Cry-9233 \[link\] \[comments\]
+
+### [Google AI gets cagey when asked who won the 2020 elections](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
+`Hacker News (AI, 100+ pts)` · 28 Oct 20:10 UTC · score 3.643
+
+Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 157 # Comments: 72
+
+### [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
+`Simon Willison` · 28 Oct 16:45 UTC · score 3.616
+
+GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their "GitHub Stars" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month.…
 
 ---
 
@@ -189,11 +183,13 @@ This might have implications for tool calling and computer use. Write-up: https:
 
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
-- **r/MachineLearning** - HTTP 429
+- **arXiv cs.AI** - no entries
+- **arXiv cs.CL** - no entries
+- **arXiv cs.LG** - no entries
+- **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 52 days
-- ⚠️ VentureBeat AI has been unreachable for 52 days
-- ⚠️ r/artificial has been unreachable for 13 days
-- ⚠️ r/MachineLearning has been unreachable for 4 days
+- ⚠️ Import AI has been unreachable for 53 days
+- ⚠️ VentureBeat AI has been unreachable for 53 days
+- ⚠️ r/artificial has been unreachable for 14 days
 
 </details>
