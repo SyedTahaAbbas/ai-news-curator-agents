@@ -1,181 +1,189 @@
-# AI News Curator - Thursday, 29 October 2026
+# AI News Curator - Friday, 30 October 2026
 
-*35 stories from the last 24 hours. Generated 2026-10-29 14:13 UTC.*
+*35 stories from the last 24 hours. Generated 2026-10-30 14:04 UTC.*
 
 ## Labs & Releases
 
-### [Granite Switch 4.1.1 — Update models like you update software](https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1)
-`Hugging Face` · 29 Oct 13:37 UTC · score 5.924
+### [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
+`OpenAI` · 29 Oct 17:00 UTC · score 4.965
 
-### [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/)
-`Google DeepMind` · 28 Oct 17:00 UTC · score 4.649
-
-### [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](https://huggingface.co/blog/anydecisionmodel)
-`Hugging Face` · 29 Oct 00:00 UTC · score 4.222
+OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
 
 ## Industry & Press
 
-### [Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race](https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/)
-`Wired AI` · 29 Oct 14:00 UTC · score 6.872
+### [DoorDash said it’s only received ‘several hundred’ orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/)
+`TechCrunch AI` · 30 Oct 13:54 UTC · score 6.278
 
-The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.
+DoorDash said that it is open to working with third-party agent makers
 
-### [Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity](https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier)
-`The Verge AI` · 28 Oct 20:03 UTC · score 6.828
+### [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)
+`The Verge AI` · 30 Oct 13:01 UTC · score 6.268
 
-Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over \[…\]
+After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, \[…\]
 
-### [Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure](https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/)
-`TechCrunch AI` · 29 Oct 13:00 UTC · score 6.747
+### [Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
+`TechCrunch AI` · 30 Oct 13:00 UTC · score 6.165
 
-Deepgram said that it is committed to keep Pipecat open source.
+Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.
 
-### [We urgently need to monitor AI agents’ actions in real time](https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/)
-`MIT Technology Review AI` · 29 Oct 10:11 UTC · score 6.395
+### [Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/)
+`TechCrunch AI` · 30 Oct 14:00 UTC · score 5.99
 
-This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…
+At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.
 
-### [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview)
-`The Verge AI` · 29 Oct 14:00 UTC · score 6.372
+### [5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/)
+`TechCrunch AI` · 30 Oct 13:00 UTC · score 5.865
 
-Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start \[…\]
+5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.
 
-### [Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions](https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/)
-`TechCrunch AI` · 29 Oct 13:00 UTC · score 6.147
+### [Maine’s data center revolt will decide who controls the Senate](https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers)
+`The Verge AI` · 30 Oct 11:00 UTC · score 5.715
 
-The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.
+Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. "I'm terrified," a man shouted. "AI data centers are destroying our climate. They are poisoning our water." Collins brushed off the outburst, tying the man to her Democratic challenger, \[…\]
 
-### [Anthropic’s business plan: Build God or die trying](https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive)
-`The Verge AI` · 29 Oct 13:30 UTC · score 6.009
+### [Silicon Valley wants you to invest in miracles](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)
+`The Verge AI` · 30 Oct 13:11 UTC · score 5.688
 
-The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT \[…\]
+Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, \[…\]
 
-### [AI has come for Arizona’s water](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc)
-`The Verge AI` · 29 Oct 10:00 UTC · score 5.572
+### [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
+`The Verge AI` · 30 Oct 09:00 UTC · score 5.465
 
-A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one \[…\]
+The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger \[…\]
 
-### [I Gave My Blood to the AI Death Clock](https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/)
-`Wired AI` · 29 Oct 10:00 UTC · score 5.172
+### [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
+`TechCrunch AI` · 30 Oct 01:20 UTC · score 4.708
 
-Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.
+David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
 
-### [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key)
-`The Verge AI` · 28 Oct 21:34 UTC · score 4.918
+### [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
+`TechCrunch AI` · 29 Oct 20:08 UTC · score 4.658
 
-The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run \[…\]
+As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.
 
-### [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/)
-`TechCrunch AI` · 28 Oct 21:48 UTC · score 4.848
+### [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/)
+`TechCrunch AI` · 29 Oct 17:00 UTC · score 4.565
 
-The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
+Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.
 
-### [Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)
-`TechCrunch AI` · 28 Oct 19:19 UTC · score 4.838
+### [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/)
+`TechCrunch AI` · 29 Oct 19:14 UTC · score 4.545
 
-The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.
+The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.
 
-### [Adam Mosseri says negativity around AI is ‘going to get worse’](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity)
-`The Verge AI` · 28 Oct 23:05 UTC · score 4.809
+### [AWS will be a $1T business, Jassy says — but first, it will spend big](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
+`TechCrunch AI` · 29 Oct 23:42 UTC · score 4.503
 
-Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and \[…\]
+Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
 
-### [Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use](https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/)
-`Ars Technica AI` · 28 Oct 18:47 UTC · score 4.571
+### [OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)
+`TechCrunch AI` · 29 Oct 19:56 UTC · score 4.332
 
-Gemini 4 Carbon is essentially a slightly better version of Argon.
+OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.
 
-### [Voice AI in vogue: Nvidia releases new open transcription model](https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/)
-`TechCrunch AI` · 28 Oct 15:00 UTC · score 4.297
+### [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
+`TechCrunch AI` · 29 Oct 16:21 UTC · score 4.184
 
-Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.
+Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.
 
-### [Microsoft is ending Copilot support on smart TVs](https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending)
-`The Verge AI` · 28 Oct 18:36 UTC · score 4.248
+### [Rivian expands joint venture with VW to include AI assistant](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/)
+`TechCrunch AI` · 29 Oct 20:05 UTC · score 4.052
 
-Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, \[…\]
+Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.
 
-### [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
-`TechCrunch AI` · 28 Oct 21:34 UTC · score 4.219
+### [US investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
+`TechCrunch AI` · 29 Oct 16:42 UTC · score 3.929
 
-Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.
+A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.
 
-### [Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’](https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/)
-`TechCrunch AI` · 28 Oct 19:05 UTC · score 4.209
+### [Granola crunches up a dictation feature to compete with Wispr](https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/)
+`TechCrunch AI` · 29 Oct 17:54 UTC · score 3.779
 
-The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the \[…\]
+Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.
 
-### [Microsoft hits 10 quarters of record-breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)
-`TechCrunch AI` · 28 Oct 21:25 UTC · score 4.2
+### [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)
+`The Verge AI` · 29 Oct 14:39 UTC · score 3.772
 
-Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.
+The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any \[…\]
 
-### [The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO](https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/)
-`TechCrunch AI` · 28 Oct 18:50 UTC · score 4.177
+### [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)
+`The Verge AI` · 29 Oct 18:45 UTC · score 3.685
 
-The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the \[…\]
+Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in \[…\]
 
-### [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/)
-`MIT Technology Review AI` · 28 Oct 20:32 UTC · score 4.088
+### [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
+`Wired AI` · 29 Oct 18:39 UTC · score 3.573
 
-Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…
+Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.
 
-### [Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)
-`TechCrunch AI` · 28 Oct 21:58 UTC · score 3.969
+### [Trump declares robot imports a national security threat](https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/)
+`Ars Technica AI` · 29 Oct 19:07 UTC · score 3.431
 
-Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.
+President orders trade talks on foreign-made factory robots, threatens tariffs.
 
-### [As AI agents reshape the web, Google opens Gemini and Search to more apps](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/)
-`TechCrunch AI` · 28 Oct 17:00 UTC · score 3.947
+### [Google admits AI search makes less money, but it's fixing that with more ads](https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/)
+`Ars Technica AI` · 29 Oct 16:24 UTC · score 3.392
 
-A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
+Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.
 
-### [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/)
-`TechCrunch AI` · 28 Oct 17:00 UTC · score 3.647
+### [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/)
+`TechCrunch AI` · 29 Oct 14:35 UTC · score 3.364
 
-The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.
+On Thursday, AI app Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.
+
+### [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
+`The Verge AI` · 29 Oct 16:00 UTC · score 3.34
+
+To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and \[…\]
+
+## Research
+
+### [From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence](https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/)
+`Microsoft Research` · 30 Oct 13:05 UTC · score 5.176
+
+Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research .
 
 ## Community
 
-### [A (lukewarm) defense of Minsky and Papert \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xig3sd/a_lukewarm_defense_of_minsky_and_papert_d/)
-`r/MachineLearning` · 29 Oct 10:20 UTC · score 5.015
+### [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
+`Hacker News (AI, 100+ pts)` · 30 Oct 10:22 UTC · score 5.738
 
-TLDR: Perceptrons didn't have a big impact on the community and didn't cause an AI winter. It was, however, seen retrospectively as the manifesto for anti-connectivism paradigms Thoughts? submitted by /u/Seretur99 \[link\] \[comments\]
+Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 329 # Comments: 61
 
-### [Leaving a job to pursue a PhD \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/)
-`r/MachineLearning` · 29 Oct 09:28 UTC · score 4.606
+### [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
+`Simon Willison` · 29 Oct 22:48 UTC · score 5.591
 
-I have been working as a ML Engineer at a startup for 4 years and while the environment is very good and the pay is higher than average, I'm thinking whether I want to pursue a PhD. Working and doing the PhD at the same time is not really viable so this would also potentially mean quitting. What I don't like about the job is that I'm actually not doing any real data science and modeling. I guess…
+API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan…
 
-### [Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/)
-`r/MachineLearning` · 29 Oct 08:51 UTC · score 4.529
+### [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
+`Hacker News (AI, 100+ pts)` · 30 Oct 09:17 UTC · score 5.302
 
-I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing Has anyone tried it before? I'm trying to compile it to their NPUs but they're all failing submitted by /u/subhashg547 \[link\] \[comments\]
+Although AI lets us do much more, I feel considerably more tired than before. We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me. I am pretty sure most of you are experiencing the same as me, but: Have you found ways of using AI without increasing mental overload? I…
 
-### [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)
-`Simon Willison` · 28 Oct 23:23 UTC · score 3.845
+### [What would you require before calling an inference change “quality-neutral”? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/)
+`r/MachineLearning` · 30 Oct 06:59 UTC · score 4.915
 
-In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c)…
+Two GSM8K scores: 96.89% → 96.82%, across all 1,319 test questions. These are from NVIDIA’s Ling-3.0-flash comparison on one DGX Spark. The optimized configuration changes the MoE backend, adds an FP8 output head and enables NEXTN speculative decoding together. Both runs use the FP4 checkpoint. Aggregate scores summarize the total. A paired view of the 1,319 answers would show where the two…
 
-### [Using compute to verify paper results \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xi7hpf/using_compute_to_verify_paper_results_d/)
-`r/MachineLearning` · 29 Oct 02:01 UTC · score 3.675
+### [Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted \[d\]](https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/)
+`r/MachineLearning` · 30 Oct 07:25 UTC · score 4.368
 
-I’m not a reviewer yet, but I likely will be by next year. As a reviewer, how do you decide to allocate compute to verify paper results? (and is the code in the papers you’re reviewing usually easy to run?) submitted by /u/Relative_Wallaby_823 \[link\] \[comments\]
+A friend of mine was doing a gap analysis as a project. The results he got weren't that big compared to the original papers, so he simply fabricated and increased the metrics here and there, AND IT GOT ACCEPTED IN AAAI. HOW DO THEY CHECK THE PAPERS, DUDE? I was in a group with two others and worked sooo hard on an optimization paper, and was sooo happy to get accepted in ACL, but seeing and…
 
-### [any fun casual podcasts? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/)
-`r/MachineLearning` · 29 Oct 01:55 UTC · score 3.663
+### [Proton goes all in on using AI](https://convo.casa/@b/117525936178835007)
+`Hacker News (AI, 100+ pts)` · 29 Oct 21:49 UTC · score 3.868
 
-Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level? Edit: small preference for conversation discussion styles between two constant hosts submitted by /u/Upstairs-Cry-9233 \[link\] \[comments\]
+Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 103 # Comments: 106
 
-### [Google AI gets cagey when asked who won the 2020 elections](https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/)
-`Hacker News (AI, 100+ pts)` · 28 Oct 20:10 UTC · score 3.643
+### [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+`Hacker News (AI, 100+ pts)` · 29 Oct 21:40 UTC · score 3.849
 
-Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/ Comments URL: https://news.ycombinator.com/item?id=50280178 Points: 157 # Comments: 72
+Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 336 # Comments: 136
 
-### [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/)
-`Simon Willison` · 28 Oct 16:45 UTC · score 3.616
+### [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/)
+`Simon Willison` · 29 Oct 17:00 UTC · score 3.366
 
-GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their "GitHub Stars" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month.…
+How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to…
 
 ---
 
@@ -188,8 +196,8 @@ GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket
 - **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 53 days
-- ⚠️ VentureBeat AI has been unreachable for 53 days
-- ⚠️ r/artificial has been unreachable for 14 days
+- ⚠️ Import AI has been unreachable for 54 days
+- ⚠️ VentureBeat AI has been unreachable for 54 days
+- ⚠️ r/artificial has been unreachable for 15 days
 
 </details>
