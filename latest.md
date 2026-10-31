@@ -1,189 +1,187 @@
-# AI News Curator - Friday, 30 October 2026
+# AI News Curator - Saturday, 31 October 2026
 
-*35 stories from the last 24 hours. Generated 2026-10-30 14:04 UTC.*
-
-## Labs & Releases
-
-### [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)
-`OpenAI` · 29 Oct 17:00 UTC · score 4.965
-
-OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
+*35 stories from the last 24 hours. Generated 2026-10-31 13:36 UTC.*
 
 ## Industry & Press
 
-### [DoorDash said it’s only received ‘several hundred’ orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/)
-`TechCrunch AI` · 30 Oct 13:54 UTC · score 6.278
+### [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)
+`The Verge AI` · 30 Oct 22:32 UTC · score 5.717
 
-DoorDash said that it is open to working with third-party agent makers
+Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring \[…\]
 
-### [Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview)
-`The Verge AI` · 30 Oct 13:01 UTC · score 6.268
+### [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)
+`Wired AI` · 31 Oct 12:00 UTC · score 5.499
 
-After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, \[…\]
-
-### [Can AI data centers be mass-produced like cars? This startup aims to find out](https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/)
-`TechCrunch AI` · 30 Oct 13:00 UTC · score 6.165
-
-Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.
-
-### [Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/)
-`TechCrunch AI` · 30 Oct 14:00 UTC · score 5.99
-
-At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.
-
-### [5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/)
-`TechCrunch AI` · 30 Oct 13:00 UTC · score 5.865
-
-5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.
-
-### [Maine’s data center revolt will decide who controls the Senate](https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers)
-`The Verge AI` · 30 Oct 11:00 UTC · score 5.715
-
-Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. "I'm terrified," a man shouted. "AI data centers are destroying our climate. They are poisoning our water." Collins brushed off the outburst, tying the man to her Democratic challenger, \[…\]
-
-### [Silicon Valley wants you to invest in miracles](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles)
-`The Verge AI` · 30 Oct 13:11 UTC · score 5.688
-
-Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, \[…\]
-
-### [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
-`The Verge AI` · 30 Oct 09:00 UTC · score 5.465
-
-The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger \[…\]
-
-### [You don’t need to believe in a god to get a religious exemption from using AI at work](https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/)
-`TechCrunch AI` · 30 Oct 01:20 UTC · score 4.708
-
-David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
-
-### [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/)
-`TechCrunch AI` · 29 Oct 20:08 UTC · score 4.658
-
-As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.
-
-### [Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity](https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/)
-`TechCrunch AI` · 29 Oct 17:00 UTC · score 4.565
-
-Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.
-
-### [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/)
-`TechCrunch AI` · 29 Oct 19:14 UTC · score 4.545
-
-The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.
-
-### [AWS will be a $1T business, Jassy says — but first, it will spend big](https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/)
-`TechCrunch AI` · 29 Oct 23:42 UTC · score 4.503
-
-Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
-
-### [OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)
-`TechCrunch AI` · 29 Oct 19:56 UTC · score 4.332
-
-OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.
-
-### [Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction](https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/)
-`TechCrunch AI` · 29 Oct 16:21 UTC · score 4.184
-
-Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.
-
-### [Rivian expands joint venture with VW to include AI assistant](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/)
-`TechCrunch AI` · 29 Oct 20:05 UTC · score 4.052
-
-Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.
-
-### [US investigated Chinese spy plot aimed at Nvidia CEO](https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/)
-`TechCrunch AI` · 29 Oct 16:42 UTC · score 3.929
-
-A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.
-
-### [Granola crunches up a dictation feature to compete with Wispr](https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/)
-`TechCrunch AI` · 29 Oct 17:54 UTC · score 3.779
-
-Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.
-
-### [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool)
-`The Verge AI` · 29 Oct 14:39 UTC · score 3.772
-
-The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any \[…\]
-
-### [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs)
-`The Verge AI` · 29 Oct 18:45 UTC · score 3.685
-
-Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in \[…\]
-
-### [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
-`Wired AI` · 29 Oct 18:39 UTC · score 3.573
-
-Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.
-
-### [Trump declares robot imports a national security threat](https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/)
-`Ars Technica AI` · 29 Oct 19:07 UTC · score 3.431
-
-President orders trade talks on foreign-made factory robots, threatens tariffs.
-
-### [Google admits AI search makes less money, but it's fixing that with more ads](https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/)
-`Ars Technica AI` · 29 Oct 16:24 UTC · score 3.392
-
-Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.
-
-### [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/)
-`TechCrunch AI` · 29 Oct 14:35 UTC · score 3.364
-
-On Thursday, AI app Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.
-
-### [Microsoft’s AI future has fewer jobs](https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad)
-`The Verge AI` · 29 Oct 16:00 UTC · score 3.34
-
-To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and \[…\]
+Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.
 
 ## Research
 
-### [From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence](https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/)
-`Microsoft Research` · 30 Oct 13:05 UTC · score 5.176
+### [On the Fundamental Limits of Prefill-Based Decoding Length Prediction](https://arxiv.org/abs/2610.40541)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.999
 
-Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research .
+arXiv:2610.40541v1 Announce Type: new Abstract: Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate predictor quality with task hardness: when the target model, dataset, or sampling configuration changes, reported accuracy collapses even though the…
+
+### [How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0](https://arxiv.org/abs/2610.38617)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.999
+
+arXiv:2610.38617v1 Announce Type: cross Abstract: We ask what AI coding agents and AI security harnesses find that deterministic static application security testing (SAST) does not, and what they miss that SAST catches. VulnBench 2.0 is a benchmark of 108 hand-curated, attacker-reachable vulnerabilities in 20 open-source web applications in Go, JavaScript/TypeScript, Python and Java; 62 flow…
+
+### [SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World](https://arxiv.org/abs/2610.37919)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.37919v1 Announce Type: new Abstract: Large language model agents are increasingly used for scientific discovery. However, existing benchmarks mix law inference with programming, score data fitting instead of prediction on unseen inputs, and do not separate empirical evidence from pretrained priors. We introduce SciGame, a controlled benchmark that converts scientific literature into…
+
+### [Beyond fabrication: Misattributed numbers in papers written by AI research agents](https://arxiv.org/abs/2610.38691)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.38691v1 Announce Type: new Abstract: Verifying numerical claims in research written by AI agents is an important but challenging problem. Recent benchmarks show that many agent-written papers fail integrity checks, but such verdicts, often produced by a single LLM judge, identify failure without explaining its nature, and existing checks either test a paper for internal consistency or…
+
+### [ATLAS-Bench: An Agentic Tool-Use Benchmark for Local Area Search](https://arxiv.org/abs/2610.39438)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.39438v1 Announce Type: new Abstract: Reliable local search is essential for LLM agents to support everyday decisions and longer plans by finding places that meet users' needs at given times and locations. Yet existing benchmarks provide limited coverage of whether search results satisfy mandatory requirements, account for preferences, and ground factual and experiential judgments in…
+
+### [Can Event Detectors Leave the Broadcast Camera? Evidence from Tennis](https://arxiv.org/abs/2610.38042)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.38042v1 Announce Type: cross Abstract: Ball bounces and racket hits are the events from which tennis statistics are derived, and on monocular video the two are easy to confuse. We release a benchmark of 345 bounce and hit annotations at frame level on eight clips that mix broadcast, fixed elevated, phone and court-level viewpoints, with a frozen development and test split, a…
+
+### [The Indian Financial Automated Advice Bias (IFAAB) Dataset : Auditing Socioeconomic and Demographic Disparities in LLM-Generated Financial Advice in India](https://arxiv.org/abs/2610.38239)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.38239v1 Announce Type: cross Abstract: Large language models are increasingly used for financial guidance, yet little is known about whether their advice changes across social identities in Global South contexts. We introduce the Indian Financial Automated Advice Bias (IFAAB) benchmark, a counterfactual audit dataset of 31,734 GPT-4o-generated financial-advice responses for synthetic…
+
+### [LLM-PowerTrace: A Dataset of Time-Resolved GPU Power Traces for AI Compute](https://arxiv.org/abs/2610.38315)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.38315v1 Announce Type: cross Abstract: AI compute is becoming large and fast-changing electrical loads. Its impacts on data center infrastructure and power grids depend not only on total energy consumption, but also on how their power draw moves over sub-second to minute timescales, including peaks, ramps, and synchronized fluctuations across accelerators. Existing energy benchmarks…
+
+### [A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator](https://arxiv.org/abs/2610.38329)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.38329v1 Announce Type: cross Abstract: Frontier large language models write correct CUDA kernels for most single-operator benchmark tasks, yet their accuracy collapses on accelerators whose architecture and programming language they have rarely seen. We present a case study of an LLM agent loop built for such accelerators. Our example is the FuriosaAI RNGD NPU, programmed in a recent,…
+
+### [Benchmarking decision models against generative large language models on medical multiple-choice questions](https://arxiv.org/abs/2610.38448)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2610.38448v1 Announce Type: cross Abstract: Medical workflows often require selecting among predefined options. We compared 13 decision models with 15 generative large language model configurations, including different reasoning settings, using 1,273 four-option MedQA questions under text-only conditions. Accuracy ranged from 67.71% to 89.08% for decision models and from 78.32% to 96.86%…
+
+### [Agentic AI for Clustering and Relationship Discovery in Prediction Markets](https://arxiv.org/abs/2512.02436)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2512.02436v4 Announce Type: replace Abstract: Prediction market platforms list thousands of contracts whose logical and economic connections are implicit in their resolution rules. We introduce a hierarchical agentic reduction (HAR) pipeline for constructing inspectable cross-event relation graphs and a behavioral benchmark for evaluating their alignment with market prices. This partitions…
+
+### [An Analysis of Artificial Intelligence Adoption in NIH-Funded Research](https://arxiv.org/abs/2604.07424)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2604.07424v2 Announce Type: replace Abstract: Understanding the landscape of artificial intelligence (AI) and machine learning (ML) adoption across the National Institutes of Health (NIH) portfolio is critical for research funding strategy, institutional planning, and health policy. The advent of large language models (LLMs) has fundamentally transformed research landscape analysis,…
+
+### [MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images](https://arxiv.org/abs/2512.23304)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2512.23304v2 Announce Type: replace-cross Abstract: Multimodal Large Language Models (LLMs) introduce an emerging paradigm for medical imaging by interpreting scans through the lens of extensive clinical knowledge, offering a transformative approach to disease classification. This study presents a critical comparison between two fundamentally different AI architectures: the specialized…
+
+### [Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language Model Inference](https://arxiv.org/abs/2603.26498)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.699
+
+arXiv:2603.26498v3 Announce Type: replace-cross Abstract: Multimodal Large Language Models (MLLMs) power platforms like ChatGPT, Gemini, and Copilot, enabling rich interactions across text, images, and videos. Unlike text-only workloads, multimodal requests are inherently heterogeneous, differing by orders of magnitude in latency and memory footprint. Existing LLM serving systems, designed for…
+
+### [Evaluating and improving AI agents for sequencing protocol understanding](https://arxiv.org/abs/2610.37851)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.37851v1 Announce Type: new Abstract: Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures and generation workflows specified by sequencing protocols, a capability critical for analyzing customized sequencing assays. We introduce LibStructBench, a document-grounded benchmark for reconstructing sequencing-library structures…
+
+### [GAUSS: A Workload-Aware Analytical and Monte-Carlo Simulator for LLM Inference Serving](https://arxiv.org/abs/2610.37989)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.37989v1 Announce Type: new Abstract: Large language model (LLM) inference has become an operational workload that fleets must provision, monitor, and bill against latency service-level objectives (SLOs). A single throughput number cannot answer the questions operators actually face, because generative serving couples two phases with very different service characteristics, continuous…
+
+### [DecompGym: Benchmarking LLM Agents on Designing Decomposition Algorithms](https://arxiv.org/abs/2610.38175)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.38175v1 Announce Type: new Abstract: Benders decomposition and column generation solve large optimization problems by passing cuts, columns, and dual values between a master problem and subproblems, and are hard to implement correctly. Large language models now automate parts of algorithm design, which points toward agents that build decomposition solvers for new problems. As a first…
+
+### [Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?](https://arxiv.org/abs/2610.38342)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.38342v1 Announce Type: new Abstract: Financial agents must form forecasts and investment judgments from decision-time evidence, with predictions evaluated against subsequent outcomes. Existing benchmarks assess financial knowledge, research workflows, or forecasting, but evaluating the full research process requires a strictly frozen information set and professional evaluation…
+
+### [An Alignment Benchmark for Enterprise Agents on Era by Eon](https://arxiv.org/abs/2610.38544)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.38544v1 Announce Type: new Abstract: AI agents are widely used in enterprises to access business systems and act on them in pursuit of a goal. However, fulfilling a user's request can cause harm. Era by Eon is a product that creates a digital twin of a company by simulating its business systems and data. Its simulators implement the programming interfaces of real products. Our…
+
+### [TreasuryQA Bench: Can AI Agents Work an Archive of Scanned Financial Records?](https://arxiv.org/abs/2610.38924)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.38924v1 Announce Type: new Abstract: Organisations keep decades of financial records as scanned PDFs on shared drives, and AI agents can now reach those drives through Model Context Protocol (MCP) servers. Existing benchmarks do not mirror this production setting because they simplify the task. In some, the relevant documents are handed to the agent, so it never has to search. In…
+
+### [AgentDecept: Benchmarking Deceptive Behavior in Tool-Using LLM Agents under Pressure](https://arxiv.org/abs/2610.39377)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.39377v1 Announce Type: new Abstract: LLM agents increasingly carry out multi-turn tasks across everyday applications, yet users often see only the agent's report rather than the observations, API calls, and state changes behind it. Existing deception benchmarks have studied long-horizon interactions and tool-use settings, but whether agents faithfully report their actions across…
+
+### [Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs](https://arxiv.org/abs/2610.40551)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.40551v1 Announce Type: new Abstract: As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a benchmark comprised of research-level problems in number theory, including unpublished results and open conjectures. It presented concrete formulas for…
+
+### [Rank-Aware Differentially Private Release of Listwise Preferences for LLM Alignment](https://arxiv.org/abs/2610.37682)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.37682v1 Announce Type: cross Abstract: Listwise preference feedback offers richer supervision for large language model (LLMs) alignment than pairwise comparisons, but a full ranking also reveals more sensitive user preferences. Existing privacy-preserving alignment methods focus mainly on pairwise feedback, while listwise alignment under local differential privacy (LDP) remains…
+
+### [Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI](https://arxiv.org/abs/2610.38095)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.38095v1 Announce Type: cross Abstract: We introduce Nemotron 3.5 Super and Nemotron 3.5 Lightning, open and efficient Mixture-of-Experts Hybrid Mamba-Transformer models designed for reasoning, long-context understanding, and agentic workloads. Super is a 120B-parameter, 12B-active multimodal model, while Lightning is a smaller 30B-parameter, 3B-active text model; both designed for…
+
+### [EPSBench: Benchmarking LLM Agents for Earnings Forecasting](https://arxiv.org/abs/2610.38293)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.38293v1 Announce Type: cross Abstract: Quarterly earnings forecasting requires an agent to connect financial evidence to the income-statement line items that produce a company's reported earnings. We introduce EPSBench, a benchmark for studying this ability across 149 firm-quarters from 86 US companies. Agents read a fixed collection of filings, earnings-call transcripts, and news,…
+
+### [SpaceAct: Benchmarking 3D Spatial and Temporal Reasoning via Closed-Loop Action and Active Perception](https://arxiv.org/abs/2610.38405)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.38405v1 Announce Type: cross Abstract: To solve problems in 3D space rather than merely describe images, multimodal large language models (MLLMs) need 3D spatiotemporal reasoning: reconstructing 3D geometry from occluded 2D views, anticipating physical dynamics, and executing precise, closed-loop actions. Prior studies test passive VQA on static images or symbolic planning, requiring…
+
+### [RetroChessBench: A Benchmark for Reconstructing and Proving Chess Histories](https://arxiv.org/abs/2610.39341)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.39341v1 Announce Type: cross Abstract: Frontier language models such as GPT 6 Astra have contributed to research mathematics, demonstrating substantial reasoning capabilities. Yet serious reasoning failures persist even in tasks governed by explicit rules. We demonstrate this in retrograde chess which is a playground for pure reasoning, where solvers reconstruct legal histories and…
+
+### [Where Do Vision Language Models Fail at 3D Reasoning?](https://arxiv.org/abs/2610.39639)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2610.39639v1 Announce Type: cross Abstract: Vision-language models can get individual judgments right while struggling to recover and consistently use the exact properties of a 3D object. To characterize this gap, we introduce BedBench, a controlled benchmark of thirteen procedurally generated tasks spanning individual judgments and composite answers. Across twelve open-weight and four…
+
+### [AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2605.00425)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2605.00425v4 Announce Type: replace Abstract: Reinforcement learning (RL) has substantially improved the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. However, effective agentic RL remains challenging: sparse outcome-only rewards provide limited guidance for assigning credit to individual steps within long interaction trajectories.…
+
+### [DiG-bench: Discovery in Games](https://arxiv.org/abs/2608.12593)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2608.12593v2 Announce Type: replace Abstract: Discovery---formulating novel generalizations---is a central part of the scientific process. Despite its importance, there is a gap in the current AI benchmark landscape, with few benchmarks directly probing the capacity for discovering new knowledge with experimentation in controlled environments where the objective is unknown. To address this…
+
+### [VoiceLongMemEval: Do Assistants Remember How You Sounded?](https://arxiv.org/abs/2609.00570)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2609.00570v3 Announce Type: replace Abstract: With the growing scale of multi-agent architectures and large language models, deployed AI assistants are increasingly tasked with reasoning over long, continuous, multi-session conversation histories. Current benchmarks evaluate this dialogue history as information retrieval over long horizon, temporal reasoning, or knowledge updates, while…
+
+### [NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment](https://arxiv.org/abs/2609.11234)
+`arXiv cs.AI` · 31 Oct 04:00 UTC · score 5.399
+
+arXiv:2609.11234v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in peer review at major AI conferences, yet novelty remains a persistent weak point. Existing benchmarks assess novelty as a single holistic score, making it difficult to diagnose which dimension a model misjudges or whether its evidence is faithful. We present NovGauge, a human-anchored…
 
 ## Community
 
-### [Anthropic hacked to deliver remote access trojan](https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2)
-`Hacker News (AI, 100+ pts)` · 30 Oct 10:22 UTC · score 5.738
+### [OpenAI raises less than half of $30B target](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
+`Hacker News (AI, 100+ pts)` · 31 Oct 03:22 UTC · score 5.521
 
-Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 329 # Comments: 61
-
-### [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/)
-`Simon Willison` · 29 Oct 22:48 UTC · score 5.591
-
-API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan…
-
-### [Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)
-`Hacker News (AI, 100+ pts)` · 30 Oct 09:17 UTC · score 5.302
-
-Although AI lets us do much more, I feel considerably more tired than before. We need to keep track of many things happening in parallel and read enormous amounts of generated text. The constant guardrailing, decision making, and context switching overload me. I am pretty sure most of you are experiencing the same as me, but: Have you found ways of using AI without increasing mental overload? I…
-
-### [What would you require before calling an inference change “quality-neutral”? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xj8f2g/what_would_you_require_before_calling_an/)
-`r/MachineLearning` · 30 Oct 06:59 UTC · score 4.915
-
-Two GSM8K scores: 96.89% → 96.82%, across all 1,319 test questions. These are from NVIDIA’s Ling-3.0-flash comparison on one DGX Spark. The optimized configuration changes the MoE backend, adds an FP8 output head and enables NEXTN speculative decoding together. Both runs use the FP4 checkpoint. Aggregate scores summarize the total. A paired view of the 1,319 answers would show where the two…
-
-### [Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted \[d\]](https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/)
-`r/MachineLearning` · 30 Oct 07:25 UTC · score 4.368
-
-A friend of mine was doing a gap analysis as a project. The results he got weren't that big compared to the original papers, so he simply fabricated and increased the metrics here and there, AND IT GOT ACCEPTED IN AAAI. HOW DO THEY CHECK THE PAPERS, DUDE? I was in a group with two others and worked sooo hard on an optimization paper, and was sooo happy to get accepted in ACL, but seeing and…
-
-### [Proton goes all in on using AI](https://convo.casa/@b/117525936178835007)
-`Hacker News (AI, 100+ pts)` · 29 Oct 21:49 UTC · score 3.868
-
-Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 103 # Comments: 106
-
-### [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
-`Hacker News (AI, 100+ pts)` · 29 Oct 21:40 UTC · score 3.849
-
-Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 336 # Comments: 136
-
-### [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/)
-`Simon Willison` · 29 Oct 17:00 UTC · score 3.366
-
-How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to…
+Article URL: https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5 Comments URL: https://news.ycombinator.com/item?id=50312922 Points: 162 # Comments: 153
 
 ---
 
@@ -191,13 +189,12 @@ How I Built the Most AI-Pilled Company in the World Don't be put off by the clic
 
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
-- **arXiv cs.AI** - no entries
 - **arXiv cs.CL** - no entries
 - **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 54 days
-- ⚠️ VentureBeat AI has been unreachable for 54 days
-- ⚠️ r/artificial has been unreachable for 15 days
+- ⚠️ Import AI has been unreachable for 55 days
+- ⚠️ VentureBeat AI has been unreachable for 55 days
+- ⚠️ r/artificial has been unreachable for 16 days
 
 </details>
