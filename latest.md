@@ -1,108 +1,202 @@
-# AI News Curator - Sunday, 01 November 2026
+# AI News Curator - Monday, 02 November 2026
 
-*16 stories from the last 24 hours. Generated 2026-11-01 14:14 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-02 17:00 UTC.*
+
+## Labs & Releases
+
+### [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program)
+`OpenAI` · 02 Nov 15:00 UTC · score 7.049
+
+OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
 
 ## Industry & Press
 
-### [Chatbots Are Leading Hikers Astray, With Dangerous Consequences](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/)
-`Wired AI` · 01 Nov 10:30 UTC · score 5.232
+### [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/)
+`TechCrunch AI` · 02 Nov 15:00 UTC · score 6.649
 
-Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.
+Two startups tackling the data center water problem are joining forces in a $16 million deal.
 
-### [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
-`TechCrunch AI` · 31 Oct 21:17 UTC · score 4.78
+### [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/)
+`TechCrunch AI` · 02 Nov 16:30 UTC · score 6.237
 
-An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
+Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?
 
-### [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
-`TechCrunch AI` · 31 Oct 21:41 UTC · score 4.23
+### [OpenAI is finally merging ChatGPT’s Chat and Work tabs](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/)
+`TechCrunch AI` · 02 Nov 13:57 UTC · score 6.22
 
-Apple's new CEO defended the company's current position in the AI landscape.
+OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.
 
-### [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/)
-`TechCrunch AI` · 31 Oct 16:12 UTC · score 4.146
+### [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/)
+`TechCrunch AI` · 02 Nov 16:23 UTC · score 5.923
 
-OpenAI’s latest funding round doesn't seem to be living up to expectations.
+Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."
 
-### [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
-`TechCrunch AI` · 31 Oct 21:36 UTC · score 3.919
+### [Stop counting tokens, start counting what ships](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/)
+`MIT Technology Review AI` · 02 Nov 13:10 UTC · score 5.821
 
-On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.
+When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…
 
-### [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code)
-`The Verge AI` · 31 Oct 16:05 UTC · score 3.33
+### [2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big](https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/)
+`TechCrunch AI` · 02 Nov 14:00 UTC · score 5.624
 
-Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It \[…\]
+TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.
+
+### [The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)
+`MIT Technology Review AI` · 02 Nov 09:35 UTC · score 5.373
+
+In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…
+
+### [When You Should—and Shouldn’t—Use AI to Search the Web](https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/)
+`Wired AI` · 02 Nov 12:00 UTC · score 5.074
+
+Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.
+
+## Research
+
+### [Keepace.ai: A Technical Report on a Large Language Model for Sports and Health](https://arxiv.org/abs/2610.38249)
+`arXiv cs.CL` · 02 Nov 05:00 UTC · score 5.699
+
+arXiv:2610.38249v2 Announce Type: replace Abstract: Large language models hold promise for delivering safe, scientifically grounded, and personalized exercise guidance at scale, yet the sports-and-health domain still lacks curated training corpora and rigorous evaluation benchmarks. Keepace (Keepace.ai) is a domain-specialized LLM built on Qwen3.5-27B through post-training, currently optimized…
+
+### [PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management](https://arxiv.org/abs/2610.40714)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.399
+
+arXiv:2610.40714v1 Announce Type: cross Abstract: Autonomous LLM agents executing multi-step workflows over personal data often misalign with user privacy expectations and leak sensitive, out-of-context information. Although Contextual Integrity (CI) formalizes this problem, existing benchmarks and defenses rarely operationalize CI for realistic multi-step task sequences in evolving environments.…
+
+### [What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen Tools and Benchmark Transfer](https://arxiv.org/abs/2610.41803)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.399
+
+arXiv:2610.41803v1 Announce Type: cross Abstract: Detectors can flag hijacked large language model (LLM) agents from the traces of the tools they call. In the eleven evaluations we audited, attacks or anomalies make up 16% to 86% of the test samples, no evaluation varies that share, and six report no test on data from a second benchmark or source. We ask what such evaluations hide. On the…
+
+### [EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective](https://arxiv.org/abs/2605.18421)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.399
+
+arXiv:2605.18421v3 Announce Type: replace-cross Abstract: Recent benchmarks for Large Language Model (LLM) agents mainly evaluate reasoning, planning, and execution. However, memory is also essential for agents, as it enables them to store, update, and retrieve information over time. This ability remains under-evaluated, largely because existing benchmarks do not provide a systematic way to…
+
+### [MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework](https://arxiv.org/abs/2508.14880)
+`arXiv cs.CL` · 02 Nov 05:00 UTC · score 5.399
+
+arXiv:2508.14880v4 Announce Type: replace Abstract: Large Language Model (LLM)-based agents have recently demonstrated remarkable capabilities in deep research tasks, yet their application to the medical domain remains challenging. The leading proprietary systems achieve only modest results on complex medical benchmarks. This exposes two key bottlenecks: (i) limited clinical-reasoning capability…
+
+### [VitisGP: Multi-Task Benchmark for Genotype to Phenotype Grapevine Prediction](https://arxiv.org/abs/2610.40668)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.40668v1 Announce Type: cross Abstract: As climate change reshapes grape-growing conditions, predicting grapevine phenotypes from genomic variation is increasingly important for identifying and breeding cultivars suited to emerging environmental pressures. Existing research on the grapevine genotype-phenotype relationship using machine learning has often focused on individual traits,…
+
+### [From the Zoo to the BULLPEN: Sample-Efficient LLM Profiling via Multi-Channel Model Embeddings](https://arxiv.org/abs/2610.41375)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.41375v1 Announce Type: cross Abstract: Choosing among the hundreds of thousands of available large language models (LLMs) requires a thorough understanding of each candidate model's properties. In practice, each property is measured by its own benchmark suite, so profiling a model on many properties means paying for many separate evaluations. To address this, model embeddings compress…
+
+### [From Training Exposure to Membership Evidence: A Controlled Study of OLMo 2](https://arxiv.org/abs/2610.41732)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.41732v1 Announce Type: cross Abstract: Whether a language model was trained on a document matters for copyright, privacy, and benchmark contamination. Yet most membership-inference (MI) evaluations on language models collect members and non-members after the fact, so success may reflect distribution shift and failure is inconclusive. We re-ran OLMo 2 1B's official 50-billion-token…
+
+### [Empirical Evaluation of Quantum Kernel Methods for Classification: A Comparative Study with Classical Kernels](https://arxiv.org/abs/2610.42029)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.42029v1 Announce Type: cross Abstract: Quantum kernel methods are the most concrete near-term proposal for quantum machine learning on classical data, yet published benchmarks disagree on whether they outperform tuned classical kernels, and the disagreement cannot be resolved from the literature because the comparisons are not protocol-controlled. We argue that the obstacle is one of…
+
+### [MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions](https://arxiv.org/abs/2606.16562)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2606.16562v2 Announce Type: replace Abstract: Five years after the discovery of persistent anti-Muslim bias in large language models, most evaluations remain confined to single-turn prompt completion, a setting that no longer reflects how frontier LLMs are deployed. We introduce \\textbf{MIRAGE} (Muslim-Identity Reasoning and Agentic Generation Evaluation), a benchmark of 1{,}200 prompts…
+
+### [Towards Diverse and Comprehensive Benchmarks for Mutual Information Estimation](https://arxiv.org/abs/2607.03487)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2607.03487v2 Announce Type: replace Abstract: Mutual information estimation is a central problem in machine learning and statistics; however, existing benchmarks typically evaluate estimators on simplified, low-dimensional distributions, leaving their performance on complex, realistic data largely unexplored. We address this gap with a comprehensive benchmarking framework grounded in a…
+
+### [A Controlled Comparison of Deep Learning Architectures for Multi-Horizon Financial Forecasting: Evidence from 918 Experiments](https://arxiv.org/abs/2603.16886)
+`arXiv cs.LG` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2603.16886v2 Announce Type: replace-cross Abstract: Reliable comparison of deep learning architectures for financial forecasting requires controlled evaluation that separates architectural effects from hyperparameter tuning, random initialization, forecast horizon, and asset characteristics. We present a five-stage benchmark using equal-budget Bayesian hyperparameter optimization,…
+
+### [From Transcription to Reformulation: Defining and Benchmarking Grounded Generative Speech Recognition](https://arxiv.org/abs/2610.41292)
+`arXiv cs.CL` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.41292v1 Announce Type: new Abstract: Speech language models have expanded automatic speech recognition (ASR) from transcription to general speech-to-text generation. Yet existing benchmarks still assume a single ground-truth transcript per utterance, an assumption that struggles when models produce readable, formatted, or structured outputs. In this work, we introduce Grounded…
+
+### [TRIDENT and SHAKTI: A Framework and Benchmark for Hindi AI-Text Detection](https://arxiv.org/abs/2610.41232)
+`arXiv cs.CL` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.41232v1 Announce Type: cross Abstract: As Large Language Models (LLMs) become increasingly multilingual, distinguishing human-written from AI-generated text is essential for maintaining information integrity. However, research remains English-centric, with limited benchmarks for low-resource languages such as Hindi. To address this gap, we introduce SHAKTI, a large-scale Hindi…
+
+### [ProSearch: Benchmarking Multi-Constraint Protocol Retrieval in Experimental Science](https://arxiv.org/abs/2610.41396)
+`arXiv cs.CL` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.41396v1 Announce Type: cross Abstract: In AI for Science scenarios, experimental design and method reproduction require retrieving protocols that satisfy multiple interdependent constraints, yet existing benchmarks lack systematic evaluation of this capability. To address this gap, we introduce ProSearch, a benchmark for multi-constraint protocol retrieval in experimental science.…
+
+### [When Support Crosses the Line: Evaluating Ethical Boundaries in LLM-Based Mental Health Support in the Chinese Context](https://arxiv.org/abs/2610.38452)
+`arXiv cs.CL` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.38452v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly explored for mental health support, yet existing benchmarks primarily focus on supportive capabilities rather than whether models consistently adhere to professional ethical boundaries. This issue is particularly important in multi-turn interactions, where users may introduce new information or exert…
+
+### [Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms](https://arxiv.org/abs/2610.39398)
+`arXiv cs.CL` · 02 Nov 05:00 UTC · score 5.099
+
+arXiv:2610.39398v2 Announce Type: replace Abstract: Chatbots are increasingly consulted about public affairs, and their judgments of policies are useful only if they are robust. We measure this robustness in the setting of an ordinary user, through consumer chat interfaces. For 30 days, five chatbot configurations (Mistral, Gemini Flash, Claude Sonnet, and Claude Opus at two effort settings) were…
 
 ## Community
 
-### [Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? \[P\]](https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/)
-`r/MachineLearning` · 01 Nov 12:28 UTC · score 5.578
+### [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/)
+`Simon Willison` · 02 Nov 13:31 UTC · score 5.865
 
-For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models. I used fairly aggressive cropping (random crops between 0 and 90%) and more moderate zooms (random values between 0 and 20%). My supervisor…
+I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to…
 
-### [LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory \[R\]](https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/)
-`r/MachineLearning` · 01 Nov 10:38 UTC · score 4.75
+### [Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html)
+`Hacker News (AI, 100+ pts)` · 02 Nov 14:38 UTC · score 5.605
 
-I'm an undergraduate researcher working independently on conversational memory systems. I developed LSREP to evaluate how persistent memory accumulates, changes and retrieves information over the course of an evolving conversation. Instead of relying only on isolated endpoint questions, LSREP combines chronological replay, lifecycle schedules, repeated probes, evolving reference answers and…
+Article URL: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html Comments URL: https://news.ycombinator.com/item?id=50337439 Points: 160 # Comments: 160
 
-### [Best option for local models \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/)
-`r/MachineLearning` · 01 Nov 07:16 UTC · score 4.329
+### [What actually broke when I tried to fine-tune on web-scraped data and what fixed it \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xm1rjj/what_actually_broke_when_i_tried_to_finetune_on/)
+`r/MachineLearning` · 02 Nov 16:25 UTC · score 5.427
 
-Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well PS; I have access to B200, and multiple A100s/L40s at my Univ which I can definitely use for training purposes, and I just wanted to get a…
+Fine tuning on self collected web data felt straightforward until it wasn’t. Here’s what actually caused problems: Boilerplate contamination was the silent killer. Navigation menus, cookie banners, and footer text were leaking into training examples. The model started generating weirdly structured outputs that looked like half-rendered HTML. Solved it with aggressive DOM-targeting rather than raw…
 
-### [datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/)
-`Simon Willison` · 31 Oct 22:10 UTC · score 4.29
+### [China's First Frontier AI Export Controls: Mofcom Announcement No. 48](https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/)
+`Hacker News (AI, 100+ pts)` · 02 Nov 07:27 UTC · score 5.306
 
-Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db…
+Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/ Comments URL: https://news.ycombinator.com/item?id=50334038 Points: 140 # Comments: 77
 
-### [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
-`Simon Willison` · 31 Oct 23:15 UTC · score 4.126
+### [What did Ilya Sutskever mean when he said "The models, they just want to learn"? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/)
+`r/MachineLearning` · 02 Nov 14:32 UTC · score 5.191
 
-How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this "Canvas" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code…
+It was just before OpenAI started that I met Ilya, who you interviewed . One of the first things he said to me was — “ Look. The models, they just want to learn. You have to understand this. The models, they just want to learn. ” And it was a bit like a Zen Koan. I listened to this and I became enlightened. And over the years, I would be the one who would formalize a lot of these things and kind…
 
-### [Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? \[R\]](https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/)
-`r/MachineLearning` · 01 Nov 00:07 UTC · score 3.434
+### [Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash \[P\]](https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/)
+`r/MachineLearning` · 02 Nov 01:05 UTC · score 5.011
 
-I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name. For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-frame prediction, etc. Is there an existing taxonomy or mental model that groups ML techniques by their underlying pattern rather than by modality (NLP / vision / audio)? This will help me to group the…
+https://preview.redd.it/260fkihtk3zh1.png?width=2400&format=png&auto=webp&s=a80b6861abdeee3c9a4e705b6ad9b337be005722 hey folks, I'm Ye, one of the contributors to Kapitsa, an open-source inference engine optimized specifically for Apple Silicon to run Qwen, Nemotron, Flint and Clover models locally. Our custom-written Metal kernels let us tune for each chip and each model.…
 
-### [Is neuro-evolution relevant? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/)
-`r/MachineLearning` · 31 Oct 18:09 UTC · score 3.29
+### [Any update with the accomodation from NeurIPS \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xlzumq/any_update_with_the_accomodation_from_neurips_d/)
+`r/MachineLearning` · 02 Nov 15:14 UTC · score 4.979
 
-I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this. I'd assume it'd probably relate with reinforcement learning in some way but I'm not entirely sure about that submitted by /u/tapopalis \[link\] \[comments\]
+Hi! For people who have recieved the financial grant, is there any update regarding the accomodation from the organizers? Edit; Asking for Sydney submitted by /u/Fantastic-Nerve-4056 \[link\] \[comments\]
 
-### [Is it okay to share my experiments implementing research papers on my own LLM here? \[P\]](https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/)
-`r/MachineLearning` · 31 Oct 17:57 UTC · score 3.264
+### [Small-scale check of "good views beat next-token prediction" (Balestriero & LeCun 2026): human captions only, 11M-param encoders \[P\]](https://www.reddit.com/r/MachineLearning/comments/1xlzoze/smallscale_check_of_good_views_beat_nexttoken/)
+`r/MachineLearning` · 02 Nov 15:08 UTC · score 4.967
 
-Hey everyone! I've built and trained a small LLM (~8M parameters) from scratch using PyTorch, mainly as an experimental lab where I can implement and test ideas from different research papers. I've been documenting the whole journey through casual blogs, including my mistakes, experiments, and things I've learned. So far: Building the Transformer Training it for 60,000 steps Next up is KV…
+The paper claims text models align with image models faster when trained on "good views" (two different captions of one photo) than on bad views (one caption, words hidden) or next-token prediction. Its largest run used captions written by an image captioner, so image information could have leaked in. I tried a laptop-scale version with human captions only. Setup Data: 10,000 COCO photos, 5 human…
 
-### [I built a scikit-learn for RSI \[P\]](https://www.reddit.com/r/MachineLearning/comments/1xkeq7d/i_built_a_scikitlearn_for_rsi_p/)
-`r/MachineLearning` · 31 Oct 16:33 UTC · score 3.089
+### [ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/)
+`r/MachineLearning` · 02 Nov 10:04 UTC · score 4.933
 
-After reading a bunch of RSI papers, I keep coming back to familiar problems from RL and evolutionary search: Sampling: How do we find promising changes efficiently? Evaluation: How do we know a new variant actually improves the agent? Diversity: How do we avoid converging too early? That motivated us to build Gear , an open-source, meta-learning-inspired framework. A task agent produces…
-
-### [Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging \[R\]](https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/)
-`r/MachineLearning` · 31 Oct 15:21 UTC · score 2.639
-
-submitted by /u/rottoneuro \[link\] \[comments\]
+For those doing or having completed a PhD in ML, I’m curious: If you had the choice, would you rather have done your PhD before ChatGPT and other AI chatbots became widely available, or in today’s AI era? submitted by /u/Hope999991 \[link\] \[comments\]
 
 ---
 
 <details><summary>Feeds that did not respond</summary>
 
-- **Hacker News (AI, 100+ pts)** - HTTP 502
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
 - **arXiv cs.AI** - no entries
-- **arXiv cs.CL** - no entries
-- **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 56 days
-- ⚠️ VentureBeat AI has been unreachable for 56 days
-- ⚠️ r/artificial has been unreachable for 17 days
-- ⚠️ arXiv cs.CL has been unreachable for 3 days
-- ⚠️ arXiv cs.LG has been unreachable for 3 days
-- ⚠️ r/LocalLLaMA has been unreachable for 3 days
+- ⚠️ Import AI has been unreachable for 57 days
+- ⚠️ VentureBeat AI has been unreachable for 57 days
+- ⚠️ r/artificial has been unreachable for 18 days
+- ⚠️ r/LocalLLaMA has been unreachable for 4 days
 
 </details>
