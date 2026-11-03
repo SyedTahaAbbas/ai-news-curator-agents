@@ -1,0 +1,730 @@
+[
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-11-03T08:00:00+00:00",
+    "summary": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "score": 7.017,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 2.117,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Here's Why You Shouldn't Use AI to Vote",
+    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T14:45:08+00:00",
+    "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+    "score": 6.561,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "chatgpt",
+      "claude"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.961,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI is quietly renaming data centers \u2018compute campuses\u2019",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T15:00:44+00:00",
+    "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing [\u2026]",
+    "score": 6.094,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.994,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T14:30:00+00:00",
+    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+    "score": 5.93,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.93,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T14:00:00+00:00",
+    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+    "score": 5.867,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.867,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How \u201creverse game theory\u201d could keep AI agents in check",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T10:43:41+00:00",
+    "summary": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are \u201caligned\u201d with human desires\u2014to make sure, in other words, that rogue agents don\u2019t break the law,\u2026",
+    "score": 5.758,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.458,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs",
+    "url": "https://arxiv.org/abs/2609.23058",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2609.23058v2 Announce Type: replace Abstract: Agent runtimes that plan before acting run every step as soon as it is ready. Neither these runtimes nor their benchmarks distinguish a step that is ready from a step the request needs, and the difference is large: across 303 requests on 154 production workflows, an eager runtime that stops once the goal is met spends 62.2% of its CPU on work\u2026",
+    "score": 5.342,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework",
+    "url": "https://arxiv.org/abs/2503.13309",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2503.13309v3 Announce Type: replace-cross Abstract: Despite advancements in Computer-Aided Diagnosis (CAD) systems, breast cancer remains one of the leading causes of cancer-related deaths among women worldwide. Recent breakthroughs in Artificial Intelligence (AI) have shown significant promise in development of advanced Deep Learning (DL) architectures for breast cancer diagnosis through\u2026",
+    "score": 5.342,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "deep learning",
+      "transformer*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SUREON: A Benchmark and Vision-Language Model for Surgical Reasoning",
+    "url": "https://arxiv.org/abs/2603.06570",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2603.06570v2 Announce Type: replace-cross Abstract: A capable surgical AI model should reason from visual evidence; yet, many existing surgical benchmarks can be partially solved without visual input, as models may exploit procedural priors or common anatomy-instrument interactions to infer answers from language alone. To address this, we introduce SUREON, a video question-answering (QA)\u2026",
+    "score": 5.342,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models",
+    "url": "https://arxiv.org/abs/2605.26038",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2605.26038v2 Announce Type: replace-cross Abstract: Lightweight vision-language models perform competitively on standard benchmarks yet fail systematically in dense-scene reasoning, where multiple objects, attributes, and relations must be jointly grounded and resolved through multi-step inference. Such capability is critical for real-world applications where models must reliably interpret\u2026",
+    "score": 5.342,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
+    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T07:20:00+00:00",
+    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "score": 5.334,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.034,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-11-03T07:00:12+00:00",
+    "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action \u2014 for planning, maintenance and public services \u2014 remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments [\u2026]",
+    "score": 5.293,
+    "matched": [
+      "ai",
+      "agentic",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.993,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T04:18:47+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as \u201cSuper Intelligence.\u201d That\u2026",
+    "score": 5.256,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.656,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "\u2018Our Risk, Their Reward\u2019: Zohran Mamdani on AI and Data Centers",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T11:00:00+00:00",
+    "summary": "Ahead of the midterms, WIRED talked to New York City\u2019s mayor about data centers, AI in schools, and the future of the Democratic party.",
+    "score": 5.192,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.492,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "October sponsors-only newsletter",
+    "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-11-03T05:28:59+00:00",
+    "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here ,\u2026",
+    "score": 5.103,
+    "matched": [
+      "llm"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.803,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-03T04:25:52+00:00",
+    "summary": "I\u2019m the author of a new preprint looking at a fairly simple question: if the argument itself stays the same, does changing the claimed source change how an LLM evaluates it? I tested 20 arguments across 10 topics under four source conditions: relevant expert irrelevant expert non-expert no source The arguments were evaluated by GPT-5.6 Sol, Claude Opus 5.5, Gemini 4 Argon, and DeepSeek Flash\u2026",
+    "score": 5.071,
+    "matched": [
+      "llm",
+      "gpt",
+      "claude",
+      "gemini"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.671,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
+    "url": "https://arxiv.org/abs/2610.41210",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.41210v1 Announce Type: cross Abstract: Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constraints, yet aggregate scores can readily obscure unmet local requirements. Effective evaluation must therefore identify local failures and translate them into priorities for subsequent model improvement. We introduce\u2026",
+    "score": 5.042,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
+    "url": "https://arxiv.org/abs/2610.41272",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.41272v1 Announce Type: cross Abstract: Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected content can induce them to perform unauthorized actions. Existing evaluations primarily use fixed attacks or focus on a single attack type, and evaluate attacks at the text level rather than through real state changes, thus\u2026",
+    "score": 5.042,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Steering Shifts Discourse: Identifying and Intervening on Discourse-Level Changes due to Activation Steering in LLMs",
+    "url": "https://arxiv.org/abs/2610.41661",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.41661v1 Announce Type: cross Abstract: Activation steering is an inference-time technique used to control or modify the behavior, tone, or safety properties of a large language model (LLM) without retraining the model's weights or editing its input prompt, but simply by adding a vector to its residual-stream activations. However, activation steering also changes the generated text in\u2026",
+    "score": 5.042,
+    "matched": [
+      "llm",
+      "large language model",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
+    "url": "https://arxiv.org/abs/2610.42001",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.42001v1 Announce Type: cross Abstract: As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the empirical evidence in this space offers conflicting recommendations, which leaves individuals and organizations without clear guidance on when to combine\u2026",
+    "score": 5.042,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "generative"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "url": "https://arxiv.org/abs/2610.42141",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.42141v1 Announce Type: cross Abstract: Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong\u2026",
+    "score": 5.042,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Physics-Audited Agentic Discovery in Scientific Machine Learning",
+    "url": "https://arxiv.org/abs/2607.07379",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2607.07379v2 Announce Type: replace Abstract: Agentic discovery can yield mechanics surrogates with low validation error that nonetheless violate physical requirements. We present Physics-Audited Agentic SciML (PA-SciML), a framework combining large language model agents with physics auditing. Physical requirements, encoded as contracts such as superposition, boundary conditions, and\u2026",
+    "score": 5.042,
+    "matched": [
+      "machine learning",
+      "large language model",
+      "agentic"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Fine-Tuning VLM for Enhancing AI's Spatial Intelligence: Understanding 3D and 2D Rotations",
+    "url": "https://arxiv.org/abs/2610.04206",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.04206v3 Announce Type: replace Abstract: Spatial intelligence is a fundamental skill in multiple domains, such as Science, Technology, Engineering, and Mathematics (STEM), Medicine, Architecture, and Construction. Recent studies indicate that Vision-Language Models (VLMs) still face limitations in spatial reasoning, which inhibits artificial intelligence (AI) from performing practical\u2026",
+    "score": 5.042,
+    "matched": [
+      "ai",
+      "artificial intelligence",
+      "fine-tun*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Algebraic World Model: From Exploration to Proofs",
+    "url": "https://arxiv.org/abs/2610.40503",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.40503v2 Announce Type: replace Abstract: AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on predefined mathematical definitions and formal specifications. This raises a natural question: can it reason rigorously about an unknown world? We introduce the Algebraic World Model (AWM), a framework that\u2026",
+    "score": 5.042,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Beyond Public Access in LLM Pre-Training Data",
+    "url": "https://arxiv.org/abs/2505.00020",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2505.00020v3 Announce Type: replace-cross Abstract: Using a legally obtained dataset of 34 copyrighted O'Reilly Media books (13,962 paragraphs), we apply the DE-COP membership inference attack to test whether OpenAI models show recognition of non-public (pay-walled) content they were not licensed to train on. Our main contribution is examining non-public books, which allows us to consider\u2026",
+    "score": 5.042,
+    "matched": [
+      "llm",
+      "openai",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering",
+    "url": "https://arxiv.org/abs/2510.04217",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2510.04217v4 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) have demonstrated remarkable capabilities across vision-language tasks, yet their large-scale deployment raises pressing concerns about memorized private data, outdated knowledge, and harmful content. Existing unlearning approaches for MLLMs typically adapt training-based strategies such as gradient\u2026",
+    "score": 5.042,
+    "matched": [
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play",
+    "url": "https://arxiv.org/abs/2511.01261",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2511.01261v2 Announce Type: replace-cross Abstract: Evaluating spoken role-play requires judging not only linguistic content but also prosody, emotional expression, character embodiment, and contextual fit. Existing automatic evaluation methods often collapse these aspects into coarse scores and are evaluated primarily on synthesized speech. We introduce Speech-DRAME, a framework comprising\u2026",
+    "score": 5.042,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials",
+    "url": "https://arxiv.org/abs/2603.12183",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2603.12183v3 Announce Type: replace-cross Abstract: Machine-learned interatomic potentials (MLIPs) are deployed for high-throughput materials screening without formal reliability guarantees. We show that a single MLIP used as a stability filter misses 93% of density functional theory (DFT)-stable materials (recall 0.07) on a 25,000-material benchmark. Proof-Carrying Materials (PCM) closes\u2026",
+    "score": 5.042,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I-HITL: Inalienable Human-in-the-Loop",
+    "url": "https://arxiv.org/abs/2610.35835",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.35835v3 Announce Type: replace-cross Abstract: Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly. We introduce the concept of inalienable human-in-the-loop (I-HITL). An I-HITL\u2026",
+    "score": 5.042,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers",
+    "url": "https://arxiv.org/abs/2610.37826",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-03T05:00:00+00:00",
+    "summary": "arXiv:2610.37826v2 Announce Type: replace-cross Abstract: Retrieval-augmented generation (RAG) lets a large language model (LLM) answer questions by retrieving relevant passages from a large corpus. However, RAG struggles with multi-hop questions, which require chaining facts spread across several documents through intermediate entities that the question never mentions. Graph-based RAG methods\u2026",
+    "score": 5.042,
+    "matched": [
+      "llm",
+      "large language model",
+      "retrieval augmented"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.742,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "llm 0.37",
+    "url": "https://simonwillison.net/2026/Nov/2/llm/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-11-02T23:49:30+00:00",
+    "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own\u2026",
+    "score": 4.995,
+    "matched": [
+      "llm",
+      "gpt",
+      "openai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.095,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-11-02T18:00:00+00:00",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "score": 4.967,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.367,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-02T23:13:53+00:00",
+    "summary": "The one-year-old startup is now valued at $300 million.",
+    "score": 4.921,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.021,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "We turned 10 years of ML papers into one page per topic: benchmark records, what got tried, what reviewers expect [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xmk8rx/we_turned_10_years_of_ml_papers_into_one_page_per/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-03T05:09:18+00:00",
+    "summary": "We've been working on this for a while and shipped it today. We took every accepted paper from ICML, NeurIPS, ICLR, CVPR and AAAI since 2016 (about 109k), grouped them into ~1,260 topics, and pulled the results tables and ablations out of the full text of 79k of them. The research map just shows the grouping, but each topic page shows what the papers actually report. Here's the one for\u2026",
+    "score": 4.862,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.762,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-03T03:30:00+00:00",
+    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "score": 4.855,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.555,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
