@@ -1,187 +1,187 @@
-# AI News Curator - Thursday, 05 November 2026
+# AI News Curator - Friday, 06 November 2026
 
-*35 stories from the last 24 hours. Generated 2026-11-05 15:25 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-06 14:58 UTC.*
 
 ## Labs & Releases
 
-### [‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/)
-`NVIDIA` · 05 Nov 14:00 UTC · score 6.124
-
-Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions \[…\]
-
-### [Setting a new standard for responsible AI infrastructure](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)
-`OpenAI` · 05 Nov 02:00 UTC · score 5.923
-
-OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
-
-### [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](https://huggingface.co/blog/phonon-tts)
-`Hugging Face` · 05 Nov 00:00 UTC · score 5.573
+### [ToyBlocks: A controlled world for robot learning and evaluation](https://huggingface.co/blog/allenai/toyblocks)
+`Hugging Face` · 06 Nov 14:00 UTC · score 5.879
 
 ## Industry & Press
 
-### [Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/)
-`TechCrunch AI` · 05 Nov 15:19 UTC · score 6.287
+### [Physicl raises $10M to make the digital world real enough for robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/)
+`TechCrunch AI` · 06 Nov 13:00 UTC · score 6.353
 
-The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.
+Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
 
-### [Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents](https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/)
-`TechCrunch AI` · 05 Nov 14:42 UTC · score 6.21
+### [Amazon will let you text Alexa your shopping list](https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders)
+`The Verge AI` · 06 Nov 14:00 UTC · score 5.978
 
-Aina's ring can also take calls and help you dictate notes on your Mac.
+Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and \[…\]
 
-### [Box taps Nvidia’s Nemotron for new agent-first content retrieval system](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/)
-`TechCrunch AI` · 05 Nov 14:00 UTC · score 6.123
+### [After blocking Muse, Amazon now lets users text Alexa to help them shop](https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/)
+`TechCrunch AI` · 06 Nov 14:10 UTC · score 5.898
 
-The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.
+Amazon said that the feature will roll out to millions of users in coming weeks.
 
-### [The hidden supply chain costs of the AI boom](https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book)
-`The Verge AI` · 05 Nov 15:00 UTC · score 6.048
+### [Underdog shows off a 32MB speech model in new demo](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/)
+`TechCrunch AI` · 06 Nov 13:02 UTC · score 5.757
 
-Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through \[…\]
+Despite its small size, Underdog's new model can generate both speech and music.
 
-### [You can post AI music straight to SoundCloud from ElevenLabs](https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs)
-`The Verge AI` · 05 Nov 15:00 UTC · score 6.048
+### [Protesters break into Microsoft data center site in Amsterdam](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam)
+`The Verge AI` · 06 Nov 11:55 UTC · score 5.418
 
-After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months \[…\]
+Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some \[…\]
 
-### [A YC startup is putting $1M behind five unsolved materials science problems for AI](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/)
-`TechCrunch AI` · 05 Nov 13:00 UTC · score 5.998
+### [I watched a humanoid robot clean my apartment. It felt like a taste of the future.](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/)
+`MIT Technology Review AI` · 06 Nov 10:00 UTC · score 5.378
 
-Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.
-
-### [He Trolls AI Labs for a Living. Now They All Want to Work With Him](https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/)
-`Wired AI` · 05 Nov 11:45 UTC · score 5.841
-
-OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.
-
-### [Agility is the first pure humanoid robot company on the stock market. Are you buying?](https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/)
-`TechCrunch AI` · 05 Nov 12:00 UTC · score 5.573
-
-Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.
-
-### [Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent](https://www.wired.com/story/aina-smart-ring/)
-`Wired AI` · 05 Nov 14:00 UTC · score 5.523
-
-The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.
-
-### [Big Tech’s big AI buildout will not end until someone stops it](https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3)
-`The Verge AI` · 05 Nov 10:45 UTC · score 5.516
-
-After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also \[…\]
-
-### [Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work](https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/)
-`Wired AI` · 05 Nov 13:00 UTC · score 5.398
-
-Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.
-
-### [Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market](https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/)
-`Ars Technica AI` · 05 Nov 12:00 UTC · score 5.374
-
-US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.
+I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…
 
 ## Research
 
-### [From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485)
-`arXiv cs.LG` · 05 Nov 05:00 UTC · score 5.898
+### [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](https://arxiv.org/abs/2611.08315)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.953
 
-arXiv:2512.10485v4 Announce Type: replace-cross Abstract: Vulnerability detection methods based on deep learning (DL) have shown strong performance on benchmark datasets, yet their real-world effectiveness remains underexplored. Recent work suggests that graph neural network-based and transformer-based models, including large language models (LLMs), yield promising results when evaluated on…
+arXiv:2611.08315v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in biomedical and cognitive neuroscience, but their ability to reason reliably over heterogeneous knowledge graphs (KGs) remains unclear. We benchmark five LLMs (GPT-5.1, Gemini 2.0 Pro, Llama 3, Qwen, and BioGPT) across five KGs: DrugBank, NeuroSynth, Cognitive Atlas, Brain Map, and GDPKG. We…
 
-### [LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks](https://arxiv.org/abs/2611.06687)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?](https://arxiv.org/abs/2611.08412)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.953
 
-arXiv:2611.06687v1 Announce Type: new Abstract: We introduce LifeVal, a benchmark evaluating AI model performance on personalized agentic consumer tasks. LifeVal covers the most valuable life tasks that a personalized digital superassistant could automate, representing over 1.7 trillion US dollars in annual willingness-to-pay across 148 consumer task categories (e.g., managing finances, moving…
+arXiv:2611.08412v1 Announce Type: new Abstract: The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manuscripts released by OpenAI provide a rich empirical basis for studying this question. However, several challenges remain: lack of…
 
-### [How Finely Can Vision-Language Models See Biology? Bio-VQA: A Benchmark for Taxonomic, Morphological, Spatial and Individual Reasoning](https://arxiv.org/abs/2611.05559)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving](https://arxiv.org/abs/2611.07542)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2611.05559v1 Announce Type: cross Abstract: In biodiversity monitoring, a single image raises several questions: which taxon, how many, which trait, and whether the individual has been seen before. Vision-language models (VLMs) could answer all of these from the image, but their ability is largely untested in biology, as existing benchmarks focus mostly on species identification within a…
+arXiv:2611.07542v1 Announce Type: new Abstract: In large language model (LLM) serving systems, the key-value (KV) cache grows linearly with sequence length and concurrency, so long-context inference easily hits the high-bandwidth memory (HBM) capacity wall and results in low concurrency. Offloading the KV cache to host dynamic random-access memory (DRAM) frees HBM space and raises concurrency,…
 
-### [MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics](https://arxiv.org/abs/2611.05567)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks](https://arxiv.org/abs/2611.08417)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2611.05567v1 Announce Type: cross Abstract: Despite growing interest in foundation models for robotic manipulation, systematic evaluation of their capabilities remains elusive. Existing benchmarks are either narrow and saturated, offering little signal on SOTA methods, broadly scoped, providing diversity at the cost of controlled experimentation, or require training on large, messy…
+arXiv:2611.08417v1 Announce Type: new Abstract: Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can…
 
-### [Practical Estimation of the Bayes Optimal Fairness-Accuracy Tradeoff with Soft Labels](https://arxiv.org/abs/2611.06027)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [More Agents, More Reliable? System-Level Reliability of Multi-Agent LLMs under Operational-Profile Uncertainty](https://arxiv.org/abs/2611.07140)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2611.06027v1 Announce Type: cross Abstract: There is a fundamental limit to the best prediction error of any model for a given data distribution. In classification, the Bayes error quantifies this limit and serves as both a benchmark for trained models and a criterion to detect overfitting. The state-of-the-art Bayes error estimation techniques for binary classification use only soft labels…
+arXiv:2611.07140v1 Announce Type: cross Abstract: Teams increasingly build software from cooperating large language model (LLM) agents, often assuming more agents mean more reliability. Yet the usual evidence, average benchmark accuracy, ignores the input mix a deployed system meets and the rule merging the agents' answers. Building on HIP-LLM, a hierarchical imprecise-probability assessment of…
 
-### [Computational Phenomenology of Borderline Personality Disorder: A Comparative Evaluation of LLM-Simulated Expert Personas and Human Clinical Experts](https://arxiv.org/abs/2508.19008)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks](https://arxiv.org/abs/2611.07461)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2508.19008v4 Announce Type: replace Abstract: Building on a human-led thematic analysis of clinical life-story interviews (\> 150,000 words) with inpatients with Borderline Personality Disorder, this study examines the capacity of large language models (OpenAI's GPT, Google's Gemini, and Anthropic's Claude) to support qualitative clinical analysis. The models' interpretative potential was…
+arXiv:2611.07461v1 Announce Type: cross Abstract: How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% of the tasks and Claude Opus 5 with Claude Code 51.8%. These tasks fail at the step from reaching a resource to applying it, which we call the last…
 
-### [CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI](https://arxiv.org/abs/2609.02459)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [XStack: A Benchmark for ML Repo Migration](https://arxiv.org/abs/2611.08472)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2609.02459v2 Announce Type: replace Abstract: We present CivBench, an open-source benchmark for evaluating language model agents in long-horizon, tool-mediated environments through the Model Context Protocol (MCP). A single episode can span over 300 turns and produces thousands of tool calls over a large action space, requiring sustained planning, state monitoring, and execution under…
+arXiv:2611.08472v1 Announce Type: cross Abstract: ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different…
 
-### [Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems](https://arxiv.org/abs/2608.21095)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [JudgmentBench: Comparing Rubric and Preference Evaluation for Quality Assessment](https://arxiv.org/abs/2605.25240)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2608.21095v2 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) grounds Large Language Model (LLM) outputs in external knowledge, but RAG systems usually trust whatever they retrieve, creating a Security-Reliability Gap: high semantic relevance does not guarantee factual truth. Adversaries exploit this through knowledge poisoning, inserting malicious documents to…
+arXiv:2605.25240v4 Announce Type: replace-cross Abstract: Two methodologies dominate current practices of benchmarking: rubric-based scoring evaluates items against predefined criteria, whereas comparative judgment elicits pairwise preferences between outputs. Although both methodologies are widely used, the choice between them is rarely justified. We release JudgmentBench, a benchmark of 30…
 
-### [RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development](https://arxiv.org/abs/2610.26826)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.598
+### [Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation](https://arxiv.org/abs/2606.09864)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2610.26826v2 Announce Type: replace-cross Abstract: Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a practical and readily evaluable setting in which existing benchmarks remain largely…
+arXiv:2606.09864v3 Announce Type: replace-cross Abstract: Key-value (KV) cache quantization is widely used to reduce LLM inference memory, yet existing evaluations focus only on perplexity and accuracy without assessing the safety impact. In this study, we explore alignment preservation under KV cache quantization. Across eleven instruction-tuned models (3.8B-72B) and five benchmarks (1,894…
 
-### [Give Up to Get More: Priors, Not Policies, Govern Test-Time Compute Allocation](https://arxiv.org/abs/2611.06372)
-`arXiv cs.LG` · 05 Nov 05:00 UTC · score 5.598
+### [Set-Valued Routing for Language-Model Agent Systems: A WildChat Benchmark and Cost-Aware Evaluation](https://arxiv.org/abs/2606.28925)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2611.06372v1 Announce Type: new Abstract: When many inputs share a budget of repeated attempts by a large language model (LLM), a common rule gives harder inputs more. On public math, code and formal-proof samples, the best published difficulty-proportional rule captures half or more of the oracle gain on benchmarks the model mostly solves, but at most 13% on hard workloads, even given true…
+arXiv:2606.28925v3 Announce Type: replace-cross Abstract: Language-model agent systems must map natural-language requests to one or more specialized agents before planning or tool execution. This decision is often treated as top-1 selection, although compositional requests can require several capabilities and unnecessary dispatch raises cost. We formulate fixed-catalog routing as set-valued…
 
-### [TestBED: An Open-Source Toolkit for Bayesian Experimental Design](https://arxiv.org/abs/2611.06633)
-`arXiv cs.LG` · 05 Nov 05:00 UTC · score 5.598
+### [B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](https://arxiv.org/abs/2505.22252)
+`arXiv cs.LG` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2611.06633v1 Announce Type: cross Abstract: Bayesian experimental design (BED) is a principled framework for intelligent data acquisition with applications across a wide range of scientific and industrial domains. However, the development and adoption of BED remains hindered by a lack of standardised software and benchmarks. Existing methods are typically implemented in bespoke codebases…
+arXiv:2505.22252v2 Announce Type: replace Abstract: Understanding the reasoning behind deep learning model predictions is crucial in cheminformatics and drug discovery, where molecular design determines their properties. However, current evaluation frameworks for Explainable AI (XAI) in this domain often rely on artificial datasets or simplified tasks, employing data-derived metrics that fail to…
 
-### [Fast and Stable Triangular Inversion for Delta-Rule Linear Transformers](https://arxiv.org/abs/2605.21325)
-`arXiv cs.LG` · 05 Nov 05:00 UTC · score 5.598
+### [Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling](https://arxiv.org/abs/2611.08237)
+`arXiv cs.CL` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2605.21325v2 Announce Type: replace Abstract: Linear attention has emerged as a cornerstone for efficient long-context architectures, as evidenced by its integration into state-of-the-art open-source models including Qwen3.5/3.6, Kimi Linear/K3, and RWKV-7. Models that incorporate linear attention layers with the so-called Delta-Rule involve the inversion of triangular matrices as a core…
+arXiv:2611.08237v1 Announce Type: new Abstract: Mathematical modeling turns an open-ended real-world problem into assumptions, a model, a solution, and a defended recommendation, and its answers matter only if they are both close to a credible reference and physically feasible; existing benchmarks either score solver fragments or grade reports with an LLM judge, leaving those numbers unchecked.…
 
-### [Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark](https://arxiv.org/abs/2611.05459)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.298
+### [Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks](https://arxiv.org/abs/2611.08281)
+`arXiv cs.CL` · 06 Nov 05:00 UTC · score 5.653
 
-arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process as a whole. We assess six AI tools across four stages: finding relevant articles, interpreting them, synthesizing across them, and proposing future research. The benchmark is a…
+arXiv:2611.08281v1 Announce Type: new Abstract: Personal AI agents face social engineering attacks supported by forged multimodal content, but existing evaluations mainly focus on text-based dialogue, leaving their intrinsic security under such attacks insufficiently studied. We introduce Multimodal-SEA, an interactive benchmark comprising 608 expert-designed tasks grounded in real-world fraud…
 
-### [SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories](https://arxiv.org/abs/2611.05512)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.298
+### [Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI](https://arxiv.org/abs/2611.07048)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
 
-arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short of real knowledge work: many rely on synthetic data or isolated tasks, missing the complex, multi-party dynamics of collaborative projects, where critical information is scattered…
+arXiv:2611.07048v1 Announce Type: new Abstract: Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelligence may begin to direct its own evolution. As AI agents become capable of modifying and evaluating their own behavior, how quickly could they improve, and how can that improvement remain safe? We develop a theoretical…
 
-### [ViBench 2.0: A Benchmark for Long-Horizon Software Building](https://arxiv.org/abs/2611.05620)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.298
+### [CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation](https://arxiv.org/abs/2611.07541)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
 
-arXiv:2611.05620v1 Announce Type: new Abstract: On Replit, our agentic engineering platform, users now build entire products without writing code, through successive feature requests to an agent. Yet existing coding benchmarks evaluate single, fully specified tasks, and many are near saturation. We introduce ViBench 2.0, a benchmark for long-horizon software building that we use to select our…
+arXiv:2611.07541v1 Announce Type: new Abstract: Spatial reasoning is a fundamental capability of multimodal large language models (MLLMs), yet existing benchmarks mainly focus on static scene understanding. When objects are moved or swapped, models must infer not only spatial relations but also how interventions change the scene state. To address this problem, we introduce CST-Bench, a benchmark…
 
-### [Reasoning-Trace Overflow in Code Generation: An Empirical Study of Explicit Reasoning Models](https://arxiv.org/abs/2611.06095)
-`arXiv cs.AI` · 05 Nov 05:00 UTC · score 5.298
+### [Beneath the Surface: What We Overlook When We Talk About Agent Evolution](https://arxiv.org/abs/2611.07624)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
 
-arXiv:2611.06095v1 Announce Type: new Abstract: Explicit reasoning can help language models generate code, but it also introduces a practical risk: the model may spend so much of its output budget reasoning that it never produces usable code. We study this behaviour in relatively small open-weight reasoning models, framing it as reasoning-trace overflow. Across seven models and six code benchmark…
+arXiv:2611.07624v1 Announce Type: new Abstract: Agent harness evolution enables recursive self-improvement (RSI) without updating model weights. We examine whether higher benchmark scores yield reliable, efficient, and transferable improvement. We evaluate four methods across harnesses, general and coding tasks. Repeated evaluations, controlled agent expansion, component interventions, and…
+
+### [MCPHallu: Benchmarking Reasoning, Execution, and Memory Hallucinations in MCP Agents](https://arxiv.org/abs/2611.07689)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2611.07689v1 Announce Type: new Abstract: Large language model agents are increasingly deployed through the Model Context Protocol (MCP), which allows them to discover and invoke tools across multiple servers at runtime. Existing MCP benchmarks primarily measure task completion; where they diagnose failures, they do so after execution rather than building specific reasoning, execution, and…
+
+### [ChemE-as-Code: An Open-Source Platform for Agentic AI in Chemical Engineering](https://arxiv.org/abs/2611.07947)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2611.07947v1 Announce Type: new Abstract: ChemE-as-Code provides an open-source environment in which AI agents built on large language models (LLMs) can carry out chemical engineering work and engineers can check it. Its calculation tools range from catalysis through process simulation to plant layout, HAZOP and life cycle assessment, and skills tell a general-purpose agent how to use them.…
+
+### [NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma](https://arxiv.org/abs/2611.08369)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2611.08369v1 Announce Type: new Abstract: Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To…
+
+### [The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI](https://arxiv.org/abs/2611.08428)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2611.08428v1 Announce Type: new Abstract: Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of…
+
+### [A minimal dynamical model of human-AI cognitive coevolution](https://arxiv.org/abs/2611.06928)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2611.06928v1 Announce Type: cross Abstract: The rapid deployment of generative AI raises the question of whether pervasive cognitive offloading drives a measurable, potentially irreversible decline in unassisted human reasoning. We examine this question with a phenomenological dynamical model based on the Cattell-Horn-Carroll distinction between fluid intelligence ($G_f$) and crystallized…
+
+### [Compositional Unalignment: Auditing Safety in Large Vision-Language Models](https://arxiv.org/abs/2611.07216)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2611.07216v1 Announce Type: cross Abstract: Large vision-language models (LVLMs) are vulnerable to compositional harm: an image and a prompt that are benign in isolation become harmful through the model's cross-modal reasoning. Recent alignment methods report strong scores on compositional safety benchmarks, but an LLM judge only measures observed behavior and cannot reveal how robustly…
+
+### [ProMoral-Bench: Evaluating Prompting Strategies for Moral Reasoning and Safety in LLMs](https://arxiv.org/abs/2602.13274)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2602.13274v2 Announce Type: replace Abstract: Prompt design affects the moral judgments and refusal behavior produced by large language models (LLMs), yet controlled comparisons remain fragmented across datasets and models. We introduce ProMoral-Bench, a benchmark-style comparison of 10 prompting paradigms across four LLM families. Using ETHICS, Scruples, WildJailbreak, and our 200-pair…
+
+### [ASTRA-bench: Evaluating Tool-Use Agent Reasoning and Action Planning with Personal User Context](https://arxiv.org/abs/2603.01357)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2603.01357v2 Announce Type: replace Abstract: Next-generation AI must manage vast personal data, diverse tools, and multi-step reasoning, yet most benchmarks remain context-free and single-turn. We present ASTRA-bench (Assistant Skills in Tool-use, Reasoning \\& Action-planning), a benchmark that uniquely unifies time-evolving personal context with an interactive toolbox and complex user…
+
+### [AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation](https://arxiv.org/abs/2603.03761)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2603.03761v2 Announce Type: replace Abstract: LLM agents are rapidly becoming the practical interface for task automation, yet the ecosystem lacks a principled way to choose among an exploding space of deployable configurations. Existing LLM leaderboards and tool/agent benchmarks evaluate components in isolation and remain fragmented across tasks, metrics, and candidate pools, leaving a…
+
+### [Are LLM Safety Judges Policy-Invariant? A Three-Principle Stress-Test](https://arxiv.org/abs/2605.06161)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2605.06161v2 Announce Type: replace Abstract: LLM-as-a-Judge pipelines have become the de facto evaluator for agent safety, yet existing benchmarks treat their verdicts as ground-truth proxies without checking whether the verdicts depend on the agent's behavior or merely on how the evaluation policy happens to be worded. We argue that any trustworthy safety judge must satisfy a basic…
+
+### [LinAlg-Bench: A Forensic Benchmark Revealing Structural Failure Modes in LLM Mathematical Reasoning](https://arxiv.org/abs/2605.16675)
+`arXiv cs.AI` · 06 Nov 05:00 UTC · score 5.353
+
+arXiv:2605.16675v2 Announce Type: replace Abstract: We introduce LinAlg-Bench, a diagnostic benchmark evaluating 10 frontier large language models on structured linear algebra computation across a strict dimensional gradient of 3x3, 4x4, and 5x5 matrices. Spanning 9 task types and 660 SymPy-certified problems, the benchmark exhaustively evaluates 6,600 model outputs. Beyond binary accuracy,…
 
 ## Community
 
-### [DialFork: a benchmark for procedural hallucination in conversational agents \[R\]](https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/)
-`r/MachineLearning` · 05 Nov 10:44 UTC · score 6.415
+### [How do you build visibility through open source contributions?\[D\]](https://www.reddit.com/r/MachineLearning/comments/1xp90lz/how_do_you_build_visibility_through_open_source/)
+`r/MachineLearning` · 06 Nov 09:55 UTC · score 5.468
 
-Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent stops following the procedure it was given. For example, asked for the weather, it fetches the forecast…
-
-### [An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon](https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/)
-`r/LocalLLaMA` · 05 Nov 13:12 UTC · score 5.624
-
-Some of you might remember our post comparing 18 RAG pipelines against our agent loop on FRAMES. The best pipeline scored 78.9%; the loop scored 92.7%. A follow-up: PipesHub has now reached #1 on EnterpriseRAG-Bench by overall score , with 93.24 overall and 95% correctness . I’m one of the founders, so affiliation upfront. This is a separate evaluation: 500 questions over a synthetic enterprise…
-
-### [Quantization livestream with goats of inference](https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/)
-`r/LocalLLaMA` · 05 Nov 11:46 UTC · score 5.444
-
-Hey folks, it's Merve from Hugging Face. Title of this post is super self explanatory, we are doing a quantization workshop livestream with Michael Goin (lead maintainer of vLLM at RedHat), Colin Kealty (aka bartowski at RedHat), Maxime Labonne and Aditya Tadimeti. I will shortly teach you how quantization works, modern ideas (double quantization, calibration) and llama.cpp quants (k-quants,…
-
-### [Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon](https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/)
-`r/LocalLLaMA` · 05 Nov 14:06 UTC · score 5.436
-
-I'm the developer of Kokon, a local photo editor around Qwen-Image 2.1 Turbo (on stable-diffusion.cpp, and on its own engine on Macs). I posted it here a few weeks ago. 0.12 adds a Layers lab: click objects in any image, get each one on its own layer with the background behind it repainted, then move them around or export a PSD. Qwen-Image 2.1 has no layer output, so this is a pipeline around an…
+I’m an MSc CS student with a background in 3D computer vision, trying to figure out how to build visibility and credibility in the AI/ML community. I’ve been thinking about contributing to established open source projects rather than building standalone GitHub projects. Honestly, the latter feels like a weaker signal nowadays, especially with AI tools making it easier than ever to build things.…
 
 ---
 
@@ -189,9 +189,10 @@ I'm the developer of Kokon, a local photo editor around Qwen-Image 2.1 Turbo (on
 
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
+- **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 60 days
-- ⚠️ VentureBeat AI has been unreachable for 60 days
-- ⚠️ r/artificial has been unreachable for 21 days
+- ⚠️ Import AI has been unreachable for 61 days
+- ⚠️ VentureBeat AI has been unreachable for 61 days
+- ⚠️ r/artificial has been unreachable for 22 days
 
 </details>
