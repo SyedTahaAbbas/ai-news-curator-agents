@@ -1,0 +1,646 @@
+[
+  {
+    "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
+    "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-08T12:00:00+00:00",
+    "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "score": 5.417,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.717,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
+    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-08T10:00:00+00:00",
+    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "score": 5.167,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.467,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Huggingface - WOW.. 2 ZeroGPU Spaces for all free accounts?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T10:34:10+00:00",
+    "summary": "I logged into my Hugging Face account today because one of my old scripts got blocked. The Space was paused with the \"content policy\" message. Okay, fair, it happens. \ud83e\udd37cause this art of scipts are now ilegal! Then I wanted to make a new Space and saw: Docker = Paid. Great. My old Spaces still run, but new ones? Looked dead. BUT then I looked closer at the create page: Gradio is selectable and\u2026",
+    "score": 4.838,
+    "matched": [
+      "hugging face"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.538,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "2x256gb M5U: current status",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T12:52:59+00:00",
+    "summary": "Just an update for anyone looking to get the m5u and thinking about clustering. I tried clustering but I think running 2 separate models gets significantly better results. The current clustering technology (tensorfold/exos, etc) just isn\u2019t there yet. Especially due to concurrency and the fact that decode doesn\u2019t improve consistently as much as you would hope. Currently I\u2019m running Qwen flash next\u2026",
+    "score": 4.827,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.827,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "\"Ram Altman\" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T11:49:01+00:00",
+    "summary": "submitted by /u/Subulicious [link] [comments]",
+    "score": 4.694,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.694,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenClaw Retrospective",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T06:47:56+00:00",
+    "summary": "A long time ago there was this massive phenomenon called OpenClaw that took the world by storm. It was an incredible moment where AI came of age and showed that you Can actually do stuff with AI rather than just chat with it. A historic and legendary project that broke GitHub star records. Then the creator rightly got massive fame and got bought out by OpenAI to the tune of billions of dollars.\u2026",
+    "score": 4.667,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.067,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Learning RL From Scratch: The What, Why and How of Double DQNs",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T09:03:40+00:00",
+    "summary": "Web-based version of my short notes on Double DQN from Scratch is out on neatrl! Continuing my series on releasing notes on RL From Scratch - here, I have answered questions around the what, the why and the how of Double DQNs over DQNs! The What? It is an off-policy, model-free and value-based method, the same family as DQNs but with a subtle difference for optimization purposes! What's the\u2026",
+    "score": 4.349,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.349,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Saw this benchmark where small changes to coding tasks made a big difference",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T01:44:51+00:00",
+    "summary": "Saw this tweet about a coding benchmark and thought it was kinda interesting. Apparently they took 89 DeepSWE tasks and changed little things in the instructions or starting code. The tweet says some models that were all around 74% on DeepSWE ended up 23 percentage points apart on the changed tasks. The weird part was that some models seemed to ignore the actual instructions because they thought\u2026",
+    "score": 4.335,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.435,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anybody tried Apex 35B and Axion 35B?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T06:26:17+00:00",
+    "summary": "I found new finetunes of Qwen 3.6 35B but I couldn't find any discussions on them anywhere. Anybody tried these models? There isn't much info out there. Axion seems like it was made by bytedance https://huggingface.co/Apexintelligence-AI/Apex-35B-V1.0 https://huggingface.co/Axion1-0/Axion-1.0-35B submitted by /u/blue2020xx [link] [comments]",
+    "score": 4.322,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.022,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-07T21:17:08+00:00",
+    "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "score": 4.177,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.877,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Crowd-v1 - The collaborative LLM",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T21:19:40+00:00",
+    "summary": "Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters, and for 0$. The project's goal is to show we don't need huge Nvidia GPU clusters nor millions of dollars to train a competitive Large Language Model. The\u2026",
+    "score": 4.083,
+    "matched": [
+      "llm",
+      "large language model",
+      "transformer*",
+      "nvidia"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.883,
+      "keywords": 1.2,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "mtmd: support MageVL-Cowork model by ngxson \u00b7 Pull Request #31819 \u00b7 ggml-org/llama.cpp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqpc7u/mtmd_support_magevlcowork_model_by_ngxson_pull/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T04:04:59+00:00",
+    "summary": "GGUF to use : https://huggingface.co/ggml-org/Mage-VL-Cowork-GGUF submitted by /u/pmttyji [link] [comments]",
+    "score": 4.027,
+    "matched": [
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.727,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-07T22:07:22+00:00",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "score": 3.982,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.982,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Two PCs but one with only RAM? or divide GPUs across pcs?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqn4nb/two_pcs_but_one_with_only_ram_or_divide_gpus/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-08T02:04:12+00:00",
+    "summary": "PC1: -94gb DDR5 -5070 TI + 3060 (12gb) gpus (using a motherboard that is specifically designed for duel gpus PC2: 64gb DD4 RAM PC1 is new, I've been running strata for running larger MoEs but I'm curious about trying to pool the two pcs together (they can be connected via direct 5-10gb Ethernet) I guess I would have to use llama.ccp RPC? And if I do, would I better better off putting the 3060 in\u2026",
+    "score": 3.776,
+    "matched": [
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.476,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off mid-sentence",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T16:08:45+00:00",
+    "summary": "Voice agents serving Indic-language users cut callers off constantly Indic languages put the verb last, so \"aapko kal phone\u2026\" pauses sound finished to a VAD, and the bot jumps in before \"kar dunga\" lands. VAD hears silence, not meaning Released an end-of-turn (EOU) detector fine-tuned from Qwen2.5-0.5B scores the live transcript and predicts whether the caller has finished \u2022 Languages: English,\u2026",
+    "score": 3.735,
+    "matched": [
+      "fine-tun*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.235,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Stylome bot is useless spam and should be removed",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T22:24:14+00:00",
+    "summary": "I've recently been seeing comments everywhere from the Stylome bot, which is also a mod in this sub. Every time it pops up to declare a comment was AI written I've gone in to check its confidence level, and it's always low. I decided to do a few tests myself and have Gemini rewrite some of my comments, Stylome said they were all human written with equally low confidence. What is the point of this\u2026",
+    "score": 3.617,
+    "matched": [
+      "ai",
+      "gemini"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.017,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-07T15:43:45+00:00",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [\u2026]",
+    "score": 3.583,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.183,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Best AI Coding Builder Agent LLM for my legend GTX 1080Ti 11 GB ? [32 GB RAM]",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqdndl/best_ai_coding_builder_agent_llm_for_my_legend/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T18:43:48+00:00",
+    "summary": "im looking for an llm to act as the builder agent. a separate planner agent writes the strong plan using powerful API model, and the builder executes it as the plan (so to make coding in fast time and save moeny in the powerful api) hardware and software: CPU: i7 10700K GPU: GTX 1080 Ti 11GB System RAM: 32 GB ddr4 3600Mhz OS: Debian 13 Backend: llama.cpp with Vulkan. CUDA is unstable on my 1080\u2026",
+    "score": 3.458,
+    "matched": [
+      "ai",
+      "llm",
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.558,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anyone running local AI on 16GB vram?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T23:00:19+00:00",
+    "summary": "Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram? I'm currently setting up my system and I want to have a helper agent for daily tasks, a research agent to help me research topics, and a developer agent to help me with development. I already tried some harnesses like Goose, Hermes Agent and OpenCode, but I haven't really managed to get\u2026",
+    "score": 3.392,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.092,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "url": "https://hunch.net/?p=13764006",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-11-07T18:02:17+00:00",
+    "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 477 # Comments: 290",
+    "score": 3.372,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.472,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When should I use a locally hosted decision model to decrease latency",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqilga/when_should_i_use_a_locally_hosted_decision_model/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T22:21:47+00:00",
+    "summary": "I\u2019m running a sandbox simulation with a fleet of 50-100 agents on OpenClaw, and to minimize LLM calls, I use a decision model to judge whether an agent needs to respond to a signal. I\u2019m currently using Jev, and with the network latency it takes about 0.5-2 seconds for a response, and I\u2019m wondering if I can reduce this latency with a smaller, locally run decision model. I\u2019ve heard of the various\u2026",
+    "score": 3.312,
+    "matched": [
+      "llm"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.012,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-07T15:50:00+00:00",
+    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [\u2026]",
+    "score": 3.296,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.196,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI broke the cybersecurity world. What\u2019s next?",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-07T15:00:00+00:00",
+    "summary": "Today, I\u2019m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I\u2019ve always enjoyed talking to Alex because he\u2019s so direct, and you\u2019re going to hear him say [\u2026]",
+    "score": 3.192,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.092,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T18:16:41+00:00",
+    "summary": "Hey r/LocalLLaMA ! I made this quick demo of how Observer can run local models to monitor anything with your phone! These are some crazy things I've monitored: When someone that's not me, approaches my car, send me a picture. When a bird is on the bird's nest, send me a telegram with the picture. When my washing machine is on the rinse cycle, call me. When my dog finishes eating their food,\u2026",
+    "score": 3.102,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.502,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What is best local LLMs for strategic reasoning?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqegfj/what_is_best_local_llms_for_strategic_reasoning/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T19:17:56+00:00",
+    "summary": "Hey guys, I work with AI safety and much of our work is with huge models like Opus, Astra,... Recently we carried out a series of experiments and found out that models like Sonnet 4.5 and GLM 5.3 are able to notice when their reasoning is being monitored and change their strategies to bypass the monitoring and security systems. Paper link: https://arxiv.org/pdf/2610.40946 To go deeper, we need to\u2026",
+    "score": 2.929,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.629,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Valet: use local LLMs to manage your homelab (open source)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T14:32:04+00:00",
+    "summary": "My favourite use case for local LLMs is running my homelab, because everything stays private (and it helps me justify the GPU lol) I wanted one dashboard to help me manage all of my services, so I made Valet. Live demo: https://demo.askvalet.dev Valet has a chat agent that works with any local or hosted model. It integrates with 185+ services and supports custom plugins. You can ask it to pause\u2026",
+    "score": 2.634,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.034,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an \u00b7 Pull Request #30966 \u00b7 ggml-org/llama.cpp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T16:25:06+00:00",
+    "summary": "This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]",
+    "score": 2.569,
+    "matched": [
+      "llama"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.269,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Also experienced the Qwen3.8-Flash-Next URL issue",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T17:15:04+00:00",
+    "summary": "I was asking QFN (4.18bpw EXL3 quant via Pi) to help refactor a neovim configuration, and saw that it tried to find API keys and fetch an aliyuncs URL before I stopped it. I'm not trying to start any arguments, nor am I assuming any malicious intent, but I found this a bit concerning after reading other's stories. submitted by /u/tacticaltweaker [link] [comments]",
+    "score": 2.373,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.373,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Effects of KV Cache Quantization on Qwen3.8 27B",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T17:09:51+00:00",
+    "summary": "KV cache quantization has been a hotly-debated topic for this community for some time, with opinions ranging from \"never quantize\" to \"4 bit is fine\". Since the anecdotal evidence is rather inconsistent, I decided to quantify how much KV cache quantization affects the model through KLD, which is a good measure of how the model's output distribution is changed. I tested 35 weight quants across\u2026",
+    "score": 2.362,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.362,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "testing Qoduck (Maybe qwen4) on Qoder",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T16:28:52+00:00",
+    "summary": "I noticed that it has native image and video generation. submitted by /u/Consistent_Berry_324 [link] [comments]",
+    "score": 2.277,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.277,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T15:48:50+00:00",
+    "summary": "Parallel speculative drafting generates multiple candidates in one backbone pass, but independent token selection can produce inconsistent continuations that shorten the accepted prefix. Existing methods mostly leave conditional decoding to a lightweight module after the backbone, which limits the flow of predecessor information to successors. Our analysis of DFlash shows that early positions\u2026",
+    "score": 2.194,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.194,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T15:18:29+00:00",
+    "summary": "I followed up on the post about running Qwen 3.8 Flash Next with 8 GB VRAM and 32 GB RAM. I wanted to see how it does on my Steam Machine. Setup Valve Steam Machine, stock SteamOS 3.9.5, AMD Navi 33 with 8 GB, 32 GB RAM, NVMe Stock Strata terminal 0.2.9 (engine 0.1.55, HIP package), Gyro S TQ1_0 128K context, q4_0 KV, no vision, MTP off, served on the LAN Results (Strata's own timing line from\u2026",
+    "score": 2.13,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.13,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I haven't laughed that hard in a longtime",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq88vc/i_havent_laughed_that_hard_in_a_longtime/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-07T14:55:24+00:00",
+    "summary": "I set up my Hermes to ingest Sillytavern cards. Downloaded some random assistant, \"Kailee\" on characterhub. \"An assistant with an attitude\". With QFN q3_xxs it's insane the level of intelligence, understanding and humor it was capable of. At one point my stomach hurt from laughing, I didn't even get to test my next idea of a Jesus hermes agent because I was having too much fun with this one. This\u2026",
+    "score": 2.082,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 0.082,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
