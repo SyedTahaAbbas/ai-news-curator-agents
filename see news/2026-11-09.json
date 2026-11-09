@@ -1,0 +1,717 @@
+[
+  {
+    "title": "Disney and Adobe are building generative AI tools together",
+    "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T15:38:56+00:00",
+    "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to [\u2026]",
+    "score": 6.777,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.777,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T16:56:54+00:00",
+    "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "score": 6.539,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.939,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Using latent-agent swarms for math discovery and optimization [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-09T15:30:50+00:00",
+    "summary": "Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iteratively improve it. So it's called \" evolve \". But AlphaEvolve runs on Gemini models. Similar open-source implementations are also usually slow and expensive. We tried to make it faster, cheaper, and\u2026",
+    "score": 6.46,
+    "matched": [
+      "llm",
+      "gemini",
+      "deepmind"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.76,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jonathan Kanter is using AI to take on Big Tech",
+    "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T14:30:00+00:00",
+    "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a [\u2026]",
+    "score": 6.333,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.633,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T17:05:43+00:00",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a\u2026",
+    "score": 6.258,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.958,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T16:12:28+00:00",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "score": 6.147,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.847,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Innovating with AI in the special chemicals industry",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T13:00:00+00:00",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster,\u2026",
+    "score": 6.046,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.446,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trump\u2019s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T15:50:38+00:00",
+    "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody [\u2026]",
+    "score": 5.901,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.801,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T15:23:20+00:00",
+    "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+    "score": 5.844,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.744,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-11-09T15:05:57+00:00",
+    "summary": "",
+    "score": 5.708,
+    "matched": [],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.708,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T14:00:00+00:00",
+    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "score": 5.571,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.571,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Hold up \u2014 I had a great time talking to the RIAA guy",
+    "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T15:30:00+00:00",
+    "summary": "Today, I\u2019m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone\u2019s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set [\u2026]",
+    "score": 5.558,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.758,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+    "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-11-09T08:00:53+00:00",
+    "summary": "Korea\u2019s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [\u2026]",
+    "score": 5.423,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.823,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-11-09T12:34:29+00:00",
+    "summary": "",
+    "score": 5.393,
+    "matched": [],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.393,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language",
+    "url": "https://arxiv.org/abs/2611.09222",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09222v1 Announce Type: new Abstract: Benchmarks for open-ended generation often rely on large language model (LLM) judges, whose reliability in low-resource languages is uncertain. We introduce Khmer PFGen-Bench, to our knowledge the first judge-free benchmark for multi-sentence answers to questions composed directly in Khmer, a low-resource language. Khmer PFGen-Bench adapts the\u2026",
+    "score": 5.346,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Seeing vs. Counting: Complexity Twins Show Where Multimodal LLMs Fail on Diagrams",
+    "url": "https://arxiv.org/abs/2611.08998",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.08998v1 Announce Type: cross Abstract: When a multimodal LLM miscounts in a diagram, does it fail at seeing or at counting? Existing visual graph and puzzle benchmarks vary visual density and algorithmic hardness together, confounding the two. We pair counting questions about the same drawing that sit in different counting-complexity classes, such as its spanning trees (a determinant)\u2026",
+    "score": 5.346,
+    "matched": [
+      "llm",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T14:30:56+00:00",
+    "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+    "score": 5.335,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.635,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-08T22:54:50+00:00",
+    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [\u2026]",
+    "score": 5.285,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.685,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-11-09T14:00:01+00:00",
+    "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week\u2019s Conference on Robot Learning (CoRL) in [\u2026]",
+    "score": 5.271,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.571,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Does Reasoning Improve Psychological Depth in Large Language Models?",
+    "url": "https://arxiv.org/abs/2611.09061",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09061v1 Announce Type: new Abstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of reader experience. We tested this assumption through the lens of psychological depth in short stories.\u2026",
+    "score": 5.046,
+    "matched": [
+      "generative",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AlienBench: A Benchmark of Structural Novelty in Language Model Outputs",
+    "url": "https://arxiv.org/abs/2611.09094",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09094v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for creative tasks such as writing, design, and idea generation. For these uses, it matters whether a model's ideas depart from familiar examples or stay close to them. Novelty is one standard measure of creativity, and current creativity evaluations ask human experts or LLM judges to rate how novel\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PhoPunct: A Large-Scale Benchmark of Transformer Architectures for Vietnamese Punctuation Restoration",
+    "url": "https://arxiv.org/abs/2611.09107",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09107v1 Announce Type: new Abstract: Vietnamese punctuation restoration is often evaluated on relatively small benchmarks, limiting conclusions about how architectural choices scale with data volume. We present a controlled benchmark on News and Novels corpora containing 22.1 million labeled tokens (19.9M News and 2.2M Novels). We evaluate 17 architectures formed from four pretrained\u2026",
+    "score": 5.046,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "KLEAR: Knowledge-Matched LLM Evaluation in Korean across Application Requirements via Controlled Benchmark Transformation",
+    "url": "https://arxiv.org/abs/2611.09223",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09223v1 Announce Type: new Abstract: Existing Korean benchmarks for Large Language Models (LLMs) evaluate performance across diverse knowledge domains, but their accuracy scores cannot distinguish whether incorrect responses arise from a lack of required knowledge or a failure to apply that knowledge correctly. Our analysis of existing Korean benchmarks reveals that most questions can\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents",
+    "url": "https://arxiv.org/abs/2611.09516",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09516v1 Announce Type: new Abstract: Real-time Voice AI agents must separate the active user from intelligible background speech that survives conventional noise suppression. Background sources include television audio, family members, and colleagues. Production denoisers remove non-stationary environmental noise effectively. Background speech shares the spectral characteristics of the\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How Much Conversation History Does an AI Agent Need?",
+    "url": "https://arxiv.org/abs/2611.09662",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09662v1 Announce Type: new Abstract: How does using less conversational history change reader-token use and benchmark scores? We examine this question on 1,100 BEAM questions. We held the retrieval ranking and reader constant across five fixed passage budgets, and mean assigned scores rose as the passage budget grew. The score gain per additional token became smaller at the upper\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice",
+    "url": "https://arxiv.org/abs/2610.42039",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2610.42039v1 Announce Type: cross Abstract: Hundreds of millions of people now ask large language model (LLM) chatbots for health advice, which raises a question that is simple to pose and hard to answer: does everyone get the same advice? We audit six widely deployed LLMs from four providers on smoking cessation, a domain with codified clini- cal guidance and substantial public-health\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Taxonomy-Driven Synthetic Dataset for Retrieval Effectiveness and Fairness Evaluation in Hiring",
+    "url": "https://arxiv.org/abs/2611.09178",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09178v1 Announce Type: cross Abstract: While machine learning hiring tools are ubiquitous, the need for privacy regulations and commercial sensitivity makes public benchmarking legally complex. We address this challenge by introducing a taxonomy-driven, fully synthetic HR dataset and benchmark to simultaneously evaluate retrieval effectiveness and algorithmic fairness. Grounded in 660K\u2026",
+    "score": 5.046,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective",
+    "url": "https://arxiv.org/abs/2611.09326",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09326v1 Announce Type: cross Abstract: Foundation models are increasingly deployed as agentic systems that perceive context and act autonomously, raising the need to evaluate their moral behavior as active decision-makers. Existing benchmarks, however, largely ask models to judge human actions from third-person textual vignettes, leaving untested how models behave when they themselves\u2026",
+    "score": 5.046,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory",
+    "url": "https://arxiv.org/abs/2611.09721",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09721v1 Announce Type: cross Abstract: LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session tasks. However, memory introduces a critical attack surface. Malicious instructions encountered in one session may be stored and propagated through memory before being retrieved and acted upon in later sessions. Because memory systems differ in how\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AblationBench: Evaluating Automated Planning of Ablations in Empirical AI Research",
+    "url": "https://arxiv.org/abs/2507.08038",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2507.08038v4 Announce Type: replace Abstract: Language model agents are increasingly used to automate scientific research, yet evaluating their scientific contributions remains a challenge. A key mechanism to obtain such insights is through ablation experiments. To this end, we introduce AblationBench, a benchmark suite for evaluating agents on ablation planning tasks in empirical AI\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
+    "url": "https://arxiv.org/abs/2604.28031",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2604.28031v3 Announce Type: replace Abstract: When researchers refine ideas with large language models over several turns, do the models preserve the original brief's constraints? We introduce DriftBench, a benchmark for constraint adherence in multi-turn LLM-assisted scientific ideation. It pairs 38 research briefs from 24 scientific domains, each with hard constraints and banned moves,\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2607.25959",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2607.25959v3 Announce Type: replace Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities disagree, how can we detect and explain the conflict? We study this problem as\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "retrieval augmented"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Whispers from the Neighbors: Rethinking Caption Consensus as Inference-Time Evidence for Vision-Language Retrieval",
+    "url": "https://arxiv.org/abs/2610.33798",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2610.33798v2 Announce Type: replace-cross Abstract: An image is rarely described only once. Retrieval benchmarks and many collections attach several captions to each picture, yet dual encoders still judge every image-caption pair in isolation. We ask what these neighboring captions contribute when a frozen encoder consults them at inference time. Fusing image similarity with similarity to\u2026",
+    "score": 5.046,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EACL 2027 Decisions Thread [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-09T15:52:24+00:00",
+    "summary": "(Will be out on thursday) submitted by /u/Dry_Theme_7508 [link] [comments]",
+    "score": 5.005,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.805,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Authors Can Defend Against AI Allegations With \u2018Paper Trail\u2019 Tools. Is It Enough?",
+    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-09T11:00:00+00:00",
+    "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+    "score": 4.896,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.196,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
