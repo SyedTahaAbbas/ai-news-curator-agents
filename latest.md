@@ -1,185 +1,189 @@
-# AI News Curator - Monday, 09 November 2026
+# AI News Curator - Tuesday, 10 November 2026
 
-*35 stories from the last 24 hours. Generated 2026-11-09 17:26 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-10 15:33 UTC.*
 
 ## Labs & Releases
 
-### [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan)
-`Hugging Face` · 09 Nov 15:05 UTC · score 5.708
+### [Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)
+`OpenAI` · 10 Nov 12:00 UTC · score 7.456
 
-### [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](https://blogs.nvidia.com/blog/korean-startup-investments-msit/)
-`NVIDIA` · 09 Nov 08:00 UTC · score 5.423
+OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
 
-Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with \[…\]
+### [Google Cloud launches Gemini for healthcare.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/)
+`Google AI` · 10 Nov 13:00 UTC · score 7.181
 
-### [Your Experts Have Partners. There's HOPE for Keeping Them Together](https://huggingface.co/blog/amazon/higher-order-pruning-experts)
-`Hugging Face` · 09 Nov 12:34 UTC · score 5.393
+Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.
 
-### [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/)
-`NVIDIA` · 09 Nov 14:00 UTC · score 5.271
+### [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](https://deepmind.google/blog/introducing-alphaproof-code/)
+`Google DeepMind` · 10 Nov 12:02 UTC · score 7.161
 
-Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in \[…\]
+AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.
+
+### [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/)
+`Google AI` · 10 Nov 14:00 UTC · score 7.006
+
+Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.
+
+### [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)
+`OpenAI` · 10 Nov 09:00 UTC · score 6.781
+
+New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
+
+### [Work at the Frontier: AI’s effect on freelance work](https://openai.com/index/ai-effect-on-freelance-work)
+`OpenAI` · 10 Nov 07:00 UTC · score 6.531
+
+New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
 
 ## Industry & Press
 
-### [Disney and Adobe are building generative AI tools together](https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership)
-`The Verge AI` · 09 Nov 15:38 UTC · score 6.777
+### [DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"](https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/)
+`Ars Technica AI` · 10 Nov 15:00 UTC · score 7.232
 
-The Walt Disney Company has teamed up with Adobe to develop proprietary "artist-led" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to \[…\]
+The new model is up to twice as successful at some tasks.
 
-### [Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)
-`TechCrunch AI` · 09 Nov 16:56 UTC · score 6.539
+### [Hands-on with Ring’s new AI drone camera for your home](https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot)
+`The Verge AI` · 10 Nov 13:30 UTC · score 7.043
 
-Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.
+Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced \[…\]
 
-### [Jonathan Kanter is using AI to take on Big Tech](https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech)
-`The Verge AI` · 09 Nov 14:30 UTC · score 6.333
+### [Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns](https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/)
+`TechCrunch AI` · 10 Nov 13:00 UTC · score 6.881
 
-When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a \[…\]
+Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.
 
-### [Nancy Pelosi’s replacement is ready to regulate AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)
-`MIT Technology Review AI` · 09 Nov 17:05 UTC · score 6.258
+### [Adobe is going all in on agentic AI](https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates)
+`The Verge AI` · 10 Nov 14:00 UTC · score 6.806
 
-As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…
+Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change \[…\]
 
-### [Medium’s new TK app brings AI assistance directly into the writing process](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/)
-`TechCrunch AI` · 09 Nov 16:12 UTC · score 6.147
+### [Photoshop, Lightroom, and Premiere are making it easier to remove things](https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates)
+`The Verge AI` · 10 Nov 14:00 UTC · score 6.806
 
-Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.
+Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI \[…\]
 
-### [Innovating with AI in the special chemicals industry](https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/)
-`MIT Technology Review AI` · 09 Nov 13:00 UTC · score 6.046
+### [After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era](https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/)
+`TechCrunch AI` · 10 Nov 14:00 UTC · score 6.706
 
-As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster,…
+Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.
 
-### [Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec](https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai)
-`The Verge AI` · 09 Nov 15:50 UTC · score 5.901
+### [Meta’s AI agent Muse lands on Apple Watch and Android Wear OS](https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/)
+`TechCrunch AI` · 10 Nov 15:29 UTC · score 6.292
 
-Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, "I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed." He claimed the DOJ is managing that risk, saying, "We had a situation where somebody \[…\]
+Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.
 
-### [Nvidia CEO's affair becomes a national security problem](https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/)
-`Ars Technica AI` · 09 Nov 15:23 UTC · score 5.844
+### [Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/)
+`TechCrunch AI` · 10 Nov 14:05 UTC · score 6.116
 
-Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.
+Adobe is taking on Figma with a new prototype builder tool in Firefly.
 
-### [Automattic debuts a platform to deploy vibe-coding apps amid a changing internet](https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/)
-`TechCrunch AI` · 09 Nov 14:00 UTC · score 5.571
+### [Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion](https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/)
+`TechCrunch AI` · 10 Nov 14:01 UTC · score 6.109
 
-Automattic aims to compete with the likes of Lovable with Spacefast.
+The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.
 
-### [Hold up — I had a great time talking to the RIAA guy](https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music)
-`The Verge AI` · 09 Nov 15:30 UTC · score 5.558
+### [Spotify’s AI DJ gets new voices, personalities, and an option for less chatter](https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/)
+`TechCrunch AI` · 10 Nov 14:00 UTC · score 6.106
 
-Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a copyright lawyer, which set \[…\]
+Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.
 
-### [Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year](https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/)
-`Wired AI` · 09 Nov 14:30 UTC · score 5.335
+### [Anthropic targets $1.4 trillion IPO](https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion)
+`The Verge AI` · 10 Nov 14:06 UTC · score 5.92
 
-The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.
+Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Street Journal reports \[…\]
 
-### [Here’s the full text of Jensen Huang’s memo to Nvidia](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia)
-`The Verge AI` · 08 Nov 22:54 UTC · score 5.285
+### [Ukraine’s fiber-optic drones get squeezed by AI data center demand](https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/)
+`Ars Technica AI` · 10 Nov 12:15 UTC · score 5.688
 
-On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my \[…\]
+Ukraine competes with Russia and data centers for China’s optical fiber supply.
 
-### [Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?](https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/)
-`Wired AI` · 09 Nov 11:00 UTC · score 4.896
+### [This New Linux-Based Desktop Operating System Is Built for AI Nerds](https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/)
+`Wired AI` · 10 Nov 14:00 UTC · score 5.506
 
-As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.
+Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.
+
+### [Otter AI can now follow conversations across 30+ languages](https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/)
+`TechCrunch AI` · 10 Nov 07:00 UTC · score 5.231
+
+Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.
+
+### [Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers](https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/)
+`Wired AI` · 10 Nov 11:00 UTC · score 5.131
+
+The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.
+
+### [The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are](https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/)
+`Wired AI` · 10 Nov 11:00 UTC · score 5.131
+
+The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.
 
 ## Research
 
-### [Khmer PFGen-Bench: Building a Judge-Free Benchmark for Open-Ended Generation in a Low-Resource Language](https://arxiv.org/abs/2611.09222)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.346
+### [Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP](https://arxiv.org/abs/2611.08639)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.09222v1 Announce Type: new Abstract: Benchmarks for open-ended generation often rely on large language model (LLM) judges, whose reliability in low-resource languages is uncertain. We introduce Khmer PFGen-Bench, to our knowledge the first judge-free benchmark for multi-sentence answers to questions composed directly in Khmer, a low-resource language. Khmer PFGen-Bench adapts the…
+arXiv:2611.08639v1 Announce Type: new Abstract: Safety benchmarks for large language models (LLMs) commonly use multiple-choice question (MCQ) format. However, prior studies documented that MCQ format reduces refusal rates, which may significantly affect the safety behavior of the model. We provide a first mechanistic explanation of this effect on the Weapons of Mass Destruction Proxy (WMDP)…
 
-### [Seeing vs. Counting: Complexity Twins Show Where Multimodal LLMs Fail on Diagrams](https://arxiv.org/abs/2611.08998)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.346
+### [Language, Not Code Abstraction: Natural-language Training Shapes Brain-aligned Geometry](https://arxiv.org/abs/2611.09027)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.08998v1 Announce Type: cross Abstract: When a multimodal LLM miscounts in a diagram, does it fail at seeing or at counting? Existing visual graph and puzzle benchmarks vary visual density and algorithmic hardness together, confounding the two. We pair counting questions about the same drawing that sit in different counting-complexity classes, such as its spanning trees (a determinant)…
+arXiv:2611.09027v1 Announce Type: new Abstract: Code-trained language models produce positive brain scores, which raises the question of whether abstract structure learned from programming languages can substitute for natural-language training. We trained 25 GPT-2-small models on TinyStories, Python, C functions, x86-64 assembly, and the corresponding machine code, and scored them using a shared…
 
-### [Does Reasoning Improve Psychological Depth in Large Language Models?](https://arxiv.org/abs/2611.09061)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
+### [The Invisible Gap: Romanized Indic Generation Fails Where Automatic Metrics Succeed](https://arxiv.org/abs/2611.09085)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.09061v1 Announce Type: new Abstract: Benchmark gains from reasoning-enhanced large language models encourage the assumption that these models should broadly perform better on complex generative tasks, but this remains underexplored in open-ended, creative domains shaped by nuances of reader experience. We tested this assumption through the lens of psychological depth in short stories.…
+arXiv:2611.09085v1 Announce Type: new Abstract: Hundreds of millions of Indians communicate with digital systems in romanized Latin characters -- typing "aap kaise hain" rather than native script -- yet romanized Indic generation is absent from NLP benchmarks and evaluation frameworks. We demonstrate that automatic metrics (BGE-M3, BERTScore) systematically misrepresent the quality of romanized…
 
-### [AlienBench: A Benchmark of Structural Novelty in Language Model Outputs](https://arxiv.org/abs/2611.09094)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
+### [MARS: Training Multilingual Search Agents for Retriever-Free Evidence Acquisition](https://arxiv.org/abs/2611.09090)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.09094v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for creative tasks such as writing, design, and idea generation. For these uses, it matters whether a model's ideas depart from familiar examples or stay close to them. Novelty is one standard measure of creativity, and current creativity evaluations ask human experts or LLM judges to rate how novel…
+arXiv:2611.09090v1 Announce Type: new Abstract: Existing multilingual retrieval-augmented generation relies heavily on learned retrievers and similarity-based ranking from multilingual collections, which are vulnerable to cross-lingual retrieval errors and indexing overhead. In this paper, we explore retriever-free multilingual search, where the model directly interacts with raw corpora through…
 
-### [PhoPunct: A Large-Scale Benchmark of Transformer Architectures for Vietnamese Punctuation Restoration](https://arxiv.org/abs/2611.09107)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
+### [On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish](https://arxiv.org/abs/2611.09506)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.09107v1 Announce Type: new Abstract: Vietnamese punctuation restoration is often evaluated on relatively small benchmarks, limiting conclusions about how architectural choices scale with data volume. We present a controlled benchmark on News and Novels corpora containing 22.1 million labeled tokens (19.9M News and 2.2M Novels). We evaluate 17 architectures formed from four pretrained…
+arXiv:2611.09506v1 Announce Type: new Abstract: We study the effectiveness and robustness of open-weight large language models (LLMs) for Danish offensive language detection, an underexplored low-resource task. We evaluate four model families (Llama, Mistral, Gemma, and Qwen) across eleven prompting strategies spanning five design categories, cross-prompt generalization, Danish orthographic…
 
-### [KLEAR: Knowledge-Matched LLM Evaluation in Korean across Application Requirements via Controlled Benchmark Transformation](https://arxiv.org/abs/2611.09223)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
+### [Structure is in the zoom: probing neural symmetry through dimensionality scaling](https://arxiv.org/abs/2611.08506)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.09223v1 Announce Type: new Abstract: Existing Korean benchmarks for Large Language Models (LLMs) evaluate performance across diverse knowledge domains, but their accuracy scores cannot distinguish whether incorrect responses arise from a lack of required knowledge or a failure to apply that knowledge correctly. Our analysis of existing Korean benchmarks reveals that most questions can…
+arXiv:2611.08506v2 Announce Type: cross Abstract: Scaling exponents of neural dimensionality are read as properties of the code, and used to compare representations and benchmark models against cortex. Yet one recording of 11,311 mouse V1 neurons gives 0.25, 0.30 or 0.35, depending only on how it is subsampled. We show that such an exponent measures the population and the probe together. We split…
 
-### [Benchmarking Speaker Embedders in the Sub-Second Regime for Real-Time Voice AI Agents](https://arxiv.org/abs/2611.09516)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
+### [Turkish Multimodal Video Fact-Checking: A New Dataset and a Comparison of Zero-Shot Agentic and Fine-Tuned Systems](https://arxiv.org/abs/2611.08651)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.09516v1 Announce Type: new Abstract: Real-time Voice AI agents must separate the active user from intelligible background speech that survives conventional noise suppression. Background sources include television audio, family members, and colleagues. Production denoisers remove non-stationary environmental noise effectively. Background speech shares the spectral characteristics of the…
+arXiv:2611.08651v1 Announce Type: cross Abstract: Video-based misinformation spreads rapidly on social media, but almost all existing fact-checking systems focus exclusively on English text. Tools for low-resource languages such as Turkish are severely limited. In this work, we present TeViD (Turkish Video Fact-checking Dataset), to the best of our knowledge the first multimodal video…
 
-### [How Much Conversation History Does an AI Agent Need?](https://arxiv.org/abs/2611.09662)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
+### [Dual-Stream LLM-Guided Reward Design for Reject-Inference-Aware Reinforcement Learning in E-Commerce Payment Fraud Detection](https://arxiv.org/abs/2611.08706)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2611.09662v1 Announce Type: new Abstract: How does using less conversational history change reader-token use and benchmark scores? We examine this question on 1,100 BEAM questions. We held the retrieval ranking and reader constant across five fixed passage budgets, and mean assigned scores rose as the passage budget grew. The score gain per additional token became smaller at the upper…
+arXiv:2611.08706v1 Announce Type: cross Abstract: Production fraud-detection models learn from a censored slice of their own traffic: transactions a legacy system blocked never receive fraud labels, so models train on a biased, approved-only distribution. We extend LLM-guided reward design, the framework of Qu et al. (2025) in which an LLM evolves the reward of a two-step REINFORCE fraud-blocking…
 
-### [Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice](https://arxiv.org/abs/2610.42039)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
+### [Patching the Blind Spots: Reversible LLM Rule Overlay for Frozen Fraud Detectors](https://arxiv.org/abs/2611.08714)
+`arXiv cs.CL` · 10 Nov 05:00 UTC · score 4.981
 
-arXiv:2610.42039v1 Announce Type: cross Abstract: Hundreds of millions of people now ask large language model (LLM) chatbots for health advice, which raises a question that is simple to pose and hard to answer: does everyone get the same advice? We audit six widely deployed LLMs from four providers on smoking cessation, a domain with codified clini- cal guidance and substantial public-health…
-
-### [A Taxonomy-Driven Synthetic Dataset for Retrieval Effectiveness and Fairness Evaluation in Hiring](https://arxiv.org/abs/2611.09178)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
-
-arXiv:2611.09178v1 Announce Type: cross Abstract: While machine learning hiring tools are ubiquitous, the need for privacy regulations and commercial sensitivity makes public benchmarking legally complex. We address this challenge by introducing a taxonomy-driven, fully synthetic HR dataset and benchmark to simultaneously evaluate retrieval effectiveness and algorithmic fairness. Grounded in 660K…
-
-### [ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective](https://arxiv.org/abs/2611.09326)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
-
-arXiv:2611.09326v1 Announce Type: cross Abstract: Foundation models are increasingly deployed as agentic systems that perceive context and act autonomously, raising the need to evaluate their moral behavior as active decision-makers. Existing benchmarks, however, largely ask models to judge human actions from third-person textual vignettes, leaving untested how models behave when they themselves…
-
-### [MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory](https://arxiv.org/abs/2611.09721)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
-
-arXiv:2611.09721v1 Announce Type: cross Abstract: LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session tasks. However, memory introduces a critical attack surface. Malicious instructions encountered in one session may be stored and propagated through memory before being retrieved and acted upon in later sessions. Because memory systems differ in how…
-
-### [AblationBench: Evaluating Automated Planning of Ablations in Empirical AI Research](https://arxiv.org/abs/2507.08038)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
-
-arXiv:2507.08038v4 Announce Type: replace Abstract: Language model agents are increasingly used to automate scientific research, yet evaluating their scientific contributions remains a challenge. A key mechanism to obtain such insights is through ablation experiments. To this end, we introduce AblationBench, a benchmark suite for evaluating agents on ablation planning tasks in empirical AI…
-
-### [Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation](https://arxiv.org/abs/2604.28031)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
-
-arXiv:2604.28031v3 Announce Type: replace Abstract: When researchers refine ideas with large language models over several turns, do the models preserve the original brief's constraints? We introduce DriftBench, a benchmark for constraint adherence in multi-turn LLM-assisted scientific ideation. It pairs 38 research briefs from 24 scientific domains, each with hard constraints and banned moves,…
-
-### [Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs](https://arxiv.org/abs/2607.25959)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
-
-arXiv:2607.25959v3 Announce Type: replace Abstract: Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities disagree, how can we detect and explain the conflict? We study this problem as…
-
-### [Whispers from the Neighbors: Rethinking Caption Consensus as Inference-Time Evidence for Vision-Language Retrieval](https://arxiv.org/abs/2610.33798)
-`arXiv cs.CL` · 09 Nov 05:00 UTC · score 5.046
-
-arXiv:2610.33798v2 Announce Type: replace-cross Abstract: An image is rarely described only once. Retrieval benchmarks and many collections attach several captions to each picture, yet dual encoders still judge every image-caption pair in isolation. We ask what these neighboring captions contribute when a frozen encoder consults them at inference time. Fusing image similarity with similarity to…
+arXiv:2611.08714v1 Announce Type: cross Abstract: In industrial tabular fraud classification, gradient-boosted trees remain state-of-the-art, but even a well-trained model has blind spots, and retraining the deployed model is not always safe. We propose a framework that patches such a model without modifying it: LLMs propose rules anchored on features the model underweights by SHAP, and the…
 
 ## Community
 
-### [Using latent-agent swarms for math discovery and optimization \[R\]](https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/)
-`r/MachineLearning` · 09 Nov 15:30 UTC · score 6.46
+### [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/)
+`Simon Willison` · 10 Nov 07:28 UTC · score 5.89
 
-Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 complex matrices, beating a record that had stood since 1969. The idea is to let an LLM write a program, score it, and iteratively improve it. So it's called " evolve ". But AlphaEvolve runs on Gemini models. Similar open-source implementations are also usually slow and expensive. We tried to make it faster, cheaper, and…
+Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: \[...\] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced…
 
-### [EACL 2027 Decisions Thread \[R\]](https://www.reddit.com/r/MachineLearning/comments/1xrv8mp/eacl_2027_decisions_thread_r/)
-`r/MachineLearning` · 09 Nov 15:52 UTC · score 5.005
+### [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/)
+`Simon Willison` · 09 Nov 23:58 UTC · score 5.553
 
-(Will be out on thursday) submitted by /u/Dry_Theme_7508 \[link\] \[comments\]
+Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it "solved two open problems in the physics of black holes", so clearly their internal benchmarks have become more ambitious! I've added the new models to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install…
+
+### [AI usage generates a fragile codebase](https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/)
+`Hacker News (AI, 100+ pts)` · 10 Nov 10:25 UTC · score 5.26
+
+Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 124 # Comments: 157
+
+### [Fable 5.2 just doubled the best Remote Labor Index score \[N\]](https://www.reddit.com/r/MachineLearning/comments/1xsldgu/fable_52_just_doubled_the_best_remote_labor_index/)
+`r/MachineLearning` · 10 Nov 12:14 UTC · score 5.086
+
+!\[img\](zv6dhr1i1s0i1) Remote Labor Index (RLI) measures the ability of AI to fully automate remote work: https://www.remotelabor.ai/ submitted by /u/we_are_mammals \[link\] \[comments\]
 
 ---
 
@@ -191,8 +195,10 @@ Last year Google DeepMind's AlphaEvolve found a faster way to multiply 4x4 compl
 - **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 64 days
-- ⚠️ VentureBeat AI has been unreachable for 64 days
-- ⚠️ r/artificial has been unreachable for 25 days
+- ⚠️ Import AI has been unreachable for 65 days
+- ⚠️ VentureBeat AI has been unreachable for 65 days
+- ⚠️ r/artificial has been unreachable for 26 days
+- ⚠️ arXiv cs.AI has been unreachable for 3 days
+- ⚠️ arXiv cs.LG has been unreachable for 3 days
 
 </details>
