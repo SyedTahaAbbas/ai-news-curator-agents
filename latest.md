@@ -1,200 +1,195 @@
-# AI News Curator - Thursday, 12 November 2026
+# AI News Curator - Friday, 13 November 2026
 
-*35 stories from the last 24 hours. Generated 2026-11-12 15:56 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-13 15:20 UTC.*
 
 ## Labs & Releases
 
-### [Holiday Extras is rethinking what it can build with Codex](https://openai.com/business/customer-stories/holidays-extras-codex)
-`OpenAI` · 12 Nov 09:30 UTC · score 6.194
+### [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
+`Hugging Face` · 13 Nov 14:05 UTC · score 6.444
 
-With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+### [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
+`NVIDIA` · 13 Nov 13:00 UTC · score 5.41
 
-### [Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration)
-`OpenAI` · 12 Nov 00:00 UTC · score 5.607
+From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI \[…\]
 
-OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
+### [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude)
+`OpenAI` · 12 Nov 20:00 UTC · score 4.883
 
-### [A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW](https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/)
-`NVIDIA` · 12 Nov 14:00 UTC · score 5.459
+Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
 
-Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales \[…\]
+### [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
+`Google DeepMind` · 12 Nov 18:00 UTC · score 4.635
 
-### [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
-`Google AI` · 11 Nov 18:00 UTC · score 5.057
+### [Google Search gets a major upgrade with Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/)
+`Google AI` · 12 Nov 18:00 UTC · score 4.233
 
-Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
-
-### [The Definitive Fine-Tuning Guide for 3D Generation Models](https://huggingface.co/blog/3d-lora-finetuning)
-`Hugging Face` · 12 Nov 00:00 UTC · score 4.307
+Rotating carousel of cards with text "Gemini 4 Hydrogen" "Now in Google Search" and examples from the Google Search UI
 
 ## Industry & Press
 
-### [Nvidia CEO Jensen Huang has resigned. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
-`The Verge AI` · 12 Nov 15:01 UTC · score 6.585
+### [Claude’s Duet agent is a little neurotic and surprisingly helpful](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on)
+`The Verge AI` · 13 Nov 14:00 UTC · score 6.533
 
-After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that \[…\]
+Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple \[…\]
 
-### [Nvidia CEO Jensen Huang resigns amid spy, affair scandals](https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns)
-`The Verge AI` · 12 Nov 13:53 UTC · score 6.443
+### [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
+`TechCrunch AI` · 12 Nov 18:39 UTC · score 6.415
 
-Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and \[…\]
+Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.
 
-### [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-`TechCrunch AI` · 12 Nov 14:30 UTC · score 6.42
+### [What’s really at stake in the Jensen Huang saga](https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast)
+`The Verge AI` · 13 Nov 14:47 UTC · score 6.332
 
-Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness \[…\]
 
-### [Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?](https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/)
-`TechCrunch AI` · 12 Nov 15:37 UTC · score 6.26
+### [Israel’s VCs see opportunity for challengers in Nvidia’s turmoil](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/)
+`TechCrunch AI` · 13 Nov 12:52 UTC · score 6.292
 
-Nvidia CFO Colette Kress is taking over for as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.
+Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.
 
-### [Norwest pushes deeper into AI with new $4B fund](https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/)
-`TechCrunch AI` · 12 Nov 15:18 UTC · score 6.22
+### [ElevenLabs’ new app combines meeting note-taking and dictation for teams](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
+`TechCrunch AI` · 13 Nov 14:44 UTC · score 5.927
 
-This is the investment firm's largest fund to date.
+ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.
 
-### [Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)
-`TechCrunch AI` · 12 Nov 15:02 UTC · score 6.187
+### [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow)
+`The Verge AI` · 13 Nov 12:00 UTC · score 5.683
 
-This is Fireworks' second data breach in as many months.
+Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If \[…\]
 
-### [Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead](https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang)
-`The Verge AI` · 12 Nov 15:48 UTC · score 6.082
+### [Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/)
+`TechCrunch AI` · 13 Nov 12:28 UTC · score 5.642
 
-Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation \[…\]
+Huang described Kress as a "deer in the headlights" during a meeting in summer.
 
-### [Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition](https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/)
-`TechCrunch AI` · 12 Nov 13:26 UTC · score 5.987
+### [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
+`TechCrunch AI` · 12 Nov 17:36 UTC · score 5.385
 
-The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.
+Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.
 
-### [Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395](https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/)
-`Ars Technica AI` · 12 Nov 14:50 UTC · score 5.962
+### [This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/)
+`Wired AI` · 13 Nov 11:45 UTC · score 5.252
 
-The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.
+Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.
 
-### [Meet Colette Kress, Nvidia’s New Interim CEO](https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/)
-`Wired AI` · 12 Nov 14:14 UTC · score 5.787
+### [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
+`TechCrunch AI` · 12 Nov 22:42 UTC · score 4.822
 
-Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.
+This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
 
-### [I reviewed the Apple HomeView, ask me anything](https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything)
-`The Verge AI` · 12 Nov 14:10 UTC · score 5.578
+### [Google faces calls for AI moratoriums in schools after Gemini pilot backlash](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/)
+`Ars Technica AI` · 12 Nov 18:57 UTC · score 4.454
 
-Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on \[…\]
+Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”
 
-### [Jensen Huang Resigns as Nvidia CEO](https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/)
-`Wired AI` · 12 Nov 13:58 UTC · score 5.453
+### [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
+`TechCrunch AI` · 12 Nov 19:11 UTC · score 4.381
 
-Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.
+Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
 
-### [Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently](https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/)
-`Wired AI` · 12 Nov 10:30 UTC · score 4.719
+### [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/)
+`Ars Technica AI` · 12 Nov 19:23 UTC · score 4.206
 
-The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.
+Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.
 
-### [Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/)
-`TechCrunch AI` · 12 Nov 03:13 UTC · score 4.709
+### [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
+`TechCrunch AI` · 12 Nov 22:22 UTC · score 4.18
 
-Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.
+Muse's AI can now place outbound calls to U.S. businesses — but it's not free.
 
-### [Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out](https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/)
-`Wired AI` · 12 Nov 10:15 UTC · score 4.688
+### [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
+`TechCrunch AI` · 12 Nov 19:27 UTC · score 4.116
 
-The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.
-
-### [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/)
-`TechCrunch AI` · 11 Nov 20:15 UTC · score 4.439
-
-The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure \[…\]
-
-### [How backlash and red tape continue to slow data centers post-Blue Wave](https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/)
-`TechCrunch AI` · 11 Nov 20:02 UTC · score 4.412
-
-The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure \[…\]
-
-### [Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)
-`TechCrunch AI` · 11 Nov 23:28 UTC · score 4.242
-
-As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.
-
-### [Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)
-`TechCrunch AI` · 11 Nov 23:17 UTC · score 4.218
-
-Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
+Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.
 
 ## Community
 
-### [After four years of development, are LLMs capable of writing high-quality prose?](https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/)
-`r/LocalLLaMA` · 12 Nov 12:09 UTC · score 5.726
+### [llama.cpp v1.0 is here 🦙](https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/)
+`r/LocalLLaMA` · 13 Nov 14:07 UTC · score 6.949
 
-I have been following the evolution of LLMs since the days of GPT-3.5, and I have been actively using local LLMs since the release of Gemma 2. I read a great deal, including this subreddit. I have performed QLoRA fine-tuning on my local machine many times, and I have also conducted full fine-tuning (FFT) training runs on RunPod. Hundreds of models-fine-tuned by well-known practitioners in…
+Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama desktop apps to lower the barrier of entry to local AI to few clicks, built-on llama.cpp. I will leave…
 
-### [Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim](https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/)
-`r/LocalLLaMA` · 12 Nov 13:56 UTC · score 5.05
+### [Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models](https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/)
+`r/LocalLLaMA` · 13 Nov 13:08 UTC · score 6.525
 
-submitted by /u/ShreckAndDonkey123 \[link\] \[comments\]
+Perplexity has released two new "decision models." These are general-purpose classifiers built from generative LLM backbones. You give them an input (the "state") and one or more questions, and they return a probability distribution over the answer options. They don't generate text token by token. Models pplx-decider-v1.3 : fine-tuned from Qwen3.8-27B. Needs about 49 GiB for the BF16 weights.…
 
-### [Edge0/Edge0-145B-q3k · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xuczw4/edge0edge0145bq3k_hugging_face/)
-`r/LocalLLaMA` · 12 Nov 13:39 UTC · score 5.014
+### [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+`Hacker News (AI, 100+ pts)` · 13 Nov 10:18 UTC · score 5.571
 
-Can somebody try this? Looks too good to be true. They use PLE / ngram table, as far as I understand. submitted by /u/AppealSame4367 \[link\] \[comments\]
+Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 375 # Comments: 321
 
-### [KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)](https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/)
-`r/LocalLLaMA` · 12 Nov 10:47 UTC · score 4.956
+### [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/)
+`Simon Willison` · 12 Nov 22:55 UTC · score 5.148
 
-hey folks, im Alish, an ml engineer from Nace (folks behind Drex, an open source decision family model that hit #1 in Artificial analysis in decision index 2.1). Recently my cto gave me task to optimize quants for qwen4, so i dialed my uni proffesor from UoT and span up my Fable 5.2 and we cooooooked. starting with mlx (gguf tommorow). It's a pareto frontier on quantization for accuracy/size for…
+Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00…
 
-### [The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.](https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/)
-`r/LocalLLaMA` · 12 Nov 03:49 UTC · score 4.685
+### [Technology flags, people verify, governments decide. Is that the right split for AI in public services?](https://www.reddit.com/r/artificial/comments/1xv59ne/technology_flags_people_verify_governments_decide/)
+`r/artificial` · 13 Nov 11:18 UTC · score 4.997
 
-With all of this fear mongering on the “dangers” of LLM’s, I see how using people’s ignorance and emotions on the subject can be used as a tool to limit and restrict the tool from the average person. My fear is that China and the US https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/ will use people’s lack of understanding of…
+Debates about AI in government services usually swing between two extremes: “automate everything” and “never let a machine near it.” The more useful question is where exactly the line should sit. One clear answer came from BLS International, which handles visa and consular services for governments in 100+ countries and has processed over 500 million applications. When it announced its AI…
 
-### [Alleged GeForce RTX 5090 with 96GB listed for sale in China](https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/)
-`r/LocalLLaMA` · 12 Nov 13:12 UTC · score 4.659
+### [inferencekit: open-source plugin to optimize any model on any hardware using coding agents](https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/)
+`r/LocalLLaMA` · 13 Nov 00:14 UTC · score 4.913
 
-submitted by /u/chemist_slime \[link\] \[comments\]
+KittenML just released inferencekit , a free opensource plugin to turn coding agents(Claude Code, Codex, OpenCode) into inference engineers for your hardware. Most models ship with inference tuned for whatever hardware the authors used, which is usually not what you have locally. The fastest path on a 3070 might be different from the fastest path on a Mac or a Radeon. inferencekit allows you to…
 
-### [chat : refactor gemma4 to build loose schema rules and clean up by aldehir · Pull Request #31915 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xu6td8/chat_refactor_gemma4_to_build_loose_schema_rules/)
-`r/LocalLLaMA` · 12 Nov 07:47 UTC · score 4.58
+### [I trained DiffusionGemma to be an abstract expressionist](https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/)
+`r/LocalLLaMA` · 13 Nov 11:48 UTC · score 4.859
 
-If you’ve ever tried agentic coding with Gemma and had tool calling issues, give it another try, in my case, it completely fixed Gemma submitted by /u/jacek2023 \[link\] \[comments\]
+DiffusionGemma, a text diffusion model built on a Gemma 4 backbone, can be adapted into a shitty image generation model. Maybe the ship sank? You may be asking yourself, "WTF, why would you want to do that?" And you would be right to ask. This is honestly kinda useless, but I still think it's pretty neat . Also, fair warning, being on a team of one means the project has been heavily — I'll be…
 
-### [Meet the people behind MOSS-Image, plus a few answers from their AMA here](https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/)
-`r/LocalLLaMA` · 12 Nov 11:27 UTC · score 4.438
+### [I thought AI would save me time. What a joke](https://www.reddit.com/r/artificial/comments/1xv3zzd/i_thought_ai_would_save_me_time_what_a_joke/)
+`r/artificial` · 13 Nov 10:03 UTC · score 4.539
 
-They say an anime model is in development, with plans for alpha channels and multi-character references. An editing model is also on the way. They also plan to keep the next model under Apache 2.0, if all goes as planned. submitted by /u/Physical_Hat4022 \[link\] \[comments\]
+A while ago, i was spending quite a bit of time on small tasks, like sorting meeting notes, making to-do lists and replying routine emails. I started using AI to help with some of that, from summarizing long documents with chatgpt to using anvita mate's workbench for meeting notes and email replies. It helped with few things, but it wasn't always smooth. Sometimes the notes missed important…
 
-### [huawei-csl/Qwen3.6-35B-A3B-MACaQ-R-GGUF · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xu7cyr/huaweicslqwen3635ba3bmacaqrgguf_hugging_face/)
-`r/LocalLLaMA` · 12 Nov 08:21 UTC · score 4.352
+### [Korea's tax accountant exam top scorer is facing "AI glasses" suspicion with no evidence.](https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/)
+`r/artificial` · 13 Nov 12:13 UTC · score 4.511
 
-arXiv : https://arxiv.org/abs/2611.10649 PDF : https://arxiv.org/pdf/2611.10649 GitHub : https://github.com/huawei-csl/MACaQ HuggingFace : https://huggingface.co/collections/huawei-csl/macaq Yesterday some of you were looking for model for this MACaQ. submitted by /u/pmttyji \[link\] \[comments\]
+This is all over Korean news this week. The top scorer on Korea’s tax accountant exam got 397.5/400 in the first round, 159 of 160 questions right. One of his perfect scores was in intro tax law, where the average across 16,856 candidates was 30.18/100 and 74.21% failed (under 40). You get roughly a minute per question. People online decided that’s not humanly possible and started saying he wore…
 
-### [DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results](https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/)
-`r/LocalLLaMA` · 12 Nov 00:50 UTC · score 4.311
+### [Artificial Analysis updated Qwen 3.8 Flash Next score as 29](https://www.reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next/)
+`r/LocalLLaMA` · 13 Nov 04:06 UTC · score 4.496
 
-My main AI machine is a 6x3090 128GB DDR4 Threadripper 3960x system. I probably spend more time trying to optimize it than actually using it but it has been fun. I tried a bunch of saturated benchmarks like Terminal Bench 2.1, AIME 2026 and the performance was similar to unquantized DSV4.1 Flash 1017. I really wanted to understand my 2.9bpw quant's performance. It takes hours to run some of these…
+Between GPT-6 Luna Max (28) and Claude Haiku 5.5 High (30). Comparing to other Qwen 3.8, the model is closer to max (34) than to 27B (20). https://artificialanalysis.ai/models/qwen3-8-flash-next submitted by /u/lionellee77 \[link\] \[comments\]
 
-### [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/)
-`Simon Willison` · 11 Nov 22:03 UTC · score 4.064
+### [Entre ChatGptPro | GeminiPro | CloudePro](https://www.reddit.com/r/artificial/comments/1xv8yck/entre_chatgptpro_geminipro_cloudepro/)
+`r/artificial` · 13 Nov 14:13 UTC · score 4.461
 
-Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is…
+Cuál de los 3 me recomiendan para generar un plan de contenido para Instagram y redes sociales? ¿Cuál creen que es la mejor forma de generar el promt? Muchas gracias Saludos submitted by /u/Deep-Emotion-2089 \[link\] \[comments\]
+
+### [Edge0-145B: Open-Source On-Device AI with 145B Parameters](https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/)
+`r/LocalLLaMA` · 13 Nov 01:25 UTC · score 4.161
+
+submitted by /u/BrightCandle \[link\] \[comments\]
+
+### [Will Claude Fable 5.2 and GPT-6 Astra make specialized robot models obsolete, or do robots still need their own VLAs, tactile encoders and world models?](https://www.reddit.com/r/artificial/comments/1xulg6i/will_claude_fable_52_and_gpt6_astra_make/)
+`r/artificial` · 12 Nov 19:01 UTC · score 4.161
+
+A claim I keep running into: now that frontier multimodal models score competitively on robot control benchmarks, specialized embodied models (touch encoders, VLAs, world models) will soon be unnecessary. I think the opposite is more likely. Anthropic's internal RoboDojo Sim runs put Fable 5.2's score at 64.9%, with Astra at 29.8% (the benchmark gives the model camera images). An academic…
+
+### [Google is asking](https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/)
+`r/LocalLLaMA` · 13 Nov 08:20 UTC · score 4.126
+
+I want a new Gemma https://x.com/OfficialLoganK/status/2121115028447531353 submitted by /u/jacek2023 \[link\] \[comments\]
+
+### [Claude can now take notes in Google Meet, with auto-join for recurring calls](https://www.reddit.com/r/artificial/comments/1xv0hd3/claude_can_now_take_notes_in_google_meet_with/)
+`r/artificial` · 13 Nov 06:23 UTC · score 4.081
+
+Anthropic began rolling out Claude Meetings to Team and Enterprise accounts on November 12, 2026. Claude shows up as a participant in Google Meet and can take notes and build a document during the call. Anthropic says to check that everyone is okay with transcription before adding Claude. On Team, the feature is on by default, and members can set it to join calls automatically. The meeting page…
 
 ---
 
 <details><summary>Feeds that did not respond</summary>
 
-- **Hacker News (AI, 100+ pts)** - HTTP 502
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
 - **arXiv cs.AI** - no entries
 - **arXiv cs.CL** - no entries
 - **arXiv cs.LG** - no entries
 - **r/MachineLearning** - HTTP 429
-- **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 67 days
-- ⚠️ VentureBeat AI has been unreachable for 67 days
-- ⚠️ r/artificial has been unreachable for 28 days
+- ⚠️ Import AI has been unreachable for 68 days
+- ⚠️ VentureBeat AI has been unreachable for 68 days
 
 </details>

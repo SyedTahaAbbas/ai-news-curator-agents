@@ -1,0 +1,722 @@
+[
+  {
+    "title": "llama.cpp v1.0 is here \ud83e\udd99",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-13T14:07:33+00:00",
+    "summary": "Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we\u2019ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama desktop apps to lower the barrier of entry to local AI to few clicks, built-on llama.cpp. I will leave\u2026",
+    "score": 6.949,
+    "matched": [
+      "ai",
+      "llama",
+      "hugging face"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.849,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-13T14:00:00+00:00",
+    "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [\u2026]",
+    "score": 6.533,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.833,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-13T13:08:10+00:00",
+    "summary": "Perplexity has released two new \"decision models.\" These are general-purpose classifiers built from generative LLM backbones. You give them an input (the \"state\") and one or more questions, and they return a probability distribution over the answer options. They don't generate text token by token. Models pplx-decider-v1.3 : fine-tuned from Qwen3.8-27B. Needs about 49 GiB for the BF16 weights.\u2026",
+    "score": 6.525,
+    "matched": [
+      "llm",
+      "generative",
+      "fine-tun*",
+      "open-weight*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.725,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face",
+    "category": "Labs & Releases",
+    "published": "2026-11-13T14:05:22+00:00",
+    "summary": "",
+    "score": 6.444,
+    "matched": [
+      "ai",
+      "llama"
+    ],
+    "feed_id": "hugging-face",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.844,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T18:39:23+00:00",
+    "summary": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "score": 6.415,
+    "matched": [
+      "ai",
+      "hugging face",
+      "open-weight*",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.415,
+      "keywords": 1.2,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What\u2019s really at stake in the Jensen Huang saga",
+    "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-13T14:47:16+00:00",
+    "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [\u2026]",
+    "score": 6.332,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.932,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-13T12:52:19+00:00",
+    "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "score": 6.292,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.692,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-13T14:44:48+00:00",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "score": 5.927,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.927,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Let\u2019s talk about Jensen Huang\u2019s many affairs!",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-13T12:00:00+00:00",
+    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [\u2026]",
+    "score": 5.683,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.583,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-13T12:28:23+00:00",
+    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "score": 5.642,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.642,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-11-13T10:18:13+00:00",
+    "summary": "Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 375 # Comments: 321",
+    "score": 5.571,
+    "matched": [
+      "ai",
+      "claude"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 2.371,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+    "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-11-13T13:00:42+00:00",
+    "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI [\u2026]",
+    "score": 5.41,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.71,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T17:36:40+00:00",
+    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "score": 5.385,
+    "matched": [
+      "ai",
+      "hugging face",
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.285,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+    "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-13T11:45:00+00:00",
+    "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+    "score": 5.252,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.552,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "llm-gemini 0.37",
+    "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-11-12T22:55:19+00:00",
+    "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00\u2026",
+    "score": 5.148,
+    "matched": [
+      "llm",
+      "gemini"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.948,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Technology flags, people verify, governments decide. Is that the right split for AI in public services?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv59ne/technology_flags_people_verify_governments_decide/",
+    "source": "r/artificial",
+    "category": "Community",
+    "published": "2026-11-13T11:18:35+00:00",
+    "summary": "Debates about AI in government services usually swing between two extremes: \u201cautomate everything\u201d and \u201cnever let a machine near it.\u201d The more useful question is where exactly the line should sit. One clear answer came from BLS International, which handles visa and consular services for governments in 100+ countries and has processed over 500 million applications. When it announced its AI\u2026",
+    "score": 4.997,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-artificial",
+    "breakdown": {
+      "feed_weight": 1.6,
+      "recency": 2.497,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "inferencekit: open-source plugin to optimize any model on any hardware using coding agents",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-13T00:14:11+00:00",
+    "summary": "KittenML just released inferencekit , a free opensource plugin to turn coding agents(Claude Code, Codex, OpenCode) into inference engineers for your hardware. Most models ship with inference tuned for whatever hardware the authors used, which is usually not what you have locally. The fastest path on a 3070 might be different from the fastest path on a Mac or a Radeon. inferencekit allows you to\u2026",
+    "score": 4.913,
+    "matched": [
+      "claude",
+      "inference"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.113,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-11-12T20:00:00+00:00",
+    "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "score": 4.883,
+    "matched": [
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.583,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I trained DiffusionGemma to be an abstract expressionist",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-13T11:48:37+00:00",
+    "summary": "DiffusionGemma, a text diffusion model built on a Gemma 4 backbone, can be adapted into a shitty image generation model. Maybe the ship sank? You may be asking yourself, \"WTF, why would you want to do that?\" And you would be right to ask. This is honestly kinda useless, but I still think it's pretty neat . Also, fair warning, being on a team of one means the project has been heavily \u2014 I'll be\u2026",
+    "score": 4.859,
+    "matched": [
+      "diffusion model"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.559,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T22:42:51+00:00",
+    "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "score": 4.822,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.922,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "source": "Google DeepMind",
+    "category": "Labs & Releases",
+    "published": "2026-11-12T18:00:50+00:00",
+    "summary": "",
+    "score": 4.635,
+    "matched": [
+      "gemini"
+    ],
+    "feed_id": "google-deepmind",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.335,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I thought AI would save me time. What a joke",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv3zzd/i_thought_ai_would_save_me_time_what_a_joke/",
+    "source": "r/artificial",
+    "category": "Community",
+    "published": "2026-11-13T10:03:00+00:00",
+    "summary": "A while ago, i was spending quite a bit of time on small tasks, like sorting meeting notes, making to-do lists and replying routine emails. I started using AI to help with some of that, from summarizing long documents with chatgpt to using anvita mate's workbench for meeting notes and email replies. It helped with few things, but it wasn't always smooth. Sometimes the notes missed important\u2026",
+    "score": 4.539,
+    "matched": [
+      "ai",
+      "chatgpt"
+    ],
+    "feed_id": "r-artificial",
+    "breakdown": {
+      "feed_weight": 1.6,
+      "recency": 2.339,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Korea's tax accountant exam top scorer is facing \"AI glasses\" suspicion with no evidence.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/",
+    "source": "r/artificial",
+    "category": "Community",
+    "published": "2026-11-13T12:13:12+00:00",
+    "summary": "This is all over Korean news this week. The top scorer on Korea\u2019s tax accountant exam got 397.5/400 in the first round, 159 of 160 questions right. One of his perfect scores was in intro tax law, where the average across 16,856 candidates was 30.18/100 and 74.21% failed (under 40). You get roughly a minute per question. People online decided that\u2019s not humanly possible and started saying he wore\u2026",
+    "score": 4.511,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-artificial",
+    "breakdown": {
+      "feed_weight": 1.6,
+      "recency": 2.611,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Artificial Analysis updated Qwen 3.8 Flash Next score as 29",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-13T04:06:06+00:00",
+    "summary": "Between GPT-6 Luna Max (28) and Claude Haiku 5.5 High (30). Comparing to other Qwen 3.8, the model is closer to max (34) than to 27B (20). https://artificialanalysis.ai/models/qwen3-8-flash-next submitted by /u/lionellee77 [link] [comments]",
+    "score": 4.496,
+    "matched": [
+      "ai",
+      "gpt",
+      "claude"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.596,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Entre ChatGptPro | GeminiPro | CloudePro",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv8yck/entre_chatgptpro_geminipro_cloudepro/",
+    "source": "r/artificial",
+    "category": "Community",
+    "published": "2026-11-13T14:13:24+00:00",
+    "summary": "Cu\u00e1l de los 3 me recomiendan para generar un plan de contenido para Instagram y redes sociales? \u00bfCu\u00e1l creen que es la mejor forma de generar el promt? Muchas gracias Saludos submitted by /u/Deep-Emotion-2089 [link] [comments]",
+    "score": 4.461,
+    "matched": [],
+    "feed_id": "r-artificial",
+    "breakdown": {
+      "feed_weight": 1.6,
+      "recency": 2.861,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T18:57:45+00:00",
+    "summary": "Families confront Google after teen\u2019s lawsuit labels Gemini a \u201csuicide coach.\u201d",
+    "score": 4.454,
+    "matched": [
+      "ai",
+      "gemini"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.454,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T19:11:00+00:00",
+    "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "score": 4.381,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.481,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "source": "Google AI",
+    "category": "Labs & Releases",
+    "published": "2026-11-12T18:00:00+00:00",
+    "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+    "score": 4.233,
+    "matched": [
+      "gemini"
+    ],
+    "feed_id": "google-ai",
+    "breakdown": {
+      "feed_weight": 3.6,
+      "recency": 0.333,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+    "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T19:23:03+00:00",
+    "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+    "score": 4.206,
+    "matched": [
+      "gemini"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.506,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Muse can now place calls to US businesses \u2014 if you pay",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T22:22:28+00:00",
+    "summary": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
+    "score": 4.18,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.88,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Edge0-145B: Open-Source On-Device AI with 145B Parameters",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-13T01:25:20+00:00",
+    "summary": "submitted by /u/BrightCandle [link] [comments]",
+    "score": 4.161,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.261,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Will Claude Fable 5.2 and GPT-6 Astra make specialized robot models obsolete, or do robots still need their own VLAs, tactile encoders and world models?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xulg6i/will_claude_fable_52_and_gpt6_astra_make/",
+    "source": "r/artificial",
+    "category": "Community",
+    "published": "2026-11-12T19:01:30+00:00",
+    "summary": "A claim I keep running into: now that frontier multimodal models score competitively on robot control benchmarks, specialized embodied models (touch encoders, VLAs, world models) will soon be unnecessary. I think the opposite is more likely. Anthropic's internal RoboDojo Sim runs put Fable 5.2's score at 64.9%, with Astra at 29.8% (the benchmark gives the model camera images). An academic\u2026",
+    "score": 4.161,
+    "matched": [
+      "gpt",
+      "claude",
+      "anthropic",
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "r-artificial",
+    "breakdown": {
+      "feed_weight": 1.6,
+      "recency": 0.461,
+      "keywords": 1.5,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google is asking",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-13T08:20:28+00:00",
+    "summary": "I want a new Gemma https://x.com/OfficialLoganK/status/2121115028447531353 submitted by /u/jacek2023 [link] [comments]",
+    "score": 4.126,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.126,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
+    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-12T19:27:45+00:00",
+    "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "score": 4.116,
+    "matched": [
+      "ai",
+      "gemini"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.516,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Claude can now take notes in Google Meet, with auto-join for recurring calls",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv0hd3/claude_can_now_take_notes_in_google_meet_with/",
+    "source": "r/artificial",
+    "category": "Community",
+    "published": "2026-11-13T06:23:10+00:00",
+    "summary": "Anthropic began rolling out Claude Meetings to Team and Enterprise accounts on November 12, 2026. Claude shows up as a participant in Google Meet and can take notes and build a document during the call. Anthropic says to check that everyone is okay with transcription before adding Claude. On Team, the feature is on by default, and members can set it to join calls automatically. The meeting page\u2026",
+    "score": 4.081,
+    "matched": [
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "r-artificial",
+    "breakdown": {
+      "feed_weight": 1.6,
+      "recency": 1.881,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
