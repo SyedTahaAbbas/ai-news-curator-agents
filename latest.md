@@ -1,183 +1,185 @@
-# AI News Curator - Friday, 13 November 2026
+# AI News Curator - Saturday, 14 November 2026
 
-*35 stories from the last 24 hours. Generated 2026-11-13 15:20 UTC.*
-
-## Labs & Releases
-
-### [llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem](https://huggingface.co/blog/ggml-org/llama-cpp-v1)
-`Hugging Face` · 13 Nov 14:05 UTC · score 6.444
-
-### [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/)
-`NVIDIA` · 13 Nov 13:00 UTC · score 5.41
-
-From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI \[…\]
-
-### [How Amplitude ships product improvements in 1–2 days with OpenAI](https://openai.com/business/customer-stories/amplitude)
-`OpenAI` · 12 Nov 20:00 UTC · score 4.883
-
-Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.
-
-### [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)
-`Google DeepMind` · 12 Nov 18:00 UTC · score 4.635
-
-### [Google Search gets a major upgrade with Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/)
-`Google AI` · 12 Nov 18:00 UTC · score 4.233
-
-Rotating carousel of cards with text "Gemini 4 Hydrogen" "Now in Google Search" and examples from the Google Search UI
+*35 stories from the last 24 hours. Generated 2026-11-14 14:05 UTC.*
 
 ## Industry & Press
 
-### [Claude’s Duet agent is a little neurotic and surprisingly helpful](https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on)
-`The Verge AI` · 13 Nov 14:00 UTC · score 6.533
+### [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo)
+`The Verge AI` · 14 Nov 12:00 UTC · score 5.838
 
-Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple \[…\]
+On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that \[…\]
 
-### [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
-`TechCrunch AI` · 12 Nov 18:39 UTC · score 6.415
+### [Beware the New AI-Fueled Ransomware Boom](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/)
+`Wired AI` · 14 Nov 13:00 UTC · score 5.563
 
-Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.
+Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.
 
-### [What’s really at stake in the Jensen Huang saga](https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast)
-`The Verge AI` · 13 Nov 14:47 UTC · score 6.332
+## Research
 
-One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness \[…\]
+### [When Evaluators of AI Agents Disagree: An Empirical Study of Native Scoring, LLM Judges, and Commit-Boundary Checks on tau2-bench](https://arxiv.org/abs/2611.14581)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 6.363
 
-### [Israel’s VCs see opportunity for challengers in Nvidia’s turmoil](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/)
-`TechCrunch AI` · 13 Nov 12:52 UTC · score 6.292
+arXiv:2611.14581v1 Announce Type: cross Abstract: Agentic workflows, in which a large language model (LLM) calls tools to read and write data, are evaluated in two ways. Benchmarks compare the final state against a gold answer. Deployed services have none; an LLM judge reads the transcript and decides. Practice treats the two as interchangeable. This paper measures whether they are. We ran 2,160…
 
-Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.
+### [Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training](https://arxiv.org/abs/2611.10045)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 6.363
 
-### [ElevenLabs’ new app combines meeting note-taking and dictation for teams](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
-`TechCrunch AI` · 13 Nov 14:44 UTC · score 5.927
+arXiv:2611.10045v2 Announce Type: replace Abstract: AI sycophancy, the tendency of large language models (LLMs) to flatter users and affirm their beliefs, can undermine accuracy and contribute to misinformation, dependence, and overconfidence. Although prior work has benchmarked sycophancy in released models and proposed mitigations, its origins during training remain poorly understood.…
 
-ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.
+### [Will It Survive? Deciphering the Fate of AI Agent-Authored Code in Open Source](https://arxiv.org/abs/2601.16809)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 6.063
 
-### [Let’s talk about Jensen Huang’s many affairs!](https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow)
-`The Verge AI` · 13 Nov 12:00 UTC · score 5.683
+arXiv:2601.16809v2 Announce Type: replace-cross Abstract: AI coding agents such as GitHub Copilot, OpenAI Codex and Devin now open pull requests (PRs) that are merged into open-source projects. Industry reports suggest that AI-assisted code is revised or reverted soon after it is written, which raises the concern that agent code is "disposable". However, little is known about what happens to…
 
-Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If \[…\]
+### [Shattered Compositionality: Counterintuitive Learning Dynamics of Transformers for Arithmetic](https://arxiv.org/abs/2601.22510)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 6.063
 
-### [Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/)
-`TechCrunch AI` · 13 Nov 12:28 UTC · score 5.642
+arXiv:2601.22510v3 Announce Type: replace-cross Abstract: Large language models (LLMs) often achieve strong benchmark accuracy yet remain brittle under small distribution shifts. While recent mechanistic studies reveal the discrepancy between LLMs and humans in skill compositions, the learning dynamics of skill acquisition and the role of data distributions remain elusive. In this study, we train…
 
-Huang described Kress as a "deer in the headlights" during a meeting in summer.
+### [RSI-PDEbench: A Benchmark for Self-Improving Agents in PDE Solving](https://arxiv.org/abs/2611.14949)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
-`TechCrunch AI` · 12 Nov 17:36 UTC · score 5.385
+arXiv:2611.14949v1 Announce Type: new Abstract: Identifying and solving partial differential equations (PDEs) from sampled solution data often requires substantial expert effort in equation discovery, coefficient estimation, and numerical solver configuration, especially under noise and distribution shifts. Can large language model (LLM) agents automate this workflow accurately and efficiently?…
 
-Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.
+### [Benchmarking AI risk behaviors](https://arxiv.org/abs/2611.16318)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/)
-`Wired AI` · 13 Nov 11:45 UTC · score 5.252
+arXiv:2611.16318v1 Announce Type: new Abstract: We evaluate LLM risk propensities across a range of contexts and task demands. We evaluate models for how risk averse or risk tolerant they are in various conditions, as well as how stable and consistent their behavior is across conditions. We present a toolkit for developing model risk profiles that can be used to predict model behavior and which…
 
-Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.
+### [Understanding the Effects of Multi-Agent Deliberation for Human-AI Decision-Making](https://arxiv.org/abs/2611.14901)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
-`TechCrunch AI` · 12 Nov 22:42 UTC · score 4.822
+arXiv:2611.14901v1 Announce Type: cross Abstract: Multi-agent deliberation (MAD), where multiple LLMs engage in structured discussion, improves AI performance on many benchmarks, but whether it helps humans make better decisions remains untested. We conduct two user studies on LLM-response-verification and fact-checking. We first compare MAD against common AI decision-support methods that isolate…
 
-This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
+### [Do Large Language Models Show Racial and Sex Bias in Pain Management? A Counterfactual Audit of GPT, Claude, Gemini, Llama, DeepSeek and Qwen](https://arxiv.org/abs/2611.14935)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [Google faces calls for AI moratoriums in schools after Gemini pilot backlash](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/)
-`Ars Technica AI` · 12 Nov 18:57 UTC · score 4.454
+arXiv:2611.14935v1 Announce Type: cross Abstract: Racial and ethnic minority patients receive less pain treatment than non-Hispanic White patients, and large language models (LLMs) used as medical AI could reproduce that bias. Prior audits tested a few proprietary models, stated race explicitly and rarely measured the models' own response instability. In exploratory, non-preregistered analyses,…
 
-Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”
+### [Indic-Task Gains and Regressions after Reinforcement Learning](https://arxiv.org/abs/2611.16228)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
-`TechCrunch AI` · 12 Nov 19:11 UTC · score 4.381
+arXiv:2611.16228v1 Announce Type: cross Abstract: We run reinforcement learning (RL) with GRPO across four environments, starting from a supervised fine-tuned 30B-A3B mixture-of-experts model covering English and eight Indic languages. We compare the model before and after RL across 34 benchmarks in one evaluation campaign. MATH improves by 36.07 points, and most Indic benchmarks also improve.…
 
-Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.
+### [Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination](https://arxiv.org/abs/2611.16661)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/)
-`Ars Technica AI` · 12 Nov 19:23 UTC · score 4.206
+arXiv:2611.16661v1 Announce Type: cross Abstract: Efficient batch execution of agent tasks is critical to LLM training and development workflows, including benchmark evaluation, synthetic-data generation, and RL rollouts. Since these tasks alternate between LLM inference and environment interaction, we present coordinated optimizations to reduce batch makespan, the time required to complete all…
 
-Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.
+### [Auditing AI peer reviewers: a benchmark on real scientific papers](https://arxiv.org/abs/2611.17052)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
-`TechCrunch AI` · 12 Nov 22:22 UTC · score 4.18
+arXiv:2611.17052v1 Announce Type: cross Abstract: LLM-based peer review is now used at production scale, but its evaluation remains limited. We introduce a benchmark that injects objective, localisable errors of four types (general issues, mathematics, numerics, citations) at three severity levels into real papers and measures each reviewer's detection rate by error type and severity, together…
 
-Muse's AI can now place outbound calls to U.S. businesses — but it's not free.
+### [Toward Agentic Retrieval-Augmented Generation for Enterprise Retail Workflows over Heterogeneous Data Sources](https://arxiv.org/abs/2610.25096)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-### [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
-`TechCrunch AI` · 12 Nov 19:27 UTC · score 4.116
+arXiv:2610.25096v2 Announce Type: replace Abstract: Enterprise retail workflows require agents to chain evidence across heterogeneous sources, from structured product and order records to unstructured inquiries and reviews, yet existing agentic RAG benchmarks rarely capture this challenge. To enable controlled evaluation of such workflows, we introduce RetailBridge, a compositional retail…
 
-Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.
+### [Data-Scarce, Multi-Granular, Multimodal: Benchmark Design for Biosynthetic Gene Clusters](https://arxiv.org/abs/2611.02275)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-## Community
+arXiv:2611.02275v2 Announce Type: replace Abstract: Biosynthetic gene clusters (BGCs) are co-located genes that encode the biosynthesis of specialized metabolites, an important source of antibiotics, anticancer agents, immunosuppressants, and agricultural bioactives. Deep learning, particularly self-supervised foundation models, has spurred interest in BGC sequence modeling, but evaluation has…
 
-### [llama.cpp v1.0 is here 🦙](https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/)
-`r/LocalLLaMA` · 13 Nov 14:07 UTC · score 6.949
+### [Winfree Oscillatory Neural Network](https://arxiv.org/abs/2605.20922)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama desktop apps to lower the barrier of entry to local AI to few clicks, built-on llama.cpp. I will leave…
+arXiv:2605.20922v2 Announce Type: replace-cross Abstract: Oscillations and synchronization are widely believed to play a fundamental role in representation and computation. However, existing machine learning approaches based on synchronization dynamics have largely been confined to specialized settings such as object discovery, with limited evidence of scalability to standard vision benchmarks or…
 
-### [Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models](https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/)
-`r/LocalLLaMA` · 13 Nov 13:08 UTC · score 6.525
+### [BELLS-O: Evaluating the Operational Trade-offs of LLM Supervision Systems](https://arxiv.org/abs/2606.20668)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-Perplexity has released two new "decision models." These are general-purpose classifiers built from generative LLM backbones. You give them an input (the "state") and one or more questions, and they return a probability distribution over the answer options. They don't generate text token by token. Models pplx-decider-v1.3 : fine-tuned from Qwen3.8-27B. Needs about 49 GiB for the BF16 weights.…
+arXiv:2606.20668v2 Announce Type: replace-cross Abstract: LLM supervision systems, namely input/output moderation filters and jailbreak detectors, are the primary safeguard against misuse in deployed AI applications, yet existing benchmarks are often vendor-biased, omit cost and latency, and rarely compare specialized guardrails against repurposed generalist LLMs. We present BELLS-O (Benchmark…
 
-### [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
-`Hacker News (AI, 100+ pts)` · 13 Nov 10:18 UTC · score 5.571
+### [When Failures Propagate: Causal Failure Attribution in Agentic Retrieval-Augmented Generation](https://arxiv.org/abs/2608.20627)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.763
 
-Article URL: https://status.claude.com/incidents/nn11wk485zfn Comments URL: https://news.ycombinator.com/item?id=50481187 Points: 375 # Comments: 321
+arXiv:2608.20627v2 Announce Type: replace-cross Abstract: Agentic retrieval-augmented generation (RAG) interleaves retrieval, reasoning, and answer generation across multiple hops. A retrieval error at hop 1 can surface only as a wrong answer at hop 3, while later retrieval can also repair the trajectory. This paper introduces AgenticRAG-FP, an interventional benchmark for causal failure…
 
-### [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/)
-`Simon Willison` · 12 Nov 22:55 UTC · score 5.148
+### [Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00…
+arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited…
 
-### [Technology flags, people verify, governments decide. Is that the right split for AI in public services?](https://www.reddit.com/r/artificial/comments/1xv59ne/technology_flags_people_verify_governments_decide/)
-`r/artificial` · 13 Nov 11:18 UTC · score 4.997
+### [SynthCorp: A Platform for Creating Benchmarks for Data Agents](https://arxiv.org/abs/2611.14765)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-Debates about AI in government services usually swing between two extremes: “automate everything” and “never let a machine near it.” The more useful question is where exactly the line should sit. One clear answer came from BLS International, which handles visa and consular services for governments in 100+ countries and has processed over 500 million applications. When it announced its AI…
+arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data…
 
-### [inferencekit: open-source plugin to optimize any model on any hardware using coding agents](https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/)
-`r/LocalLLaMA` · 13 Nov 00:14 UTC · score 4.913
+### [When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning](https://arxiv.org/abs/2611.14794)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-KittenML just released inferencekit , a free opensource plugin to turn coding agents(Claude Code, Codex, OpenCode) into inference engineers for your hardware. Most models ship with inference tuned for whatever hardware the authors used, which is usually not what you have locally. The fastest path on a 3070 might be different from the fastest path on a Mac or a Radeon. inferencekit allows you to…
+arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35%…
 
-### [I trained DiffusionGemma to be an abstract expressionist](https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/)
-`r/LocalLLaMA` · 13 Nov 11:48 UTC · score 4.859
+### [Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark](https://arxiv.org/abs/2611.15225)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-DiffusionGemma, a text diffusion model built on a Gemma 4 backbone, can be adapted into a shitty image generation model. Maybe the ship sank? You may be asking yourself, "WTF, why would you want to do that?" And you would be right to ask. This is honestly kinda useless, but I still think it's pretty neat . Also, fair warning, being on a team of one means the project has been heavily — I'll be…
+arXiv:2611.15225v1 Announce Type: new Abstract: Surround-view video understanding in autonomous driving is a crucial capability for Multimodal Large Language Models (MLLMs) to achieve reliable driving reasoning. Real-world driving often requires information beyond the front-view camera. Existing MLLMs primarily focus on front-view information, while their spatio-temporal understanding and…
 
-### [I thought AI would save me time. What a joke](https://www.reddit.com/r/artificial/comments/1xv3zzd/i_thought_ai_would_save_me_time_what_a_joke/)
-`r/artificial` · 13 Nov 10:03 UTC · score 4.539
+### [DISCERN: Preserve at Write, Resolve at Read for Persistent LLM-Agent Memory](https://arxiv.org/abs/2611.15729)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-A while ago, i was spending quite a bit of time on small tasks, like sorting meeting notes, making to-do lists and replying routine emails. I started using AI to help with some of that, from summarizing long documents with chatgpt to using anvita mate's workbench for meeting notes and email replies. It helped with few things, but it wasn't always smooth. Sometimes the notes missed important…
+arXiv:2611.15729v1 Announce Type: new Abstract: Enterprise agents accumulate memory across dozens of sessions in which facts contradict, get superseded, and blur as similarly named entities collide in embedding space. The field treats this as a retrieval problem; we show it is not. On ENT-310, a synthetic enterprise sales-agent memory benchmark of 310 queries (210 answerable, 100 unanswerable), a…
 
-### [Korea's tax accountant exam top scorer is facing "AI glasses" suspicion with no evidence.](https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/)
-`r/artificial` · 13 Nov 12:13 UTC · score 4.511
+### [NIBench: benchmarking autonomous AI agents for execution, skill evolution and scientific judgment in neuroimaging](https://arxiv.org/abs/2611.15831)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-This is all over Korean news this week. The top scorer on Korea’s tax accountant exam got 397.5/400 in the first round, 159 of 160 questions right. One of his perfect scores was in intro tax law, where the average across 16,856 candidates was 30.18/100 and 74.21% failed (under 40). You get roughly a minute per question. People online decided that’s not humanly possible and started saying he wore…
+arXiv:2611.15831v1 Announce Type: new Abstract: Autonomous AI agents are increasingly used to automate biomedical research, creating a growing need to benchmark their capabilities on real scientific data and workflows. Their reliability in neuroimaging remains insufficiently characterized, where plausible analytical outputs can conceal errors that affect scientific conclusions. Existing studies…
 
-### [Artificial Analysis updated Qwen 3.8 Flash Next score as 29](https://www.reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next/)
-`r/LocalLLaMA` · 13 Nov 04:06 UTC · score 4.496
+### [Singularity-Bench: Can Agents Build Agents?](https://arxiv.org/abs/2611.16591)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-Between GPT-6 Luna Max (28) and Claude Haiku 5.5 High (30). Comparing to other Qwen 3.8, the model is closer to max (34) than to 27B (20). https://artificialanalysis.ai/models/qwen3-8-flash-next submitted by /u/lionellee77 \[link\] \[comments\]
+arXiv:2611.16591v1 Announce Type: new Abstract: Frontier AI agents increasingly succeed on realistic, long-horizon tasks and are beginning to improve the systems through which they operate. Yet existing benchmarks often restrict agents to narrow action spaces, use simplified environments, or rely on verification methods that are unreliable for evaluating arbitrary agent-generated systems. We…
 
-### [Entre ChatGptPro | GeminiPro | CloudePro](https://www.reddit.com/r/artificial/comments/1xv8yck/entre_chatgptpro_geminipro_cloudepro/)
-`r/artificial` · 13 Nov 14:13 UTC · score 4.461
+### [Mind the Accuracy-Approval Gap: How Users Evaluate Sycophantic AI in Everyday Tasks](https://arxiv.org/abs/2611.16722)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-Cuál de los 3 me recomiendan para generar un plan de contenido para Instagram y redes sociales? ¿Cuál creen que es la mejor forma de generar el promt? Muchas gracias Saludos submitted by /u/Deep-Emotion-2089 \[link\] \[comments\]
+arXiv:2611.16722v1 Announce Type: new Abstract: Large language models (LLMs) often exhibit sycophancy, a tendency to agree with users, flatter or affirm them, and preserve their face, even when independent judgment or critical feedback would be more useful. Prior work has largely evaluated sycophancy through benchmark evaluations, but less is known about how users perceive and respond to…
 
-### [Edge0-145B: Open-Source On-Device AI with 145B Parameters](https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/)
-`r/LocalLLaMA` · 13 Nov 01:25 UTC · score 4.161
+### [AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design](https://arxiv.org/abs/2611.16991)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-submitted by /u/BrightCandle \[link\] \[comments\]
+arXiv:2611.16991v1 Announce Type: new Abstract: Coding agents have demonstrated strong capabilities in software development, yet their ability to tackle long-horizon engineering tasks governed by physical constraints remains less understood. We study this question through analog circuit layout, which demands domain knowledge, geometric reasoning, and iterative interaction with design and…
 
-### [Will Claude Fable 5.2 and GPT-6 Astra make specialized robot models obsolete, or do robots still need their own VLAs, tactile encoders and world models?](https://www.reddit.com/r/artificial/comments/1xulg6i/will_claude_fable_52_and_gpt6_astra_make/)
-`r/artificial` · 12 Nov 19:01 UTC · score 4.161
+### [LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds](https://arxiv.org/abs/2611.17267)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-A claim I keep running into: now that frontier multimodal models score competitively on robot control benchmarks, specialized embodied models (touch encoders, VLAs, world models) will soon be unnecessary. I think the opposite is more likely. Anthropic's internal RoboDojo Sim runs put Fable 5.2's score at 64.9%, with Astra at 29.8% (the benchmark gives the model camera images). An academic…
+arXiv:2611.17267v1 Announce Type: new Abstract: We introduce GeoWorld, a controllable and continuously evolving geographic environment platform for LLM agents, and LiveGeo, a benchmark for evaluating reliable decision-making in real-world geographic environments using GeoWorld. Unlike existing evaluations that largely reason and plan over fixed geographic states, GeoWorld is grounded in…
 
-### [Google is asking](https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/)
-`r/LocalLLaMA` · 13 Nov 08:20 UTC · score 4.126
+### [Benchmarking Multilingual Document Understanding in Vision-Language Models](https://arxiv.org/abs/2611.14758)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-I want a new Gemma https://x.com/OfficialLoganK/status/2121115028447531353 submitted by /u/jacek2023 \[link\] \[comments\]
+arXiv:2611.14758v1 Announce Type: cross Abstract: Recent Vision-Language Models (VLMs) perform strongly on multimodal tasks, Document Understanding (DU) among them, but the benchmarks that measure them mostly cover English documents and narrow problems. How well current VLMs generalize across languages, tasks, styles and layouts therefore remains unclear. We introduce MDU, a multilingual DU…
 
-### [Claude can now take notes in Google Meet, with auto-join for recurring calls](https://www.reddit.com/r/artificial/comments/1xv0hd3/claude_can_now_take_notes_in_google_meet_with/)
-`r/artificial` · 13 Nov 06:23 UTC · score 4.081
+### [Graph Label Alignment: A Diagnostic Atlas for Graph Classification](https://arxiv.org/abs/2611.14760)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
 
-Anthropic began rolling out Claude Meetings to Team and Enterprise accounts on November 12, 2026. Claude shows up as a participant in Google Meet and can take notes and build a document during the call. Anthropic says to check that everyone is okay with transcription before adding Claude. On Team, the feature is on by default, and members can set it to join calls automatically. The meeting page…
+arXiv:2611.14760v1 Announce Type: cross Abstract: Graph classification benchmarks vary widely in difficulty: some are solved by simple pooled baselines, while others remain challenging for GNNs and graph transformers. We take a data-centric view and ask whether benchmark success is driven by genuine structure--feature reasoning or by label signal already accessible from restricted marginal views.…
+
+### [SkinAdvisor: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting](https://arxiv.org/abs/2611.15023)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
+
+arXiv:2611.15023v1 Announce Type: cross Abstract: Skins, cosmetic in-game items, are a primary revenue stream for modern online games, yet production decisions (which skins to make, when to release, how to price) remain driven by intuition and retrospective analytics. We present SkinAdvisor, an AI-driven decision framework for skin production planning, powered by SkinCast, a deployed multi-modal…
+
+### [CastWorld: Benchmarking Context-Aware Agentic Time Series Forecasting Beyond Predictive Accuracy](https://arxiv.org/abs/2611.15262)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
+
+arXiv:2611.15262v1 Announce Type: cross Abstract: Agentic time series forecasting extends conventional approaches beyond one-shot numerical prediction toward autonomous, context-aware interaction. However, existing benchmarks offer limited integrated support for diverse contextual information, forecasting-specific adaptive interactions, and systematic evaluation of forecasting agents. In this…
+
+### [Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose](https://arxiv.org/abs/2611.15348)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
+
+arXiv:2611.15348v1 Announce Type: cross Abstract: Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchmarks that compare machine learning methods under realistic conditions, particularly sensor drift, a known but rarely quantified failure mode. Most…
+
+### [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
+
+arXiv:2611.15789v1 Announce Type: cross Abstract: Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D…
+
+### [PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning](https://arxiv.org/abs/2611.16424)
+`arXiv cs.AI` · 14 Nov 05:00 UTC · score 5.463
+
+arXiv:2611.16424v1 Announce Type: cross Abstract: Physical AI aims to learn transferable physical knowledge from real-world experience to understand, predict, and act in the physical world. Internet videos and embodied demonstrations provide complementary observations of motion, interaction, and state evolution. A foundational data challenge is to measure and preserve this physical information as…
 
 ---
 
@@ -185,11 +187,11 @@ Anthropic began rolling out Claude Meetings to Team and Enterprise accounts on N
 
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
-- **arXiv cs.AI** - no entries
 - **arXiv cs.CL** - no entries
 - **arXiv cs.LG** - no entries
-- **r/MachineLearning** - HTTP 429
-- ⚠️ Import AI has been unreachable for 68 days
-- ⚠️ VentureBeat AI has been unreachable for 68 days
+- **r/LocalLLaMA** - HTTP 429
+- **r/artificial** - HTTP 429
+- ⚠️ Import AI has been unreachable for 69 days
+- ⚠️ VentureBeat AI has been unreachable for 69 days
 
 </details>
