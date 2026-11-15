@@ -1,0 +1,350 @@
+[
+  {
+    "title": "An overview of Jensen Huang\u2019s messy days",
+    "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-15T13:00:00+00:00",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [\u2026]",
+    "score": 5.885,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.785,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI DJs Completely Kill My Groove",
+    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-15T12:00:00+00:00",
+    "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+    "score": 5.36,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.66,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-15T11:00:00+00:00",
+    "summary": "A Carnegie Mellon student\u2019s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+    "score": 5.235,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.535,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I don't think double-blind review systems work [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-15T13:00:15+00:00",
+    "summary": "Reviewers can see the authors\u2019 names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewers rejected other researchers\u2019 papers in an attempt to increase the chances of their own papers being accepted. Furthermore, can we really expect fair and unbiased evaluations of papers from\u2026",
+    "score": 4.986,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.786,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-15T12:03:27+00:00",
+    "summary": "Built at Junction, a hackathon in Espoo, this weekend. Parallax takes an article and lines up its Finnish, Swedish, German, English, Russian, Estonian and Ukrainian editions statement by statement. For any past date it shows where the editions tell something differently. We store every revision. 875,572 so far. Each revision is split into sentences. A sentence that appears in revision A and\u2026",
+    "score": 4.868,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.668,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "datasette-llm 0.1a11",
+    "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-11-14T23:59:28+00:00",
+    "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama\u2026",
+    "score": 4.759,
+    "matched": [
+      "llm",
+      "openai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.159,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-14T17:30:00+00:00",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "score": 4.548,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.348,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-15T09:05:22+00:00",
+    "summary": "Given the massive jump to 42,000 submissions this year, I\u2019m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted papers), or will they cap the total number of accepted papers due to venue/reviewer constraints and drop the acceptance rate significantly? submitted by /u/This_One_3612 [link] [comments]",
+    "score": 4.497,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 2.297,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Where was Nvidia\u2019s security team?",
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-15T00:08:07+00:00",
+    "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+    "score": 4.477,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 1.177,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-14T21:41:22+00:00",
+    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+    "score": 4.172,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.872,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-14T23:59:28+00:00",
+    "summary": "Hey all, I wanted to share TimeCues Studio with you. It's part of my PhD work (ACM Multimedia 2026), and I thought you might find it useful. It's an open-source web app for annotating music on a beat-locked timeline and comparing algorithms against your annotations. If you need to annotate songs (sections, cues, spans, riffs, lyrics and loops), you're building a music-analysis model and want to\u2026",
+    "score": 3.959,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 1.159,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-14T16:23:34+00:00",
+    "summary": "been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and report a better RMSE. what i rarely see is a comparison against what the market already expects. options implied vol for the range, or a crowd forecast where people put money on outcomes. those\u2026",
+    "score": 3.61,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.21,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-14T16:34:15+00:00",
+    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+    "score": 3.532,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.232,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-14T15:00:00+00:00",
+    "summary": "Today, I\u2019m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [\u2026]",
+    "score": 3.435,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.035,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ethical Alternatives to Kaggle [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-14T16:20:55+00:00",
+    "summary": "I personally find it unconscionable to mandate biometric verification - with a controversial vendor on the top of that - to access a competition. Not to cash a prize, just to submit a solution. What are alternatives competition to have fun with SOTA or quasi-SOTA models? submitted by /u/nico_25 [link] [comments]",
+    "score": 3.004,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.204,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-14T20:33:14+00:00",
+    "summary": "Crawled from OpenReview, titles matched to arXiv, then affiliated with OpenAlex submitted by /u/No-Lab4175 [link] [comments]",
+    "score": 2.93,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.73,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anonymous GitHub not working [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-14T18:31:16+00:00",
+    "summary": "Mid ICLR rebuttals and I found out the links I made are not working. Anyone else having the same issue? submitted by /u/ZealousidealBee6113 [link] [comments]",
+    "score": 2.676,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.476,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ICLR 2027 Rebuttal [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
+    "source": "r/MachineLearning",
+    "category": "Community",
+    "published": "2026-11-14T16:00:01+00:00",
+    "summary": "For anyone who\u2019s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can\u2019t seem to see any changes in colour or any pdf diff anywhere, even under \u2019Revisions\u2019. submitted by /u/amds201 [link] [comments]",
+    "score": 2.36,
+    "matched": [],
+    "feed_id": "r-machinelearning",
+    "breakdown": {
+      "feed_weight": 2.2,
+      "recency": 0.16,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
