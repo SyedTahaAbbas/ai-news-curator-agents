@@ -1,100 +1,185 @@
-# AI News Curator - Sunday, 15 November 2026
+# AI News Curator - Monday, 16 November 2026
 
-*18 stories from the last 24 hours. Generated 2026-11-15 14:43 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-16 16:57 UTC.*
+
+## Labs & Releases
+
+### [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/)
+`NVIDIA` · 16 Nov 16:00 UTC · score 7.98
+
+In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic \[…\]
+
+### [LVMH’s Media Division announces strategic partnership with OpenAI](https://openai.com/index/lvmh-media-division-partnership)
+`OpenAI` · 16 Nov 09:00 UTC · score 7.504
+
+LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
+
+### [New Ask Maps features to help with holiday travel and prep](https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/)
+`Google AI` · 16 Nov 14:00 UTC · score 6.229
+
+tbd
+
+### [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](https://blogs.nvidia.com/blog/rubin-hpc/)
+`NVIDIA` · 16 Nov 16:00 UTC · score 6.179
+
+Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next \[…\]
+
+### [The King’s Trust and OpenAI launch £1m partnership](https://openai.com/index/the-kings-trust-and-openai)
+`OpenAI` · 16 Nov 00:00 UTC · score 6.079
+
+The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.
+
+### [More ways to move care forward with ChatGPT for Healthcare](https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare)
+`OpenAI` · 16 Nov 06:00 UTC · score 5.929
+
+Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
+
+### [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](https://blogs.nvidia.com/blog/lambda-photonics/)
+`NVIDIA` · 16 Nov 16:00 UTC · score 5.881
+
+To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering \[…\]
+
+### [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/)
+`NVIDIA` · 16 Nov 16:00 UTC · score 5.88
+
+With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries \[…\]
+
+### [CUDA at 20: How the Platform Transformed Scientific Computing](https://blogs.nvidia.com/blog/20-years-cuda/)
+`NVIDIA` · 16 Nov 16:00 UTC · score 5.88
+
+This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers \[…\]
+
+### [Advancing computer-use agents for healthcare teams](https://openai.com/index/advancing-computer-use-for-healthcare-teams)
+`OpenAI` · 16 Nov 06:00 UTC · score 5.629
+
+### [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/)
+`NVIDIA` · 16 Nov 16:00 UTC · score 5.581
+
+Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows \[…\]
+
+### [Our new blog for science](https://openai.com/index/our-new-blog-for-science)
+`OpenAI` · 15 Nov 22:00 UTC · score 5.229
+
+The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.
 
 ## Industry & Press
 
-### [An overview of Jensen Huang’s messy days](https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation)
-`The Verge AI` · 15 Nov 13:00 UTC · score 5.885
+### [Google Maps can now create trip itineraries for you](https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning)
+`The Verge AI` · 16 Nov 14:00 UTC · score 6.629
 
-This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October \[…\]
+Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As \[…\]
 
-### [AI DJs Completely Kill My Groove](https://www.wired.com/story/ai-djs-completely-kill-my-groove/)
-`Wired AI` · 15 Nov 12:00 UTC · score 5.36
+### [Building trustworthy AI by fencing it in, not predicting it](https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/)
+`MIT Technology Review AI` · 16 Nov 16:04 UTC · score 6.489
 
-YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.
+In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…
 
-### [This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/)
-`Wired AI` · 15 Nov 11:00 UTC · score 5.235
+### [Audible turns to AI to help users discover audiobooks](https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/)
+`TechCrunch AI` · 16 Nov 15:52 UTC · score 6.163
 
-A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.
+Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.
 
-### [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
-`TechCrunch AI` · 14 Nov 17:30 UTC · score 4.548
+### [US tightens AI chip export controls to deter Chinese companies from accessing compute remotely](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)
+`TechCrunch AI` · 16 Nov 15:02 UTC · score 6.06
 
-From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.
 
-### [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
-`TechCrunch AI` · 15 Nov 00:08 UTC · score 4.477
+### [Jensen Huang Is Gone. Now What?](https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/)
+`Wired AI` · 16 Nov 16:12 UTC · score 5.906
 
-Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.
+After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.
 
-### [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
-`TechCrunch AI` · 14 Nov 21:41 UTC · score 4.172
+### [The Nvidia scandal isn’t slowing down](https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down)
+`The Verge AI` · 16 Nov 13:00 UTC · score 5.904
 
-The petition had attracted more than 115,000 signatures as of Saturday afternoon.
+For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are "the bedrock upon which advanced AI technology in the US is being built." Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at \[…\]
 
-### [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
-`TechCrunch AI` · 14 Nov 16:34 UTC · score 3.532
+### [Building AI that can work across the enterprise](https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/)
+`MIT Technology Review AI` · 16 Nov 13:00 UTC · score 5.804
 
-Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.
+For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…
 
-### [The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
-`The Verge AI` · 14 Nov 15:00 UTC · score 3.435
+### [Jensen Huang allies build a "war room" to get him back at Nvidia](https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/)
+`Ars Technica AI` · 16 Nov 14:06 UTC · score 5.742
 
-Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on \[…\]
+Huang is weighing a return just days after resigning amid a deepening scandal.
 
-## Community
+### [Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM](https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/)
+`TechCrunch AI` · 16 Nov 12:30 UTC · score 5.742
 
-### [I don't think double-blind review systems work \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/)
-`r/MachineLearning` · 15 Nov 13:00 UTC · score 4.986
+Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.
 
-Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases where student reviewers rejected other researchers’ papers in an attempt to increase the chances of their own papers being accepted. Furthermore, can we really expect fair and unbiased evaluations of papers from…
+### [Google Maps can now build trip itineraries with real-time details about each stop](https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/)
+`TechCrunch AI` · 16 Nov 14:48 UTC · score 5.73
 
-### [Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date \[P\]](https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/)
-`r/MachineLearning` · 15 Nov 12:03 UTC · score 4.868
+You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.
 
-Built at Junction, a hackathon in Espoo, this weekend. Parallax takes an article and lines up its Finnish, Swedish, German, English, Russian, Estonian and Ukrainian editions statement by statement. For any past date it shows where the editions tell something differently. We store every revision. 875,572 so far. Each revision is split into sentences. A sentence that appears in revision A and…
+### [Audible is trying to make it easier to find audiobooks you’ll actually like](https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability)
+`The Verge AI` · 16 Nov 14:00 UTC · score 5.729
 
-### [datasette-llm 0.1a11](https://simonwillison.net/2026/Nov/14/datasette-llm/)
-`Simon Willison` · 14 Nov 23:59 UTC · score 4.759
+Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook \[…\]
 
-Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama…
+### [Nvidia Was Already in Trouble Before the Jensen Huang Mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
+`Wired AI` · 16 Nov 11:00 UTC · score 5.254
 
-### [With 42k submissions to ICLR, do you think the acceptance rate will stay the same? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/)
-`r/MachineLearning` · 15 Nov 09:05 UTC · score 4.497
+AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.
 
-Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted papers), or will they cap the total number of accepted papers due to venue/reviewer constraints and drop the acceptance rate significantly? submitted by /u/This_One_3612 \[link\] \[comments\]
+## Research
 
-### [ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure \[R\]](https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/)
-`r/MachineLearning` · 14 Nov 23:59 UTC · score 3.959
+### [Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 6.304
 
-Hey all, I wanted to share TimeCues Studio with you. It's part of my PhD work (ACM Multimedia 2026), and I thought you might find it useful. It's an open-source web app for annotating music on a beat-locked timeline and comparing algorithms against your annotations. If you need to annotate songs (sections, cues, spans, riffs, lyrics and loops), you're building a music-analysis model and want to…
+arXiv:2611.18359v1 Announce Type: cross Abstract: The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to…
 
-### [Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/)
-`r/MachineLearning` · 14 Nov 16:23 UTC · score 3.61
+### [DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation](https://arxiv.org/abs/2603.21465)
+`arXiv cs.LG` · 16 Nov 05:00 UTC · score 6.004
 
-been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and report a better RMSE. what i rarely see is a comparison against what the market already expects. options implied vol for the range, or a crowd forecast where people put money on outcomes. those…
+arXiv:2603.21465v3 Announce Type: replace-cross Abstract: Developing efficient CUDA kernels is a fundamental yet challenging task in the generative AI industry. Recent research leverages Large Language Models (LLMs) to automatically convert PyTorch reference implementations to CUDA kernels, significantly reducing engineering effort. State-of-the-art LLMs, such as GPT-5.2 and Claude-Sonnet-4.5,…
 
-### [Ethical Alternatives to Kaggle \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xw6d7n/ethical_alternatives_to_kaggle_d/)
-`r/MachineLearning` · 14 Nov 16:20 UTC · score 3.004
+### [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.704
 
-I personally find it unconscionable to mandate biometric verification - with a controversial vendor on the top of that - to access a competition. Not to cash a prize, just to submit a solution. What are alternatives competition to have fun with SOTA or quasi-SOTA models? submitted by /u/nico_25 \[link\] \[comments\]
+arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we…
 
-### [ICLR 2027 Initial Review Scores ranked by University \[N\]](https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/)
-`r/MachineLearning` · 14 Nov 20:33 UTC · score 2.93
+### [Agent-written heuristics versus commercial solvers on unsolved job-shop benchmark instances](https://arxiv.org/abs/2611.17682)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.704
 
-Crawled from OpenReview, titles matched to arXiv, then affiliated with OpenAlex submitted by /u/No-Lab4175 \[link\] \[comments\]
+arXiv:2611.17682v1 Announce Type: cross Abstract: Commercial solvers are the standard tool for difficult scheduling problems. We study whether a frontier large language model, used as a coding agent with open-source tools only, can match them in quality and speed. We report every run, and independent checkers verify every schedule. On the 100,000-operation job shop tai_100_1000_1, an…
 
-### [Anonymous GitHub not working \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/)
-`r/MachineLearning` · 14 Nov 18:31 UTC · score 2.676
+### [From Chats to Markets: AgenticPay for LLM-Powered Negotiation in Multi-Agent Commerce](https://arxiv.org/abs/2602.06008)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.704
 
-Mid ICLR rebuttals and I found out the links I made are not working. Anyone else having the same issue? submitted by /u/ZealousidealBee6113 \[link\] \[comments\]
+arXiv:2602.06008v2 Announce Type: replace Abstract: Large language model agents are increasingly expected to negotiate and transact autonomously, yet existing benchmarks rarely combine multimodal product grounding, multi-issue bargaining, and competitive multi-agent markets. We introduce AgenticPay, a unified benchmark for evaluating multimodal agents' ability to reach high-welfare,…
 
-### [ICLR 2027 Rebuttal \[D\]](https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/)
-`r/MachineLearning` · 14 Nov 16:00 UTC · score 2.36
+### [Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting](https://arxiv.org/abs/2611.17680)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.404
 
-For anyone who’s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I can’t seem to see any changes in colour or any pdf diff anywhere, even under ’Revisions’. submitted by /u/amds201 \[link\] \[comments\]
+arXiv:2611.17680v1 Announce Type: new Abstract: Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts with the sensed history remains unclear. We introduce the first real-world diagnostic benchmark organized by text-history relationship: 1,762…
+
+### [Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors](https://arxiv.org/abs/2611.17846)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.404
+
+arXiv:2611.17846v1 Announce Type: new Abstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration, which ablates a refusal direction, increasingly fails on newer models. On five release pairs, refusal removal did not…
+
+### [MineralExp: Benchmarking LLM Agents for Experimental Design in Real-World Mineral Exploration](https://arxiv.org/abs/2611.17931)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.404
+
+arXiv:2611.17931v1 Announce Type: cross Abstract: In mineral exploration, verifying geological hypotheses relies on designing a variety of geochemical experiments. While large language model (LLM) agents increasingly automate downstream geoscientific data analysis, a crucial upstream capability remains largely unexplored: automated geochemical experimental design, i.e., deciding which experiments…
+
+### [From Bytes to Behavior: Request-Level Attribution from Live GPU Hidden States](https://arxiv.org/abs/2611.18272)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.404
+
+arXiv:2611.18272v1 Announce Type: cross Abstract: Existing memory forensics for machine learning systems typically targets static artifacts, such as model weights or prompt logs, rather than the transient computational states of a live inference process. This gap limits an examiner's ability to analyze the specific behavior of a running large language model (LLM) service that cannot be restarted…
+
+### [Cross-Benchmark Transfer from RL on Agentic Coding Tasks](https://arxiv.org/abs/2610.00890)
+`arXiv cs.AI` · 16 Nov 05:00 UTC · score 5.404
+
+arXiv:2610.00890v2 Announce Type: replace-cross Abstract: Coding agents often fail in the last mile: they build most of a feature but drop a requirement, test only the cases their implementation already handles, break behavior that was supposed to stay intact, or validate against an unchecked assumption. We ask whether reinforcement learning (RL) on expert-built agentic coding tasks closes this…
+
+### [NER-D: A cross-domain benchmark for German NER](https://arxiv.org/abs/2611.18257)
+`arXiv cs.CL` · 16 Nov 05:00 UTC · score 5.404
+
+arXiv:2611.18257v1 Announce Type: new Abstract: We present NER-D, a cross-domain benchmark for German NER comprising 13 datasets spanning 9 domains, including General/Politics, Wikipedia, Legal, Medical, Historical, Financial, Agriculture and Archaeology. We examine the performance of both proprietary LLMs and state-of-the-art small open-source models using normal prompting and further examine…
 
 ---
 
@@ -102,12 +187,9 @@ For anyone who’s updating their manuscript during rebuttals - the guidelines s
 
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
-- **arXiv cs.AI** - no entries
-- **arXiv cs.CL** - no entries
-- **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 70 days
-- ⚠️ VentureBeat AI has been unreachable for 70 days
+- ⚠️ Import AI has been unreachable for 71 days
+- ⚠️ VentureBeat AI has been unreachable for 71 days
 
 </details>
