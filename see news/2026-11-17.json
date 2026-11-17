@@ -1,0 +1,705 @@
+[
+  {
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T14:50:58+00:00",
+    "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google\u2019s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+    "score": 7.55,
+    "matched": [
+      "ai",
+      "deepmind"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.75,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T15:00:00+00:00",
+    "summary": "Voyage Labs\u2019 flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+    "score": 6.669,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.769,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T15:14:24+00:00",
+    "summary": "https://huggingface.co/sensenova/SenseNova-Loop-9B The Preview was posted here a few times over the last weeks. This is the full release, same design: 32 layers stored, 24 of them run twice, so a forward pass does 56 layers of work on about 9B params. Apache 2.0. What moved is the scores. Per their README it's ahead of the Preview on all seven benchmarks in the chart, e.g. AutomationBench 14.33\u2026",
+    "score": 6.599,
+    "matched": [
+      "transformer*",
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.799,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
+    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T14:26:46+00:00",
+    "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+    "score": 6.299,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.699,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
+    "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T16:44:15+00:00",
+    "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
+    "score": 6.286,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.986,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Daydream\u2019s new AI agent acts as your personal stylist \u2014 and can shop for you, too",
+    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T16:32:55+00:00",
+    "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "score": 6.262,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.962,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ian Buck Kicks Off NVIDIA\u2019s Week at SC26 as Science Enters the Age of Agents",
+    "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-11-17T14:00:10+00:00",
+    "summary": "NVIDIA\u2019s Ian Buck kicked off the company\u2019s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers\u2019 own systems. In NVIDIA\u2019s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance [\u2026]",
+    "score": 6.244,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.644,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "everyone's hyped about ChatGPT Dots and Claude Duet. I'm a local guy, so I built an open source one that runs on my GPU",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T14:26:03+00:00",
+    "summary": "Dodaios is a locally installed, open-source Python program that runs as a desktop app or as a headless server with a browser UI on Windows, macOS and Linux. It turns a personal AI assistant into the control center for the work you do on your computer. At its core is a \"lead\" assistant you can talk to by voice (wake word, dictation, real-time spoken conversation and, as an early preview, phone\u2026",
+    "score": 6.198,
+    "matched": [
+      "ai",
+      "chatgpt",
+      "claude"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.698,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T11:00:00+00:00",
+    "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
+    "score": 6.169,
+    "matched": [
+      "ai",
+      "openai",
+      "hugging face"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.269,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "SenseNova Loop 9B",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T14:08:22+00:00",
+    "summary": "If the benchmarks are true, this is a 9B looped model on level with Qwen3.8 27B. They say they'll release gguf tomorrow. Vision is supported. Around 15GB vram for 256k context. The preview version seemed fast enough when I tested it some weeks ago. Mods: I asked the authors if I can post this, feel free to delete my post when they post themselves. \ud83d\ude80 SenseNova-Loop-9B: Deeper Computation with\u2026",
+    "score": 6.161,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.661,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
+    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T14:05:30+00:00",
+    "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+    "score": 5.955,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.655,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Intel Shares First Benchmarks of Its Next-Gen Crescent Island \"D270\" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T12:02:09+00:00",
+    "summary": "The title talks about FP64. For local inference this info from the content is relevant: \"In AI benchmarks, Intel's D270 GPU offered 29% lower latency and 1.12x throughput versus the RTX PRO 6000 Blackwell.\" Maybe we are getting a good RTX PRO 6000 alternative... submitted by /u/pulse77 [link] [comments]",
+    "score": 5.898,
+    "matched": [
+      "ai",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.398,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T14:00:29+00:00",
+    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "score": 5.745,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.645,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Research Reports",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T14:39:46+00:00",
+    "summary": "To access a report, click on the corresponding image below.",
+    "score": 5.726,
+    "matched": [],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.726,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
+    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T14:00:00+00:00",
+    "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+    "score": 5.644,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.644,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T15:28:59+00:00",
+    "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+    "score": 5.629,
+    "matched": [],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.829,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T13:48:41+00:00",
+    "summary": "Hey folks! Aritra here from Hugging Face. In the last week we released a blog post about harness adapters . The idea was to train adapters (LoRA) on models to be more efficient with specific harness. Today we release a LoRA adapter on the Qwen3.8-27B model for Pi agents. You can run it locally like so: ```bash hf download ggml-org/Qwen3.8-27B-GGUF Qwen3.8-27B-Q8_0.gguf --local-dir . hf download\u2026",
+    "score": 5.52,
+    "matched": [
+      "hugging face"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.62,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-11-17T00:00:00+00:00",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "score": 5.494,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.894,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-11-17T00:00:00+00:00",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "score": 5.494,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.894,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilities.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T13:33:05+00:00",
+    "summary": "With the release of Qwen 4 Max, they claim that training data related to offensive capabilities has been removed, is this largely a placebo/nothingburger or does it have the capability to genuinely lobotomize a model's capabilities in cyber? submitted by /u/Rare_Subject2343 [link] [comments]",
+    "score": 5.187,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.587,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T10:47:45+00:00",
+    "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "score": 4.943,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.243,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Rotate K/V read order for better L2 cache hit rates by gaugarg-nv \u00b7 Pull Request #32407 \u00b7 ggml-org/llama.cpp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T11:34:46+00:00",
+    "summary": "Significant prompt processing speedup with long contexts gpu_info model_type n_prompt n_gen n_depth Master (t/s) PR (t/s) Speed-up NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 131072 1290.10833 1822.36027 1.41 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 65536 2030.31282 2527.97409 1.25 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 32768 2931.96118 3142.20539 1.07\u2026",
+    "score": 4.941,
+    "matched": [
+      "llama",
+      "nvidia"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.341,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-16T20:46:01+00:00",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [\u2026]",
+    "score": 4.789,
+    "matched": [
+      "ai",
+      "openai",
+      "hugging face"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.489,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OVH announces Olala mini 7A1B",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T10:14:35+00:00",
+    "summary": "Olala mini is based on a 7-billion-parameter architecture (7B), with one billion active parameters spread across 256 experts per layer, and hybrid attention combining Differential-TPA and Mamba-3, in BF16 format. Only a fraction of the model is used for each request, making it faster and less memory-hungry. As a direct result, the model runs on a GPU with as little as 8 GB of memory, reaching 160\u2026",
+    "score": 4.774,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.174,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "GPU prices - Big \"discounts\"",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T12:15:13+00:00",
+    "summary": "Discounts in quotes because these are still over MSRP, but my local Microcenter has the deepest \"discounts\" (sorry, I just can't call an over MSRP price a discount without quotes) I've seen in months on a lot of the AI cards. Pro4500 around 40% \"off\", Pro6000's 4K off with plenty of stock for both at my local (Charlotte) store. Pro 5000 72GB at 9K. Now, don't get me wrong, all these prices are\u2026",
+    "score": 4.725,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.425,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Are those that advocate against open weight models public enemy #1 ?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T14:18:43+00:00",
+    "summary": "Dario says you can't allow open weight models because they are too dangerous: https://x.com/vikktorrrre/status/2122353364306374986 What are arguments against this line of thinking? We prefer democracy over the government controlling what is safe? Who wants to trust trump? LOL submitted by /u/Terminator857 [link] [comments]",
+    "score": 4.682,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.682,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Apple Watch\u2019s Live Rewind Can Record and Rewind Spoken Conversations. It\u2019s Pretty Awkward",
+    "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-17T11:00:00+00:00",
+    "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day\u2014if you don\u2019t mind a little social clumsiness.",
+    "score": 4.669,
+    "matched": [],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.269,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T11:29:34+00:00",
+    "summary": "Looks pretty interesting! Also sorry if the \"new model\" flair is inappropiate here, wasn't sure if I should pick that or \"discussion\". submitted by /u/Kahvana [link] [comments]",
+    "score": 4.63,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.33,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "OpenAI",
+    "category": "Labs & Releases",
+    "published": "2026-11-16T17:00:00+00:00",
+    "summary": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "score": 4.619,
+    "matched": [
+      "ai",
+      "chatgpt"
+    ],
+    "feed_id": "openai",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.019,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-16T20:07:13+00:00",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "score": 4.609,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.409,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Hugging Face switched its language model inference routing to OpenRouter",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T03:16:54+00:00",
+    "summary": "Hugging Face announced on November 16, 2026, that requests to language models through Inference Providers now go through OpenRouter instead of Hugging Face's own router. OpenRouter picks a provider for each call based on live price, speed, and reliability, and retries on another provider if the first one fails. The same Hugging Face token still works, and the company says it does not add a markup\u2026",
+    "score": 4.504,
+    "matched": [
+      "hugging face",
+      "inference"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.304,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Gemma on a printer",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T12:48:09+00:00",
+    "summary": "Now you can run Gemma locally on your printer (from u/hackerllama ) https://x.com/osanseviero/status/2122646098418491739 submitted by /u/jacek2023 [link] [comments]",
+    "score": 4.494,
+    "matched": [],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 2.494,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-11-16T18:38:47+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia\u2026",
+    "score": 4.424,
+    "matched": [
+      "ai",
+      "nvidia"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.224,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-16T19:23:45+00:00",
+    "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [\u2026]",
+    "score": 4.318,
+    "matched": [
+      "ai",
+      "openai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.318,
+      "keywords": 0.6,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "maxwell-model/Maxwell-V1-Flash \u00b7 Hugging Face",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/",
+    "source": "r/LocalLLaMA",
+    "category": "Community",
+    "published": "2026-11-17T04:04:39+00:00",
+    "summary": "Model Introduction Maxwell-V1.0-Flash is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with 35B total parameters and 3B active parameters per token (both excluding embeddings) and support for context lengths up to 256K tokens. It is designed for strong reasoning, agentic, and long-context capabilities at a practical inference cost. Key\u2026",
+    "score": 4.303,
+    "matched": [
+      "hugging face",
+      "agentic",
+      "inference"
+    ],
+    "feed_id": "r-localllama",
+    "breakdown": {
+      "feed_weight": 2.0,
+      "recency": 1.403,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
