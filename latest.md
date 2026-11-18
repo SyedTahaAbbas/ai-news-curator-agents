@@ -1,187 +1,185 @@
-# AI News Curator - Tuesday, 17 November 2026
+# AI News Curator - Wednesday, 18 November 2026
 
-*35 stories from the last 24 hours. Generated 2026-11-17 16:51 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-18 16:24 UTC.*
 
 ## Labs & Releases
 
-### [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](https://blogs.nvidia.com/blog/ian-buck-sc26/)
-`NVIDIA` · 17 Nov 14:00 UTC · score 6.244
+### [NVIDIA RTX Spark Compact Desktops Out Now](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/)
+`NVIDIA` · 18 Nov 14:00 UTC · score 6.0
 
-NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance \[…\]
+New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development \[…\]
 
-### [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)
-`OpenAI` · 17 Nov 00:00 UTC · score 5.494
+### [Time-Series Models in the Streamhouse: A New Frontier and Use Cases](https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse)
+`Hugging Face` · 18 Nov 15:00 UTC · score 5.824
 
-How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+### [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)
+`OpenAI` · 18 Nov 00:00 UTC · score 5.549
 
-### [Introducing OpenAI for Chile](https://openai.com/index/introducing-openai-for-chile)
-`OpenAI` · 17 Nov 00:00 UTC · score 5.494
-
-OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
-
-### [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
-`OpenAI` · 16 Nov 17:00 UTC · score 4.619
-
-We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
+Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
 
 ## Industry & Press
 
-### [Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials](https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/)
-`TechCrunch AI` · 17 Nov 14:50 UTC · score 7.55
+### [Remember the frontier AI pause? Chip companies don’t either](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models)
+`The Verge AI` · 18 Nov 15:44 UTC · score 6.915
 
-Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.
+This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used \[…\]
 
-### [Voyage Labs raises $12 million for a specialized AI travel assistant](https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/)
-`TechCrunch AI` · 17 Nov 15:00 UTC · score 6.669
+### [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/)
+`TechCrunch AI` · 18 Nov 16:14 UTC · score 6.878
 
-Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.
+Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.
 
-### [Science Corporation’s brain tech is worth $3.5 billion after new funding](https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/)
-`TechCrunch AI` · 17 Nov 14:26 UTC · score 6.299
+### [Nvidia isn’t selling any more AI chips to China](https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling)
+`The Verge AI` · 18 Nov 13:01 UTC · score 6.576
 
-Science Corp raised a $400 million Series D to scale up its anti-blindness business.
+Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, \[…\]
 
-### [Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO](https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/)
-`TechCrunch AI` · 17 Nov 16:44 UTC · score 6.286
+### [India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need](https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/)
+`TechCrunch AI` · 18 Nov 11:30 UTC · score 6.286
 
-In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.
+Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
 
-### [Daydream’s new AI agent acts as your personal stylist — and can shop for you, too](https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/)
-`TechCrunch AI` · 17 Nov 16:32 UTC · score 6.262
+### [The AI Hype Index: AI is everywhere](https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/)
+`MIT Technology Review AI` · 18 Nov 14:42 UTC · score 6.088
 
-Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.
+Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…
 
-### [Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?](https://www.wired.com/story/wired-yearbook-2026-clement-delangue/)
-`Wired AI` · 17 Nov 11:00 UTC · score 6.169
+### [Nvidia clarifies when it will — and won’t —keep financing neoclouds](https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/)
+`TechCrunch AI` · 18 Nov 13:00 UTC · score 5.874
 
-The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.
+If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.
 
-### [Nvidia’s first big move after Jensen Huang’s exit targets national security](https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/)
-`TechCrunch AI` · 17 Nov 14:05 UTC · score 5.955
+### [Will Wright’s next game uses AI to map your memories](https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview)
+`The Verge AI` · 18 Nov 14:00 UTC · score 5.799
 
-The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.
+Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. \[…\]
 
-### [Grok Bot took unapproved actions, ignored orders to stop, and then denied it](https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/)
-`Ars Technica AI` · 17 Nov 14:00 UTC · score 5.745
+### [Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents](https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/)
+`TechCrunch AI` · 18 Nov 12:00 UTC · score 5.749
 
-AI agent takes unapproved actions even when laptop lid is closed and told not to.
+With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.
 
-### [Research Reports](https://www.technologyreview.com/2026/11/17/1148203/research-reports/)
-`MIT Technology Review AI` · 17 Nov 14:39 UTC · score 5.726
+### [This smell startup says its AI nose is as good as a human’s](https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/)
+`MIT Technology Review AI` · 18 Nov 10:20 UTC · score 5.541
 
-To access a report, click on the corresponding image below.
+In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…
 
-### [Spotify’s new tool aims to stop deepfakes from being attributed to real artists](https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/)
-`TechCrunch AI` · 17 Nov 14:00 UTC · score 5.644
+### [‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness](https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/)
+`Wired AI` · 18 Nov 15:02 UTC · score 5.529
 
-The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.
+Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.
 
-### [Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today](https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/)
-`Ars Technica AI` · 17 Nov 15:28 UTC · score 5.629
+### [Suno now lets you make AI videos for your AI music](https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature)
+`The Verge AI` · 18 Nov 11:16 UTC · score 5.459
 
-Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.
+Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called "Visuals," allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals \[…\]
 
-### [AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business](https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/)
-`Wired AI` · 17 Nov 10:47 UTC · score 4.943
+### [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
+`TechCrunch AI` · 17 Nov 23:04 UTC · score 5.333
 
-Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.
+Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.
 
-### [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
-`The Verge AI` · 16 Nov 20:46 UTC · score 4.789
+### [Lovable Wants You to Vibe Code Your Dream Job](https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/)
+`Wired AI` · 18 Nov 10:00 UTC · score 5.199
 
-California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a "dangerous product without proper oversight," as reported earlier by Reuters. The lawsuit claims the \[…\]
+This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.
 
-### [The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward](https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/)
-`Wired AI` · 17 Nov 11:00 UTC · score 4.669
+## Research
 
-Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.
+### [From Perception to Simulation: Unveiling and Empowering Mental Spatial Dynamics in MLLMs](https://arxiv.org/abs/2611.22541)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.774
 
-### [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
-`TechCrunch AI` · 16 Nov 20:07 UTC · score 4.609
+arXiv:2611.22541v1 Announce Type: cross Abstract: Spatial reasoning is a fundamental component of world understanding for Multimodal Large Language Models (MLLMs). While existing research has advanced the perception of spatial relations in static scenes, the domain of dynamic spatial simulation remains relatively unexplored. To bridge this gap, we introduce MentalGrid, a benchmark focused on…
 
-The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.
+### [SOTA or Luck? The Winner's Curse in LLM Leaderboards](https://arxiv.org/abs/2611.22227)
+`arXiv cs.LG` · 18 Nov 05:00 UTC · score 5.774
 
-### [The open-source movement wants Jensen Huang back](https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/)
-`MIT Technology Review AI` · 16 Nov 18:38 UTC · score 4.424
+arXiv:2611.22227v1 Announce Type: new Abstract: Public LLM leaderboards guide model evaluation and adoption, yet the reported performance of top-ranked models can be systematically overstated. This leaderboard winner's curse arises because ranking noisy benchmark scores rewards sampling luck alongside genuine ability. The same selection effect can distort scores throughout the leaderboard, a…
 
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…
+### [The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News](https://arxiv.org/abs/2611.22177)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.474
 
-### [OpenAI wants to stop deepfakes from overwhelming child abuse tiplines](https://www.theverge.com/policy/1034527/openai-csam-classifier)
-`The Verge AI` · 16 Nov 19:23 UTC · score 4.318
+arXiv:2611.22177v1 Announce Type: new Abstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is known, such as earnings announcements, and after bad news, if the market's fall…
 
-OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering \[…\]
+### [RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't](https://arxiv.org/abs/2611.22179)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.474
 
-## Community
+arXiv:2611.22179v1 Announce Type: new Abstract: Agentic memory research has accumulated extraction, supersession, reflection, and graph synthesis on top of retrieval-augmented generation. However, we found that almost none of those primitives earn their cost in our tested memory benchmarks: we show this with BRIDGE, a deliberately minimal RAG memory with chained observation notes, hybrid BM25…
 
-### [SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)](https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/)
-`r/LocalLLaMA` · 17 Nov 15:14 UTC · score 6.599
+### [SpecSearch: Towards Hardware-Aware Efficient Speculative Decoding](https://arxiv.org/abs/2611.22296)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.474
 
-https://huggingface.co/sensenova/SenseNova-Loop-9B The Preview was posted here a few times over the last weeks. This is the full release, same design: 32 layers stored, 24 of them run twice, so a forward pass does 56 layers of work on about 9B params. Apache 2.0. What moved is the scores. Per their README it's ahead of the Preview on all seven benchmarks in the chart, e.g. AutomationBench 14.33…
+arXiv:2611.22296v1 Announce Type: new Abstract: Speculative decoding (SD) accelerates large language model (LLM) inference, but its optimal configuration depends jointly on workload characteristics, GPU hardware, and available memory. For example, on the RTX~5090, the state-of-the-art speculative drafter DFlash achieves $3.50\\times$ the throughput of autoregressive (AR) decoding at low…
 
-### [everyone's hyped about ChatGPT Dots and Claude Duet. I'm a local guy, so I built an open source one that runs on my GPU](https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/)
-`r/LocalLLaMA` · 17 Nov 14:26 UTC · score 6.198
+### [SciWorkBench: A Benchmark for Real Scientific Workflows](https://arxiv.org/abs/2611.22490)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.474
 
-Dodaios is a locally installed, open-source Python program that runs as a desktop app or as a headless server with a browser UI on Windows, macOS and Linux. It turns a personal AI assistant into the control center for the work you do on your computer. At its core is a "lead" assistant you can talk to by voice (wake word, dictation, real-time spoken conversation and, as an early preview, phone…
+arXiv:2611.22490v1 Announce Type: new Abstract: Language models are increasingly being used as agents capable of planning and executing projects, as well as refining their actions through feedback. This shift raises a question: can current agents complete projects like real scientists? To examine this question, we introduce SciWorkBench, a benchmark for evaluating agents' abilities on real…
 
-### [SenseNova Loop 9B](https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/)
-`r/LocalLLaMA` · 17 Nov 14:08 UTC · score 6.161
+### [Can AI Help Explain AI? Effects of Multimodal LLM-Generated Explanations on Perceived Understanding and Perceived Trust in XAI Visualizations](https://arxiv.org/abs/2611.21638)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.474
 
-If the benchmarks are true, this is a 9B looped model on level with Qwen3.8 27B. They say they'll release gguf tomorrow. Vision is supported. Around 15GB vram for 256k context. The preview version seemed fast enough when I tested it some weeks ago. Mods: I asked the authors if I can post this, feel free to delete my post when they post themselves. 🚀 SenseNova-Loop-9B: Deeper Computation with…
+arXiv:2611.21638v1 Announce Type: cross Abstract: Explainable artificial intelligence (XAI) aims to make machine learning models understandable, yet many XAI visualizations remain difficult for end-users to interpret. Here, we evaluate whether augmenting XAI outputs with textual explanations from multimodal LLMs improves perceived understanding and perceived trust. We conducted a pre-registered…
 
-### [Intel Shares First Benchmarks of Its Next-Gen Crescent Island "D270" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64](https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/)
-`r/LocalLLaMA` · 17 Nov 12:02 UTC · score 5.898
+### [Stop Early, Stay Simple: Evidence Acquisition for Power System Fault and Attack Diagnosis](https://arxiv.org/abs/2611.21695)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.474
 
-The title talks about FP64. For local inference this info from the content is relevant: "In AI benchmarks, Intel's D270 GPU offered 29% lower latency and 1.12x throughput versus the RTX PRO 6000 Blackwell." Maybe we are getting a good RTX PRO 6000 alternative... submitted by /u/pulse77 \[link\] \[comments\]
+arXiv:2611.21695v1 Announce Type: cross Abstract: Diagnostic models for cyber-physical power systems usually inspect every telemetry source for every event, although some events are clear from one source and others need several. We ask when a learned policy for choosing that evidence is worth its added complexity. To answer this, we present ActiGrid, a benchmark framework for active evidence…
 
-### [\[Harness Adapters\] Fine tune Qwen3.8-27B for Pi Agents](https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/)
-`r/LocalLLaMA` · 17 Nov 13:48 UTC · score 5.52
+### [GauntletScore: Auditable Fact-Checking That Matches the Best Published Checkers on LLM-AggreFact](https://arxiv.org/abs/2611.22027)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.474
 
-Hey folks! Aritra here from Hugging Face. In the last week we released a blog post about harness adapters . The idea was to train adapters (LoRA) on models to be more efficient with specific harness. Today we release a LoRA adapter on the Qwen3.8-27B model for Pi agents. You can run it locally like so: \`\`\`bash hf download ggml-org/Qwen3.8-27B-GGUF Qwen3.8-27B-Q8_0.gguf --local-dir . hf download…
+arXiv:2611.22027v1 Announce Type: cross Abstract: Checking whether a generated sentence is supported by its source document is a standard safeguard for AI-written text, and the strongest published checkers are single models. We describe GauntletScore, an evidence engine whose few rules and thresholds were set on the benchmark's development split. It puts typed questions to independent readers…
 
-### [The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilities.](https://www.reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are/)
-`r/LocalLLaMA` · 17 Nov 13:33 UTC · score 5.187
+### [An Open-Source Training Dataset for Foundation Models for Hyperparameter Optimization](https://arxiv.org/abs/2605.23417)
+`arXiv cs.LG` · 18 Nov 05:00 UTC · score 5.474
 
-With the release of Qwen 4 Max, they claim that training data related to offensive capabilities has been removed, is this largely a placebo/nothingburger or does it have the capability to genuinely lobotomize a model's capabilities in cyber? submitted by /u/Rare_Subject2343 \[link\] \[comments\]
+arXiv:2605.23417v2 Announce Type: replace Abstract: Most hyperparameter optimization methods require extensive tuning of their own hyperparameters, often limiting their ability to generalize across different benchmark families. Foundation models for hyperparameter optimization that learn optimization principles from a large collection of optimization trajectories offer a promising alternative,…
 
-### [Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/)
-`r/LocalLLaMA` · 17 Nov 11:34 UTC · score 4.941
+### [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](https://arxiv.org/abs/2611.21948)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Significant prompt processing speedup with long contexts gpu_info model_type n_prompt n_gen n_depth Master (t/s) PR (t/s) Speed-up NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 131072 1290.10833 1822.36027 1.41 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 65536 2030.31282 2527.97409 1.25 NVIDIA GeForce RTX 5090 qwen35 27B Q4_K - Medium 512 0 32768 2931.96118 3142.20539 1.07…
+arXiv:2611.21948v1 Announce Type: new Abstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influence over the policymaking process, due in part to their information advantage in developing these technologies. In the following paper, we investigate the roles of public commenters in providing evidence to potential…
 
-### [OVH announces Olala mini 7A1B](https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/)
-`r/LocalLLaMA` · 17 Nov 10:14 UTC · score 4.774
+### [ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments](https://arxiv.org/abs/2611.22085)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Olala mini is based on a 7-billion-parameter architecture (7B), with one billion active parameters spread across 256 experts per layer, and hybrid attention combining Differential-TPA and Mamba-3, in BF16 format. Only a fraction of the model is used for each request, making it faster and less memory-hungry. As a direct result, the model runs on a GPU with as little as 8 GB of memory, reaching 160…
+arXiv:2611.22085v1 Announce Type: new Abstract: Professional work involves under-specified assignments, where relevant information is spread across workplace applications and may conflict or change over time. To evaluate how well frontier agents can perform economically valuable work in such settings, we introduce ATLAS-Finance, a benchmark of 100 end-to-end investment-banking tasks across 13…
 
-### [GPU prices - Big "discounts"](https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/)
-`r/LocalLLaMA` · 17 Nov 12:15 UTC · score 4.725
+### [Big Brains, Tiny Board: Pupavision, an Agentic Physical AI Instrument for Monitoring Drosophila Pupariation and Lifecycle Transitions](https://arxiv.org/abs/2611.22136)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Discounts in quotes because these are still over MSRP, but my local Microcenter has the deepest "discounts" (sorry, I just can't call an over MSRP price a discount without quotes) I've seen in months on a lot of the AI cards. Pro4500 around 40% "off", Pro6000's 4K off with plenty of stock for both at my local (Charlotte) store. Pro 5000 72GB at 9K. Now, don't get me wrong, all these prices are…
+arXiv:2611.22136v1 Announce Type: new Abstract: Many biology experiments are limited by the availability and ease of use of instruments that monitor and record them. For example, the timing of pupariation in the fruit fly Drosophila melanogaster, a widely used model organism, can provide biologically relevant information about growth regulation and is often recorded manually. Here, we present…
 
-### [Are those that advocate against open weight models public enemy #1 ?](https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/)
-`r/LocalLLaMA` · 17 Nov 14:18 UTC · score 4.682
+### [Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents](https://arxiv.org/abs/2611.22245)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Dario says you can't allow open weight models because they are too dangerous: https://x.com/vikktorrrre/status/2122353364306374986 What are arguments against this line of thinking? We prefer democracy over the government controlling what is safe? Who wants to trust trump? LOL submitted by /u/Terminator857 \[link\] \[comments\]
+arXiv:2611.22245v1 Announce Type: new Abstract: Multi-agent delegation lets LLM systems distribute evidence collection across workers with separate contexts. This creates a consistency challenge: facts retrieved by workers may be missing from the evidence available to the lead for a joint conclusion. We introduce a benchmark and evidence-flow profiler for studying multi-agent memory inconsistency…
 
-### [nvidia/Qwen3.8-Flash-Next-NVFP4-QAD](https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/)
-`r/LocalLLaMA` · 17 Nov 11:29 UTC · score 4.63
+### [RehearsalBench: Can AI Predict What Happens When You Change a Company?](https://arxiv.org/abs/2611.22480)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Looks pretty interesting! Also sorry if the "new model" flair is inappropiate here, wasn't sure if I should pick that or "discussion". submitted by /u/Kahvana \[link\] \[comments\]
+arXiv:2611.22480v1 Announce Type: new Abstract: Organizations increasingly ask AI systems what will happen if they change how they operate: which work to automate, which team to resize, what a voice agent will do to waiting times. We introduce RehearsalBench, a benchmark that measures whether AI models can diagnose an operation, choose an intervention, and forecast its consequences. Each model is…
 
-### [Hugging Face switched its language model inference routing to OpenRouter](https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/)
-`r/LocalLLaMA` · 17 Nov 03:16 UTC · score 4.504
+### [EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary](https://arxiv.org/abs/2611.21690)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Hugging Face announced on November 16, 2026, that requests to language models through Inference Providers now go through OpenRouter instead of Hugging Face's own router. OpenRouter picks a provider for each call based on live price, speed, and reliability, and retries on another provider if the first one fails. The same Hugging Face token still works, and the company says it does not add a markup…
+arXiv:2611.21690v1 Announce Type: cross Abstract: The EgoLink Challenge at ACM Multimedia 2026 benchmarks egocentric multimodal intelligence linking first-person perception, social reasoning, and interactive action. Unlike benchmarks centered on visible objects and activities, EgoLink evaluates whether models can interpret emotional and social cues, resolve visually grounded references, and…
 
-### [Gemma on a printer](https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/)
-`r/LocalLLaMA` · 17 Nov 12:48 UTC · score 4.494
+### [Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks](https://arxiv.org/abs/2611.21702)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Now you can run Gemma locally on your printer (from u/hackerllama ) https://x.com/osanseviero/status/2122646098418491739 submitted by /u/jacek2023 \[link\] \[comments\]
+arXiv:2611.21702v1 Announce Type: cross Abstract: Open-weight language models can continue generating after their released weights are modified, while a watermark verifier still scores outputs against the original base and marked models. We study how such modifications change the evidence available to an OpenStamp-style verifier. At each shared prefix, we represent the modification as a residual…
 
-### [maxwell-model/Maxwell-V1-Flash · Hugging Face](https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/)
-`r/LocalLLaMA` · 17 Nov 04:04 UTC · score 4.303
+### [TUSI: A Citation-Grounded Graph-Based Benchmark](https://arxiv.org/abs/2611.21823)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
 
-Model Introduction Maxwell-V1.0-Flash is a next-generation, high-performance Mixture-of-Experts (MoE) language model developed by the Maxwell Team, with 35B total parameters and 3B active parameters per token (both excluding embeddings) and support for context lengths up to 256K tokens. It is designed for strong reasoning, agentic, and long-context capabilities at a practical inference cost. Key…
+arXiv:2611.21823v1 Announce Type: cross Abstract: Evaluating retrieval-augmented generation (RAG) systems in Persian law remains challenging because benchmarks lack realism, grounding, and coverage of legal reasoning. Existing resources are either synthetically generated from statutory texts, lacking natural information needs, or derived from informal legal question--answer sources without…
+
+### [Benchmarking Deep Learning Models for Wheelchair Configuration Classification in Accessible Automated Vehicle Applications](https://arxiv.org/abs/2611.21945)
+`arXiv cs.AI` · 18 Nov 05:00 UTC · score 5.174
+
+arXiv:2611.21945v1 Announce Type: cross Abstract: Making automated vehicles accessible requires consideration of vulnerable road users, including wheelchair users. To offer a more tailored experience that supports independence for this group, vehicle design needs to accommodate the wide range of wheelchair configurations. However, wheelchairs are individualized, varying in frame geometry,…
 
 ---
 
@@ -190,13 +188,11 @@ Model Introduction Maxwell-V1.0-Flash is a next-generation, high-performance Mix
 - **Hacker News (AI, 100+ pts)** - HTTP 502
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
-- **arXiv cs.AI** - no entries
-- **arXiv cs.CL** - no entries
-- **arXiv cs.LG** - no entries
+- **r/LocalLLaMA** - HTTP 429
 - **r/MachineLearning** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 72 days
-- ⚠️ VentureBeat AI has been unreachable for 72 days
-- ⚠️ r/artificial has been unreachable for 3 days
+- ⚠️ Import AI has been unreachable for 73 days
+- ⚠️ VentureBeat AI has been unreachable for 73 days
+- ⚠️ r/artificial has been unreachable for 4 days
 
 </details>
