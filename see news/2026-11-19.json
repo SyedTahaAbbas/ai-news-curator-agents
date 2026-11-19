@@ -1,0 +1,733 @@
+[
+  {
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T16:19:41+00:00",
+    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+    "score": 6.577,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.977,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T14:54:39+00:00",
+    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "score": 6.4,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.8,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T14:25:37+00:00",
+    "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [\u2026]",
+    "score": 6.14,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.74,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Silent Hyperparameter: Quantifying the Impact of Inference Backends on LLM Reproducibility",
+    "url": "https://arxiv.org/abs/2605.19537",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2605.19537v4 Announce Type: replace Abstract: Progress in LLMs is increasingly measured through standardized benchmarks, where state-of-the-art improvements are often separated by fractions of a percentage point. At the same time, the computational cost of evaluating modern LLMs has driven widespread adoption of specialized inference backends, software systems that execute trained models\u2026",
+    "score": 6.061,
+    "matched": [
+      "llm",
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.9,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T15:16:45+00:00",
+    "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [\u2026]",
+    "score": 5.946,
+    "matched": [
+      "chatgpt"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.846,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Canva adds an AI \u2018off\u2019 button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T12:30:00+00:00",
+    "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered [\u2026]",
+    "score": 5.899,
+    "matched": [
+      "ai",
+      "generative"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.499,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
+    "url": "https://arxiv.org/abs/2611.22612",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.22612v1 Announce Type: new Abstract: A clinical AI system can reach a correct final diagnosis through intermediate decisions that could have harmed the patient, and can repair an error while introducing new risks. Most evaluations score final diagnoses; even stepwise benchmarks, which release a case's evidence over time, score whether systems reach the right diagnosis or gather the\u2026",
+    "score": 5.761,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T14:00:00+00:00",
+    "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+    "score": 5.686,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.686,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
+    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T13:00:00+00:00",
+    "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [\u2026]",
+    "score": 5.661,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.561,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When Do Foundation Models Pay Off? A Break-Even Analysis of Pretrained Time Series Forecasters",
+    "url": "https://arxiv.org/abs/2607.04919",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2607.04919v2 Announce Type: replace Abstract: Deploying a time series foundation model (FM) requires GPU infrastructure and engineering overhead, with no guarantee of improvement over classical forecasting methods. We provide the first systematic break-even analysis of when this investment pays off. Across 30 benchmark datasets, we compare zero-shot and LoRA fine-tuned FMs (Chronos-Bolt,\u2026",
+    "score": 5.461,
+    "matched": [
+      "foundation model",
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic\u2019s Record-Breaking IPO Highlights the AI Giant\u2019s Worst Enemy\u2014Itself",
+    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-19T12:00:00+00:00",
+    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company\u2019s AI safety strategy and growing public anger towards data centers could impact its growth.",
+    "score": 5.436,
+    "matched": [
+      "ai",
+      "anthropic"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.436,
+      "keywords": 0.6,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Season\u2019s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+    "source": "NVIDIA",
+    "category": "Labs & Releases",
+    "published": "2026-11-19T14:00:12+00:00",
+    "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, [\u2026]",
+    "score": 5.387,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "nvidia",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.687,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Synergizing Evidence Retrieval and Utilization for Self-Improving Multimodal Scientific Document Reasoning",
+    "url": "https://arxiv.org/abs/2611.22837",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.22837v1 Announce Type: new Abstract: Scientific document reasoning requires an agent to acquire and integrate evidence distributed across text, figures, and tables. Retrieval can identify relevant sources while missing complementary support, and answer-level feedback alone does not reveal whether an error stems from evidence acquisition or evidence use. We present an agentic\u2026",
+    "score": 5.161,
+    "matched": [
+      "agentic",
+      "multimodal"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RoboTeam: Benchmarking Vision-Based Multi-Agent Control of Many Robot Arms in Real Time",
+    "url": "https://arxiv.org/abs/2611.22138",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.22138v1 Announce Type: cross Abstract: Multimodal agents can now control robot arms by calling tools and writing code. Existing benchmarks fall short in three ways: most test one or two arms on short tasks, many pause the world while the agent thinks, and many give it ground-truth object positions. We present RoboTeam, a simulated benchmark where agents control 4 to 16 robot arms in\u2026",
+    "score": 5.161,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+    "url": "https://arxiv.org/abs/2611.23216",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23216v1 Announce Type: cross Abstract: New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026, a U.S. export control directive banned access to Claude Fable 5 for 19 days, which forced users to switch to other models. During this time, most\u2026",
+    "score": 5.161,
+    "matched": [
+      "claude",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PhysAlign: A Benchmark for Evidence-Grounded Role Alignment in Multimodal Physics Reasoning",
+    "url": "https://arxiv.org/abs/2609.33319",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2609.33319v2 Announce Type: replace Abstract: A key challenge in physics diagram understanding is correctly associating visual information with the physical entities, relations, and conditions it describes. Even when a value, symbol, or other local element is accurately recognized, assigning it to the wrong entity or scope can distort the underlying physical premise and lead to incorrect\u2026",
+    "score": 5.161,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "When VLMs 'Fix' Students: Identifying and Penalizing Over-Correction in the Evaluation of Multi-line Handwritten Math OCR",
+    "url": "https://arxiv.org/abs/2604.22774",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2604.22774v3 Announce Type: replace-cross Abstract: Accurate transcription of handwritten mathematics is crucial for educational AI systems, yet current benchmarks fail to evaluate this capability properly. Most prior studies focus on single-line expressions and rely on lexical metrics such as BLEU, which fail to assess the semantic reasoning across multi-line student solutions. In this\u2026",
+    "score": 5.161,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios",
+    "url": "https://arxiv.org/abs/2605.07830",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2605.07830v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in offensive cybersecurity. In this paper, we reveal an interesting phenomenon: different agents exhibit distinct attack patterns. Specifically, agents exhibit distinct attack-selection biases, differing in both the families they explore and the concentration of\u2026",
+    "score": 5.161,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+    "url": "https://arxiv.org/abs/2608.12253",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2608.12253v3 Announce Type: replace-cross Abstract: Multi-agent reinforcement learning (MARL) for human-AI interaction usually trains the agent against a single large language model (LLM) that simulates the user. We show that agents trained this way can systematically fail to generalize, and we trace the failure to simulator collapse: the simulator LLM is mode-collapsed, and a policy\u2026",
+    "score": 5.161,
+    "matched": [
+      "ai",
+      "llm",
+      "large language model",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Agent Verifiers in Counterfactual Analysis: A Pilot Study Benchmarking Agentic Heterogeneous Treatment Effects",
+    "url": "https://arxiv.org/abs/2611.23621",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23621v1 Announce Type: new Abstract: Agents can expand the covariate space of randomized experiments by retrieving fast-moving local context missed by slow-changing survey baseline covariates, helping characterize who benefits most from an intervention. Verifying such covariates is difficult: individual treatment effects are unobserved, retrieval leakage can pull post-treatment\u2026",
+    "score": 5.161,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TabBioMed: A Large-Scale Benchmark for Biomedical Tabular Learning",
+    "url": "https://arxiv.org/abs/2611.23779",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23779v1 Announce Type: new Abstract: Recent advances in machine learning have accelerated biomedical prediction, but evaluation on structured biomedical data remains fragmented, especially for datasets with high dimensionality, large sample size, missingness, and class imbalance. We introduce TabBioMed, a large-scale benchmark of 94 curated public biomedical tabular datasets spanning\u2026",
+    "score": 5.161,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RSIBench-Infra: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?",
+    "url": "https://arxiv.org/abs/2611.24395",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24395v1 Announce Type: new Abstract: Improving the efficiency of training and inference infrastructure is a practical component of recursive self-improvement. Existing benchmarks for agent-driven optimization largely focus on individual software layers such as kernel, leaving unclear whether agents can deliver end-to-end performance gains under production workloads. We introduce\u2026",
+    "score": 5.161,
+    "matched": [
+      "inference",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What Survival Benchmarks Don't Tell You: Impact of Model Selection and Dataset Regimes",
+    "url": "https://arxiv.org/abs/2611.24837",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24837v1 Announce Type: new Abstract: Despite the proliferation of survival analysis methods, current benchmarks often operate under narrow conditions: they heavily rely on the concordance index (C-index) for evaluation and model selection, and frequently either exclude deep learning (DL) methods or underrepresent challenging dataset regimes. To address these limitations, we conduct a\u2026",
+    "score": 5.161,
+    "matched": [
+      "deep learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+    "url": "https://arxiv.org/abs/2611.23410",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.23410v1 Announce Type: cross Abstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio-frequency (RF) design intent, layout geometry, and electromagnetic behavior remains largely untested. To address this gap, we introduce RFBench, a simulator-grounded dataset and benchmark for passive RF layout design and\u2026",
+    "score": 5.161,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AutoPI: Taxonomy-Guided Adaptive Red Teaming for Prompt Injection in LLM Agents",
+    "url": "https://arxiv.org/abs/2611.24313",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.24313v1 Announce Type: cross Abstract: Prompt injection is the dominant unsolved security risk for LLM agents, and the community now agrees that robustness must be measured against adaptive attackers rather than fixed benchmark injections. Many adaptive red teamers exist, and most are built to maximize attack success rate (ASR). Yet ASR counts how often a target breaks, not in how many\u2026",
+    "score": 5.161,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TabBench-Bio: A Living Benchmark for Machine Learning on High-Dimensional Biomedical Tables",
+    "url": "https://arxiv.org/abs/2609.07441",
+    "source": "arXiv cs.LG",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2609.07441v3 Announce Type: replace Abstract: Biomedical tables often combine thousands of measured variables with only tens or hundreds of labelled samples, a regime that is poorly represented in general-purpose tabular benchmarks. We introduce TabBench-Bio, a living and interactive benchmark of 43 biomedical datasets spanning multiple domains. Under a shared cross-validation protocol, we\u2026",
+    "score": 5.161,
+    "matched": [
+      "machine learning",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-lg",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CrisisBench: an evaluation suite for crisis counseling AI",
+    "url": "https://arxiv.org/abs/2611.21622",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.21622v1 Announce Type: new Abstract: Background: Crisis helplines are essential to mental health systems but are often understaffed and underfunded. LLMs could support counselors, but existing benchmarks do not capture the escalation, risk assessment, and de-escalation central to crisis conversations, while privacy restrictions limit use of real transcripts. Methods: We present\u2026",
+    "score": 5.161,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
+    "url": "https://arxiv.org/abs/2611.21644",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.21644v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) excel in vision-language tasks; yet, whether they maintain consistent understanding of information-rich visuals (InfoVis) when the surface language changes remains unclear. To quantify this capability, we introduce MInfoVisQA, a parallel benchmark with 8,960 QA configurations derived from 128 seed instances\u2026",
+    "score": 5.161,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Where Does Hindsight Enter Clinical Agent Benchmarks? An Audit of Simulators and Case Construction",
+    "url": "https://arxiv.org/abs/2611.22241",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.22241v1 Announce Type: new Abstract: Benchmarks for LLM diagnostic agents are built from retrospective records: the case an agent reads is rewritten from discharge summaries, and unrecorded test results are generated by a simulator that often sees the final diagnosis. HindAudit separates three hindsight channels (the diagnosis given to the simulator, the retrospective context it\u2026",
+    "score": 5.161,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MM-ReportBench: A Comprehensive Benchmark for Multimodal Report Generation from Tables",
+    "url": "https://arxiv.org/abs/2611.22514",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.22514v1 Announce Type: new Abstract: The ability to generate multimodal reports integrating fluent narratives with faithful visualizations from tabular data, has become a cornerstone capability for modern vision-language models in practical domains such as finance, healthcare, and policy making. However, existing benchmarks are limited by single-modality focus, simplistic metrics,\u2026",
+    "score": 5.161,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Shared Word: Evaluating Language Models on Dutch Word Puzzles",
+    "url": "https://arxiv.org/abs/2611.22935",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.22935v1 Announce Type: new Abstract: Many LLM benchmarks for languages other than English are translated, multiple-choice, or difficult to score automatically. We introduce The Shared Word (TSW-NL), a Dutch benchmark built around four core principles: it is language-specific, open-vocabulary, human-curated, and deterministically scored. Each puzzle gives three clues that describe\u2026",
+    "score": 5.161,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TableVista: Benchmarking Multimodal Table Reasoning under Visual and Structural Complexity",
+    "url": "https://arxiv.org/abs/2605.05955",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2605.05955v2 Announce Type: replace Abstract: We introduce TableVista, a comprehensive benchmark for evaluating foundation models in multimodal table reasoning under visual and structural complexity. TableVista consists of 3,000 high-quality table reasoning problems, where each instance is expanded into 10 distinct visual variants through our multi-style rendering and transformation\u2026",
+    "score": 5.161,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CuRSE-Bench: A Benchmark for Probing Cultural Blind Spots in Text-to-Image Safety Evaluation",
+    "url": "https://arxiv.org/abs/2611.20821",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.20821v2 Announce Type: replace Abstract: Text-to-image (T2I) safety evaluation typically assigns each prompt or image a single culture-blind harm label, so content that is harmful only within a particular culture can pass as benign. We introduce CultureCraft, an agentic framework that constructs T2I prompts that appear benign under a general-purpose rubric yet carry a latent harmful\u2026",
+    "score": 5.161,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Introducing Gemini 4 Neon",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "source": "Google DeepMind",
+    "category": "Labs & Releases",
+    "published": "2026-11-18T21:35:43+00:00",
+    "summary": "",
+    "score": 4.936,
+    "matched": [
+      "gemini"
+    ],
+    "feed_id": "google-deepmind",
+    "breakdown": {
+      "feed_weight": 4.0,
+      "recency": 0.636,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+    "url": "https://arxiv.org/abs/2611.21682",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-19T05:00:00+00:00",
+    "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-domain benchmarks provide limited content coverage or focus primarily on answer accuracy without systematically evaluating the quality of the underlying reasoning. This study\u2026",
+    "score": 4.861,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.561,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
