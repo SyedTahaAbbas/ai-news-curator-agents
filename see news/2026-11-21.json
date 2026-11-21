@@ -1,0 +1,320 @@
+[
+  {
+    "title": "Can Anthropic afford to put safety first?",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-21T15:00:00+00:00",
+    "summary": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [\u2026]",
+    "score": 6.661,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.961,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-21T14:00:00+00:00",
+    "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching [\u2026]",
+    "score": 6.236,
+    "matched": [],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.836,
+      "keywords": 0.0,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The Outages Are Just Getting Started",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-21T13:00:00+00:00",
+    "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "score": 5.411,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 2.711,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T21:58:29+00:00",
+    "summary": "Google search is making it even easier to access AI tools on the search page.",
+    "score": 3.933,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.833,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T21:47:10+00:00",
+    "summary": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+    "score": 3.91,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.81,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T19:53:41+00:00",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "score": 3.873,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.573,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T16:34:13+00:00",
+    "summary": "Anthropic mathematician Levent Alp\u00f6ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [\u2026]",
+    "score": 3.858,
+    "matched": [
+      "ai",
+      "claude",
+      "anthropic"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.158,
+      "keywords": 0.9,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T19:32:08+00:00",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
+    "score": 3.828,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.528,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "source": "Ars Technica AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T20:59:08+00:00",
+    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "score": 3.809,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "ars-technica-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.709,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting Ravi Vakil",
+    "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-11-20T19:21:49+00:00",
+    "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems\u2026",
+    "score": 3.807,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.507,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "The most misunderstood graph in AI just got a major update",
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "source": "MIT Technology Review AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T18:15:15+00:00",
+    "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization\u2019s time horizon plot, which was widely\u2026",
+    "score": 3.668,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "mit-technology-review-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.368,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T18:50:19+00:00",
+    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [\u2026]",
+    "score": 3.541,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 0.441,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Cops Are Pushing Extremely Corny \u2018Grand Theft Auto 6\u2019 Slop",
+    "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T23:24:02+00:00",
+    "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn\u2019t get the memo.",
+    "score": 3.411,
+    "matched": [],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 1.011,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Chips can survive the space environment \u2014 can their financing?",
+    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T17:40:01+00:00",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "score": 3.295,
+    "matched": [],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 0.295,
+      "keywords": 0.0,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "source": "Wired AI",
+    "category": "Industry & Press",
+    "published": "2026-11-20T19:52:21+00:00",
+    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board\u2019s main issue was the former CEO\u2019s \u201clack of candor.\u201d",
+    "score": 3.27,
+    "matched": [
+      "nvidia"
+    ],
+    "feed_id": "wired-ai",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.57,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Quoting Levent Alp\u00f6ge",
+    "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-11-20T16:30:48+00:00",
+    "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a\u2026",
+    "score": 2.85,
+    "matched": [
+      "claude"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.15,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
