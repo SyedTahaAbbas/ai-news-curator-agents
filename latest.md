@@ -1,199 +1,201 @@
-# AI News Curator - Monday, 23 November 2026
+# AI News Curator - Tuesday, 24 November 2026
 
-*35 stories from the last 24 hours. Generated 2026-11-23 19:11 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-24 18:51 UTC.*
 
 ## Labs & Releases
 
-### [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
-`Google DeepMind` · 23 Nov 16:59 UTC · score 6.725
+### [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance)
+`Hugging Face` · 24 Nov 16:34 UTC · score 5.714
 
-Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.
+### [OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo)
+`OpenAI` · 23 Nov 21:20 UTC · score 5.21
 
-### [A more tailored Google Search that’s uniquely yours](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/)
-`Google AI` · 23 Nov 17:00 UTC · score 6.325
+OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.
 
-Google Search bar with the text "Personal Intelligence" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons
-
-### [RoboTrack: Point tracking for real-world robotic manipulation](https://huggingface.co/blog/allenai/robotrack)
-`Hugging Face` · 23 Nov 17:20 UTC · score 5.768
-
-### [Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season](https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/)
-`NVIDIA` · 23 Nov 17:00 UTC · score 5.425
-
-The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. \[…\]
+### [How iFood scales coding agents across 15,000 repositories](https://openai.com/index/ifood)
+`OpenAI` · 24 Nov 00:00 UTC · score 4.643
 
 ## Industry & Press
 
-### [A legendary philosopher isn’t buying Anthropic’s consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)
-`MIT Technology Review AI` · 23 Nov 17:36 UTC · score 6.4
+### [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)
+`TechCrunch AI` · 24 Nov 18:30 UTC · score 6.557
 
-This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…
+Anthropic’s post-IPO slump could put pressure on AI startup valuations.
 
-### [Jensen Huang isn’t out of the woods yet](https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/)
-`TechCrunch AI` · 23 Nov 16:57 UTC · score 6.32
+### [Tidal announces ban on AI-generated music; 27 million tracks will be deleted](https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/)
+`Ars Technica AI` · 24 Nov 17:34 UTC · score 6.54
 
-It’s safe to say no one expected this. Monday morning, Jensen Huang returned as CEO of Nvidia, after resigning the position following news of multiple affairs, including one with a subordinate and one with a woman tied to Chinese intelligence services. With so much of the AI industry built on top of Nvidia’s AI infrastructure, \[…\]
+AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.
 
-### [Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)
-`TechCrunch AI` · 23 Nov 18:12 UTC · score 6.176
+### [Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/)
+`TechCrunch AI` · 24 Nov 15:51 UTC · score 6.524
 
-The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.
+Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.
 
-### [Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription](https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording)
-`The Verge AI` · 23 Nov 19:04 UTC · score 6.085
+### [Raising the stakes for enterprise networks with AI modernization](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/)
+`MIT Technology Review AI` · 24 Nov 15:15 UTC · score 6.45
 
-Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device \[…\]
+Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…
 
-### [Jensen Huang is back as Nvidia’s CEO](https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated)
-`The Verge AI` · 23 Nov 14:04 UTC · score 6.059
+### [David Fincher is being dragged for suspected use of AI in his latest film](https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive)
+`The Verge AI` · 24 Nov 18:15 UTC · score 6.324
 
-Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board "voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor and ability to lead NVIDIA." In its statement, the board \[…\]
+Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it \[…\]
 
-### [Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips](https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/)
-`TechCrunch AI` · 23 Nov 17:14 UTC · score 6.055
+### [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
+`TechCrunch AI` · 24 Nov 18:02 UTC · score 6.199
 
-Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.
+The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.
 
-### [Oregon and Virginia sue SpaceX over Grok’s porn deepfakes](https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit)
-`The Verge AI` · 23 Nov 18:26 UTC · score 6.006
+### [Jensen Huang deepfakes are the hot new AI slop](https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes)
+`The Verge AI` · 24 Nov 16:30 UTC · score 6.105
 
-In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully \[…\]
+Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he \[…\]
 
-### [Trump reportedly called into Nvidia board meeting to advocate for Huang’s return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)
-`TechCrunch AI` · 23 Nov 16:39 UTC · score 5.982
+### [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)
+`TechCrunch AI` · 24 Nov 17:00 UTC · score 6.068
 
-"I spoke to them, let me put it that way... And I convinced them," the president told CNBC.
+The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.
 
-### [Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing](https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/)
-`TechCrunch AI` · 23 Nov 15:04 UTC · score 5.784
+### [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
+`TechCrunch AI` · 24 Nov 16:46 UTC · score 6.039
 
-The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.
+The company said it will still accept songs that were made with AI assistance, but not fully generated.
 
-### [White House brags that Trump was ‘totally involved’ in getting Jensen reinstated](https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated)
-`The Verge AI` · 23 Nov 16:30 UTC · score 5.763
+### [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/)
+`TechCrunch AI` · 24 Nov 16:10 UTC · score 5.964
 
-It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. "President Trump was totally involved and this is a great decision by the NVIDIA board," White House communications director Steven Cheung said in a statement, \[…\]
+Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.
 
-### [Sierra doubles valuation to $30B within six months as demand for AI in CX takes off](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/)
-`TechCrunch AI` · 23 Nov 14:43 UTC · score 5.74
+### [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/)
+`TechCrunch AI` · 24 Nov 16:02 UTC · score 5.948
 
-Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.
+While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.
 
-### [Nvidia reverses course and brings Jensen Huang back as CEO](https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/)
-`TechCrunch AI` · 23 Nov 14:21 UTC · score 5.696
+### [Tidal will start banning AI-generated music next month](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban)
+`The Verge AI` · 24 Nov 17:17 UTC · score 5.904
 
-The stunning reversal was supported by senior officials in the U.S. government.
+Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 \[…\]
 
-### [Meta Muse can do your Black Friday shopping at Walmart](https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday)
-`The Verge AI` · 23 Nov 11:00 UTC · score 5.675
+### [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features)
+`The Verge AI` · 24 Nov 16:09 UTC · score 5.763
 
-Walmart will now let Meta's Muse shop on your behalf, allowing the AI agent to find and purchase Black Friday deals via Walmart's Sparky AI assistant. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your \[…\]
+The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI "in ways that may not be apparent to users." In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh \[…\]
 
-### [Jensen Huang reinstated as Nvidia CEO, board chair](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/)
-`Ars Technica AI` · 23 Nov 15:46 UTC · score 5.672
+### [Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving](https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/)
+`Wired AI` · 24 Nov 16:00 UTC · score 5.643
 
-Trump says he spoke to the board and that Huang "did nothing wrong."
+A new test assumes AI agents can go rogue—and asks whether they can resist temptation.
 
-### [Jensen Huang Is Back, and So Is Nvidia’s Stock](https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/)
-`Wired AI` · 23 Nov 17:52 UTC · score 5.535
+### [How Trump and Silicon Valley forced Nvidia to take Jensen Huang back](https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/)
+`Ars Technica AI` · 24 Nov 14:56 UTC · score 5.611
 
-Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?
+Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.
 
-### [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay)
-`The Verge AI` · 23 Nov 16:14 UTC · score 5.43
+### [Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return](https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/)
+`Wired AI` · 24 Nov 17:44 UTC · score 5.561
 
-Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) "terrorized" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken \[…\]
+The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”
 
-### [Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI](https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/)
-`Ars Technica AI` · 23 Nov 12:00 UTC · score 5.2
+### [Amazon says hackers' AI agents found and exploited 0-day with little human input](https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/)
+`Ars Technica AI` · 24 Nov 12:30 UTC · score 5.306
 
-The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.
+The Cairn AI framework is proving to be a boon for defenders and attackers.
 
-### [Nvidia Is Powering Brain-Computer Interfaces Now](https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/)
-`Wired AI` · 23 Nov 13:11 UTC · score 4.95
+### [Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)
+`The Verge AI` · 23 Nov 20:00 UTC · score 5.043
 
-Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.
+Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was \[…\]
 
-## Research
+### [AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It](https://www.wired.com/story/ai-solved-maths-most-famous-problem/)
+`Wired AI` · 24 Nov 10:15 UTC · score 4.924
 
-### [Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection](https://arxiv.org/abs/2611.27784)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 5.425
+It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.
 
-arXiv:2611.27784v1 Announce Type: cross Abstract: Voice cloning now needs only seconds of audio, and detectors tuned to one dataset often fail when the generator, channel, or language changes. We introduce ARCAS 290M, Neural Defend's foundation model for detecting AI-generated audio. A single frozen production model, with no benchmark-specific fine-tuning, generalizes across text-to-speech,…
+### [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
+`TechCrunch AI` · 23 Nov 22:05 UTC · score 4.905
 
-### [Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations](https://arxiv.org/abs/2611.27007)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 5.125
+As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
 
-arXiv:2611.27007v1 Announce Type: new Abstract: Rigorously evaluating medical artificial intelligence (AI) requires testing open-ended clinical management across diverse presentations and stages of care. However, existing benchmarks rely on manual expert authoring, limiting coverage across conditions, conditional care pathways, and evolving guidelines. We develop an automated pipeline that…
+### [Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving](https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/)
+`Wired AI` · 24 Nov 10:45 UTC · score 4.687
 
-### [CoEvoBench: Can LLMs Drive Recursive Co-Evolution of Agentic Systems?](https://arxiv.org/abs/2611.27116)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 5.125
+Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.
 
-arXiv:2611.27116v1 Announce Type: new Abstract: The performance of an LLM agent depends on both its model and its harness, the code that mediates its interaction with tools and environments. Can LLM researchers drive this co-evolution as a recursive improvement process, deciding round after round which component to change when each change alters the value of the other? Existing benchmarks…
+### [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
+`TechCrunch AI` · 23 Nov 22:02 UTC · score 4.297
 
-### [Jagged Robustness: Uneven Safety Transfer and Emerging Vulnerabilities under LLM Quantization](https://arxiv.org/abs/2611.27424)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 5.125
+Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
 
-arXiv:2611.27424v1 Announce Type: new Abstract: Quantization enables efficient inference in language models through model parameter compression. This work audits the impact of quantization on capability and safety domains including model safeguards, instruction-following, ethics and bias. Through benchmarks, we find that model safeguards and bias can degrade under quantization, while other…
+### [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/)
+`TechCrunch AI` · 23 Nov 21:47 UTC · score 3.667
 
-### [DepthMSA: Combinatorial Training and Budget-Aware Depth Allocation for Multimodal Sentiment Analysis](https://arxiv.org/abs/2611.27198)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 5.125
+"The mistake has been corrected," Elon Musk chimed in.
 
-arXiv:2611.27198v1 Announce Type: cross Abstract: State-of-the-art multimodal sentiment analysis (MSA) models rely on large pretrained encoders, yet typically process every modality to its full depth, regardless of its computational cost or predictive contribution. This raises a fundamental question: how should limited computation be allocated across modalities to preserve predictive performance?…
+### [Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses](https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/)
+`TechCrunch AI` · 23 Nov 19:14 UTC · score 3.649
 
-### [Non-penetrating World Models](https://arxiv.org/abs/2611.27963)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 5.125
+By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem
 
-arXiv:2611.27963v1 Announce Type: cross Abstract: We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent such failures. Surprisingly,…
+### [Trump engineered a risky comeback for Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
+`The Verge AI` · 23 Nov 22:25 UTC · score 3.545
 
-### [Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale](https://arxiv.org/abs/2608.00101)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 5.125
+After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would "end up on his feet." \[…\]
 
-arXiv:2608.00101v2 Announce Type: replace Abstract: AI coding agents (e.g., GitHub Copilot, Claude Code, Codex) interleave multi-step LLM inference with tool execution, creating a workload different from chatbots. We present the first production-scale characterization of coding agents using sampled GitHub Copilot traces from June-July 2026, comprising 7.4M users, 819M conversations, 5.7B LLM…
+### [How Jensen Huang ended up as Nvidia CEO again](https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return)
+`The Verge AI` · 23 Nov 19:57 UTC · score 3.537
 
-### [The Vulnerability Window: Decision Instability in Quantized Reward Models](https://arxiv.org/abs/2611.27155)
-`arXiv cs.LG` · 23 Nov 05:00 UTC · score 5.125
+The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been "unfaithful" to his wife \[…\]
 
-arXiv:2611.27155v1 Announce Type: new Abstract: Reward models and LLM judges are routinely quantized to 4 bits so that scoring many candidates stays affordable, and the usual check is that benchmark accuracy barely moves. That check is close to blind. Across eight reward models from two families (0.6B-8B), three generative judges and four 4-bit quantizers, quantization rewrites 1.1-12.3% of…
+### [Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ](https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/)
+`TechCrunch AI` · 23 Nov 20:38 UTC · score 3.524
 
-### [FM4SAR-Bench 1.0: Towards A Fair Benchmark for Evaluating Foundation Models for SAR Image Interpretation](https://arxiv.org/abs/2611.27158)
-`arXiv cs.LG` · 23 Nov 05:00 UTC · score 5.125
+"I'm going to be a better CEO the second time around," Huang told employees.
 
-arXiv:2611.27158v1 Announce Type: cross Abstract: Foundation models have advanced SAR image interpretation but created a heterogeneous, fragmented model ecosystem. Existing models differ substantially in their input, training data, objectives, architectures, and release policy, yet the field lacks a unified taxonomy and comparative framework. Current evaluations rely primarily on task-specific…
+### [Welcome to elite impunity, Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang)
+`The Verge AI` · 23 Nov 22:09 UTC · score 3.513
 
-### [How Long Will My Language Model Run? A Benchmark for Pre-Execution Runtime Prediction](https://arxiv.org/abs/2611.26875)
-`arXiv cs.CL` · 23 Nov 05:00 UTC · score 5.125
+I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a "free market" is might \[…\]
 
-arXiv:2611.26875v1 Announce Type: new Abstract: Researchers submitting deep learning jobs to shared GPU clusters need runtime estimates to request time limits, choose hardware, and budget compute. Large language models (LLMs) offer a tempting shortcut: describe the job and ask. We introduce PreRun, a benchmark for predicting deep learning training and inference runtime from information available…
+### [AI data centers throw another wrench into chaotic UN climate talks](https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit)
+`The Verge AI` · 23 Nov 21:09 UTC · score 3.388
 
-### [AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering](https://arxiv.org/abs/2611.27734)
-`arXiv cs.CL` · 23 Nov 05:00 UTC · score 5.125
+The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees \[…\]
 
-arXiv:2611.27734v1 Announce Type: new Abstract: Foundation-model agents are increasingly extending beyond software engineering (SWE) into autonomous scientific research, where acquiring and integrating domain knowledge remains a critical challenge. Recent industrial advances have increasingly adopted knowledge graphs and ontology-based semantic layers to organize heterogeneous knowledge into…
+### [Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)
+`TechCrunch AI` · 23 Nov 21:25 UTC · score 3.322
 
-### [Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers](https://arxiv.org/abs/2611.26906)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 4.825
+Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.
 
-arXiv:2611.26906v1 Announce Type: new Abstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to every subgoal wastes computation when cheaper models are sufficient, while always starting from the cheapest solver wastes attempts on subgoals that require stronger models. We present BudgetPV, an agentic budget-aware…
+## Community
 
-### [AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress](https://arxiv.org/abs/2611.26910)
-`arXiv cs.AI` · 23 Nov 05:00 UTC · score 4.825
+### [GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/)
+`Simon Willison` · 24 Nov 16:53 UTC · score 5.455
 
-arXiv:2611.26910v1 Announce Type: new Abstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in an embodied world cannot be read from one measure. Existing benchmarks measure task progress, world-knowledge question answering (QA), and episodic memory, but a correct answer does not show that the agent ever observed…
+GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary…
+
+### [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)
+`Simon Willison` · 23 Nov 23:40 UTC · score 3.603
+
+GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from…
 
 ---
 
 <details><summary>Feeds that did not respond</summary>
 
+- **Google AI** - TimeoutError: The read operation timed out
+- **Hacker News (AI, 100+ pts)** - HTTP 502
 - **Import AI** - HTTP 403
 - **VentureBeat AI** - HTTP 429
+- **arXiv cs.AI** - no entries
+- **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/MachineLearning** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ Import AI has been unreachable for 78 days
-- ⚠️ VentureBeat AI has been unreachable for 78 days
-- ⚠️ r/artificial has been unreachable for 9 days
-- ⚠️ r/MachineLearning has been unreachable for 6 days
-- ⚠️ r/LocalLLaMA has been unreachable for 5 days
+- ⚠️ Import AI has been unreachable for 79 days
+- ⚠️ VentureBeat AI has been unreachable for 79 days
+- ⚠️ r/artificial has been unreachable for 10 days
+- ⚠️ r/MachineLearning has been unreachable for 7 days
+- ⚠️ r/LocalLLaMA has been unreachable for 6 days
 
 </details>
