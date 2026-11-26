@@ -1,158 +1,198 @@
-# AI News Curator - Wednesday, 25 November 2026
+# AI News Curator - Thursday, 26 November 2026
 
-*27 stories from the last 24 hours. Generated 2026-11-25 17:56 UTC.*
+*35 stories from the last 24 hours. Generated 2026-11-26 17:41 UTC.*
 
 ## Labs & Releases
 
-### [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)
-`Hugging Face` · 25 Nov 10:22 UTC · score 5.054
+### [Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+`Hugging Face` · 26 Nov 11:37 UTC · score 6.441
 
-### [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb)
-`Hugging Face` · 25 Nov 00:00 UTC · score 4.057
+### [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin)
+`Hugging Face` · 26 Nov 05:05 UTC · score 5.025
 
 ## Industry & Press
 
-### [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)
-`The Verge AI` · 25 Nov 17:44 UTC · score 6.676
+### [As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue](https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)
+`TechCrunch AI` · 26 Nov 16:00 UTC · score 6.689
 
-In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's "Starmind" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency \[…\]
+On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.
 
-### [Nothing offers a full look at its AI earbuds and charging case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal)
-`The Verge AI` · 25 Nov 16:00 UTC · score 6.459
+### [42 state AGs are trying to stop Character.AI from selling users’ chats](https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats)
+`The Verge AI` · 26 Nov 09:54 UTC · score 5.728
 
-Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a "Talk" button that you \[…\]
+A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off "the private chat histories of more than 21 million U.S. accounts - \[…\]
 
-### [AI data centers are becoming harder to build, and neoclouds are feeling it](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)
-`TechCrunch AI` · 25 Nov 15:41 UTC · score 6.319
+## Research
 
-⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. \[…\]
+### [The Paradox of Agency-Preserving AI: Negotiating Learner Agency in Layered Human-AI Interactions](https://arxiv.org/abs/2611.31573)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.614
 
-### [State AGs fight Character AI’s plan to auction off users’ private chats](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
-`TechCrunch AI` · 25 Nov 17:35 UTC · score 6.257
+arXiv:2611.31573v1 Announce Type: cross Abstract: Generative AI is increasingly used by learners in cognitively demanding tasks, but its capacity to provide immediate solutions raises concerns about decreased learner agency. Meta-level AI systems that provide reflective and metacognitive scaffolding have emerged as a promising approach to supporting learners' self-regulation. However, these…
 
-The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.
+### [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](https://arxiv.org/abs/2611.31301)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/)
-`TechCrunch AI` · 25 Nov 14:10 UTC · score 5.829
+arXiv:2611.31301v2 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on the picture, the voice, or encoding traces. We present MOZAIC, a paired benchmark with a 4-way label in which every source clip is released in all four combinations of real or…
 
-Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.
+### [RecurSciBench: Benchmarking Recursive Self-Improvement in Data-Driven Scientific Research](https://arxiv.org/abs/2611.32508)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [Has vibe coding made open source the new normal for synths?](https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware)
-`The Verge AI` · 25 Nov 13:00 UTC · score 5.782
+arXiv:2611.32508v1 Announce Type: new Abstract: Large language model (LLM)-based agents are advancing the automation of data-driven scientific research. Recent advances in recursive self-improvement (RSI) offer the potential for these agents to continuously improve through experience, but evaluating transfer across scientific tasks requires executable, scientifically verifiable tasks and…
 
-The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no \[…\]
+### [CAPTA: Identifying LLMs Behind AI Agents](https://arxiv.org/abs/2611.32686)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/)
-`TechCrunch AI` · 25 Nov 13:00 UTC · score 5.682
+arXiv:2611.32686v1 Announce Type: new Abstract: Large language model (LLM)-based agents access remote services through tools to complete user tasks, often via API calls. In this setting, a remote service may want to identify the backend LLM of an agent to launch model-specific attacks, including prompt injection or selective delivery of manipulated content. However, the service cannot directly…
 
-The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.
+### [RegioZH: Unveiling Comprehension Disparities across Regional Chinese Varieties in LLMs](https://arxiv.org/abs/2611.31262)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [Ars Live recap: Don’t expect military attacks on data centers to stop](https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/)
-`Ars Technica AI` · 25 Nov 16:47 UTC · score 5.656
+arXiv:2611.31262v1 Announce Type: cross Abstract: Current evaluations often treat Chinese varieties as monolithic, obscuring failures for regional users. We introduce RegioZH, a 2,607-item multiple-choice benchmark for regional lexical reasoning across Mainland China, Taiwan, Hong Kong, Singapore, and Malaysia. Built by region-specific annotators and expert-validated, it targets localized idioms,…
 
-Militaries have many reasons to target data centers and the cloud in wartime.
+### [Agentic Optimization: LLM Agents Select and Configure Algorithms for Engineering Design](https://arxiv.org/abs/2611.31275)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
-`The Verge AI` · 25 Nov 14:12 UTC · score 5.634
+arXiv:2611.31275v1 Announce Type: cross Abstract: Engineers solving new multi-objective design problems commonly commit to a multi-objective evolutionary algorithm (MOEA) before seeing a result. The best MOEA differs from benchmark to benchmark. We propose agentic optimization, placing an LLM agent outside the optimization loop, where it reads a natural-language problem description to configure…
 
-Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, \[…\]
+### [ASTERISM: Do Multimodal LLMs Actually Look at All the Images?](https://arxiv.org/abs/2611.32316)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [AI may soon change what it means to be a theoretical physicist](https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/)
-`Ars Technica AI` · 25 Nov 12:00 UTC · score 5.358
+arXiv:2611.32316v2 Announce Type: cross Abstract: Multi-image benchmarks aim to test whether a multimodal large language model (MLLM) combines evidence across images, but many of their items can be answered from a single image. Across about 33k items from 19 public benchmarks, our audit and a two-stage single-image filter find that one image or the question alone settles 24.2% of them. On these…
 
-Frontier AI is already solving problems that once took top physicists a full day.
+### [AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design](https://arxiv.org/abs/2611.33093)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)
-`MIT Technology Review AI` · 25 Nov 10:00 UTC · score 5.307
+arXiv:2611.33093v1 Announce Type: cross Abstract: A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such hardware correctly. Agents implement quantized Qwen3.5,…
 
-In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…
+### [SWE-Proof: Can Language Models Resolve Real-World Issues with Machine-Checked Proofs?](https://arxiv.org/abs/2609.21190)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.314
 
-### [Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long](https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/)
-`Wired AI` · 25 Nov 11:30 UTC · score 5.195
+arXiv:2609.21190v3 Announce Type: replace-cross Abstract: Ensuring the correctness of LLM-generated code is a core challenge for modern software engineering. Benchmarks for agentic code generation check correctness with held-out test suites, which are inherently incomplete and increasingly susceptible to memorization. Formal verification avoids both problems, but existing work covers only…
 
-The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.
+### [Evaluation and Restoration of Safety in Reasoning-Tuned LLMs](https://arxiv.org/abs/2611.33515)
+`arXiv cs.LG` · 26 Nov 05:00 UTC · score 5.314
 
-### [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
-`TechCrunch AI` · 24 Nov 21:33 UTC · score 4.652
+arXiv:2611.33515v1 Announce Type: new Abstract: Open-source LLMs that are optimized for reasoning, such as VibeThinker, aim to democratize AI by bringing high-capability models to users with limited resources. They are broadly available but lack regulation and external guardrails; therefore, in order to integrate them safely into human society, it is critical that they perform in a safe manner.…
 
-As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.
+### [How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches](https://arxiv.org/abs/2611.33639)
+`arXiv cs.LG` · 26 Nov 05:00 UTC · score 5.314
 
-### [Maple raises $5.3M to build AI products that protect your data, even from itself](https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/)
-`TechCrunch AI` · 24 Nov 21:19 UTC · score 4.324
+arXiv:2611.33639v1 Announce Type: cross Abstract: AI coding agents write code faster than people can review it, so teams add AI reviewers. Reasoning models let such a reviewer trade cost for diligence through an effort setting. We asked how much effort a reviewer needs to catch plausible-but-wrong patches, which pass a benchmark's tests but fail stronger ones. Claude Opus 5.5 (preregistered),…
 
-The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.
+### [Lost in Translation, Not in Confidence: Benchmarking and Calibrating Multilingual Decision Models](https://arxiv.org/abs/2611.33307)
+`arXiv cs.CL` · 26 Nov 05:00 UTC · score 5.314
 
-### [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
-`TechCrunch AI` · 25 Nov 00:12 UTC · score 4.082
+arXiv:2611.33307v1 Announce Type: new Abstract: Decision models are language models fine-tuned to return a probability for each option of a typed query, which routers and guardrails threshold directly. They are built on multilingual bases but ranked almost entirely in English. We evaluate 25 top-ranked open-weight decision models on 17 tasks in 14 languages, comparing each language with English…
 
-Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.
+### [LogToPersona: New Benchmark and Efficient Persona Prediction through Semantic Log Filtering](https://arxiv.org/abs/2611.33510)
+`arXiv cs.CL` · 26 Nov 05:00 UTC · score 5.314
 
-### [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
-`TechCrunch AI` · 24 Nov 21:48 UTC · score 3.783
+arXiv:2611.33510v1 Announce Type: new Abstract: Detailed knowledge of a user's persona is valuable for personalizing generative AI models and agents, yet such details are difficult to obtain and change over time. We address the task of inferring persona attributes from a single day of mobile activity logs. No suitable publicly available benchmark exists for this task, so we introduce a synthetic…
 
-The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.
+### [CONCOR: Benchmarking Contrastive Decoding for Visual Hallucination Mitigation Beyond Final-Output Performance](https://arxiv.org/abs/2611.30460)
+`arXiv cs.CL` · 26 Nov 05:00 UTC · score 5.314
 
-### [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
-`TechCrunch AI` · 24 Nov 21:32 UTC · score 3.75
+arXiv:2611.30460v2 Announce Type: replace Abstract: Contrastive decoding (CD) mitigates object hallucination in multimodal large language models (MLLMs) by contrasting token distributions under different conditions to adjust token scores. However, existing generative and discriminative benchmarks primarily measure final task scores, which can be confounded by candidate filtering, changes in…
 
-Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.
+### [Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs](https://arxiv.org/abs/2611.31345)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
 
-### [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
-`TechCrunch AI` · 24 Nov 22:27 UTC · score 3.565
+arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on static charts, overlooking interactive charts that enable richer and more expressive data exploration. Unlike static chart-to-code generation, which emphasizes visual consistency,…
 
-It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
+### [What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations](https://arxiv.org/abs/2611.31346)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
 
-### [What's going on with the Riemann hypothesis?](https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/)
-`Ars Technica AI` · 24 Nov 20:34 UTC · score 3.43
+arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benchmarks largely focus on coarse-grained emotion recognition or binary truth-deception detection, overlooking the diverse ways people manipulate information in conversations, such…
 
-A new AI-assisted proof seems to be solid, but we're not sure what it tells us.
+### [Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training](https://arxiv.org/abs/2611.31427)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
 
-### [Jensen Huang’s Return Shows Nvidia Is Too Big to Police](https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/)
-`Wired AI` · 24 Nov 23:39 UTC · score 3.414
+arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve a task yet fail to express that knowledge through a particular harness. This raises a basic question: when a policy fails under a given harness, is it missing task knowledge or…
 
-Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.
+### [TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents](https://arxiv.org/abs/2611.31756)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
 
-### [Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired](https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology)
-`The Verge AI` · 24 Nov 20:02 UTC · score 3.362
+arXiv:2611.31756v1 Announce Type: new Abstract: The growing autonomy of AI agents in using external tools and making decisions has created an urgent need for comprehensive safety benchmarks. Existing benchmarks test compromised tool channels or adaptive multi-turn attacks, though they may not capture the unique capabilities of policy-governed tool-use agents, which must resist unauthorized…
 
-Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang \[…\]
+### [Coding4Games: Can Modern Coding Agents Play Modern Video Games?](https://arxiv.org/abs/2611.31974)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
 
-### [Amazon drone crashes on garage after delivering shampoo, draws FAA probe](https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/)
-`Ars Technica AI` · 24 Nov 18:47 UTC · score 2.907
+arXiv:2611.31974v1 Announce Type: new Abstract: Games, especially modern AAA games, challenge language models to perceive complex scenes, control actions, and make decisions over long horizons. Existing game benchmarks primarily test language models as computer-use agents that query a language model throughout play, incurring repeated inference cost and, in real-time games, acting while the…
 
-Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.
+### [FigmaEval: A Benchmark for Evaluating AI Agents in Professional UI Design](https://arxiv.org/abs/2611.32321)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.32321v1 Announce Type: new Abstract: Recent advances in AI agents have enabled autonomous UI design using professional tools such as Figma, yet evaluating their design capabilities remains challenging due to the open-ended nature of design tasks and the absence of unique ground truths. We introduce FigmaEval, a benchmark for evaluating AI agents on professional UI design tasks,…
+
+### [InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning](https://arxiv.org/abs/2611.32918)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.32918v1 Announce Type: new Abstract: Fine-tuning an instruction-tuned language model on new facts often erodes its general abilities. We find that standard fine-tuning lowers instruction-following, reasoning and coding benchmarks by 35 points on average, and that these losses track a collapse in answer length: fine-tuned models at least halve their responses, and the further a response…
+
+### [INCLUDE-2.0: Disentangling Knowledge Gaps in Multilingual LLM Evaluation](https://arxiv.org/abs/2611.31255)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.31255v1 Announce Type: cross Abstract: Current multilingual benchmarks cover only a fraction of the languages represented in modern pretraining corpora and often conflate language proficiency with the ability to answer questions grounded in specific regions and communities. We introduce INCLUDE-2.0, a large-scale benchmark for region-aware multilingual factual evaluation, which covers…
+
+### [Does Item Response Theory Generalize Across Languages? Evidence from Cross-Lingual LLM Benchmarks](https://arxiv.org/abs/2611.31261)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.31261v1 Announce Type: cross Abstract: The application of Item Response Theory (IRT) for data selection in benchmarks has mostly been limited to monolingual settings. In this work, we ask: how does IRT generalize when the same benchmark is translated across languages? We conduct experiments on Multilingual GSM and Global MMLU, covering over 100 language models and 11 languages. Fitting…
+
+### [AhaPro: A Process-level Rebus benchmark for probing Aha moments in LLM reasoning](https://arxiv.org/abs/2611.31268)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.31268v1 Announce Type: cross Abstract: Existing research on Aha moments in large language models has largely focused on reflective expressions or final revision outcomes, leaving their role in the visible reasoning process insufficiently characterized. Rebus puzzles encode answers through character forms, spatial arrangements, and homophony. Reinterpreting key details may trigger Aha…
+
+### [Reliability of Language-Model Judges for Quantitative Scientific Question Answering: Evidence from Perovskite Photovoltaics](https://arxiv.org/abs/2611.31269)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.31269v1 Announce Type: cross Abstract: Evaluating retrieval-augmented language models increasingly relies on automated model judges, yet their reliability on quantitative scientific synthesis remains largely unmeasured. Here, we evaluate automated grading on a quantitative benchmark for perovskite photovoltaics, where all 755 ground-truth answers are deterministically computed from…
+
+### [Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments](https://arxiv.org/abs/2611.32094)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.32094v1 Announce Type: cross Abstract: Spatial reasoning in hospitals requires tracking look-alike equipment, interpreting patient-relative directions, and judging passage widths, yet existing benchmarks provide limited coverage of these abilities. We introduce Clinical3D-Bench, a simulated benchmark with 3,368 questions of eight types on egocentric walkthroughs of 373 hospital-room…
+
+### [Joint Classification and Generation on Tabular Data: an Empirical Study](https://arxiv.org/abs/2611.32225)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.32225v1 Announce Type: cross Abstract: Many applications of machine learning on tabular data need both a classifier and a generator of realistic records. The default is to train two separate models, whereas a single joint model promises both from one set of weights. Several families of tabular deep learning models can be turned into such a joint model, which raises the question of…
+
+### [ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds](https://arxiv.org/abs/2611.32649)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.32649v1 Announce Type: cross Abstract: In-context learning (ICL) lets agents acquire new rules from context and adapt to user-specific requirements at inference time. The same frontier agents now operate both computers and robots, yet their ICL remains insufficiently assessed: existing benchmarks are largely offline, rely on text or static images, and risk training-data contamination,…
+
+### [Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies](https://arxiv.org/abs/2611.33010)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2611.33010v1 Announce Type: cross Abstract: Can a simple mirror expose the limitations of today's robotic manipulation policies? Inspired by the mirror self-recognition test in animal cognition, we investigate whether robot policies can reliably manipulate physical objects in scenes containing their reflections. We introduce RoboDojo-Mirror, a benchmark built on RoboDojo that preserves task…
+
+### [Designer-RSI: Evolving Procedural Memory from User Traffic for Graphic Design Agent](https://arxiv.org/abs/2609.22086)
+`arXiv cs.AI` · 26 Nov 05:00 UTC · score 5.014
+
+arXiv:2609.22086v3 Announce Type: replace Abstract: Deployed software agents face a continuous stream of user requests while their foundation-model weights remain frozen between releases. Recursive self-improvement (RSI) via external memory offers a practical path to continual adaptation, yet prior methods largely assume programmatic verifiers, cheap retries, or a single global prompt. Creative…
 
 ## Community
 
-### [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
-`Hacker News (AI, 100+ pts)` · 25 Nov 03:47 UTC · score 4.132
+### [Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/)
+`Simon Willison` · 26 Nov 15:09 UTC · score 5.684
 
-Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 203 # Comments: 78
-
-### [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/)
-`Simon Willison` · 24 Nov 23:02 UTC · score 3.637
-
-I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today,…
-
-### [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
-`Hacker News (AI, 100+ pts)` · 24 Nov 21:02 UTC · score 3.587
-
-Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 339 # Comments: 94
+Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their…
 
 ---
 
 <details><summary>Feeds that did not respond</summary>
 
+- **Hacker News (AI, 100+ pts)** - HTTP 502
 - **VentureBeat AI** - HTTP 429
-- **arXiv cs.AI** - no entries
-- **arXiv cs.CL** - no entries
-- **arXiv cs.LG** - no entries
 - **r/LocalLLaMA** - HTTP 429
 - **r/MachineLearning** - HTTP 429
 - **r/artificial** - HTTP 429
-- ⚠️ VentureBeat AI has been unreachable for 80 days
-- ⚠️ r/artificial has been unreachable for 11 days
-- ⚠️ r/MachineLearning has been unreachable for 8 days
-- ⚠️ r/LocalLLaMA has been unreachable for 7 days
+- ⚠️ VentureBeat AI has been unreachable for 81 days
+- ⚠️ r/artificial has been unreachable for 12 days
+- ⚠️ r/MachineLearning has been unreachable for 9 days
+- ⚠️ r/LocalLLaMA has been unreachable for 8 days
 
 </details>
