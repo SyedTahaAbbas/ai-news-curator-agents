@@ -1,0 +1,744 @@
+[
+  {
+    "title": "Android\u2019s DIY widgets are a bit of vibe-coding fun",
+    "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "source": "The Verge AI",
+    "category": "Industry & Press",
+    "published": "2026-11-27T14:00:00+00:00",
+    "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [\u2026]",
+    "score": 5.671,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "the-verge-ai",
+    "breakdown": {
+      "feed_weight": 2.8,
+      "recency": 2.571,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "IRTIQA: Evolving in English, Evaluated in Urdu -- Does Agent Self-Evolution Transfer from English to Urdu and Code-Switched Input?",
+    "url": "https://arxiv.org/abs/2611.34303",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34303v1 Announce Type: new Abstract: As LLM agents increasingly learn from their own experience, the tasks they learn from and are evaluated on are almost always in English. We ask whether self-evolution transfers from English to Urdu, and release IRTIQA, a benchmark of aligned English, Urdu-translated, and Urdu code-switched variants of DROP, SNIPS, AppWorld, and SkillsBench, built\u2026",
+    "score": 5.646,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams",
+    "url": "https://arxiv.org/abs/2611.34400",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34400v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from passive chatbots into autonomous systems that operate continuously in dynamic environments. Such agents need not only solve current tasks but also learn from past interactions to improve future performance. However, existing streaming benchmarks often rely on short task sequences or largely\u2026",
+    "score": 5.346,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking Open-Ended Vulnerability Discovery in Windows Kernel Binaries",
+    "url": "https://arxiv.org/abs/2611.33486",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33486v1 Announce Type: cross Abstract: Frontier models are increasingly used to discover real-world security vulnerabilities, making it critical to systematically evaluate their cybersecurity capabilities. However, existing security benchmarks primarily focus on known vulnerabilities in open-source projects, largely overlooking closed-source binaries, which underpin much of the\u2026",
+    "score": 5.346,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.3,
+      "boosts": 1.8,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Personalize-then-Store: Benchmarking and Learning Personalized Memory for Long-horizon Agents",
+    "url": "https://arxiv.org/abs/2605.25535",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2605.25535v2 Announce Type: replace Abstract: Existing large language model (LLM) based memory systems apply universal, static policies that overlook a fundamental reality: the contexts that are worth storing in memory are different across users. This misalignment wastes limited memory budget on transient interactions while failing to preserve critical context for longhorizon tasks. To\u2026",
+    "score": 5.346,
+    "matched": [
+      "llm",
+      "large language model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Towards Faithful Agentic XAI: A Verification Method and an Open-World Benchmark for Better Model Faithfulness",
+    "url": "https://arxiv.org/abs/2605.27879",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2605.27879v2 Announce Type: replace Abstract: Explainable AI (XAI) helps users interpret model behavior and identify potential faults. Agentic XAI systems use Large Language Models (LLMs) to make explanations more accessible through natural-language interaction, but they can also produce plausible yet unfaithful explanations. This risk arises because unreliable XAI outputs for complex\u2026",
+    "score": 5.346,
+    "matched": [
+      "ai",
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Frontier Open-Weight AI Risk Management Framework",
+    "url": "https://arxiv.org/abs/2611.28082",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.28082v2 Announce Type: replace-cross Abstract: Open-weight models advance transparency, research, and innovation, and spread the benefits of AI more widely. They also carry distinct risks. A release cannot be undone, safeguards can be removed through fine-tuning, and no single party can monitor use or withdraw the model. Managing these risks therefore requires an approach tailored to\u2026",
+    "score": 5.346,
+    "matched": [
+      "ai",
+      "fine-tun*",
+      "open-weight*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.9,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+    "url": "https://arxiv.org/abs/2611.33165",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33165v1 Announce Type: new Abstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical formalization, however, is not isolated theorem proving: it requires building the definitions and intermediate lemmas that connect a result to a formal library. Existing evaluations often provide isolated theorem\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+    "url": "https://arxiv.org/abs/2611.33594",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33594v1 Announce Type: new Abstract: Embedding models increasingly inform how people search, recommend, and retrieve information, yet we lack credible ways to test whether these similarity judgments reflect how humans understand meaning. Existing benchmarks typically rely on static, expert-labeled pairs with coarse Likert-style annotations, limiting scalability and making it difficult\u2026",
+    "score": 5.046,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "TransHarness: From Benchmark Overfitting to Transferable Harness Evolution",
+    "url": "https://arxiv.org/abs/2611.33757",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33757v1 Announce Type: new Abstract: Harness evolution offers a path to improving coding agents without updating model weights. However, existing methods can overfit their evolution benchmarks, producing gains that fail to carry over to new tasks. To address this challenge, we introduce Transferable Harness Evolution (TransHarness), which evolves harness intervention policies from\u2026",
+    "score": 5.046,
+    "matched": [
+      "model weights",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments",
+    "url": "https://arxiv.org/abs/2611.34254",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34254v1 Announce Type: new Abstract: Large language models (LLMs) perform well on chemistry knowledge benchmarks, which mainly assess question answering and isolated tasks. Chemical research, however, requires using specialized tools and interpreting their outputs to obtain chemically valid results. To address this gap, we introduce Crucible Bench to evaluate this ability across all\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "vSFT: Learning to Verbally Tune Agents at Test Time",
+    "url": "https://arxiv.org/abs/2611.34440",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34440v1 Announce Type: new Abstract: Large language model agents are increasingly improved via agentic reinforcement learning, which can be on-policy but suffers from expensive rollouts and sparse rewards, limiting its application at test time. In this paper, we present a verbally Supervised Fine-Tuning (vSFT) framework that enables the conjunction of dense feedback in natural language\u2026",
+    "score": 5.046,
+    "matched": [
+      "large language model",
+      "agentic",
+      "fine-tun*",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
+    "url": "https://arxiv.org/abs/2611.34466",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34466v1 Announce Type: new Abstract: AI wearables, such as smart glasses, extend the context available to agents beyond digital environments to users' physical surroundings. With these devices, computer tasks can originate from users' ongoing activities rather than solely from explicit instructions. Through first-person observations, agents can identify objects and activities relevant\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "REE: A Scientific Research Entrance Exam for AI Agents",
+    "url": "https://arxiv.org/abs/2611.34646",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34646v1 Announce Type: new Abstract: Autonomous research agents are emerging as a promising approach to scientific problem-solving across disciplines, owing to their growing ability to improve a solution through repeated experiments. Evaluating this ability requires benchmarks that pose open-ended research problems and measure improvements over established scientific methods. We\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "What Is a Theory Worth to an LLM Solver? Measuring, Inducing, and Merging Theories in Context",
+    "url": "https://arxiv.org/abs/2611.34751",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34751v1 Announce Type: new Abstract: Mathematicians solve problems faster when they know the right theory. We ask how much a stated theory is worth to a large language model (LLM) solver, and whether a model can write that theory itself. In a length-matched protocol, adding the right theory to the context of Qwen3-14B raises pass@1 on pattern waiting-time problems from 0.37 to 0.83 and\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Attributing Agentic Failure in Reasoning Vision-Language Models with Interactive 2D Environments",
+    "url": "https://arxiv.org/abs/2611.33162",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33162v1 Announce Type: cross Abstract: Agentic benchmarks report a success rate that confounds distinct causes of failure: misreading the environment, never working out how components of the environment operates, operating the components in the wrong order, and failing to recover from a mistake, each of which calls for a different fix. We present an early preview of MultiNet\u2026",
+    "score": 5.046,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2611.33242",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33242v1 Announce Type: cross Abstract: Multi-agent systems (MAS) built on large language models (LLMs) distribute reasoning across specialized agents that must exchange messages and invoke tools reliably. Existing evaluations typically couple communication with open domain tasks, making it difficult to determine whether a failure arises from reasoning, malformed tool use, lost\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Poisoning Self-Evolving Security Policies in LLM Agents",
+    "url": "https://arxiv.org/abs/2611.33385",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33385v1 Announce Type: cross Abstract: Self-evolving defenses improve LLM-agent security by learning reusable policies from observed attacks. However, we demonstrate that this learning process itself can become an attack surface. Using SED (Self-Evolving Defense) in the AgentDojo benchmark, we construct a single prompt-injection episode that causes the defense to learn an over-broad\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Triage Before Fine-Tuning: Feasibility-Gated Selection and Monitored Adaptation of Embodied Foundation Models for a Fixed Physical Platform",
+    "url": "https://arxiv.org/abs/2611.33772",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33772v1 Announce Type: cross Abstract: Embodied foundation models are increasingly deployed by selection: a practitioner picks a public checkpoint by benchmark rank and fine-tunes it on local data. The platform is fixed before the model is chosen, with little or no local data. We ask what such a checkpoint loses on a fixed platform and which part of the loss local data can buy back. We\u2026",
+    "score": 5.046,
+    "matched": [
+      "fine-tun*",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "DosePET: An Open-Source Dataset with 2100 Radiation Dose Maps for PET/CT",
+    "url": "https://arxiv.org/abs/2611.34008",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34008v1 Announce Type: cross Abstract: Large collections of three-dimensional radiation dose maps linked to patient anatomy are needed to develop artificial intelligence (AI) models for personalized internal dosimetry in nuclear medicine, but access to such data remains limited. Here we present DosePET, an open-source dataset of 2,100 patient-specific absorbed-dose maps generated by\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Assessing the Physical Interpretability of AlphaEarth Foundation Embeddings Through Multi-Sensor Satellite Time-Series Benchmarking for Agricultural Mapping",
+    "url": "https://arxiv.org/abs/2611.34019",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34019v1 Announce Type: cross Abstract: Accurate and dynamic maps of agricultural LULC are important for agricultural water resource management, particularly in areas where water scarcity is prevalent, such as Morocco. Here, we evaluate the utility of AlphaEarth Foundation Model (AEF) embeddings for agricultural LULC and irrigation-type mapping in Morocco. AEF embeddings were compared\u2026",
+    "score": 5.046,
+    "matched": [
+      "foundation model",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts",
+    "url": "https://arxiv.org/abs/2611.34098",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34098v1 Announce Type: cross Abstract: Large language models (LLMs) increasingly participate in political discussions, making it important to understand which positions they support or oppose. We propose a framework for assessing LLMs' political stances through simulated social media interactions. The framework uses politicians' posts and multiple prompting methods to identify\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search",
+    "url": "https://arxiv.org/abs/2611.34634",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34634v1 Announce Type: cross Abstract: Reinforcement learning (RL) emerges as a prominent approach to quantum architecture search (QAS), the automated design of quantum circuits. However, transferring what an agent has learned from one number of qubits to another is still weakly explored: the state, the action space and the neural network of a state-of-the-art RL-QAS agent all grow\u2026",
+    "score": 5.046,
+    "matched": [
+      "neural network",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "MathConstruct: Challenging LLM Reasoning with Constructive Proofs",
+    "url": "https://arxiv.org/abs/2502.10197",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2502.10197v3 Announce Type: replace Abstract: While Large Language Models (LLMs) demonstrate impressive performance in mathematics, existing math benchmarks come with significant limitations. Many focus on problems with fixed ground-truth answers, and are often saturated due to problem simplicity or the viability of guessing or memorization. Crucially, they capture only a narrow subset of\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmark Everything Everywhere All at Once",
+    "url": "https://arxiv.org/abs/2606.06462",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2606.06462v2 Announce Type: replace Abstract: Benchmarks provide standardized measures for evaluating and advancing large language models (LLMs) and multimodal LLMs (MLLMs). As models improve, existing benchmarks can approach saturation, making it harder to challenge models and distinguish among them. While reusing annotated datasets can reduce data collection and labeling effort,\u2026",
+    "score": 5.046,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "CompMat-Bench: Benchmarking AI Agents for Computational Materials Science",
+    "url": "https://arxiv.org/abs/2610.00636",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2610.00636v3 Announce Type: replace Abstract: Evaluating AI agents on scientific research tasks is constrained by the time and resources required for the underlying experiments or calculations. In computational materials research, repeating the same expensive simulations across agents and trials can make evaluation impractical. We introduce CompMat-Bench, a benchmark of 94 tasks derived\u2026",
+    "score": 5.046,
+    "matched": [
+      "ai",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Can Vision-Language Models Synthesize Executable Game-Playing Programs?",
+    "url": "https://arxiv.org/abs/2611.27741",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.27741v2 Announce Type: replace Abstract: Recent advances in vision-language models (VLMs) have endowed multimodal agents with increasingly strong visual perception and long-horizon reasoning capabilities, making VLM-based autonomous game playing feasible. Existing game benchmarks primarily evaluate whether an agent can select appropriate actions from the current visual state across\u2026",
+    "score": 5.046,
+    "matched": [
+      "multimodal",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Engram: Multi-Stage Memory for Agentic Tuning of Heterogeneous Models",
+    "url": "https://arxiv.org/abs/2611.28356",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.28356v2 Announce Type: replace Abstract: Large language model (LLM) agents can now tune neural networks, yet without cross-session memory they spend costly trials rediscovering known lessons. Reuse is difficult because production models differ in architecture, training setup and inference budget. We present Engram, a memory system that links past trial outcomes with the hypotheses and\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "large language model",
+      "agentic",
+      "inference"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Benchmarking LLM-Based Investment Advisor Agents for Asset Allocation in the Chinese ETF Market: Overview of NLPCC 2026 Shared Task 4",
+    "url": "https://arxiv.org/abs/2603.22305",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2603.22305v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) convert unstructured financial news into actionable trading strategies, yet standardized end-to-end benchmarks tailored for Chinese market remain scarce. We select common Chinese Exchange-Traded Funds (ETFs) as the investment universe and introduce CN-Buzz2Portfolio, the official benchmark of NLPCC 2026 Shared\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "JHealthBench-L: Clinician-Reviewed Localization of HealthBench for Rubric-Based Medical LLM Evaluation in Japan",
+    "url": "https://arxiv.org/abs/2611.34024",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34024v1 Announce Type: new Abstract: Rubric-based benchmarks such as HealthBench evaluate large language models (LLMs) on open-ended health consultations using case-specific physician criteria, many of which presuppose the healthcare institutions, medications, and care pathways of their source region. Under machine translation alone, these regional assumptions remain in the rubric,\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "PoVi: Agentic Poetry-to-Video Generation with Knowledge Grounding and Figurative Understanding",
+    "url": "https://arxiv.org/abs/2611.34690",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.34690v1 Announce Type: new Abstract: Poetry-to-video generation requires more than translating text into visual scenes. Poetic language is highly compressed, often depends on historical and cultural knowledge, and frequently conveys meaning through metaphor, imagery, and other non-literal expressions. We introduce PoVi, a benchmark and agentic framework for grounded poetry-to-video\u2026",
+    "score": 5.046,
+    "matched": [
+      "agentic",
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.6,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "A Semantics-First Approach to Multimodal Video Captioning with Frozen Encoders and Stabilized Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.33409",
+    "source": "arXiv cs.CL",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33409v1 Announce Type: cross Abstract: We propose the Audio-Visual Query Transformer (AVQFormer), a highly efficient architecture built upon a 2.7B parameter LLM featuring a fixed-length $K=16$ semantic alignment module, stabilized via Adaptive Self-Critical Sequence Training (ASCST) with Entropy Regularization. Multimodal Large Language Models (LLMs) often rely on global audio\u2026",
+    "score": 5.046,
+    "matched": [
+      "llm",
+      "transformer*",
+      "multimodal",
+      "reinforcement learning"
+    ],
+    "feed_id": "arxiv-cs-cl",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 1.2,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Asset4D-Bench: Benchmarking Coding Agents for Editable 3D and 4D Reconstruction",
+    "url": "https://arxiv.org/abs/2611.33728",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33728v1 Announce Type: new Abstract: A cart can follow its reference trajectory while its cargo floats above the deck. Asset4D-Bench tests whether coding agents recover objects, motion and interactions from visual references as editable Blender scenes. Its 114 conditions span image editing, video reconstruction with matched full or partial starter assets, and independently selected\u2026",
+    "score": 4.746,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "InterGenEHR$^+$: An Interactive Framework for Natural Language-Conditioned Generation of Longitudinal Patient Trajectories",
+    "url": "https://arxiv.org/abs/2611.33788",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33788v1 Announce Type: new Abstract: Objective: To develop and validate InterGenEHR$^+$, an interactive framework for natural language-conditioned generation of synthetic tabular electronic health records (EHRs) and longitudinal trajectories for scenario-based evaluation of machine learning models. Methods: An optional large language model (LLM) parser converts clinical requests into\u2026",
+    "score": 4.746,
+    "matched": [
+      "machine learning",
+      "llm",
+      "large language model"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.9,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "ExtractBench Pro: The Long Tail of Document Extraction",
+    "url": "https://arxiv.org/abs/2611.33791",
+    "source": "arXiv cs.AI",
+    "category": "Research",
+    "published": "2026-11-27T05:00:00+00:00",
+    "summary": "arXiv:2611.33791v1 Announce Type: new Abstract: We present ExtractBench Pro, a schema-guided document extraction benchmark that tests six challenging modes of extraction underrepresented in existing datasets. It is created following a framework for synthetic document generation, in which deterministic document generators assemble challenging components into documents that are designed to be\u2026",
+    "score": 4.746,
+    "matched": [
+      "benchmark*"
+    ],
+    "feed_id": "arxiv-cs-ai",
+    "breakdown": {
+      "feed_weight": 1.8,
+      "recency": 1.446,
+      "keywords": 0.3,
+      "boosts": 1.2,
+      "mutes": 0.0
+    }
+  }
+]
