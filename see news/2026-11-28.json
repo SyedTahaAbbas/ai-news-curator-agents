@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Sakana AI\u2019s CEO says its homegrown models are about more than Japan\u2019s national security",
+    "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+    "source": "TechCrunch AI",
+    "category": "Industry & Press",
+    "published": "2026-11-28T14:00:00+00:00",
+    "summary": "Sakana AI aims to strengthen Japan\u2019s industrial competitiveness with homegrown AI models.",
+    "score": 6.034,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "techcrunch-ai",
+    "breakdown": {
+      "feed_weight": 3.0,
+      "recency": 2.734,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "datasette-charts 0.4a0",
+    "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+    "source": "Simon Willison",
+    "category": "Community",
+    "published": "2026-11-27T23:57:17+00:00",
+    "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart\u2026",
+    "score": 4.278,
+    "matched": [
+      "claude"
+    ],
+    "feed_id": "simon-willison",
+    "breakdown": {
+      "feed_weight": 2.4,
+      "recency": 0.978,
+      "keywords": 0.3,
+      "boosts": 0.6,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-11-28T01:32:56+00:00",
+    "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 200 # Comments: 160",
+    "score": 4.077,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 1.177,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  },
+  {
+    "title": "I'm Scared of AI",
+    "url": "https://thesoapbox.email/archive/3",
+    "source": "Hacker News (AI, 100+ pts)",
+    "category": "Community",
+    "published": "2026-11-27T17:45:31+00:00",
+    "summary": "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 217 # Comments: 248",
+    "score": 3.104,
+    "matched": [
+      "ai"
+    ],
+    "feed_id": "hacker-news-ai-100-pts",
+    "breakdown": {
+      "feed_weight": 2.6,
+      "recency": 0.204,
+      "keywords": 0.3,
+      "boosts": 0.0,
+      "mutes": 0.0
+    }
+  }
+]
